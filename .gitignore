@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+.vercel
+# source files kept locally, not needed in the repo
+Serbian Phrasebook App Plan.pdf
+3b4ec278-2070-4070-ae57-ccc6f2769cf0.png
