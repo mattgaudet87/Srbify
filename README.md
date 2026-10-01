@@ -19,5 +19,5 @@ Add objects to `src/data/entries.json` following section 5 of the plan. New entr
 
 - [x] Phase 1: foundation (starter entries, Home / Category / Entry pages, search)
 - [x] Phase 2: variation system (highlighting, Settings, vulgar toggle)
-- [ ] Phase 3: phone polish (copy buttons, favorites, recents, installable, offline)
+- [x] Phase 3: phone polish (copy buttons, favorites, recents, installable, offline)
 - [ ] Phase 4: content batches and native-speaker verification

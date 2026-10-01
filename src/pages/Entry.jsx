@@ -1,4 +1,7 @@
+import { useEffect } from 'react'
 import { Link, useParams } from 'react-router-dom'
+import CopyButton from '../components/CopyButton.jsx'
+import { useLibrary } from '../lib/library.jsx'
 import { byName } from '../lib/categories.js'
 import { entryById } from '../lib/search.js'
 import { useSettings, isYourForm } from '../lib/settings.jsx'
@@ -15,9 +18,14 @@ const FORM_COLUMNS = [
 export default function Entry() {
   const { id } = useParams()
   const { settings } = useSettings()
+  const { favorites, toggleFavorite, addRecent } = useLibrary()
   const e = entryById[id]
+  const hiddenVulgar = e?.register === 'vulgar' && !settings.showVulgar
+  useEffect(() => {
+    if (e && !hiddenVulgar) addRecent(e.id)
+  }, [e, hiddenVulgar, addRecent])
   if (!e) return <p>Entry not found. <Link to="/">Back home</Link></p>
-  if (e.register === 'vulgar' && !settings.showVulgar) {
+  if (hiddenVulgar) {
     return (
       <>
         <Link to="/" className="back">← Home</Link>
@@ -35,6 +43,16 @@ export default function Entry() {
       <p className="en-small">{e.english}</p>
       <h1 className="sr-big">{e.serbian}</h1>
       <p className="pron">{e.pronunciation}</p>
+      <div className="actions">
+        <CopyButton text={e.serbian} />
+        <CopyButton text={e.serbian} plain />
+        <button
+          className={`fav ${favorites.includes(e.id) ? 'on' : ''}`}
+          aria-pressed={favorites.includes(e.id)}
+          aria-label={favorites.includes(e.id) ? 'Remove from favorites' : 'Add to favorites'}
+          onClick={() => toggleFavorite(e.id)}
+        >{favorites.includes(e.id) ? '★' : '☆'}</button>
+      </div>
 
       <section>
         <h2>Meaning</h2>
@@ -55,7 +73,8 @@ export default function Entry() {
             <div className="yours-box">
               <div className="yours-title">★ Your forms ({settings.speaker === 'male' ? 'a man' : 'a woman'} talking to a {settings.listener === 'female' ? 'woman' : 'man'})</div>
               {yours.map((f) => (
-                <div key={f.serbian + f.useWhen} className="yours-line"><strong>{f.serbian}</strong> <span className="pron-sm inline">{f.pronunciation}</span><span className="muted"> · {f.useWhen}</span></div>
+                <div key={f.serbian + f.useWhen} className="yours-line"><strong>{f.serbian}</strong> <span className="pron-sm inline">{f.pronunciation}</span><span className="muted"> · {f.useWhen}</span>
+                  <span className="yours-copy"><CopyButton text={f.serbian} small /><CopyButton text={f.serbian} plain small label="No accents" /></span></div>
               ))}
             </div>
           )}

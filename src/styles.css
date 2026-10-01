@@ -127,3 +127,20 @@ tr:last-child td { border-bottom: 0; }
 .yours-line { padding: 3px 0; }
 tr.yours td { background: #eef3ff; }
 .star { color: var(--red); }
+
+/* Phase 3: copy, favorites, strips */
+.actions { display: flex; gap: 8px; margin: 14px 0 0; align-items: center; flex-wrap: wrap; }
+.copy { border: 0; border-radius: 999px; background: var(--blue); color: #fff; font-weight: 600; font-size: 16px; padding: 12px 20px; min-height: 44px; }
+.copy.plain, .copy:nth-of-type(2) { background: #e9eefb; color: var(--blue); }
+.copy.done { background: #1c6b36; color: #fff; }
+.copy.fail { background: var(--red); color: #fff; }
+.copy.small { font-size: 13px; padding: 6px 12px; min-height: 32px; }
+.fav { margin-left: auto; width: 44px; height: 44px; border-radius: 50%; border: 1px solid var(--line); background: var(--card); font-size: 24px; color: var(--muted); }
+.fav.on { color: #e6a700; border-color: #e6a700; }
+.yours-copy { display: flex; gap: 6px; margin-top: 4px; }
+.strip { margin: 6px 0 16px; }
+.strip h2 { font-size: 13px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); margin: 0 0 8px; }
+.strip-scroll { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 6px; scrollbar-width: none; }
+.strip-scroll::-webkit-scrollbar { display: none; }
+.mini { flex: none; min-width: 120px; max-width: 180px; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 12px; display: grid; gap: 2px; }
+.mini-sr { font-weight: 700; font-size: 17px; }
