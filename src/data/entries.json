@@ -203,7 +203,8 @@
     "ijekavian": "Spavaj lijepo",
     "related": [
       "good-morning",
-      "see-you"
+      "see-you",
+      "laku-noc-lepotice"
     ],
     "verified": false
   },
@@ -2265,6 +2266,1231 @@
     "related": [
       "jebote",
       "bre"
+    ],
+    "verified": false
+  },
+  {
+    "id": "falis-mi",
+    "english": "I miss you",
+    "serbian": "Fališ mi",
+    "pronunciation": "FAH-leesh mee",
+    "meaning": "I miss you",
+    "literal": "You're missing to me",
+    "category": "Flirting and romance",
+    "subcategory": "Missing you",
+    "tags": [
+      "flirty",
+      "miss",
+      "romantic"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Nedostaješ mi",
+        "pronunciation": "neh-doh-STAH-yesh mee",
+        "nuance": "More formal and poetic: 'I'm without you'"
+      },
+      {
+        "serbian": "Jako mi fališ",
+        "pronunciation": "YAH-ko mee FAH-leesh",
+        "nuance": "'I miss you a lot'"
+      },
+      {
+        "serbian": "Falim li ti?",
+        "pronunciation": "FAH-leem lee tee",
+        "nuance": "'Do you miss me?' (the roles swap)"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Jako mi fališ, kad se vidimo?",
+        "pronunciation": "YAH-ko mee FAH-leesh, KAHD seh VEE-dee-mo",
+        "english": "I miss you a lot, when do we see each other?"
+      }
+    ],
+    "texting": "falis mi",
+    "watchOut": "The word order is flipped from English: the person being missed is the one doing the 'missing'. 'Fališ mi' is 'you are lacking to me'. Same words for a man or woman, so it never changes.",
+    "related": [
+      "mislim-na-tebe",
+      "volim-te",
+      "laku-noc"
+    ],
+    "verified": false
+  },
+  {
+    "id": "lepa-si",
+    "english": "You're beautiful",
+    "serbian": "Lepa si",
+    "pronunciation": "LEH-pah see",
+    "meaning": "You're beautiful / pretty (to her)",
+    "category": "Flirting and romance",
+    "subcategory": "Compliments",
+    "tags": [
+      "flirty",
+      "compliment",
+      "beautiful"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "describes",
+      "addressing"
+    ],
+    "forms": [
+      {
+        "serbian": "Lepa si",
+        "pronunciation": "LEH-pah see",
+        "describes": "her",
+        "useWhen": "You telling her she's beautiful"
+      },
+      {
+        "serbian": "Lep si",
+        "pronunciation": "LEHP see",
+        "describes": "him",
+        "useWhen": "Telling a man he's good-looking"
+      }
+    ],
+    "patternHint": "Female form adds -a.",
+    "alternatives": [
+      {
+        "serbian": "Prelepa si",
+        "pronunciation": "preh-LEH-pah see",
+        "nuance": "Stronger: 'gorgeous'"
+      },
+      {
+        "serbian": "Slatka si",
+        "pronunciation": "SLAHT-kah see",
+        "nuance": "'You're cute / sweet'. For a man: sladak si"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Danas si prelepa",
+        "pronunciation": "DAH-nahs see preh-LEH-pah",
+        "english": "You look gorgeous today"
+      }
+    ],
+    "texting": "lepa si",
+    "ijekavian": "Lijepa si",
+    "watchOut": "'Lepa' on its own, used to address her, is a pet name too: 'Dobro jutro, lepa'. Don't mix it up with 'lepo' (adverb: nicely).",
+    "related": [
+      "izgledas-lepo",
+      "draga",
+      "nasmejavas-me"
+    ],
+    "verified": false
+  },
+  {
+    "id": "izgledas-lepo",
+    "english": "You look nice",
+    "serbian": "Lepo izgledaš",
+    "pronunciation": "LEH-po EEZ-gleh-dahsh",
+    "meaning": "You look nice",
+    "category": "Flirting and romance",
+    "subcategory": "Compliments",
+    "tags": [
+      "flirty",
+      "compliment",
+      "looks"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Prelepo izgledaš",
+        "pronunciation": "preh-LEH-po EEZ-gleh-dahsh",
+        "nuance": "'You look stunning'"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Lepo izgledaš na slici",
+        "pronunciation": "LEH-po EEZ-gleh-dahsh nah SLEE-tsee",
+        "english": "You look nice in the photo"
+      }
+    ],
+    "texting": "lepo izgledas",
+    "ijekavian": "Lijepo izgledaš",
+    "watchOut": "'Lepo' is an adverb, so it is the same for men and women. Compare 'lepa si', which changes.",
+    "related": [
+      "lepa-si",
+      "nasmejavas-me"
+    ],
+    "verified": false
+  },
+  {
+    "id": "svidjas-mi-se",
+    "english": "I like you",
+    "serbian": "Sviđaš mi se",
+    "pronunciation": "SVEE-jahsh mee seh",
+    "meaning": "I like you (romantically, I'm attracted to you)",
+    "literal": "You're pleasing to me",
+    "category": "Flirting and romance",
+    "subcategory": "Compliments",
+    "tags": [
+      "flirty",
+      "like",
+      "crush"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Dopadaš mi se",
+        "pronunciation": "DOH-pah-dahsh mee seh",
+        "nuance": "Same idea, a bit more 'I'm into you'"
+      },
+      {
+        "serbian": "Zaljubljen sam u tebe",
+        "pronunciation": "zah-LYOO-blyen sahm oo TEH-beh",
+        "nuance": "'I'm in love with you'. Female speaker: zaljubljena sam u tebe"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Sviđaš mi se, znaš li to?",
+        "pronunciation": "SVEE-jahsh mee seh, znahsh lee TOH",
+        "english": "I like you, do you know that?"
+      }
+    ],
+    "texting": "svidjas mi se",
+    "watchOut": "Like 'fališ mi', the person you like is the subject. Light and sweet, much lighter than 'volim te'.",
+    "related": [
+      "volim-te",
+      "lepa-si",
+      "falis-mi"
+    ],
+    "verified": false
+  },
+  {
+    "id": "mislim-na-tebe",
+    "english": "I'm thinking of you",
+    "serbian": "Mislim na tebe",
+    "pronunciation": "MEE-sleem nah TEH-beh",
+    "meaning": "I'm thinking about you",
+    "category": "Flirting and romance",
+    "subcategory": "Missing you",
+    "tags": [
+      "flirty",
+      "sweet",
+      "thinking"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Stalno mislim na tebe",
+        "pronunciation": "STAHL-no MEE-sleem nah TEH-beh",
+        "nuance": "'I'm always thinking of you'"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Evo, mislim na tebe",
+        "pronunciation": "EH-vo, MEE-sleem nah TEH-beh",
+        "english": "Hey, I'm thinking of you"
+      }
+    ],
+    "texting": "mislim na tebe",
+    "related": [
+      "falis-mi",
+      "laku-noc-lepotice"
+    ],
+    "verified": false
+  },
+  {
+    "id": "draga",
+    "english": "Dear / darling (to her)",
+    "serbian": "Draga",
+    "pronunciation": "DRAH-gah",
+    "meaning": "'Dear', a warm way to address her",
+    "category": "Flirting and romance",
+    "subcategory": "Nicknames and pet names",
+    "tags": [
+      "flirty",
+      "pet-name",
+      "dear"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "addressing"
+    ],
+    "forms": [
+      {
+        "serbian": "Draga",
+        "pronunciation": "DRAH-gah",
+        "describes": "her",
+        "useWhen": "Addressing a woman"
+      },
+      {
+        "serbian": "Dragi",
+        "pronunciation": "DRAH-gee",
+        "describes": "him",
+        "useWhen": "Addressing a man"
+      }
+    ],
+    "patternHint": "Female form: -a. Male form: -i.",
+    "alternatives": [
+      {
+        "serbian": "Draga moja",
+        "pronunciation": "DRAH-gah MOH-yah",
+        "nuance": "'My dear', warmer"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Dobro jutro, draga!",
+        "pronunciation": "DOH-bro YOO-tro, DRAH-gah",
+        "english": "Good morning, dear!"
+      }
+    ],
+    "texting": "draga",
+    "watchOut": "Also used between friends and by older people for anyone, so it is warm but not always romantic.",
+    "related": [
+      "ljubavi",
+      "laku-noc-lepotice"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ljubavi",
+    "english": "My love / sweetheart",
+    "serbian": "Ljubavi",
+    "pronunciation": "LYOO-bah-vee",
+    "meaning": "'My love', romantic pet name",
+    "literal": "Love (said directly to someone)",
+    "category": "Flirting and romance",
+    "subcategory": "Nicknames and pet names",
+    "tags": [
+      "flirty",
+      "pet-name",
+      "love"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Srce",
+        "pronunciation": "SUHR-tseh",
+        "nuance": "'Heart', sweetheart"
+      },
+      {
+        "serbian": "Sunce",
+        "pronunciation": "SOON-tseh",
+        "nuance": "'Sunshine'"
+      },
+      {
+        "serbian": "Zlato",
+        "pronunciation": "ZLAH-to",
+        "nuance": "'Gold', darling"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Laku noć, ljubavi",
+        "pronunciation": "LAH-koo NOHTCH, LYOO-bah-vee",
+        "english": "Good night, my love"
+      }
+    ],
+    "texting": "ljubavi",
+    "watchOut": "Same for men and women. Save it for when you are together or very close.",
+    "related": [
+      "draga",
+      "volim-te"
+    ],
+    "verified": false
+  },
+  {
+    "id": "laku-noc-lepotice",
+    "english": "Good night, beautiful",
+    "serbian": "Laku noć, lepotice",
+    "pronunciation": "LAH-koo NOHTCH, leh-poh-TEE-tseh",
+    "meaning": "Good night, beautiful (to her)",
+    "category": "Flirting and romance",
+    "subcategory": "Good night and good morning",
+    "tags": [
+      "flirty",
+      "night",
+      "sweet"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "addressing"
+    ],
+    "forms": [
+      {
+        "serbian": "Laku noć, lepotice",
+        "pronunciation": "LAH-koo NOHTCH, leh-poh-TEE-tseh",
+        "describes": "her",
+        "useWhen": "To her"
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Laku noć, sunce",
+        "pronunciation": "LAH-koo NOHTCH, SOON-tseh",
+        "nuance": "'Good night, sunshine'"
+      },
+      {
+        "serbian": "Slatke snove",
+        "pronunciation": "SLAHT-keh SNOH-veh",
+        "nuance": "'Sweet dreams'"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Laku noć, lepotice. Čujemo se sutra",
+        "pronunciation": "LAH-koo NOHTCH, leh-poh-TEE-tseh. CHOO-ye-mo seh SOO-trah",
+        "english": "Good night, beautiful. Talk tomorrow"
+      }
+    ],
+    "texting": "laku noc, lepotice",
+    "watchOut": "'Lepotice' is only for a woman. 'Lepotica' means a beauty; the -e ending is how you call her directly.",
+    "related": [
+      "laku-noc",
+      "draga",
+      "ljubavi"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ljubim-te",
+    "english": "Kisses (sign-off)",
+    "serbian": "Ljubim te",
+    "pronunciation": "LYOO-beem teh",
+    "meaning": "Kisses / take care (warm sign-off)",
+    "literal": "I kiss you",
+    "category": "Flirting and romance",
+    "subcategory": "Sweet sign-offs",
+    "tags": [
+      "flirty",
+      "kisses",
+      "sign-off"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Puno poljubaca",
+        "pronunciation": "POO-no poh-LYOO-bah-tsah",
+        "nuance": "'Lots of kisses'"
+      },
+      {
+        "serbian": "Cmok",
+        "pronunciation": "TSMOHK",
+        "nuance": "'Smooch', playful"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Vidimo se uskoro, ljubim te",
+        "pronunciation": "VEE-dee-mo seh OO-sko-ro, LYOO-beem teh",
+        "english": "See you soon, kisses"
+      }
+    ],
+    "texting": "ljubim te",
+    "watchOut": "Warm but not the same as 'I love you': friends and family sign off this way too.",
+    "related": [
+      "volim-te",
+      "ljubavi"
+    ],
+    "verified": false
+  },
+  {
+    "id": "volim-te",
+    "english": "I love you",
+    "serbian": "Volim te",
+    "pronunciation": "VOH-leem teh",
+    "meaning": "I love you",
+    "category": "Flirting and romance",
+    "subcategory": "Sweet sign-offs",
+    "tags": [
+      "flirty",
+      "love",
+      "serious"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Mnogo te volim",
+        "pronunciation": "MNOH-go teh VOH-leem",
+        "nuance": "'I love you a lot'"
+      },
+      {
+        "serbian": "Obožavam te",
+        "pronunciation": "oh-boh-ZHAH-vahm teh",
+        "nuance": "'I adore you'"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Volim te",
+        "pronunciation": "VOH-leem teh",
+        "english": "I love you"
+      }
+    ],
+    "texting": "volim te",
+    "watchOut": "This is a serious statement. 'Volim' also means 'I like' for things (volim kafu), so with 'te' it is love, not just liking.",
+    "related": [
+      "svidjas-mi-se",
+      "ljubim-te",
+      "ljubavi"
+    ],
+    "verified": false
+  },
+  {
+    "id": "nasmejavas-me",
+    "english": "You make me laugh",
+    "serbian": "Nasmejavaš me",
+    "pronunciation": "nah-smeh-YAH-vahsh meh",
+    "meaning": "You make me laugh",
+    "category": "Flirting and romance",
+    "subcategory": "Compliments",
+    "tags": [
+      "flirty",
+      "compliment",
+      "funny"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Sa tobom je zabavno",
+        "pronunciation": "sah TOH-bohm yeh zah-BAHV-no",
+        "nuance": "'It's fun with you'"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Nasmejavaš me svaki dan",
+        "pronunciation": "nah-smeh-YAH-vahsh meh SVAH-kee DAHN",
+        "english": "You make me laugh every day"
+      }
+    ],
+    "texting": "nasmejavas me",
+    "ijekavian": "Nasmijavaš me",
+    "related": [
+      "lepa-si",
+      "svidjas-mi-se"
+    ],
+    "verified": false
+  },
+  {
+    "id": "nisam-to-rekao",
+    "english": "I didn't say that",
+    "serbian": "Nisam to rekao",
+    "pronunciation": "NEE-sahm toh REH-kah-oh",
+    "meaning": "I never said that",
+    "category": "Teasing and comebacks",
+    "subcategory": "Denying (nisam to rekao)",
+    "tags": [
+      "teasing",
+      "deny"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "speaker",
+      "tense"
+    ],
+    "forms": [
+      {
+        "serbian": "Nisam to rekao",
+        "pronunciation": "NEE-sahm toh REH-kah-oh",
+        "speaker": "male",
+        "useWhen": "You, a man denying it"
+      },
+      {
+        "serbian": "Nisam to rekla",
+        "pronunciation": "NEE-sahm toh REK-lah",
+        "speaker": "female",
+        "useWhen": "Her, a woman denying it"
+      }
+    ],
+    "patternHint": "Female past form: -o becomes -la.",
+    "alternatives": [
+      {
+        "serbian": "Ne sećam se toga",
+        "pronunciation": "neh SEH-chahm seh TOH-gah",
+        "nuance": "'I don't remember that', playful"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Nisam to rekao, izmišljaš",
+        "pronunciation": "NEE-sahm toh REH-kah-oh, eez-MEESH-lyahsh",
+        "english": "I didn't say that, you're making it up"
+      }
+    ],
+    "texting": "nisam to rekao",
+    "watchOut": "'Nisam' is a fused negative (ne + sam). It does not follow the usual 'ne + verb' rule.",
+    "related": [
+      "zezas-me",
+      "samo-se-salim"
+    ],
+    "verified": false
+  },
+  {
+    "id": "zezas-me",
+    "english": "You're messing with me",
+    "serbian": "Zezaš me",
+    "pronunciation": "ZEH-zahsh meh",
+    "meaning": "You're teasing me / pulling my leg",
+    "category": "Teasing and comebacks",
+    "subcategory": "Calling out teasing (zezaš me)",
+    "tags": [
+      "teasing",
+      "joking"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Zafrkavaš me",
+        "pronunciation": "zah-FUR-kah-vahsh meh",
+        "nuance": "Slang, same idea, very common"
+      },
+      {
+        "serbian": "Šališ se",
+        "pronunciation": "SHAH-leesh seh",
+        "nuance": "'You're kidding'"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Zezaš me, zar ne?",
+        "pronunciation": "ZEH-zahsh meh, zahr neh",
+        "english": "You're messing with me, aren't you?"
+      }
+    ],
+    "texting": "zezas me",
+    "watchOut": "Same form whoever is teasing, so it never changes.",
+    "related": [
+      "salis-se",
+      "samo-se-salim"
+    ],
+    "verified": false
+  },
+  {
+    "id": "nemoguc-sam",
+    "english": "I'm impossible",
+    "serbian": "Nemoguć sam",
+    "pronunciation": "NEH-mo-goochh sahm",
+    "meaning": "I'm impossible (owning your bad behavior, playfully)",
+    "category": "Teasing and comebacks",
+    "subcategory": "Owning it (nemoguć sam)",
+    "tags": [
+      "teasing",
+      "owning-it"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "speaker"
+    ],
+    "forms": [
+      {
+        "serbian": "Nemoguć sam",
+        "pronunciation": "NEH-moh-gooch sahm",
+        "speaker": "male",
+        "useWhen": "You, a man, about yourself"
+      },
+      {
+        "serbian": "Nemoguća sam",
+        "pronunciation": "NEH-moh-goo-chah sahm",
+        "speaker": "female",
+        "useWhen": "Her, about herself"
+      }
+    ],
+    "patternHint": "Female form adds -a.",
+    "alternatives": [
+      {
+        "serbian": "Znam, znam",
+        "pronunciation": "znahm, znahm",
+        "nuance": "'I know, I know', light way to concede"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Nemoguć sam, znam",
+        "pronunciation": "NEH-moh-gooch sahm, znahm",
+        "english": "I'm impossible, I know"
+      }
+    ],
+    "texting": "nemoguc sam",
+    "related": [
+      "luda-si",
+      "samo-se-salim"
+    ],
+    "verified": false
+  },
+  {
+    "id": "samo-se-salim",
+    "english": "I'm just joking",
+    "serbian": "Samo se šalim",
+    "pronunciation": "SAH-mo seh SHAH-leem",
+    "meaning": "I'm only joking",
+    "category": "Teasing and comebacks",
+    "subcategory": "Denying (nisam to rekao)",
+    "tags": [
+      "teasing",
+      "joking"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Šalim se",
+        "pronunciation": "SHAH-leem seh",
+        "nuance": "Shorter: 'I'm kidding'"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Samo se šalim, ne ljuti se",
+        "pronunciation": "SAH-mo seh SHAH-leem, neh LYOO-tee seh",
+        "english": "I'm just joking, don't be mad"
+      }
+    ],
+    "texting": "samo se salim",
+    "related": [
+      "ne-ljuti-se",
+      "zezas-me"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ne-ljuti-se",
+    "english": "Don't be mad",
+    "serbian": "Ne ljuti se",
+    "pronunciation": "neh LYOO-tee seh",
+    "meaning": "Don't get angry / don't be mad",
+    "category": "Teasing and comebacks",
+    "subcategory": "Owning it (nemoguć sam)",
+    "tags": [
+      "teasing",
+      "apology"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "formal"
+    ],
+    "forms": [
+      {
+        "serbian": "Ne ljuti se",
+        "pronunciation": "neh LYOO-tee seh",
+        "formal": "casual",
+        "useWhen": "To one friend or someone your age"
+      },
+      {
+        "serbian": "Ne ljutite se",
+        "pronunciation": "neh LYOO-tee-teh seh",
+        "formal": "polite",
+        "useWhen": "To an elder, a stranger, or a group"
+      }
+    ],
+    "patternHint": "Polite or group form adds -te.",
+    "alternatives": [
+      {
+        "serbian": "Nemoj da se ljutiš",
+        "pronunciation": "NEH-moy dah seh LYOO-teesh",
+        "nuance": "Same: 'don't get angry'"
+      }
+    ],
+    "texting": "ne ljuti se",
+    "related": [
+      "samo-se-salim",
+      "sorry"
+    ],
+    "verified": false
+  },
+  {
+    "id": "luda-si",
+    "english": "You're crazy",
+    "serbian": "Ti si luda",
+    "pronunciation": "tee see LOO-dah",
+    "meaning": "You're crazy (playful)",
+    "category": "Teasing and comebacks",
+    "subcategory": "Playful insults",
+    "tags": [
+      "teasing",
+      "crazy",
+      "playful"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "describes"
+    ],
+    "forms": [
+      {
+        "serbian": "Ti si luda",
+        "pronunciation": "tee see LOO-dah",
+        "describes": "her",
+        "useWhen": "You, teasing her"
+      },
+      {
+        "serbian": "Ti si lud",
+        "pronunciation": "tee see LOOD",
+        "describes": "him",
+        "useWhen": "Teasing a man"
+      }
+    ],
+    "patternHint": "Female form adds -a.",
+    "alternatives": [
+      {
+        "serbian": "Ludača",
+        "pronunciation": "LOO-dah-chah",
+        "nuance": "'Crazy girl', affectionate"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Ti si luda, ali mi se sviđaš",
+        "pronunciation": "tee see LOO-dah, AH-lee mee seh SVEE-jahsh",
+        "english": "You're crazy, but I like you"
+      }
+    ],
+    "texting": "ti si luda",
+    "watchOut": "Tone: affectionate between people who joke, but can land as an insult if she isn't in a playful mood. Add a smile.",
+    "related": [
+      "nemoguc-sam",
+      "zezas-me"
+    ],
+    "verified": false
+  },
+  {
+    "id": "hoces-da-izadjemo",
+    "english": "Do you want to go out?",
+    "serbian": "Hoćeš da izađemo?",
+    "pronunciation": "HOH-chesh dah ee-ZAH-jeh-mo",
+    "meaning": "Do you want to go out (together)?",
+    "category": "Making plans",
+    "subcategory": "Inviting",
+    "tags": [
+      "plans",
+      "invite",
+      "date"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Hoćeš na kafu?",
+        "pronunciation": "HOH-chesh nah KAH-foo",
+        "nuance": "'Want to get a coffee?'"
+      },
+      {
+        "serbian": "Idemo negde?",
+        "pronunciation": "EE-deh-mo NEG-deh",
+        "nuance": "'Shall we go somewhere?'"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Hoćeš da izađemo u petak?",
+        "pronunciation": "HOH-chesh dah ee-ZAH-jeh-mo oo PEH-tahk",
+        "english": "Do you want to go out on Friday?"
+      }
+    ],
+    "texting": "hoces da izademo",
+    "watchOut": "Politer to elders: 'Želite li da izađemo?'",
+    "related": [
+      "kad-si-slobodna",
+      "gde-da-se-nadjemo"
+    ],
+    "verified": false
+  },
+  {
+    "id": "kad-si-slobodna",
+    "english": "When are you free?",
+    "serbian": "Kad si slobodna?",
+    "pronunciation": "KAHD see SLOH-bohd-nah",
+    "meaning": "When are you free?",
+    "category": "Making plans",
+    "subcategory": "When and where",
+    "tags": [
+      "plans",
+      "time",
+      "question"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "describes"
+    ],
+    "forms": [
+      {
+        "serbian": "Kad si slobodna?",
+        "pronunciation": "KAHD see SLOH-bohd-nah",
+        "describes": "her",
+        "useWhen": "You asking her"
+      },
+      {
+        "serbian": "Kad si slobodan?",
+        "pronunciation": "KAHD see SLOH-bo-dahn",
+        "describes": "him",
+        "useWhen": "Asking a man"
+      }
+    ],
+    "patternHint": "Female form drops the middle vowel and adds -a.",
+    "alternatives": [
+      {
+        "serbian": "Imaš li vremena sutra?",
+        "pronunciation": "EE-mahsh lee VREH-meh-nah SOO-trah",
+        "nuance": "'Do you have time tomorrow?'"
+      }
+    ],
+    "texting": "kad si slobodna",
+    "related": [
+      "hoces-da-izadjemo",
+      "u-koliko-sati"
+    ],
+    "verified": false
+  },
+  {
+    "id": "gde-da-se-nadjemo",
+    "english": "Where should we meet?",
+    "serbian": "Gde da se nađemo?",
+    "pronunciation": "GDEH dah seh NAH-jeh-mo",
+    "meaning": "Where should we meet up?",
+    "category": "Making plans",
+    "subcategory": "When and where",
+    "tags": [
+      "plans",
+      "place",
+      "question"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Gde ćemo?",
+        "pronunciation": "GDEH CHEH-mo",
+        "nuance": "'Where shall we go?'"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Gde da se nađemo? Ja sam blizu",
+        "pronunciation": "GDEH dah seh NAH-jeh-mo? yah sahm BLEE-zoo",
+        "english": "Where should we meet? I'm nearby"
+      }
+    ],
+    "texting": "gde da se nademo",
+    "ijekavian": "Gdje da se nađemo?",
+    "related": [
+      "gde",
+      "u-koliko-sati"
+    ],
+    "verified": false
+  },
+  {
+    "id": "u-koliko-sati",
+    "english": "At what time?",
+    "serbian": "U koliko sati?",
+    "pronunciation": "oo KOH-lee-ko SAH-tee",
+    "meaning": "What time?",
+    "category": "Making plans",
+    "subcategory": "When and where",
+    "tags": [
+      "plans",
+      "time",
+      "question"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "U koliko?",
+        "pronunciation": "oo KOH-lee-ko",
+        "nuance": "Shorter, most common in texts"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "U koliko sati ti odgovara?",
+        "pronunciation": "oo KOH-lee-ko SAH-tee tee od-GOH-vah-rah",
+        "english": "What time suits you?"
+      }
+    ],
+    "texting": "u koliko sati",
+    "related": [
+      "koliko",
+      "kad-si-slobodna"
+    ],
+    "verified": false
+  },
+  {
+    "id": "kasnim",
+    "english": "I'm running late",
+    "serbian": "Kasnim malo",
+    "pronunciation": "KAHS-neem MAH-lo",
+    "meaning": "I'm running a bit late",
+    "category": "Making plans",
+    "subcategory": "Running late",
+    "tags": [
+      "plans",
+      "late"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Stižem za pet minuta",
+        "pronunciation": "STEE-zhem zah PET mee-NOO-tah",
+        "nuance": "'I'll be there in five minutes'"
+      },
+      {
+        "serbian": "Izvini što kasnim",
+        "pronunciation": "eez-VEE-nee shtoh KAHS-neem",
+        "nuance": "'Sorry I'm late'"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Kasnim malo, stižem za deset minuta",
+        "pronunciation": "KAHS-neem MAH-lo, STEE-zhem zah DEH-set mee-NOO-tah",
+        "english": "I'm a bit late, arriving in ten minutes"
+      }
+    ],
+    "texting": "kasnim malo",
+    "watchOut": "Same for men and women: 'kasnim' is present tense. The past 'kasnio / kasnila' changes.",
+    "related": [
+      "sorry",
+      "stigao-sam"
+    ],
+    "verified": false
+  },
+  {
+    "id": "stigao-sam",
+    "english": "I've arrived",
+    "serbian": "Stigao sam",
+    "pronunciation": "STEE-gah-oh sahm",
+    "meaning": "I'm here / I've arrived",
+    "category": "Making plans",
+    "subcategory": "Running late",
+    "tags": [
+      "plans",
+      "arrived"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "speaker",
+      "tense"
+    ],
+    "forms": [
+      {
+        "serbian": "Stigao sam",
+        "pronunciation": "STEE-gah-oh sahm",
+        "speaker": "male",
+        "useWhen": "You, a man"
+      },
+      {
+        "serbian": "Stigla sam",
+        "pronunciation": "STEEG-lah sahm",
+        "speaker": "female",
+        "useWhen": "Her, a woman"
+      }
+    ],
+    "patternHint": "Female past form: -o becomes -la.",
+    "alternatives": [
+      {
+        "serbian": "Tu sam",
+        "pronunciation": "too sahm",
+        "nuance": "'I'm here', simplest"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Stigao sam, čekam te ispred",
+        "pronunciation": "STEE-gah-oh sahm, CHEH-kahm teh EES-pred",
+        "english": "I'm here, waiting outside"
+      }
+    ],
+    "texting": "stigao sam",
+    "related": [
+      "kasnim",
+      "gde-si"
+    ],
+    "verified": false
+  },
+  {
+    "id": "ne-mogu-da-dodjem",
+    "english": "I can't come",
+    "serbian": "Ne mogu da dođem",
+    "pronunciation": "neh MOH-goo dah DOH-jem",
+    "meaning": "I can't make it",
+    "category": "Making plans",
+    "subcategory": "Cancelling and rescheduling",
+    "tags": [
+      "plans",
+      "cancel"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Moram da otkažem",
+        "pronunciation": "MOH-rahm dah OT-kah-zhem",
+        "nuance": "'I have to cancel'"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Izvini, ne mogu da dođem večeras",
+        "pronunciation": "eez-VEE-nee, neh MOH-goo dah DOH-jem VEH-cheh-rahs",
+        "english": "Sorry, I can't come tonight"
+      }
+    ],
+    "texting": "ne mogu da dodjem",
+    "related": [
+      "pomerimo",
+      "sorry"
+    ],
+    "verified": false
+  },
+  {
+    "id": "pomerimo",
+    "english": "Can we reschedule?",
+    "serbian": "Možemo li da pomerimo?",
+    "pronunciation": "MOH-zheh-mo lee dah poh-MEH-ree-mo",
+    "meaning": "Can we move it to another time?",
+    "category": "Making plans",
+    "subcategory": "Cancelling and rescheduling",
+    "tags": [
+      "plans",
+      "reschedule"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Može sutra?",
+        "pronunciation": "MOH-zheh SOO-trah",
+        "nuance": "'Tomorrow instead?'"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Možemo li da pomerimo za sutra?",
+        "pronunciation": "MOH-zheh-mo lee dah poh-MEH-ree-mo zah SOO-trah",
+        "english": "Can we move it to tomorrow?"
+      }
+    ],
+    "texting": "mozemo li da pomerimo",
+    "ijekavian": "Možemo li da pomjerimo?",
+    "related": [
+      "ne-mogu-da-dodjem",
+      "vazi"
+    ],
+    "verified": false
+  },
+  {
+    "id": "do-vraga",
+    "english": "Damn / to hell",
+    "serbian": "Do vraga!",
+    "pronunciation": "doh VRAH-gah",
+    "meaning": "'Damn!', 'ugh!'",
+    "literal": "To the devil",
+    "category": "Swearing",
+    "subcategory": "Mild (bre, majke mi)",
+    "tags": [
+      "swearing",
+      "mild",
+      "annoyed"
+    ],
+    "register": "slang",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Do đavola",
+        "pronunciation": "doh JAH-vo-lah",
+        "nuance": "Same thing, slightly more old-fashioned"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Do vraga, zaboravio sam telefon",
+        "pronunciation": "doh VRAH-gah, zah-BOH-rah-vee-oh sahm TEH-leh-fon",
+        "english": "Damn, I forgot my phone"
+      }
+    ],
+    "texting": "do vraga",
+    "watchOut": "Mild: roughly 'dang'. Fine among friends.",
+    "related": [
+      "majke-mi",
+      "jebote"
+    ],
+    "verified": false
+  },
+  {
+    "id": "sranje",
+    "english": "Crap / bullshit",
+    "serbian": "Sranje!",
+    "pronunciation": "SRAH-nyeh",
+    "meaning": "'Crap!', 'bullshit!'",
+    "literal": "Crap (as in feces)",
+    "category": "Swearing",
+    "subcategory": "Medium (jebote)",
+    "tags": [
+      "swearing",
+      "medium",
+      "crap"
+    ],
+    "register": "vulgar",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Glupost",
+        "pronunciation": "GLOO-post",
+        "nuance": "Clean: 'nonsense'"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Sranje, opet kasnim",
+        "pronunciation": "SRAH-nyeh, OH-pet KAHS-neem",
+        "english": "Crap, I'm late again"
+      }
+    ],
+    "texting": "sranje",
+    "watchOut": "Can describe a bad situation or call something rubbish. Rude in front of elders or at a first meeting.",
+    "related": [
+      "jebote",
+      "do-vraga"
+    ],
+    "verified": false
+  },
+  {
+    "id": "jebi-se",
+    "english": "F*** off",
+    "serbian": "Jebi se",
+    "pronunciation": "YEH-bee seh",
+    "meaning": "'F*** off' (a real insult)",
+    "category": "Swearing",
+    "subcategory": "Strong",
+    "tags": [
+      "swearing",
+      "strong",
+      "insult"
+    ],
+    "register": "vulgar",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Odjebi",
+        "pronunciation": "OD-yeh-bee",
+        "nuance": "Equally strong: 'get lost'"
+      },
+      {
+        "serbian": "Ostavi me na miru",
+        "pronunciation": "OH-stah-vee meh nah MEE-roo",
+        "nuance": "Clean: 'leave me alone'"
+      }
+    ],
+    "texting": "jebi se",
+    "watchOut": "Unlike 'jebote', this is aimed at a person and is meant to hurt. Know it so you recognise it; do not send it. If she says it jokingly, check the tone before replying.",
+    "related": [
+      "jebote",
+      "sranje"
     ],
     "verified": false
   }
