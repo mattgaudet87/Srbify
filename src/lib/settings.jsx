@@ -1,7 +1,7 @@
 import { createContext, useContext, useEffect, useMemo, useState } from 'react'
 
 const KEY = 'srbify-settings'
-const DEFAULTS = { speaker: 'male', listener: 'female', showVulgar: false, showIjekavian: true }
+const DEFAULTS = { speaker: 'male', listener: 'female', showVulgar: false, showIjekavian: true, theme: 'system' }
 
 const SettingsContext = createContext(null)
 
@@ -23,6 +23,13 @@ export function SettingsProvider({ children }) {
       // storage unavailable (private mode): settings just won't persist
     }
   }, [settings])
+
+  // 'system' leaves the attribute off so the OS preference (prefers-color-scheme) decides.
+  useEffect(() => {
+    const root = document.documentElement
+    if (settings.theme === 'system') root.removeAttribute('data-theme')
+    else root.setAttribute('data-theme', settings.theme)
+  }, [settings.theme])
 
   const value = useMemo(() => ({ settings, update: (patch) => setSettings((s) => ({ ...s, ...patch })) }), [settings])
   return <SettingsContext.Provider value={value}>{children}</SettingsContext.Provider>

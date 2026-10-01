@@ -1,7 +1,9 @@
 import { useEffect } from 'react'
 import { Routes, Route, useLocation } from 'react-router-dom'
-import SearchBar from './components/SearchBar.jsx'
+import TabBar from './components/TabBar.jsx'
 import Home from './pages/Home.jsx'
+import Search from './pages/Search.jsx'
+import Favorites from './pages/Favorites.jsx'
 import Category from './pages/Category.jsx'
 import Entry from './pages/Entry.jsx'
 import Settings from './pages/Settings.jsx'
@@ -14,16 +16,18 @@ export default function App() {
 
   return (
     <div className="app">
-      <SearchBar />
       <main className="page">
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/search" element={<Search />} />
+          <Route path="/favorites" element={<Favorites />} />
           <Route path="/category/:slug" element={<Category />} />
           <Route path="/entry/:id" element={<Entry />} />
           <Route path="/settings" element={<Settings />} />
           <Route path="*" element={<Home />} />
         </Routes>
       </main>
+      <TabBar />
     </div>
   )
 }

@@ -1,11 +1,11 @@
-import { Link } from 'react-router-dom'
 import { useSettings } from '../lib/settings.jsx'
+import Icon from '../components/Icons.jsx'
 
-function Choice({ label, value, options, onChange }) {
+function Segment({ label, value, options, onChange }) {
   return (
-    <div className="setting">
-      <div className="setting-label">{label}</div>
-      <div className="seg" role="radiogroup" aria-label={label}>
+    <div className="set-row">
+      <div className="set-label" id={`l-${label}`}>{label}</div>
+      <div className="seg" role="radiogroup" aria-labelledby={`l-${label}`}>
         {options.map(([v, text]) => (
           <button key={v} role="radio" aria-checked={value === v} className={value === v ? 'on' : ''} onClick={() => onChange(v)}>{text}</button>
         ))}
@@ -14,24 +14,57 @@ function Choice({ label, value, options, onChange }) {
   )
 }
 
+function Toggle({ label, desc, on, onChange }) {
+  return (
+    <div className="set-row toggle-row">
+      <div>
+        <div className="set-label">{label}</div>
+        <div className="set-desc">{desc}</div>
+      </div>
+      <button role="switch" aria-checked={on} aria-label={label} className={`switch ${on ? 'on' : ''}`} onClick={() => onChange(!on)}><span /></button>
+    </div>
+  )
+}
+
+const THEMES = [['light', 'Light mode', 'sun'], ['dark', 'Dark mode', 'moon'], ['system', 'Use system setting', 'monitor']]
+
 export default function Settings() {
   const { settings, update } = useSettings()
-  const onOff = [[true, 'On'], [false, 'Off']]
   return (
     <>
-      <Link to="/" className="back">← Home</Link>
-      <h1 className="h1">Settings</h1>
-      <p className="lede">Saved in this browser only.</p>
+      <h1 className="title">Settings</h1>
 
-      <Choice label="I am" value={settings.speaker} options={[['male', 'Male'], ['female', 'Female']]} onChange={(v) => update({ speaker: v })} />
-      <Choice label="Usually talking to" value={settings.listener} options={[['female', 'Female'], ['male', 'Male']]} onChange={(v) => update({ listener: v })} />
-      <p className="hint">These decide which rows in a forms table are highlighted as “your form”.</p>
+      <h2 className="group-title">Your perspective</h2>
+      <div className="set-card">
+        <Segment label="I am" value={settings.speaker} options={[['male', 'Male'], ['female', 'Female']]} onChange={(v) => update({ speaker: v })} />
+        <Segment label="Usually talking to" value={settings.listener} options={[['female', 'Female'], ['male', 'Male']]} onChange={(v) => update({ listener: v })} />
+      </div>
+      <p className="hint">This decides which row in a forms table is highlighted as yours (e.g. how a man talks about himself, and how to address a woman).</p>
 
-      <Choice label="Show vulgar entries" value={settings.showVulgar} options={onOff} onChange={(v) => update({ showVulgar: v })} />
-      <p className="hint">Off hides vulgar entries everywhere, including search, so you never send a swear by accident.</p>
+      <h2 className="group-title">Content</h2>
+      <div className="set-card">
+        <Toggle label="Show vulgar entries" desc="Display slang and strongly vulgar words. Off hides them everywhere, including search." on={settings.showVulgar} onChange={(v) => update({ showVulgar: v })} />
+        <Toggle label="Show ijekavian notes" desc="Ijekavian forms (e.g. lijepo, gdje) when it differs from the main ekavian form." on={settings.showIjekavian} onChange={(v) => update({ showIjekavian: v })} />
+      </div>
 
-      <Choice label="Show ijekavian notes" value={settings.showIjekavian} options={onOff} onChange={(v) => update({ showIjekavian: v })} />
-      <p className="hint">Ijekavian (lijepo, gdje) is the Bosnian, Montenegrin and Croatian spelling. Shown as a note so you recognise it.</p>
+      <h2 className="group-title">Appearance</h2>
+      <div className="set-card" role="radiogroup" aria-label="Appearance">
+        {THEMES.map(([v, text, icon]) => (
+          <button key={v} role="radio" aria-checked={settings.theme === v} className={`theme-row ${settings.theme === v ? 'on' : ''}`} onClick={() => update({ theme: v })}>
+            <Icon name={icon} size={20} />
+            <span>{text}</span>
+            {settings.theme === v && <Icon name="check" size={20} className="theme-check" />}
+          </button>
+        ))}
+      </div>
+
+      <h2 className="group-title">About</h2>
+      <div className="set-card">
+        <div className="about">
+          <img src="/wordmark.png" alt="Srbify" width="150" />
+          <span className="set-desc">Version 1.0.0 · Saved in this browser only</span>
+        </div>
+      </div>
     </>
   )
 }

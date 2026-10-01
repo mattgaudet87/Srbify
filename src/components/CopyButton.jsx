@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Icon from './Icons.jsx'
 
 // "Šta ima?" -> "Sta ima?" : strips accents and maps đ to dj, keeps case and punctuation.
 export function stripAccents(text) {
@@ -44,8 +45,9 @@ export default function CopyButton({ text, plain = false, label, small = false }
 
   const idle = label || (plain ? 'Copy without accents' : 'Copy')
   return (
-    <button className={`copy ${small ? 'small' : ''} ${state}`} onClick={onClick} aria-live="polite">
-      {state === 'done' ? 'Copied ✓' : state === 'fail' ? 'Copy failed' : idle}
+    <button className={`copy ${plain ? 'nolatin' : ''} ${small ? 'small' : ''} ${state}`} onClick={onClick} aria-live="polite">
+      {!small && <Icon name={state === 'done' ? 'check' : 'copy'} size={20} />}
+      <span>{state === 'done' ? 'Copied' : state === 'fail' ? 'Copy failed' : idle}</span>
     </button>
   )
 }

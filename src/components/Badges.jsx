@@ -1,3 +1,5 @@
+import Icon from './Icons.jsx'
+
 const CHANGE_LABELS = {
   speaker: 'Changes if you’re M / F',
   describes: 'Changes by who it describes',
@@ -10,7 +12,7 @@ const CHANGE_LABELS = {
 }
 
 export function RegisterBadge({ register }) {
-  return <span className={`badge reg-${register}`}>{register}</span>
+  return <span className={`badge reg-${register}`}>{register[0].toUpperCase() + register.slice(1)}</span>
 }
 
 export function ChangeBadges({ entry, max = 3 }) {
@@ -23,7 +25,8 @@ export function ChangeBadges({ entry, max = 3 }) {
 export function VerifiedBadge({ verified }) {
   return (
     <span className={`badge ${verified ? 'verified' : 'unverified'}`}>
-      {verified ? '✓ Verified by a native speaker' : '☐ Not yet verified'}
+      <Icon name={verified ? 'check' : 'shield'} size={14} />
+      {verified ? 'Verified by a native speaker' : 'Not yet verified'}
     </span>
   )
 }

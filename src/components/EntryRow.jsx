@@ -1,18 +1,19 @@
 import { Link } from 'react-router-dom'
-import { RegisterBadge, ChangeBadges } from './Badges.jsx'
+import Icon from './Icons.jsx'
+import StarButton from './StarButton.jsx'
 
-export default function EntryRow({ entry, note, category, onClick }) {
+// One line in any list. `star` swaps the chevron for a favorite toggle.
+export default function EntryRow({ entry, note, star = false }) {
   return (
-    <Link to={`/entry/${entry.id}`} className="row" onClick={onClick}>
-      <span className="row-en">{entry.english}</span>
-      <span className="row-sr">{entry.serbian}</span>
-      <span className="row-pr">{entry.pronunciation}</span>
-      {note && <span className="row-note">{note}</span>}
-      {category && <span className="row-cat">{category}</span>}
-      <span className="row-badges">
-        {entry.register !== 'neutral' && <RegisterBadge register={entry.register} />}
-        <ChangeBadges entry={entry} max={entry.register !== 'neutral' ? 2 : 3} />
-      </span>
-    </Link>
+    <div className="row-wrap">
+      <Link to={`/entry/${entry.id}`} className="row">
+        <span className="row-en">{entry.english}</span>
+        <span className="row-sr">{entry.serbian}</span>
+        <span className="row-pr">{entry.pronunciation}</span>
+        {note && <span className="row-note">{note}</span>}
+        {!star && <Icon name="chevronR" size={20} className="row-chev" />}
+      </Link>
+      {star && <StarButton id={entry.id} className="row-star" />}
+    </div>
   )
 }

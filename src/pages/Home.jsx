@@ -2,35 +2,44 @@ import { Link } from 'react-router-dom'
 import { CATEGORIES } from '../lib/categories.js'
 import { allEntries } from '../lib/search.js'
 import { useSettings } from '../lib/settings.jsx'
-import { useLibrary } from '../lib/library.jsx'
-import { entryById } from '../lib/search.js'
-import EntryStrip from '../components/EntryStrip.jsx'
+import Icon from '../components/Icons.jsx'
 
 export default function Home() {
   const { settings } = useSettings()
   const visible = allEntries.filter((e) => settings.showVulgar || e.register !== 'vulgar')
-  const { favorites } = useLibrary()
-  const pick = (ids) => ids.map((id) => entryById[id]).filter((e) => e && (settings.showVulgar || e.register !== 'vulgar'))
   const hidden = allEntries.length - visible.length
-  const counts = visible.reduce((acc, e) => ((acc[e.category] = (acc[e.category] || 0) + 1), acc), {})
+
   return (
     <>
-      <img className="wordmark" src="/wordmark.png" alt="Srbify" width="180" />
-      <h1 className="h1">Casual Serbian, fast</h1>
-      <p className="lede">Search above, or pick a category.</p>
-      {hidden > 0 && <p className="hint">{hidden} vulgar {hidden === 1 ? 'entry is' : 'entries are'} hidden. <Link to="/settings">Change in Settings</Link></p>}
-      <EntryStrip title="★ Favorites" entries={pick(favorites)} />
-      <div className="grid">
-        {CATEGORIES.map((c) => {
-          const n = counts[c.name] || 0
-          return (
-            <Link key={c.slug} to={`/category/${c.slug}`} className={`tile ${n ? '' : 'soon'}`}>
-              <span className="tile-icon" aria-hidden="true">{c.icon}</span>
+      <header className="hero">
+        <div className="hero-shade" />
+        <Link to="/settings" className="hero-gear" aria-label="Settings"><Icon name="settings" size={24} /></Link>
+        <div className="hero-body">
+          <div className="brand-row">
+            <img className="brand-tile" src="/logo-icon.png" alt="" width="52" height="52" />
+            <h1>Srbify</h1>
+          </div>
+          <p>Casual Serbian, made easy for texting.</p>
+          <Link to="/search" className="hero-search">
+            <Icon name="search" size={22} />
+            <span>Search English or Serbian…</span>
+          </Link>
+        </div>
+      </header>
+
+      <div className="sheet">
+        <div className="sheet-head">
+          <h2>Categories</h2>
+        </div>
+        {hidden > 0 && <p className="hint">{hidden} vulgar {hidden === 1 ? 'entry is' : 'entries are'} hidden. <Link to="/settings">Change in Settings</Link></p>}
+        <div className="grid">
+          {CATEGORIES.map((c) => (
+            <Link key={c.slug} to={`/category/${c.slug}`} className="tile">
+              <Icon name={c.icon} size={28} />
               <span className="tile-name">{c.name}</span>
-              <span className="tile-count">{n ? `${n} ${n === 1 ? 'entry' : 'entries'}` : 'Coming soon'}</span>
             </Link>
-          )
-        })}
+          ))}
+        </div>
       </div>
     </>
   )

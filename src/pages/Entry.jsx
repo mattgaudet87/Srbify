@@ -1,6 +1,7 @@
 import { Link, useParams } from 'react-router-dom'
 import CopyButton from '../components/CopyButton.jsx'
-import { useLibrary } from '../lib/library.jsx'
+import StarButton from '../components/StarButton.jsx'
+import Icon from '../components/Icons.jsx'
 import { byName } from '../lib/categories.js'
 import { entryById } from '../lib/search.js'
 import { useSettings, isYourForm } from '../lib/settings.jsx'
@@ -17,14 +18,13 @@ const FORM_COLUMNS = [
 export default function Entry() {
   const { id } = useParams()
   const { settings } = useSettings()
-  const { favorites, toggleFavorite } = useLibrary()
   const e = entryById[id]
   const hiddenVulgar = e?.register === 'vulgar' && !settings.showVulgar
   if (!e) return <p>Entry not found. <Link to="/">Back home</Link></p>
   if (hiddenVulgar) {
     return (
       <>
-        <Link to="/" className="back">← Home</Link>
+        <Link to="/" className="back"><Icon name="chevronL" size={26} /></Link>
         <p className="watch">This entry is vulgar and hidden by your settings. <Link to="/settings"><strong>Open Settings</strong></Link> to show vulgar entries.</p>
       </>
     )
@@ -35,25 +35,22 @@ export default function Entry() {
 
   return (
     <article className="entry">
-      <Link to={cat ? `/category/${cat.slug}` : '/'} className="back">← {e.category}</Link>
+      <div className="entry-bar">
+        <Link to={cat ? `/category/${cat.slug}` : '/'} className="back" aria-label={`Back to ${e.category}`}><Icon name="chevronL" size={26} /></Link>
+        <StarButton id={e.id} />
+      </div>
       <p className="en-small">{e.english}</p>
       <h1 className="sr-big">{e.serbian}</h1>
       <p className="pron">{e.pronunciation}</p>
       <div className="actions">
         <CopyButton text={e.serbian} />
         <CopyButton text={e.serbian} plain />
-        <button
-          className={`fav ${favorites.includes(e.id) ? 'on' : ''}`}
-          aria-pressed={favorites.includes(e.id)}
-          aria-label={favorites.includes(e.id) ? 'Remove from favorites' : 'Add to favorites'}
-          onClick={() => toggleFavorite(e.id)}
-        >{favorites.includes(e.id) ? '★' : '☆'}</button>
       </div>
 
-      <section>
+      <section className="meaning">
         <h2>Meaning</h2>
-        <p>{e.meaning}</p>
-        {e.literal && <p className="muted">Literally: “{e.literal}”</p>}
+        <p className="meaning-main">{e.meaning}</p>
+        {e.literal && <p className="muted">Literal meaning: {e.literal}</p>}
       </section>
 
       <div className="badges">
@@ -67,7 +64,7 @@ export default function Entry() {
           <h2>Forms</h2>
           {yours.length > 0 && (
             <div className="yours-box">
-              <div className="yours-title">★ Your forms ({settings.speaker === 'male' ? 'a man' : 'a woman'} talking to a {settings.listener === 'female' ? 'woman' : 'man'})</div>
+              <div className="yours-title"><Icon name="star" size={14} fill="currentColor" /> Your forms ({settings.speaker === 'male' ? 'a man' : 'a woman'} talking to a {settings.listener === 'female' ? 'woman' : 'man'})</div>
               {yours.map((f) => (
                 <div key={f.serbian + f.useWhen} className="yours-line"><strong>{f.serbian}</strong> <span className="pron-sm inline">{f.pronunciation}</span><span className="muted"> · {f.useWhen}</span>
                   {f.example && <div className="form-ex"><strong>{f.example.serbian}</strong> <span className="pron-sm inline">{f.example.pronunciation}</span><div className="muted">{f.example.english}</div></div>}
@@ -83,7 +80,7 @@ export default function Entry() {
               <tbody>
                 {e.forms.map((f) => (
                   <tr key={f.serbian + f.useWhen} className={isYourForm(f, settings) ? 'yours' : ''}>
-                    <td>{isYourForm(f, settings) && <span className="star" title="Your form">★ </span>}<strong>{f.serbian}</strong><span className="pron-sm">{f.pronunciation}</span></td>
+                    <td>{isYourForm(f, settings) && <Icon name="star" size={13} fill="currentColor" className="star" />}<strong>{f.serbian}</strong><span className="pron-sm">{f.pronunciation}</span></td>
                     {cols.map(([k]) => <td key={k}>{f[k] || '—'}</td>)}
                     <td>{f.useWhen}{f.example && <div className="form-ex"><strong>{f.example.serbian}</strong><span className="pron-sm">{f.example.pronunciation}</span><div className="muted">{f.example.english}</div></div>}</td>
                   </tr>
@@ -135,7 +132,7 @@ export default function Entry() {
 
       {e.watchOut && (
         <section className="watch">
-          <h2>⚠ Watch out</h2>
+          <h2>Watch out</h2>
           <p>{e.watchOut}</p>
         </section>
       )}
