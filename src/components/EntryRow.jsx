@@ -11,7 +11,7 @@ export default function EntryRow({ entry, note, category, onClick }) {
       {category && <span className="row-cat">{category}</span>}
       <span className="row-badges">
         {entry.register !== 'neutral' && <RegisterBadge register={entry.register} />}
-        <ChangeBadges entry={entry} max={2} />
+        <ChangeBadges entry={entry} max={entry.register !== 'neutral' ? 2 : 3} />
       </span>
     </Link>
   )

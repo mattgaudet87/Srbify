@@ -66,16 +66,17 @@ function collapse(rawResults, query) {
   return kept.map((r) => ({ entry: entryById[r.id], note: r.note }))
 }
 
-export function search(rawQuery, { limit = 20 } = {}) {
+export function search(rawQuery, { limit = 20, showVulgar = false } = {}) {
   const q = normalize(rawQuery)
   if (!q) return { results: [], suggestions: [] }
   // Substring hits always count, even for very short queries; Fuse adds typo tolerance.
   const matches = q.length < 2 ? (d) => d.text.split(' ').some((w) => w.startsWith(q)) : (d) => d.text.includes(q)
   const substring = docs.filter(matches).map((item) => ({ item, score: 0 }))
   const fuzzy = q.length >= 3 ? fuse.search(q) : []
-  const results = collapse([...substring, ...fuzzy], q).slice(0, limit)
+  const visible = (list) => list.filter((r) => showVulgar || r.entry.register !== 'vulgar')
+  const results = visible(collapse([...substring, ...fuzzy], q)).slice(0, limit)
   if (results.length) return { results, suggestions: [] }
-  const suggestions = q.length >= 2 ? collapse(looseFuse.search(q), q).slice(0, 4) : []
+  const suggestions = q.length >= 2 ? visible(collapse(looseFuse.search(q), q)).slice(0, 4) : []
   return { results: [], suggestions }
 }
 

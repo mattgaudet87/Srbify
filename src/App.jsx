@@ -4,6 +4,7 @@ import SearchBar from './components/SearchBar.jsx'
 import Home from './pages/Home.jsx'
 import Category from './pages/Category.jsx'
 import Entry from './pages/Entry.jsx'
+import Settings from './pages/Settings.jsx'
 
 export default function App() {
   const { pathname } = useLocation()
@@ -19,6 +20,7 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/category/:slug" element={<Category />} />
           <Route path="/entry/:id" element={<Entry />} />
+          <Route path="/settings" element={<Settings />} />
           <Route path="*" element={<Home />} />
         </Routes>
       </main>

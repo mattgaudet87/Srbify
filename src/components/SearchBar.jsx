@@ -2,12 +2,14 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { search } from '../lib/search.js'
 import EntryRow from './EntryRow.jsx'
+import { useSettings } from '../lib/settings.jsx'
 
 export default function SearchBar() {
   const [query, setQuery] = useState('')
   const inputRef = useRef(null)
   const { pathname } = useLocation()
-  const { results, suggestions } = useMemo(() => search(query), [query])
+  const { settings } = useSettings()
+  const { results, suggestions } = useMemo(() => search(query, { showVulgar: settings.showVulgar }), [query, settings.showVulgar])
   const open = query.trim().length > 0
 
   // Close results whenever you navigate somewhere.
@@ -37,6 +39,7 @@ export default function SearchBar() {
             <button className="clear" aria-label="Clear search" onClick={() => { setQuery(''); inputRef.current?.focus() }}>×</button>
           )}
         </div>
+        <Link to="/settings" className="gear" aria-label="Settings">⚙</Link>
       </div>
       {open && (
         <div className="results" role="region" aria-label="Search results">

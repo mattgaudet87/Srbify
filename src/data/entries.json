@@ -2181,5 +2181,91 @@
       "kako"
     ],
     "verified": false
+  },
+  {
+    "id": "jebote",
+    "english": "Damn! / holy hell",
+    "serbian": "Jebote!",
+    "pronunciation": "YEH-bo-teh",
+    "meaning": "'Damn!', 'wow!', 'holy hell!' Used for shock, frustration or amazement.",
+    "literal": "Literally a strong curse (f*** you), but in daily use it is just an exclamation",
+    "category": "Swearing",
+    "subcategory": "Medium (jebote)",
+    "tags": [
+      "swearing",
+      "exclamation"
+    ],
+    "register": "vulgar",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Majke mi",
+        "pronunciation": "MAHY-keh mee",
+        "nuance": "Much milder: 'I swear'"
+      },
+      {
+        "serbian": "Joj",
+        "pronunciation": "YOY",
+        "nuance": "Clean 'oh no / wow'"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Jebote, ovo je ludilo!",
+        "pronunciation": "YEH-bo-teh, OH-vo yeh LOO-dee-lo",
+        "english": "Damn, this is crazy!"
+      }
+    ],
+    "texting": "jebote",
+    "watchOut": "Tone: it sounds lighter than the literal meaning, but it is still a swear. Don't use it with her family, elders or in a first conversation.",
+    "related": [
+      "majke-mi",
+      "joj",
+      "ludilo"
+    ],
+    "verified": false
+  },
+  {
+    "id": "majke-mi",
+    "english": "I swear / for real",
+    "serbian": "Majke mi",
+    "pronunciation": "MAHY-keh mee",
+    "meaning": "'I swear', 'honestly', 'for real'",
+    "literal": "By my mother",
+    "category": "Swearing",
+    "subcategory": "Mild (bre, majke mi)",
+    "tags": [
+      "swearing",
+      "mild",
+      "promise"
+    ],
+    "register": "slang",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Kunem se",
+        "pronunciation": "KOO-nem seh",
+        "nuance": "'I swear', a bit stronger"
+      },
+      {
+        "serbian": "Iskreno",
+        "pronunciation": "EES-kreh-no",
+        "nuance": "'Honestly', neutral"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Majke mi, nisam znao",
+        "pronunciation": "MAHY-keh mee, NEE-sahm ZNAH-oh",
+        "english": "I swear, I didn't know (male speaker)"
+      }
+    ],
+    "texting": "majke mi",
+    "watchOut": "Not a real swear, an oath. Don't use it as a joke about someone's mother.",
+    "related": [
+      "jebote",
+      "bre"
+    ],
+    "verified": false
   }
 ]

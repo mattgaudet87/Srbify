@@ -3,14 +3,16 @@ import { Link, useParams } from 'react-router-dom'
 import { bySlug } from '../lib/categories.js'
 import { allEntries } from '../lib/search.js'
 import EntryRow from '../components/EntryRow.jsx'
+import { useSettings } from '../lib/settings.jsx'
 
 export default function Category() {
   const { slug } = useParams()
   const cat = bySlug(slug)
   const [sub, setSub] = useState(null)
+  const { settings } = useSettings()
   if (!cat) return <p>Category not found. <Link to="/">Back home</Link></p>
 
-  const inCat = allEntries.filter((e) => e.category === cat.name)
+  const inCat = allEntries.filter((e) => e.category === cat.name && (settings.showVulgar || e.register !== 'vulgar'))
   const shown = sub ? inCat.filter((e) => e.subcategory === sub) : inCat
 
   return (
