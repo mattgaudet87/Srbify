@@ -1,8 +1,8 @@
 // Srbify service worker: makes the app installable and work offline.
 // Strategy: pre-cache the app shell; for everything else on this site, answer from cache
 // and refresh the cache in the background (so updates arrive on the next visit).
-const CACHE = 'srbify-v1'
-const SHELL = ['/', '/index.html', '/manifest.webmanifest', '/favicon.png', '/logo-192.png', '/logo-512.png', '/apple-touch-icon.png']
+const CACHE = 'srbify-v2'
+const SHELL = ['/', '/index.html', '/manifest.webmanifest', '/favicon.png', '/logo-192.png', '/logo-512.png', '/apple-touch-icon.png', '/wordmark.png']
 
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()))
