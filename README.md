@@ -19,7 +19,7 @@ Add objects to `src/data/entries.json` following section 5 of the plan. New entr
 
 - [x] Phase 1: foundation (starter entries, Home / Category / Entry pages, search)
 - [x] Phase 2: variation system (highlighting, Settings, vulgar toggle)
-- [x] Phase 3: phone polish (copy buttons, favorites, recents, installable, offline)
+- [x] Phase 3: phone polish (copy buttons, favorites, installable, offline)
 - [x] Phase 4: content for all 14 categories (179 entries, every subcategory filled)
   - [ ] Native-speaker verification: set `"verified": true` per entry as it is checked
 

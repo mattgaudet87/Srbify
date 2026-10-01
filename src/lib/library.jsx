@@ -1,17 +1,16 @@
 import { createContext, useCallback, useContext, useEffect, useMemo, useState } from 'react'
 
-// Favorites and recently viewed, kept in the browser (localStorage).
+// Favorites, kept in the browser (localStorage).
 const KEY = 'srbify-library'
-const MAX_RECENT = 12
 
 const LibraryContext = createContext(null)
 
 function load() {
   try {
     const d = JSON.parse(localStorage.getItem(KEY) || '{}')
-    return { favorites: d.favorites || [], recent: d.recent || [] }
+    return { favorites: d.favorites || [] }
   } catch {
-    return { favorites: [], recent: [] }
+    return { favorites: [] }
   }
 }
 
@@ -30,11 +29,7 @@ export function LibraryProvider({ children }) {
     setLib((l) => ({ ...l, favorites: l.favorites.includes(id) ? l.favorites.filter((f) => f !== id) : [id, ...l.favorites] }))
   }, [])
 
-  const addRecent = useCallback((id) => {
-    setLib((l) => (l.recent[0] === id ? l : { ...l, recent: [id, ...l.recent.filter((r) => r !== id)].slice(0, MAX_RECENT) }))
-  }, [])
-
-  const value = useMemo(() => ({ ...lib, toggleFavorite, addRecent }), [lib, toggleFavorite, addRecent])
+  const value = useMemo(() => ({ ...lib, toggleFavorite }), [lib, toggleFavorite])
   return <LibraryContext.Provider value={value}>{children}</LibraryContext.Provider>
 }
 

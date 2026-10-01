@@ -1,4 +1,3 @@
-import { useEffect } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import CopyButton from '../components/CopyButton.jsx'
 import { useLibrary } from '../lib/library.jsx'
@@ -18,12 +17,9 @@ const FORM_COLUMNS = [
 export default function Entry() {
   const { id } = useParams()
   const { settings } = useSettings()
-  const { favorites, toggleFavorite, addRecent } = useLibrary()
+  const { favorites, toggleFavorite } = useLibrary()
   const e = entryById[id]
   const hiddenVulgar = e?.register === 'vulgar' && !settings.showVulgar
-  useEffect(() => {
-    if (e && !hiddenVulgar) addRecent(e.id)
-  }, [e, hiddenVulgar, addRecent])
   if (!e) return <p>Entry not found. <Link to="/">Back home</Link></p>
   if (hiddenVulgar) {
     return (

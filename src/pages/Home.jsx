@@ -9,7 +9,7 @@ import EntryStrip from '../components/EntryStrip.jsx'
 export default function Home() {
   const { settings } = useSettings()
   const visible = allEntries.filter((e) => settings.showVulgar || e.register !== 'vulgar')
-  const { favorites, recent } = useLibrary()
+  const { favorites } = useLibrary()
   const pick = (ids) => ids.map((id) => entryById[id]).filter((e) => e && (settings.showVulgar || e.register !== 'vulgar'))
   const hidden = allEntries.length - visible.length
   const counts = visible.reduce((acc, e) => ((acc[e.category] = (acc[e.category] || 0) + 1), acc), {})
@@ -19,7 +19,6 @@ export default function Home() {
       <p className="lede">Search above, or pick a category.</p>
       {hidden > 0 && <p className="hint">{hidden} vulgar {hidden === 1 ? 'entry is' : 'entries are'} hidden. <Link to="/settings">Change in Settings</Link></p>}
       <EntryStrip title="★ Favorites" entries={pick(favorites)} />
-      <EntryStrip title="Recently viewed" entries={pick(recent)} />
       <div className="grid">
         {CATEGORIES.map((c) => {
           const n = counts[c.name] || 0

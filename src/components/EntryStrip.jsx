@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 
-// Horizontal scrolling row of small cards (Favorites / Recently viewed on Home).
+// Horizontal scrolling row of small cards (Favorites on Home).
 export default function EntryStrip({ title, entries }) {
   if (!entries.length) return null
   return (
