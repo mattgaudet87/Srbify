@@ -26,3 +26,6 @@ Add objects to `src/data/entries.json` following section 5 of the plan. New entr
 ### Verifying entries
 
 After a native speaker checks an entry, set `"verified": true` on it in `src/data/entries.json` (or ask Claude Code to). The checkmark badge updates automatically.
+
+## Content rule: examples
+Every entry needs 3+ example sentences. Wherever a word changes with context (me / you / someone else / a thing, male vs female, casual vs polite, singular vs plural), each form row in `forms[]` carries its own `example` (`{serbian, pronunciation, english}`) and entry-level `examples[]` carry a `context` label.

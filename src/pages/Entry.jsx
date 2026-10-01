@@ -70,6 +70,7 @@ export default function Entry() {
               <div className="yours-title">★ Your forms ({settings.speaker === 'male' ? 'a man' : 'a woman'} talking to a {settings.listener === 'female' ? 'woman' : 'man'})</div>
               {yours.map((f) => (
                 <div key={f.serbian + f.useWhen} className="yours-line"><strong>{f.serbian}</strong> <span className="pron-sm inline">{f.pronunciation}</span><span className="muted"> · {f.useWhen}</span>
+                  {f.example && <div className="form-ex"><strong>{f.example.serbian}</strong> <span className="pron-sm inline">{f.example.pronunciation}</span><div className="muted">{f.example.english}</div></div>}
                   <span className="yours-copy"><CopyButton text={f.serbian} small /><CopyButton text={f.serbian} plain small label="No accents" /></span></div>
               ))}
             </div>
@@ -84,7 +85,7 @@ export default function Entry() {
                   <tr key={f.serbian + f.useWhen} className={isYourForm(f, settings) ? 'yours' : ''}>
                     <td>{isYourForm(f, settings) && <span className="star" title="Your form">★ </span>}<strong>{f.serbian}</strong><span className="pron-sm">{f.pronunciation}</span></td>
                     {cols.map(([k]) => <td key={k}>{f[k] || '—'}</td>)}
-                    <td>{f.useWhen}</td>
+                    <td>{f.useWhen}{f.example && <div className="form-ex"><strong>{f.example.serbian}</strong><span className="pron-sm">{f.example.pronunciation}</span><div className="muted">{f.example.english}</div></div>}</td>
                   </tr>
                 ))}
               </tbody>
@@ -114,6 +115,7 @@ export default function Entry() {
           <ul className="plain">
             {e.examples.map((x) => (
               <li key={x.serbian}>
+                {x.context && <span className="ctx">{x.context}</span>}
                 <strong>{x.serbian}</strong>
                 <span className="pron-sm">{x.pronunciation}</span>
                 <div className="muted">{x.english}</div>

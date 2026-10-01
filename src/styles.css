@@ -144,3 +144,7 @@ tr.yours td { background: #eef3ff; }
 .strip-scroll::-webkit-scrollbar { display: none; }
 .mini { flex: none; min-width: 120px; max-width: 180px; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 12px; display: grid; gap: 2px; }
 .mini-sr { font-weight: 700; font-size: 17px; }
+
+.form-ex { margin-top: 6px; padding-left: 8px; border-left: 2px solid var(--blue); }
+.ctx { display: block; font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin-bottom: 2px; }
+.wordmark { display: block; height: auto; max-width: 60%; margin: 4px 0 8px; }
