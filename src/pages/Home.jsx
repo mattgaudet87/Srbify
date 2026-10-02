@@ -55,7 +55,7 @@ export default function Home() {
             <img className="brand-tile" src="/logo-icon.png" alt="" width="52" height="52" />
             <h1>Srbify</h1>
           </div>
-          <p>Casual Serbian, made easy for texting.</p>
+          <p>Serbian made easy for white people.</p>
           <Link to="/search" className="hero-search">
             <Icon name="search" size={22} />
             <span>Search English or Serbian…</span>
