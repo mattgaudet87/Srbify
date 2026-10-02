@@ -250,7 +250,8 @@ tr.yours td:first-child { color: var(--accent); }
 .also-in { display: flex; flex-wrap: wrap; gap: 8px; }
 .also-in a { font-size: 13px; padding: 6px 12px; border-radius: 999px; background: var(--card); border: 1px solid var(--line); color: var(--ink); }
 .also-in a small { color: var(--muted); font-size: 12px; }
-.grammar-card { display: flex; flex-direction: column; gap: 4px; margin: 18px 0 8px; padding: 14px 16px; border-radius: var(--radius); background: var(--accent-soft); color: var(--ink); }
+.grammar-close { position: absolute; top: 8px; right: 8px; width: 30px; height: 30px; border: 0; border-radius: 50%; background: transparent; color: var(--muted); display: grid; place-items: center; }
+.grammar-card { position: relative; padding-right: 44px !important; display: flex; flex-direction: column; gap: 4px; margin: 18px 0 8px; padding: 14px 16px; border-radius: var(--radius); background: var(--accent-soft); color: var(--ink); }
 .grammar-card strong { color: var(--accent); }
 .grammar-links { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 6px; }
 .grammar-links a { padding: 7px 14px; border-radius: 999px; background: var(--card); border: 1px solid var(--line); font-weight: 600; font-size: 14px; color: var(--ink); }
@@ -275,3 +276,10 @@ tr.yours td:first-child { color: var(--accent); }
 .word-entry { display: inline-flex; align-items: center; gap: 4px; font-weight: 650; font-size: 14px; color: var(--accent); }
 @keyframes fade { from { opacity: 0; } }
 @keyframes rise { from { transform: translateY(24px); opacity: 0; } }
+
+/* Subcategory blocs */
+.sub-grid { grid-template-columns: repeat(2, 1fr); }
+.sub-grid .tile { min-height: 84px; padding: 14px 10px; }
+.sub-grid .tile-name { font-size: 15px; }
+.tile-soon { opacity: 0.5; }
+.crumb { margin: 0 0 2px; font-size: 13px; opacity: 0.85; }
