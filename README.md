@@ -21,6 +21,7 @@ Add objects to `src/data/entries.json` following section 5 of the plan. New entr
 - [x] Phase 2: variation system (highlighting, Settings, vulgar toggle)
 - [x] Phase 3: phone polish (copy buttons, favorites, installable, offline)
 - [x] Phase 4: content for all categories (every subcategory filled)
+- [x] Phase 6: PM sweep (glossary search, richer word cards, practice mode, backup, accuracy fixes)
 - [x] Phase 5: intent-based categories ("what am I trying to say?"), tags, tap-any-word cards (`src/data/words.json`)
   - [ ] Native-speaker verification: set `"verified": true` per entry as it is checked
 
@@ -35,7 +36,6 @@ Every entry needs 3+ example sentences. Wherever a word changes with context (me
 
 Entries and the word glossary are generated/checked by small Python scripts:
 
-- `remap.py` is the one-time re-map of the original 179 entries onto the intent-based categories (adds `placements`, so one entry can live in several categories).
-- `new_entries.py` adds entries for subcategories that were empty.
-- `glossary/*.txt` holds a hand-written card for every Serbian word (`word|meaning|note|tags`); pronunciations come from the app's own sentences (`glossary/pron.json`).
-- `build_words.py` builds `src/data/words.json`; `check_words.py` fails if any word in any sentence has no card. Run both after adding an entry.
+- Old one-shot batch scripts live in `scripts/archive/` (history only).
+- `glossary/*.txt` holds a hand-written card for every Serbian word (`word|meaning|note|tags`); pronunciations come from the app's own sentences (`glossary/pron.json`, `pron_extra.json`). `add_words.py` adds new cards.
+- `build_words.py` builds `src/data/words.json`; `check_words.py` fails if any word in any sentence has no card; `check_data.py` checks links, examples, tags and pronunciation spelling. Run all three after any content change.

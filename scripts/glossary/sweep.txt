@@ -1,0 +1,158 @@
+# Words added during the PM sweep (scripts/add_words.py).
+najverovatnije|most likely|Stronger than "verovatno"|adv
+sasvim|completely; quite|"Sasvim sigurno" = absolutely sure|adv
+sigurna|sure (feminine)|Masculine: siguran|adj,fem
+bavi|is busy with; is into|From baviti se: "Ona se bavi muzikom" = she does music|verb,present
+bavim|I am busy with; I do (a job or hobby)|"Bavim se dizajnom" = I work in design|verb,present
+bavite|you (plural / polite) are busy with; you do|Polite form of "baviš"|verb,present,formal
+beba|baby|"Kao beba" = like a baby|noun,fem
+boja|colour|"Omiljena boja" = favourite colour|noun,fem
+boje|colour (of); colours|"Koje je boje?" = what colour is it?|noun,fem
+broj|number||noun,masc
+broja|number (of)|"Evo mog broja" = here's my number|noun,masc
+dajem|I give|From davati: "Dajem ti" = I'm giving you|verb,present
+dalje|further; onward|"I dalje" = still, as before|adv
+daš|you give|"Možeš li da mi daš…?" = can you give me…?|verb,present
+dede|grandpa (of)|Form of deda|noun,masc
+dinara|dinars|Used after 2 and up: "pet dinara"|noun,masc,plural
+dizajnom|design (with)|Instrumental of dizajn: "bavim se dizajnom"|noun,masc
+doneo|brought (he)|Feminine: donela|verb,past,masc
+drska|cheeky; bold (woman)|Masculine: drzak|adj,fem
+druga|second (feminine)|Masculine: drugi|adj,fem
+drugo|second (neuter)||adj,neut
+drzak|cheeky; bold; rude (man)|Teasing in a playful tone, rude if serious|adj,masc
+dug|long (short form)|"Dug dan" = a long day|adj,masc
+duga|long (feminine)||adj,fem
+dugačak|long (masculine)||adj,masc
+dugačka|long (feminine)||adj,fem
+dugačko|long (neuter)||adj,neut
+dugu|long (feminine, object)|"Dugu kosu" = long hair|adj,fem
+duva|blows|"Duva vetar" = the wind is blowing|verb,present
+dvanaest|twelve||num
+engleskom|English (in the language)|Locative of engleski: "na engleskom" = in English|adj,masc
+eto|there you go; here|"Eto ga!" = there he (it) is|interj,casual
+fora|cool; a good joke|Slang: "To je fora!" = that's cool|noun,fem,slang
+hiljade|thousand (of)|"Dve hiljade" = two thousand|num
+ih|them (short form)|"Vidim ih" = I see them|pron,plural
+iskren|honest; sincere (man)|Feminine: iskrena|adj,masc
+iskrena|honest; sincere (woman)||adj,fem
+istinu|truth (object)|"Reći istinu" = to tell the truth|noun,fem
+izgovara|pronounces; is pronounced|"Kako se to izgovara?" = how do you pronounce that?|verb,present
+jede|eats; feels like eating|"Šta ti se jede?" = what do you feel like eating?|verb,present
+jeftinije|cheaper|Comparative of jeftino|adv
+jutros|this morning||adv
+kamion|truck||noun,masc
+kapira|gets it; understands|Slang, from kapirati|verb,present,slang
+kapiraš|you get it|Slang|verb,present,slang
+kišobran|umbrella||noun,masc
+knjigu|book (object)|Nominative: knjiga|noun,fem
+kojoj|to whom; to which (feminine)|"Prva kojoj kažem" = the first I tell|pron,fem
+kosu|hair (object)|Nominative: kosa|noun,fem
+kratak|short (masculine)|Feminine: kratka. Neuter: kratko|adj,masc
+kratka|short (feminine)||adj,fem
+kratko|short (neuter); briefly||adj,neut
+minus|minus; below zero||noun,masc
+muzikom|music (with)|Instrumental of muzika|noun,fem
+najjeftinije|cheapest||adv
+najskuplje|most expensive||adv
+naporno|tiring; hard (work)||adv
+naspavala|slept enough (she)|"Naspavala sam se" = I slept well (a woman says it)|verb,past,fem
+naspavao|slept enough (he)|"Naspavao sam se" = I slept well (a man says it)|verb,past,masc
+nedostaje|is missing; I miss (it)|"Nedostaje mi" = I miss it|verb,present
+nedostajem|I am missed; I miss (you)|"Nedostajem li ti?" = do you miss me?|verb,present
+nedostajete|you (plural / polite) are missed|Polite or group form|verb,present,formal
+njima|them (to; with)|Dative or instrumental of oni|pron,plural
+noćas|tonight; during the night||adv
+obuci|put on (clothes)|"Obuci jaknu" = put on a jacket|verb,command
+odmorno|rested; restfully|"Izgledaš odmorno" = you look rested|adv
+omiljena|favourite (feminine)|Masculine: omiljeni|adj,fem
+oprostite|forgive me; excuse me (polite)|Polite or plural of oprosti|verb,command,formal
+padati|to fall|"Padati kiša" = to rain|verb
+para|money; a coin|"Mala para" = a small sum|noun,fem
+pedeset|fifty||num
+peti|fifth||num
+pica|pizza|Also written "pizza"|noun,fem
+pitanje|question||noun,neut
+pišem|I write||verb,present
+plan|plan||noun,masc
+pokaži|show|Command|verb,command
+polje|field||noun,neut
+ponoviš|you repeat||verb,present
+ponoć|midnight||noun,fem
+pored|next to; along; by|"Pored reke" = by the river|prep
+poslednja|last (feminine)||adj,fem
+poslednje|last (neuter)||adj,neut
+poslednji|last (masculine)|Ijekavian: posljednji|adj,masc
+povredim|I hurt|"Da te povredim" = to hurt you|verb,present
+počne|starts; begins|"Ako počne kiša" = if rain starts|verb,present
+praznik|holiday||noun,masc
+prekjuče|the day before yesterday||adv
+preuska|too narrow; too tight (feminine)||adj,fem
+preuske|too narrow; too tight (plural)||adj,plural
+promeni|changes|"Ako se promeni" = if it changes|verb,present
+prva|first (feminine)||adj,fem
+prvi|first (masculine)|"Prvi put" = the first time|adj,masc
+putovanje|trip; journey||noun,neut
+razgovor|conversation||noun,masc
+razumela|understood (she)|Masculine: razumeo|verb,past,fem
+reke|river (of)|Nominative: reka|noun,fem
+san|dream||noun,masc
+sanjala|dreamed (she)||verb,past,fem
+sanjao|dreamed (he)||verb,past,masc
+sata|hour (of)|"Za pola sata" = in half an hour|noun,masc
+sliku|picture (object)|Nominative: slika|noun,fem
+slučaju|case (in)|"U svakom slučaju" = in any case|noun,masc
+smejali|laughed (plural)||verb,past,plural
+sneg|snow||noun,masc
+soba|room||noun,fem
+sobi|room (in)||noun,fem
+spavalice|sleepyhead (calling her)|Vocative of spavalica|noun,fem
+sprat|floor; storey||noun,masc
+spratu|floor (on)|"Na trećem spratu" = on the third floor|noun,masc
+spreman|ready (masculine)||adj,masc
+spremna|ready (feminine)||adj,fem
+srbija|Serbia||noun,fem,name
+srpskom|Serbian (in the language)|Locative of srpski: "na srpskom" = in Serbian|adj,masc
+stižu|they arrive||verb,present,plural
+studiraš|you study||verb,present
+sunčano|sunny||adj,neut
+svakom|every; each (in)|"U svakom slučaju" = in any case|adj,masc
+svetla|light (feminine)||adj,fem
+svetlo|light; bright (neuter)|Also "a light"|adj,neut
+svetloplava|light blue (feminine)||adj,fem
+svoj|your own; my own|Refers back to the subject: "Daj mi svoj broj" = give me your number|pron,masc
+tamna|dark (feminine)||adj,fem
+tamno|dark (neuter)|Also "it's dark"|adj,neut
+tamnoplava|dark blue (feminine)||adj,fem
+tamnu|dark (feminine, object)||adj,fem
+telefona|phone (of)|"Broj telefona" = phone number|noun,masc
+treća|third (feminine)||adj,fem
+treće|third (neuter)||adj,neut
+trećem|third (in; on)|"Na trećem spratu" = on the third floor|adj,masc
+treći|third (masculine)||adj,masc
+trudim|I try; I make an effort|"Trudim se" = I'm trying|verb,present
+tvog|your (of; masculine)|Form of tvoj|pron,masc
+uglavnom|anyway; mostly||adv
+ulica|street||noun,fem
+umorno|tiredly; tired (sounding)|"Zvučiš umorno" = you sound tired|adv
+uska|narrow (feminine)||adj,fem
+usko|narrow (neuter); tight||adj,neut
+uzak|narrow (masculine)||adj,masc
+vetar|wind||noun,masc
+večere|dinner (of)|"Posle večere" = after dinner|noun,fem
+viber|Viber|The messaging app, very popular in Serbia|noun,masc,name
+zovi|call|Command: "Zovi me" = call me|verb,command
+zovu|they call; they invite||verb,present,plural
+zvučiš|you sound||verb,present
+četiri|four||num
+četvrti|fourth||adj,masc
+čudan|strange (masculine)||adj,masc
+čujem|I hear||verb,present
+šaljem|I send||verb,present
+šetnju|walk; stroll (object)|"Idemo u šetnju" = let's go for a walk|noun,fem
+širok|wide (masculine)||adj,masc
+široka|wide (feminine)||adj,fem
+široko|wide (neuter)||adj,neut
+posljednji|last (masculine)|Ijekavian of poslednji|adj,masc
+svijetlo|light; bright (neuter)|Ijekavian of svetlo|adj,neut
+vani|outside|More common in Croatia and Bosnia; Serbian says "napolju"|adv

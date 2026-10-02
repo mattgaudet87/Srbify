@@ -274,7 +274,9 @@
     "watchOut": "'Spavala' is the female past form; to a man you would say 'spavao'.",
     "related": [
       "laku-noc",
-      "hello"
+      "hello",
+      "jesi-li-se-naspavala",
+      "dobro-jutro-sunce"
     ],
     "verified": false,
     "placements": [
@@ -292,7 +294,7 @@
     "id": "laku-noc",
     "english": "Good night",
     "serbian": "Laku noć",
-    "pronunciation": "LAH-koo NOHTCH",
+    "pronunciation": "LAH-koo NOHCH",
     "meaning": "Good night",
     "category": "Quick phrases",
     "subcategory": "Greetings and goodbyes",
@@ -318,32 +320,32 @@
     "examples": [
       {
         "serbian": "Laku noć, vidimo se sutra",
-        "pronunciation": "LAH-koo NOHTCH, VEE-dee-mo seh SOO-trah",
+        "pronunciation": "LAH-koo NOHCH, VEE-dee-mo seh SOO-trah",
         "english": "Good night, see you tomorrow",
         "context": "Leaving a chat"
       },
       {
         "context": "To her",
         "serbian": "Laku noć, lepo sanjaj",
-        "pronunciation": "LAH-koo NOHTCH, LEH-po SAH-nyai",
+        "pronunciation": "LAH-koo NOHCH, LEH-po SAH-nyai",
         "english": "Good night, sweet dreams"
       },
       {
         "context": "To a group",
         "serbian": "Laku noć svima",
-        "pronunciation": "LAH-koo NOHTCH SVEE-mah",
+        "pronunciation": "LAH-koo NOHCH SVEE-mah",
         "english": "Good night, everyone"
       },
       {
         "context": "About me",
         "serbian": "Idem da spavam, laku noć",
-        "pronunciation": "EE-dehm dah SPAH-vahm, LAH-koo NOHTCH",
+        "pronunciation": "EE-dehm dah SPAH-vahm, LAH-koo NOHCH",
         "english": "I'm going to sleep, good night"
       },
       {
         "context": "To her parents (polite)",
         "serbian": "Laku noć, hvala na svemu",
-        "pronunciation": "LAH-koo NOHTCH, HVAH-lah nah SVEH-moo",
+        "pronunciation": "LAH-koo NOHCH, HVAH-lah nah SVEH-moo",
         "english": "Good night, thanks for everything"
       }
     ],
@@ -356,7 +358,8 @@
       "cuvaj-se",
       "slatkih-snova",
       "spava-mi-se",
-      "jutro-vece"
+      "jutro-vece",
+      "jesi-li-se-naspavala"
     ],
     "verified": false,
     "placements": [
@@ -461,7 +464,9 @@
       "im-tired",
       "kako-se-zoves",
       "sta-ima-novo",
-      "kako-je-bilo"
+      "kako-je-bilo",
+      "kako-je-prosao-dan",
+      "jesi-li-dobro"
     ],
     "verified": false,
     "placements": [
@@ -764,7 +769,7 @@
         "useWhen": "We're tired (mixed group)",
         "example": {
           "serbian": "Umorni smo, ali srećni",
-          "pronunciation": "OO-mor-nee smoh, ah-lee SRETCH-nee",
+          "pronunciation": "OO-mor-nee smoh, ah-lee SREHCH-nee",
           "english": "We're tired but happy"
         }
       },
@@ -886,23 +891,23 @@
       },
       {
         "serbian": "Srećna sam",
-        "pronunciation": "SRETCH-nah sahm",
+        "pronunciation": "SREHCH-nah sahm",
         "speaker": "female",
         "useWhen": "Her, about herself",
         "example": {
           "serbian": "Srećna sam što dolaziš",
-          "pronunciation": "SRETCH-nah sahm shtoh DOH-lah-zeesh",
+          "pronunciation": "SREHCH-nah sahm shtoh DOH-lah-zeesh",
           "english": "I'm happy you're coming (a woman says this)"
         }
       },
       {
         "serbian": "Srećna si",
-        "pronunciation": "SRETCH-nah see",
+        "pronunciation": "SREHCH-nah see",
         "describes": "her",
         "useWhen": "You telling her she is happy",
         "example": {
           "serbian": "Srećna si, vidi se",
-          "pronunciation": "SRETCH-nah see, VEE-dee seh",
+          "pronunciation": "SREHCH-nah see, VEE-dee seh",
           "english": "You're happy, you can tell (to her)"
         }
       },
@@ -919,23 +924,23 @@
       },
       {
         "serbian": "Srećna je",
-        "pronunciation": "SRETCH-nah yeh",
+        "pronunciation": "SREHCH-nah yeh",
         "describes": "her",
         "useWhen": "About a woman (she)",
         "example": {
           "serbian": "Mama je srećna što dolaziš",
-          "pronunciation": "MAH-mah yeh SRETCH-nah shtoh DOH-lah-zeesh",
+          "pronunciation": "MAH-mah yeh SREHCH-nah shtoh DOH-lah-zeesh",
           "english": "Mom is happy you're coming"
         }
       },
       {
         "serbian": "Srećni smo",
-        "pronunciation": "SRETCH-nee smoh",
+        "pronunciation": "SREHCH-nee smoh",
         "describes": "us",
         "useWhen": "Us (mixed group)",
         "example": {
           "serbian": "Srećni smo zajedno",
-          "pronunciation": "SRETCH-nee smoh ZAH-yeh-dno",
+          "pronunciation": "SREHCH-nee smoh ZAH-yeh-dno",
           "english": "We're happy together"
         }
       }
@@ -964,7 +969,7 @@
       {
         "context": "Her, about herself",
         "serbian": "Srećna sam danas",
-        "pronunciation": "SRETCH-nah sahm DAH-nahs",
+        "pronunciation": "SREHCH-nah sahm DAH-nahs",
         "english": "I'm happy today (a woman says this)"
       }
     ],
@@ -1193,7 +1198,9 @@
       "thank-you",
       "please",
       "u-redu",
-      "izvini-sto-kasnim"
+      "izvini-sto-kasnim",
+      "zao-mi-je",
+      "oprosti"
     ],
     "verified": false,
     "placements": [
@@ -1364,7 +1371,9 @@
       "cool",
       "svaka-cast",
       "nema-sanse",
-      "boze-moj"
+      "boze-moj",
+      "fora",
+      "jao"
     ],
     "verified": false,
     "placements": [
@@ -1431,7 +1440,7 @@
         "english": "I'm dying, look at this"
       }
     ],
-    "texting": "crkoh",
+    "texting": "umirem / crkoh",
     "ijekavian": "Umirem od smijeha",
     "watchOut": "'Crkoh' is a past form that happens to be the same for men and women, so it never changes.",
     "related": [
@@ -1677,7 +1686,9 @@
     "related": [
       "ma-nemoj",
       "stvarno",
-      "ne-seri"
+      "ne-seri",
+      "zar-ne",
+      "jao"
     ],
     "verified": false,
     "placements": [
@@ -1881,7 +1892,8 @@
     "texting": "salis se",
     "related": [
       "ma-daj",
-      "stvarno"
+      "stvarno",
+      "zar-ne"
     ],
     "verified": false,
     "placements": [
@@ -1964,7 +1976,8 @@
       "bezveze",
       "ludilo",
       "svaka-cast",
-      "zanimljivo"
+      "zanimljivo",
+      "fora"
     ],
     "verified": false,
     "placements": [
@@ -2048,7 +2061,8 @@
       "cool",
       "nema-veze",
       "bzvz",
-      "maler"
+      "maler",
+      "fora"
     ],
     "verified": false,
     "placements": [
@@ -2146,7 +2160,8 @@
     "register": "casual",
     "changesBy": [
       "formal",
-      "plural"
+      "plural",
+      "describes"
     ],
     "forms": [
       {
@@ -2220,7 +2235,8 @@
     "related": [
       "bre",
       "vazi",
-      "idemo-u-grad"
+      "idemo-u-grad",
+      "pada-kisa"
     ],
     "verified": false,
     "placements": [
@@ -2308,7 +2324,8 @@
     "related": [
       "bre",
       "sorry",
-      "boze-moj"
+      "boze-moj",
+      "jao"
     ],
     "verified": false,
     "placements": [
@@ -2530,7 +2547,8 @@
       "vazi",
       "naravno",
       "slazem-se",
-      "u-pravu-si"
+      "u-pravu-si",
+      "jel-tako"
     ],
     "verified": false,
     "placements": [
@@ -2605,7 +2623,9 @@
     "texting": "aha",
     "related": [
       "tacno",
-      "stvarno"
+      "stvarno",
+      "eto",
+      "kapiram"
     ],
     "verified": false,
     "placements": [
@@ -2681,7 +2701,8 @@
     "texting": "stvarno",
     "related": [
       "ma-daj",
-      "aha"
+      "aha",
+      "zar-ne"
     ],
     "verified": false,
     "placements": [
@@ -2758,7 +2779,10 @@
     "related": [
       "pa",
       "ono",
-      "zapravo"
+      "zapravo",
+      "dakle",
+      "uglavnom",
+      "kapiram"
     ],
     "verified": false,
     "placements": [
@@ -2827,7 +2851,8 @@
       "znaci",
       "ono",
       "zapravo",
-      "onda"
+      "onda",
+      "eto"
     ],
     "verified": false,
     "placements": [
@@ -2957,7 +2982,8 @@
       "mozda",
       "sigurno",
       "nemam-pojma",
-      "mislim-da"
+      "mislim-da",
+      "verovatno"
     ],
     "verified": false,
     "placements": [
@@ -3297,7 +3323,8 @@
       "nzm",
       "sigurno",
       "nemam-pojma",
-      "ako"
+      "ako",
+      "verovatno"
     ],
     "verified": false,
     "placements": [
@@ -3445,7 +3472,8 @@
     "related": [
       "ko",
       "zasto",
-      "koji"
+      "koji",
+      "ko-to-je"
     ],
     "verified": false,
     "placements": [
@@ -3517,7 +3545,8 @@
     "watchOut": "Written 'ko' not 'tko' in Serbia.",
     "related": [
       "sta",
-      "gde"
+      "gde",
+      "ko-to-je"
     ],
     "verified": false,
     "placements": [
@@ -4066,7 +4095,9 @@
       "gde-si",
       "koliko-imas-godina",
       "slobodno-vreme",
-      "sta-ima-novo"
+      "sta-ima-novo",
+      "cime-se-bavis",
+      "sta-radis-danas"
     ],
     "verified": false,
     "placements": [
@@ -4203,8 +4234,8 @@
   {
     "id": "jesi-li-gladna",
     "english": "Are you hungry?",
-    "serbian": "Jesi li gladan?",
-    "pronunciation": "YEH-see lee GLAH-dahn",
+    "serbian": "Jesi li gladna?",
+    "pronunciation": "YEH-see lee GLAHD-nah",
     "meaning": "Are you hungry?",
     "category": "Conversation",
     "subcategory": "Questions",
@@ -4276,6 +4307,11 @@
     ],
     "patternHint": "Female form drops the middle vowel and adds -a.",
     "alternatives": [
+      {
+        "serbian": "Jesi li gladan?",
+        "pronunciation": "YEH-see lee GLAH-dahn",
+        "nuance": "The same question to a man"
+      },
       {
         "serbian": "Je l' si gladna?",
         "pronunciation": "yel see GLAHD-nah",
@@ -4409,7 +4445,9 @@
       "gde",
       "gde-si",
       "koliko-imas-godina",
-      "gde-zivis"
+      "gde-zivis",
+      "iz-kanade",
+      "cime-se-bavis"
     ],
     "verified": false,
     "placements": [
@@ -4713,7 +4751,8 @@
       "mislim-na-tebe",
       "volim-te",
       "laku-noc",
-      "hocu-da-te-vidim"
+      "hocu-da-te-vidim",
+      "nedostajes-mi"
     ],
     "verified": false,
     "forms": [
@@ -4801,7 +4840,8 @@
     "register": "casual",
     "changesBy": [
       "describes",
-      "addressing"
+      "addressing",
+      "speaker"
     ],
     "forms": [
       {
@@ -5225,7 +5265,9 @@
       "falis-mi",
       "laku-noc-lepotice",
       "lepo-mi-je-s-tobom",
-      "mislim-da"
+      "mislim-da",
+      "nedostajes-mi",
+      "sanjao-sam-te"
     ],
     "verified": false,
     "forms": [
@@ -5312,7 +5354,8 @@
     ],
     "register": "casual",
     "changesBy": [
-      "addressing"
+      "addressing",
+      "describes"
     ],
     "forms": [
       {
@@ -5451,7 +5494,7 @@
     "examples": [
       {
         "serbian": "Laku noć, ljubavi",
-        "pronunciation": "LAH-koo NOHTCH, LYOO-bah-vee",
+        "pronunciation": "LAH-koo NOHCH, LYOO-bah-vee",
         "english": "Good night, my love",
         "context": "To her, goodnight"
       },
@@ -5506,7 +5549,7 @@
     "id": "laku-noc-lepotice",
     "english": "Good night, beautiful",
     "serbian": "Laku noć, lepotice",
-    "pronunciation": "LAH-koo NOHTCH, leh-poh-TEE-tseh",
+    "pronunciation": "LAH-koo NOHCH, leh-poh-TEE-tseh",
     "meaning": "Good night, beautiful (to her)",
     "category": "Flirting and relationships",
     "subcategory": "Good morning and good night",
@@ -5517,17 +5560,18 @@
     ],
     "register": "casual",
     "changesBy": [
-      "addressing"
+      "addressing",
+      "describes"
     ],
     "forms": [
       {
         "serbian": "Laku noć, lepotice",
-        "pronunciation": "LAH-koo NOHTCH, leh-poh-TEE-tseh",
+        "pronunciation": "LAH-koo NOHCH, leh-poh-TEE-tseh",
         "describes": "her",
         "useWhen": "To her",
         "example": {
           "serbian": "Laku noć, lepotice, sanjaj me",
-          "pronunciation": "LAH-koo NOHTCH, leh-poh-TEE-tseh, SAH-nyai meh",
+          "pronunciation": "LAH-koo NOHCH, leh-poh-TEE-tseh, SAH-nyai meh",
           "english": "Good night, beautiful, dream of me"
         }
       },
@@ -5558,7 +5602,7 @@
     "alternatives": [
       {
         "serbian": "Laku noć, sunce",
-        "pronunciation": "LAH-koo NOHTCH, SOON-tseh",
+        "pronunciation": "LAH-koo NOHCH, SOON-tseh",
         "nuance": "'Good night, sunshine'"
       },
       {
@@ -5570,7 +5614,7 @@
     "examples": [
       {
         "serbian": "Laku noć, lepotice. Čujemo se sutra",
-        "pronunciation": "LAH-koo NOHTCH, leh-poh-TEE-tseh. CHOO-ye-mo seh SOO-trah",
+        "pronunciation": "LAH-koo NOHCH, leh-poh-TEE-tseh. CHOO-ye-mo seh SOO-trah",
         "english": "Good night, beautiful. Talk tomorrow",
         "context": "To her"
       },
@@ -5593,7 +5637,9 @@
       "laku-noc",
       "draga",
       "ljubavi",
-      "slatkih-snova"
+      "slatkih-snova",
+      "dobro-jutro-sunce",
+      "sanjao-sam-te"
     ],
     "verified": false,
     "placements": [
@@ -5654,7 +5700,7 @@
       {
         "context": "Short",
         "serbian": "Ljubim te, laku noć",
-        "pronunciation": "LYOO-beem teh, LAH-koo NOHTCH",
+        "pronunciation": "LYOO-beem teh, LAH-koo NOHCH",
         "english": "Kisses, good night"
       }
     ],
@@ -5981,7 +6027,8 @@
     "register": "casual",
     "changesBy": [
       "speaker",
-      "tense"
+      "tense",
+      "describes"
     ],
     "forms": [
       {
@@ -6139,7 +6186,8 @@
     "related": [
       "salis-se",
       "samo-se-salim",
-      "budala"
+      "budala",
+      "drska-si"
     ],
     "verified": false,
     "forms": [
@@ -6204,7 +6252,7 @@
     "id": "nemoguc-sam",
     "english": "I'm impossible",
     "serbian": "Nemoguć sam",
-    "pronunciation": "NEH-mo-goochh sahm",
+    "pronunciation": "NEH-mo-gooch sahm",
     "meaning": "I'm impossible (owning your bad behavior, playfully)",
     "category": "Conversation",
     "subcategory": "Teasing and comebacks",
@@ -6214,7 +6262,8 @@
     ],
     "register": "casual",
     "changesBy": [
-      "speaker"
+      "speaker",
+      "describes"
     ],
     "forms": [
       {
@@ -6304,7 +6353,8 @@
     "texting": "nemoguc sam",
     "related": [
       "luda-si",
-      "samo-se-salim"
+      "samo-se-salim",
+      "drska-si"
     ],
     "verified": false,
     "placements": [
@@ -6516,7 +6566,9 @@
       "samo-se-salim",
       "sorry",
       "moramo-da-pricamo",
-      "iznerviran-sam"
+      "iznerviran-sam",
+      "zao-mi-je",
+      "oprosti"
     ],
     "verified": false,
     "examples": [
@@ -6663,7 +6715,8 @@
       "nemoguc-sam",
       "zezas-me",
       "budala",
-      "lenjivac"
+      "lenjivac",
+      "drska-si"
     ],
     "verified": false,
     "placements": [
@@ -6910,7 +6963,10 @@
       "u-koliko-sati",
       "plan-za-vikend",
       "hocu-da-te-vidim",
-      "idemo-na-veceru"
+      "idemo-na-veceru",
+      "sta-radis-danas",
+      "jedva-cekam",
+      "tvoj-broj"
     ],
     "verified": false,
     "examples": [
@@ -7070,7 +7126,8 @@
     "related": [
       "koliko",
       "kad-si-slobodna",
-      "koliko-je-sati"
+      "koliko-je-sati",
+      "vidimo-se-u-osam"
     ],
     "verified": false,
     "placements": [
@@ -7141,7 +7198,9 @@
       "stizem-za-pet",
       "zaglavljen-sam",
       "izvini-sto-kasnim",
-      "javi-mi-kad-stignes"
+      "javi-mi-kad-stignes",
+      "jesi-li-stigla",
+      "za-sat-vremena"
     ],
     "verified": false,
     "forms": [
@@ -7342,7 +7401,8 @@
     "related": [
       "kasnim",
       "gde-si",
-      "stizem-za-pet"
+      "stizem-za-pet",
+      "jesi-li-stigla"
     ],
     "verified": false,
     "placements": [
@@ -7370,8 +7430,7 @@
     ],
     "register": "casual",
     "changesBy": [
-      "describes",
-      "formal"
+      "describes"
     ],
     "alternatives": [
       {
@@ -7492,8 +7551,7 @@
     ],
     "register": "casual",
     "changesBy": [
-      "describes",
-      "formal"
+      "describes"
     ],
     "alternatives": [
       {
@@ -7920,7 +7978,8 @@
     "related": [
       "kako-si",
       "ja-mi",
-      "nas-vas"
+      "nas-vas",
+      "mene-tebe"
     ],
     "verified": false,
     "placements": [
@@ -8042,7 +8101,8 @@
     "watchOut": "Serbian drops pronouns often: 'Došla je' already says 'she came'.",
     "related": [
       "ja-mi",
-      "to-be"
+      "to-be",
+      "mene-tebe"
     ],
     "verified": false,
     "placements": [
@@ -8100,7 +8160,9 @@
     "watchOut": "Usually skipped: 'Idem' means 'I'm going'. Say 'ja' only for emphasis or contrast.",
     "related": [
       "ti-vi",
-      "on-ona"
+      "on-ona",
+      "mene-tebe",
+      "meni-tebi"
     ],
     "verified": false,
     "forms": [
@@ -8774,7 +8836,8 @@
     "related": [
       "moj",
       "koji",
-      "njegov-njen"
+      "njegov-njen",
+      "koje-je-boje"
     ],
     "verified": false,
     "placements": [
@@ -9048,7 +9111,8 @@
     "related": [
       "ludilo",
       "i",
-      "zato-sto"
+      "zato-sto",
+      "mnogo"
     ],
     "verified": false,
     "placements": [
@@ -9221,7 +9285,9 @@
     "related": [
       "koliko",
       "koliko-imas-godina",
-      "koliko-je-sati"
+      "koliko-je-sati",
+      "prvi-drugi-treci",
+      "cena-u-dinarima"
     ],
     "verified": false,
     "placements": [
@@ -10878,7 +10944,10 @@
       "javicu-se",
       "dodji",
       "srecan-put",
-      "javi-mi-kad-stignes"
+      "javi-mi-kad-stignes",
+      "meni-tebi",
+      "javi-ako-se-promeni",
+      "tvoj-broj"
     ],
     "verified": false,
     "placements": [
@@ -10981,7 +11050,8 @@
     "ijekavian": "Spavaj lijepo",
     "related": [
       "laku-noc",
-      "dodji"
+      "dodji",
+      "jesi-li-se-naspavala"
     ],
     "verified": false,
     "placements": [
@@ -11629,7 +11699,8 @@
     "related": [
       "jesi-li-gladna",
       "zedan",
-      "hladno-mi-je"
+      "hladno-mi-je",
+      "sta-ti-se-jede"
     ],
     "verified": false,
     "placements": [
@@ -12658,7 +12729,9 @@
       "jeftino",
       "koliko",
       "koliko-kosta",
-      "lova"
+      "lova",
+      "cena-u-dinarima",
+      "skuplje-jeftinije"
     ],
     "verified": false,
     "forms": [
@@ -12760,7 +12833,9 @@
       "skupo",
       "koliko",
       "koliko-kosta",
-      "lova"
+      "lova",
+      "cena-u-dinarima",
+      "skuplje-jeftinije"
     ],
     "verified": false,
     "forms": [
@@ -12875,7 +12950,8 @@
     "related": [
       "nije-lose",
       "cool",
-      "lako-tesko"
+      "lako-tesko",
+      "najbolji"
     ],
     "verified": false,
     "forms": [
@@ -13065,7 +13141,8 @@
     "related": [
       "nije-lose",
       "dosadno-mi-je",
-      "lako-tesko"
+      "lako-tesko",
+      "siroko-usko"
     ],
     "verified": false,
     "forms": [
@@ -13330,7 +13407,8 @@
     "texting": "pivo",
     "related": [
       "vino",
-      "kafic"
+      "kafic",
+      "idemo-na-pice"
     ],
     "verified": false,
     "placements": [
@@ -14464,7 +14542,7 @@
     "id": "prijatelj",
     "english": "Friend",
     "serbian": "Prijatelj / prijateljica",
-    "pronunciation": "PREE-yah-telyh / pree-yah-teh-LYEE-tsah",
+    "pronunciation": "PREE-yah-tel / pree-yah-teh-LYEE-tsah",
     "meaning": "Friend (male / female)",
     "category": "Everyday situations",
     "subcategory": "Friends and family",
@@ -14480,7 +14558,7 @@
     "forms": [
       {
         "serbian": "moj prijatelj",
-        "pronunciation": "MOY PREE-yah-telyh",
+        "pronunciation": "MOY PREE-yah-tel",
         "describes": "him",
         "useWhen": "Male friend",
         "example": {
@@ -14617,7 +14695,8 @@
       "koliko-je-sati",
       "meseci",
       "jutro-vece",
-      "pre-posle"
+      "pre-posle",
+      "jutros-sinoc"
     ],
     "verified": false,
     "forms": [
@@ -14717,7 +14796,10 @@
     "related": [
       "sta-radis",
       "danas-sutra-juce",
-      "jutro-vece"
+      "jutro-vece",
+      "hoces-da-prosetamo",
+      "jutros-sinoc",
+      "za-sat-vremena"
     ],
     "verified": false,
     "placements": [
@@ -14801,7 +14883,9 @@
     "related": [
       "vikend",
       "danas-sutra-juce",
-      "meseci"
+      "meseci",
+      "jutros-sinoc",
+      "prvi-drugi-treci"
     ],
     "verified": false,
     "placements": [
@@ -14984,7 +15068,7 @@
     "forms": [
       {
         "serbian": "Srećna slava",
-        "pronunciation": "SRETCH-nah SLAH-vah",
+        "pronunciation": "SREHCH-nah SLAH-vah",
         "nounGender": "feminine",
         "useWhen": "Greeting to the host (feminine noun)",
         "example": {
@@ -15008,14 +15092,14 @@
     "alternatives": [
       {
         "serbian": "Srećna slava!",
-        "pronunciation": "SRETCH-nah SLAH-vah",
+        "pronunciation": "SREHCH-nah SLAH-vah",
         "nuance": "Standard greeting to the host"
       }
     ],
     "examples": [
       {
         "serbian": "Srećna slava!",
-        "pronunciation": "SRETCH-nah SLAH-vah",
+        "pronunciation": "SREHCH-nah SLAH-vah",
         "english": "Happy slava!",
         "context": "Greeting"
       },
@@ -15091,12 +15175,12 @@
       },
       {
         "serbian": "Srećna slava",
-        "pronunciation": "SRETCH-nah SLAH-vah",
+        "pronunciation": "SREHCH-nah SLAH-vah",
         "nounGender": "feminine",
         "useWhen": "Slava (feminine noun)",
         "example": {
           "serbian": "Srećna slava, domaćine!",
-          "pronunciation": "SRETCH-nah SLAH-vah, doh-MAH-chee-neh",
+          "pronunciation": "SREHCH-nah SLAH-vah, doh-MAH-chee-neh",
           "english": "Happy slava, host!"
         }
       }
@@ -15214,7 +15298,8 @@
       "dobro-vece",
       "hello",
       "kako-se-zoves",
-      "ovo-je"
+      "ovo-je",
+      "iz-kanade"
     ],
     "verified": false,
     "forms": [
@@ -15420,7 +15505,8 @@
     "texting": "izvolite",
     "related": [
       "please",
-      "prijatno"
+      "prijatno",
+      "eto"
     ],
     "verified": false,
     "placements": [
@@ -15946,7 +16032,12 @@
     "related": [
       "govorim-malo",
       "thank-you",
-      "govoris-li-engleski"
+      "govoris-li-engleski",
+      "govori-sporije",
+      "kako-se-kaze",
+      "ne-govorim-dobro",
+      "cime-se-bavis",
+      "prvi-put"
     ],
     "verified": false,
     "forms": [
@@ -16061,7 +16152,9 @@
     "related": [
       "ucim-srpski",
       "polako",
-      "govoris-li-engleski"
+      "govoris-li-engleski",
+      "kako-se-kaze",
+      "ne-govorim-dobro"
     ],
     "verified": false,
     "forms": [
@@ -16224,7 +16317,7 @@
     "id": "srecan-praznik",
     "english": "Happy holiday",
     "serbian": "Srećan Božić / Srećna Nova godina",
-    "pronunciation": "SREH-chahn BOH-zheech / SRETCH-nah NOH-vah GOH-dee-nah",
+    "pronunciation": "SREH-chahn BOH-zheech / SREHCH-nah NOH-vah GOH-dee-nah",
     "meaning": "Happy Christmas / Happy New Year",
     "category": "Culture and etiquette",
     "subcategory": "Holidays",
@@ -16251,12 +16344,12 @@
       },
       {
         "serbian": "Srećna Nova godina",
-        "pronunciation": "SRETCH-nah NOH-vah GOH-dee-nah",
+        "pronunciation": "SREHCH-nah NOH-vah GOH-dee-nah",
         "nounGender": "feminine",
         "useWhen": "New Year (feminine noun)",
         "example": {
           "serbian": "Srećna Nova godina, ljubavi",
-          "pronunciation": "SRETCH-nah NOH-vah GOH-dee-nah, LYOO-bah-vee",
+          "pronunciation": "SREHCH-nah NOH-vah GOH-dee-nah, LYOO-bah-vee",
           "english": "Happy New Year, my love"
         }
       },
@@ -16273,12 +16366,12 @@
       },
       {
         "serbian": "Srećni praznici",
-        "pronunciation": "SRETCH-nee PRAHZ-nee-tsee",
+        "pronunciation": "SREHCH-nee PRAHZ-nee-tsee",
         "nounGender": "plural",
         "useWhen": "Happy holidays (any, plural)",
         "example": {
           "serbian": "Srećni praznici svima!",
-          "pronunciation": "SRETCH-nee PRAHZ-nee-tsee SVEE-mah",
+          "pronunciation": "SREHCH-nee PRAHZ-nee-tsee SVEE-mah",
           "english": "Happy holidays to all!"
         }
       }
@@ -16287,7 +16380,7 @@
     "examples": [
       {
         "serbian": "Srećna Nova godina!",
-        "pronunciation": "SRETCH-nah NOH-vah GOH-dee-nah",
+        "pronunciation": "SREHCH-nah NOH-vah GOH-dee-nah",
         "english": "Happy New Year!",
         "context": "New Year"
       },
@@ -16718,7 +16811,8 @@
       "brzo-sporo",
       "sve-ce-biti-dobro",
       "sto-je-bilo-bilo-je",
-      "kao-iz-kabla"
+      "kao-iz-kabla",
+      "govori-sporije"
     ],
     "verified": false,
     "placements": [
@@ -16794,7 +16888,8 @@
     "watchOut": "A famous trait in Serbian culture, said half-proudly, half-teasingly.",
     "related": [
       "nemoguc-sam",
-      "luda-si"
+      "luda-si",
+      "sta-znaci"
     ],
     "verified": false,
     "placements": [
@@ -17589,7 +17684,9 @@
     "texting": "dogovoreno",
     "related": [
       "moze",
-      "vazi"
+      "vazi",
+      "vidimo-se-u-osam",
+      "javi-ako-se-promeni"
     ],
     "verified": false,
     "placements": [
@@ -17685,7 +17782,6 @@
     "register": "neutral",
     "changesBy": [
       "describes",
-      "formal",
       "plural"
     ],
     "forms": [
@@ -17879,7 +17975,8 @@
     "register": "neutral",
     "changesBy": [
       "noun gender",
-      "describes"
+      "describes",
+      "speaker"
     ],
     "forms": [
       {
@@ -17987,7 +18084,8 @@
     "related": [
       "nije-lose",
       "dobro-lose",
-      "vise-nego"
+      "vise-nego",
+      "najbolji"
     ],
     "verified": false,
     "placements": [
@@ -18062,7 +18160,9 @@
     "texting": "više nego",
     "related": [
       "bolje",
-      "isto-kao"
+      "isto-kao",
+      "mnogo",
+      "skuplje-jeftinije"
     ],
     "verified": false,
     "placements": [
@@ -18261,7 +18361,8 @@
     ],
     "register": "casual",
     "changesBy": [
-      "plural"
+      "plural",
+      "noun gender"
     ],
     "forms": [
       {
@@ -18517,7 +18618,8 @@
     "texting": "ovo / to / ono",
     "related": [
       "ovde-tamo",
-      "koji"
+      "koji",
+      "ko-to-je"
     ],
     "verified": false,
     "placements": [
@@ -18740,7 +18842,9 @@
     "ijekavian": "bijela",
     "related": [
       "ovaj-taj",
-      "staro-novo"
+      "staro-novo",
+      "koje-je-boje",
+      "tamno-svetlo"
     ],
     "verified": false,
     "placements": [
@@ -18847,7 +18951,11 @@
       "boje",
       "oblici",
       "visok-nizak",
-      "staro-novo"
+      "staro-novo",
+      "koje-je-boje",
+      "tamno-svetlo",
+      "dugacko-kratko",
+      "siroko-usko"
     ],
     "verified": false,
     "placements": [
@@ -18874,9 +18982,7 @@
       "noun"
     ],
     "register": "neutral",
-    "changesBy": [
-      "noun gender"
-    ],
+    "changesBy": [],
     "alternatives": [
       {
         "serbian": "Srce",
@@ -18923,7 +19029,9 @@
     "texting": "oblici",
     "related": [
       "veliko-malo",
-      "boje"
+      "boje",
+      "dugacko-kratko",
+      "siroko-usko"
     ],
     "verified": false,
     "placements": [
@@ -19570,7 +19678,8 @@
     "related": [
       "thank-you",
       "nema-na-cemu",
-      "hvala-na-gostoprimstvu"
+      "hvala-na-gostoprimstvu",
+      "mnogo"
     ],
     "verified": false,
     "placements": [
@@ -19678,8 +19787,7 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "plural",
-      "formal"
+      "plural"
     ],
     "forms": [
       {
@@ -19765,7 +19873,8 @@
     "related": [
       "u-pravu-si",
       "tacno",
-      "ma-nemoj"
+      "ma-nemoj",
+      "jel-tako"
     ],
     "verified": false,
     "placements": [
@@ -19788,10 +19897,7 @@
       "right"
     ],
     "register": "neutral",
-    "changesBy": [
-      "speaker",
-      "formal"
-    ],
+    "changesBy": [],
     "forms": [
       {
         "serbian": "U pravu si",
@@ -19870,7 +19976,9 @@
     "related": [
       "slazem-se",
       "tacno",
-      "nisam-znao"
+      "nisam-znao",
+      "jel-tako",
+      "eto"
     ],
     "verified": false,
     "placements": [
@@ -19882,56 +19990,29 @@
   },
   {
     "id": "sigurno",
-    "english": "Definitely / probably",
-    "serbian": "Sigurno / Verovatno",
-    "pronunciation": "SEE-goor-no / veh-ROH-vaht-no",
-    "meaning": "Surely / probably",
+    "english": "Definitely / for sure",
+    "serbian": "Sigurno",
+    "pronunciation": "SEE-goor-no",
+    "meaning": "Surely, for sure, definitely",
     "category": "Quick phrases",
     "subcategory": "Yes, no, maybe",
     "tags": [
-      "maybe",
       "sure",
-      "probably"
+      "certain",
+      "definitely"
     ],
     "register": "neutral",
     "changesBy": [],
-    "forms": [
-      {
-        "serbian": "Sigurno",
-        "pronunciation": "SEE-goor-no",
-        "useWhen": "Sure, definitely",
-        "example": {
-          "serbian": "Sigurno dolazim",
-          "pronunciation": "SEE-goor-no doh-LAH-zeem",
-          "english": "I'm definitely coming"
-        }
-      },
-      {
-        "serbian": "Verovatno",
-        "pronunciation": "veh-ROH-vaht-no",
-        "useWhen": "Probably",
-        "example": {
-          "serbian": "Verovatno kasnim",
-          "pronunciation": "veh-ROH-vaht-no KAH-sneem",
-          "english": "I'll probably be late"
-        }
-      }
-    ],
     "alternatives": [
       {
-        "serbian": "Možda",
-        "pronunciation": "MOHZH-dah",
-        "nuance": "Maybe"
+        "serbian": "Svakako",
+        "pronunciation": "SVAH-kah-ko",
+        "nuance": "Certainly; a touch more formal"
       },
       {
-        "serbian": "Naravno",
-        "pronunciation": "nah-RAHV-no",
-        "nuance": "Of course"
-      },
-      {
-        "serbian": "Nikako",
-        "pronunciation": "NEE-kah-ko",
-        "nuance": "No way"
+        "serbian": "Sasvim sigurno",
+        "pronunciation": "sahs-VEEM SEE-goor-no",
+        "nuance": "Absolutely sure"
       }
     ],
     "examples": [
@@ -19942,27 +20023,39 @@
         "context": "To her"
       },
       {
-        "serbian": "Verovatno je u gradu",
-        "pronunciation": "veh-ROH-vaht-no yeh oo GRAH-doo",
-        "english": "She's probably in town",
-        "context": "About her"
+        "serbian": "Jesi li sigurna?",
+        "pronunciation": "YEH-see lee SEE-goor-nah",
+        "english": "Are you sure?",
+        "context": "Asking her"
       },
       {
         "serbian": "Nisam siguran",
         "pronunciation": "NEE-sahm SEE-goo-rahn",
-        "english": "I'm not sure",
-        "context": "Doubt"
+        "english": "I'm not sure (a man says this)",
+        "context": "About me"
       },
       {
-        "serbian": "Verovatno ćemo ići",
-        "pronunciation": "veh-ROH-vaht-no CHEH-mo EE-chee",
-        "english": "We'll probably go",
+        "serbian": "Nisam sigurna",
+        "pronunciation": "NEE-sahm SEE-goor-nah",
+        "english": "I'm not sure (a woman says this)",
+        "context": "About me (her)"
+      },
+      {
+        "serbian": "Sigurno je kod kuće",
+        "pronunciation": "SEE-goor-no yeh kohd KOO-cheh",
+        "english": "He's definitely at home",
+        "context": "About him"
+      },
+      {
+        "serbian": "Sigurno ćemo stići na vreme",
+        "pronunciation": "SEE-goor-no CHEH-mo STEE-chee nah VREH-meh",
+        "english": "We'll definitely get there on time",
         "context": "About us"
       }
     ],
-    "texting": "sigurno / verovatno",
-    "ijekavian": "Vjerovatno",
+    "texting": "sigurno",
     "related": [
+      "verovatno",
       "mozda",
       "naravno",
       "sumnjam"
@@ -19977,7 +20070,8 @@
         "category": "Quick phrases",
         "subcategory": "Agree and disagree"
       }
-    ]
+    ],
+    "watchOut": "\"Sigurno\" is a firm yes. If you only lean yes, use \"verovatno\" (probably)."
   },
   {
     "id": "nemam-pojma",
@@ -20035,7 +20129,8 @@
     "related": [
       "nzm",
       "mozda",
-      "sumnjam"
+      "sumnjam",
+      "kapiram"
     ],
     "verified": false,
     "placements": [
@@ -20208,7 +20303,8 @@
       "see-you",
       "javi-se",
       "cuvaj-se",
-      "javi-mi-kad-stignes"
+      "javi-mi-kad-stignes",
+      "prvi-put"
     ],
     "verified": false,
     "placements": [
@@ -20277,7 +20373,7 @@
     "examples": [
       {
         "serbian": "Laku noć, čuvaj se",
-        "pronunciation": "LAH-koo NOHTCH, CHOO-vai seh",
+        "pronunciation": "LAH-koo NOHCH, CHOO-vai seh",
         "english": "Good night, take care",
         "context": "To her"
       },
@@ -20377,7 +20473,9 @@
       "cool",
       "ludilo",
       "cestitam",
-      "care"
+      "care",
+      "najbolji",
+      "fora"
     ],
     "verified": false,
     "placements": [
@@ -20551,7 +20649,8 @@
       "u-redu",
       "zabrinut-sam",
       "nemoj",
-      "kamen-sa-srca"
+      "kamen-sa-srca",
+      "jesi-li-dobro"
     ],
     "verified": false,
     "placements": [
@@ -20662,7 +20761,9 @@
       "drago-mi-je",
       "hello",
       "kako-si",
-      "ovo-je"
+      "ovo-je",
+      "iz-kanade",
+      "tvoj-broj"
     ],
     "verified": false,
     "placements": [
@@ -20875,7 +20976,8 @@
       "odakle-si",
       "blizu-daleko",
       "stan",
-      "zivim"
+      "zivim",
+      "cime-se-bavis"
     ],
     "verified": false,
     "placements": [
@@ -21057,7 +21159,9 @@
       "ucim-srpski",
       "govorim-malo",
       "razumem",
-      "umem"
+      "umem",
+      "ponovi",
+      "ne-govorim-dobro"
     ],
     "verified": false,
     "placements": [
@@ -21211,7 +21315,8 @@
       "kako-si",
       "sta-ima-novo",
       "bio-sam",
-      "jesi-li-videla"
+      "jesi-li-videla",
+      "kako-je-prosao-dan"
     ],
     "verified": false,
     "placements": [
@@ -21286,7 +21391,8 @@
     "related": [
       "vikend",
       "hoces-da-izadjemo",
-      "kad-si-slobodna"
+      "kad-si-slobodna",
+      "sta-radis-danas"
     ],
     "verified": false,
     "placements": [
@@ -21319,7 +21425,8 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "plural"
+      "plural",
+      "describes"
     ],
     "forms": [
       {
@@ -21391,7 +21498,8 @@
     "related": [
       "kasnim",
       "stigao-sam",
-      "zaglavljen-sam"
+      "zaglavljen-sam",
+      "za-sat-vremena"
     ],
     "verified": false,
     "placements": [
@@ -21517,7 +21625,6 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "formal",
       "tense"
     ],
     "alternatives": [
@@ -21563,7 +21670,9 @@
       "kasnim",
       "sorry",
       "zaglavljen-sam",
-      "iskrslo-mi-je"
+      "iskrslo-mi-je",
+      "zao-mi-je",
+      "oprosti"
     ],
     "verified": false,
     "placements": [
@@ -21719,7 +21828,8 @@
     "related": [
       "pomerimo",
       "vazi",
-      "ne-mogu-veceras"
+      "ne-mogu-veceras",
+      "javi-ako-se-promeni"
     ],
     "verified": false,
     "placements": [
@@ -21751,9 +21861,7 @@
       "came up"
     ],
     "register": "neutral",
-    "changesBy": [
-      "formal"
-    ],
+    "changesBy": [],
     "alternatives": [
       {
         "serbian": "Imam obavezu",
@@ -21824,9 +21932,7 @@
       "like"
     ],
     "register": "casual",
-    "changesBy": [
-      "describes"
-    ],
+    "changesBy": [],
     "forms": [
       {
         "serbian": "Zanimaš me",
@@ -21973,7 +22079,8 @@
     "related": [
       "svidjas-mi-se",
       "nasmejavas-me",
-      "mislim-na-tebe"
+      "mislim-na-tebe",
+      "napolju-je-hladno"
     ],
     "verified": false,
     "placements": [
@@ -22190,7 +22297,6 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "formal",
       "plural"
     ],
     "forms": [
@@ -22268,7 +22374,9 @@
       "falis-mi",
       "kad-si-slobodna",
       "hocu",
-      "voleo-bih"
+      "voleo-bih",
+      "jedva-cekam",
+      "tvoj-broj"
     ],
     "verified": false,
     "placements": [
@@ -22345,7 +22453,8 @@
     "related": [
       "hoces-da-izadjemo",
       "kad-si-slobodna",
-      "ja-cu-da-platim"
+      "ja-cu-da-platim",
+      "sta-ti-se-jede"
     ],
     "verified": false,
     "placements": [
@@ -22769,7 +22878,7 @@
         "useWhen": "Sun: \"sunshine\", warm and sweet",
         "example": {
           "serbian": "Laku noć, sunce",
-          "pronunciation": "LAH-koo NOHTCH, SOON-tseh",
+          "pronunciation": "LAH-koo NOHCH, SOON-tseh",
           "english": "Good night, sunshine"
         }
       },
@@ -22832,7 +22941,8 @@
     "related": [
       "draga",
       "ljubavi",
-      "slatkih-snova"
+      "slatkih-snova",
+      "dobro-jutro-sunce"
     ],
     "verified": false,
     "placements": [
@@ -22863,7 +22973,7 @@
     "alternatives": [
       {
         "serbian": "Laku noć",
-        "pronunciation": "LAH-koo NOHTCH",
+        "pronunciation": "LAH-koo NOHCH",
         "nuance": "Good night"
       },
       {
@@ -22880,7 +22990,7 @@
     "examples": [
       {
         "serbian": "Laku noć, slatkih snova",
-        "pronunciation": "LAH-koo NOHTCH, SLAHT-keeh SNOH-vah",
+        "pronunciation": "LAH-koo NOHCH, SLAHT-keeh SNOH-vah",
         "english": "Good night, sweet dreams",
         "context": "To her"
       },
@@ -22907,7 +23017,8 @@
     "related": [
       "laku-noc",
       "laku-noc-lepotice",
-      "zlato-sunce"
+      "zlato-sunce",
+      "sanjao-sam-te"
     ],
     "verified": false,
     "placements": [
@@ -23004,7 +23115,8 @@
     "related": [
       "javi-se",
       "srecan-put",
-      "kasnim"
+      "kasnim",
+      "jesi-li-stigla"
     ],
     "verified": false,
     "placements": [
@@ -23544,7 +23656,7 @@
     "examples": [
       {
         "serbian": "Laku noć, spava mi se",
-        "pronunciation": "LAH-koo NOHTCH, SPAH-vah mee seh",
+        "pronunciation": "LAH-koo NOHCH, SPAH-vah mee seh",
         "english": "Good night, I'm sleepy",
         "context": "To her"
       },
@@ -23574,7 +23686,8 @@
       "hladno-mi-je",
       "bolestan-sam",
       "ne-da-mi-se",
-      "lenjivac"
+      "lenjivac",
+      "sta-ti-se-jede"
     ],
     "verified": false,
     "placements": [
@@ -23690,7 +23803,8 @@
     "related": [
       "spava-mi-se",
       "gladan",
-      "zedan"
+      "zedan",
+      "napolju-je-hladno"
     ],
     "verified": false,
     "placements": [
@@ -23795,7 +23909,8 @@
     "related": [
       "zgodan",
       "lepa-si",
-      "veliko-malo"
+      "veliko-malo",
+      "dugacko-kratko"
     ],
     "verified": false,
     "placements": [
@@ -23820,8 +23935,7 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "describes",
-      "noun gender"
+      "describes"
     ],
     "forms": [
       {
@@ -23918,7 +24032,8 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "plural"
+      "plural",
+      "describes"
     ],
     "forms": [
       {
@@ -24469,7 +24584,9 @@
     "texting": "staro / novo",
     "related": [
       "veliko-malo",
-      "boje"
+      "boje",
+      "tamno-svetlo",
+      "dugacko-kratko"
     ],
     "verified": false,
     "placements": [
@@ -24601,7 +24718,8 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "plural"
+      "plural",
+      "describes"
     ],
     "forms": [
       {
@@ -24871,7 +24989,8 @@
     "related": [
       "hoces-da-izadjemo",
       "ajde",
-      "svirka"
+      "svirka",
+      "idemo-na-pice"
     ],
     "verified": false,
     "placements": [
@@ -24899,9 +25018,7 @@
       "gig"
     ],
     "register": "neutral",
-    "changesBy": [
-      "noun gender"
-    ],
+    "changesBy": [],
     "alternatives": [
       {
         "serbian": "Koncert",
@@ -25158,7 +25275,8 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "plural"
+      "plural",
+      "describes"
     ],
     "forms": [
       {
@@ -25514,9 +25632,7 @@
       "store"
     ],
     "register": "neutral",
-    "changesBy": [
-      "noun gender"
-    ],
+    "changesBy": [],
     "alternatives": [
       {
         "serbian": "Radnja",
@@ -25857,9 +25973,7 @@
       "taxi"
     ],
     "register": "neutral",
-    "changesBy": [
-      "noun gender"
-    ],
+    "changesBy": [],
     "alternatives": [
       {
         "serbian": "Tramvaj",
@@ -25939,9 +26053,7 @@
       "travel"
     ],
     "register": "neutral",
-    "changesBy": [
-      "noun gender"
-    ],
+    "changesBy": [],
     "forms": [
       {
         "serbian": "Jedna karta",
@@ -26203,9 +26315,7 @@
       "food"
     ],
     "register": "neutral",
-    "changesBy": [
-      "noun gender"
-    ],
+    "changesBy": [],
     "alternatives": [
       {
         "serbian": "Užina",
@@ -26257,7 +26367,8 @@
       "kafa",
       "sve-je-bilo-ukusno",
       "cevapi",
-      "burek"
+      "burek",
+      "sta-ti-se-jede"
     ],
     "verified": false,
     "placements": [
@@ -26340,7 +26451,8 @@
     "related": [
       "burek",
       "dorucak-rucak-vecera",
-      "rakija"
+      "rakija",
+      "prvi-put"
     ],
     "verified": false,
     "placements": [
@@ -26451,7 +26563,8 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "plural"
+      "plural",
+      "noun gender"
     ],
     "forms": [
       {
@@ -26548,7 +26661,6 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "noun gender",
       "plural"
     ],
     "alternatives": [
@@ -26625,7 +26737,8 @@
     "register": "neutral",
     "changesBy": [
       "formal",
-      "plural"
+      "plural",
+      "describes"
     ],
     "forms": [
       {
@@ -26744,7 +26857,7 @@
     "register": "neutral",
     "changesBy": [
       "plural",
-      "formal"
+      "describes"
     ],
     "forms": [
       {
@@ -26864,7 +26977,8 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "plural"
+      "plural",
+      "describes"
     ],
     "forms": [
       {
@@ -26984,7 +27098,8 @@
     "register": "neutral",
     "changesBy": [
       "speaker",
-      "plural"
+      "plural",
+      "describes"
     ],
     "forms": [
       {
@@ -27627,7 +27742,8 @@
     "related": [
       "please",
       "mozes-li",
-      "pomozi-mi"
+      "pomozi-mi",
+      "meni-tebi"
     ],
     "verified": false,
     "placements": [
@@ -28036,7 +28152,7 @@
     "register": "neutral",
     "changesBy": [
       "plural",
-      "formal"
+      "describes"
     ],
     "forms": [
       {
@@ -28126,7 +28242,11 @@
     "related": [
       "govoris-li-engleski",
       "znam",
-      "brzo-sporo"
+      "brzo-sporo",
+      "ponovi",
+      "govori-sporije",
+      "sta-znaci",
+      "kapiram"
     ],
     "verified": false,
     "placements": [
@@ -28155,7 +28275,7 @@
     "register": "neutral",
     "changesBy": [
       "plural",
-      "formal"
+      "describes"
     ],
     "forms": [
       {
@@ -28275,7 +28395,8 @@
     "register": "neutral",
     "changesBy": [
       "speaker",
-      "tense"
+      "tense",
+      "describes"
     ],
     "forms": [
       {
@@ -28395,7 +28516,8 @@
     "register": "neutral",
     "changesBy": [
       "speaker",
-      "tense"
+      "tense",
+      "describes"
     ],
     "forms": [
       {
@@ -28624,7 +28746,9 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "plural"
+      "plural",
+      "describes",
+      "formal"
     ],
     "forms": [
       {
@@ -28893,7 +29017,8 @@
       "kafa",
       "hoces-da-izadjemo",
       "kafana",
-      "pridruzi-nam-se"
+      "pridruzi-nam-se",
+      "idemo-na-pice"
     ],
     "verified": false,
     "placements": [
@@ -28930,7 +29055,7 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "noun gender"
+      "describes"
     ],
     "forms": [
       {
@@ -29030,7 +29155,8 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "noun gender"
+      "describes",
+      "formal"
     ],
     "forms": [
       {
@@ -29193,7 +29319,9 @@
     "related": [
       "u-koliko-sati",
       "brojevi",
-      "danas-sutra-juce"
+      "danas-sutra-juce",
+      "za-sat-vremena",
+      "vidimo-se-u-osam"
     ],
     "verified": false,
     "placements": [
@@ -29276,7 +29404,8 @@
     "related": [
       "danas-sutra-juce",
       "dani",
-      "srecna-nova-godina"
+      "srecna-nova-godina",
+      "prvi-drugi-treci"
     ],
     "verified": false,
     "placements": [
@@ -29386,7 +29515,8 @@
       "veceras",
       "danas-sutra-juce",
       "laku-noc",
-      "pre-posle"
+      "pre-posle",
+      "jutros-sinoc"
     ],
     "verified": false,
     "placements": [
@@ -29717,7 +29847,9 @@
       "znaci",
       "pa",
       "ipak",
-      "onda"
+      "onda",
+      "dakle",
+      "uglavnom"
     ],
     "verified": false,
     "placements": [
@@ -29793,7 +29925,8 @@
     "related": [
       "ali",
       "zapravo",
-      "onda"
+      "onda",
+      "uglavnom"
     ],
     "verified": false,
     "placements": [
@@ -29860,7 +29993,8 @@
     "related": [
       "ipak",
       "zapravo",
-      "pa"
+      "pa",
+      "dakle"
     ],
     "verified": false,
     "placements": [
@@ -30329,9 +30463,7 @@
       "slang"
     ],
     "register": "slang",
-    "changesBy": [
-      "noun gender"
-    ],
+    "changesBy": [],
     "alternatives": [
       {
         "serbian": "Pare",
@@ -30391,7 +30523,8 @@
         "category": "Everyday situations",
         "subcategory": "Shopping and money"
       }
-    ]
+    ],
+    "watchOut": "Street slang. Fine with friends; with strangers or at work say \"novac\" or \"pare\"."
   },
   {
     "id": "tip",
@@ -30460,7 +30593,8 @@
         "category": "Slang and swearing",
         "subcategory": "Casual slang"
       }
-    ]
+    ],
+    "watchOut": "\"Tip\" also just means \"type\" or \"kind\". As slang for a guy it can sound dismissive, so say \"momak\" or \"čovek\" to stay neutral."
   },
   {
     "id": "keva-cale",
@@ -30603,7 +30737,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Cultural context"
       }
-    ]
+    ],
+    "watchOut": "Always said lightly. For something actually serious, say \"greška\" (mistake) or \"problem\"."
   },
   {
     "id": "boze-moj",
@@ -30667,7 +30802,8 @@
     "related": [
       "joj",
       "ludilo",
-      "jebote"
+      "jebote",
+      "jao"
     ],
     "verified": false,
     "placements": [
@@ -30783,7 +30919,8 @@
       "luda-si",
       "zezas-me",
       "kreten",
-      "lenjivac"
+      "lenjivac",
+      "drska-si"
     ],
     "verified": false,
     "placements": [
@@ -30811,9 +30948,7 @@
       "rude"
     ],
     "register": "vulgar",
-    "changesBy": [
-      "describes"
-    ],
+    "changesBy": [],
     "alternatives": [
       {
         "serbian": "Glupan",
@@ -31046,7 +31181,8 @@
     ],
     "register": "neutral",
     "changesBy": [
-      "plural"
+      "plural",
+      "describes"
     ],
     "forms": [
       {
@@ -31113,7 +31249,8 @@
     "related": [
       "drago-mi-je",
       "kako-se-zoves",
-      "devojka-decko"
+      "devojka-decko",
+      "ko-to-je"
     ],
     "verified": false,
     "placements": [
@@ -31519,9 +31656,7 @@
       "polite"
     ],
     "register": "neutral",
-    "changesBy": [
-      "formal"
-    ],
+    "changesBy": [],
     "alternatives": [
       {
         "serbian": "Hvala na pozivu",
@@ -31745,9 +31880,7 @@
       "culture"
     ],
     "register": "neutral",
-    "changesBy": [
-      "noun gender"
-    ],
+    "changesBy": [],
     "alternatives": [
       {
         "serbian": "Srpska Nova godina",
@@ -32152,7 +32285,8 @@
     "texting": "pada kao iz kabla",
     "related": [
       "polako",
-      "sve-ce-biti-dobro"
+      "sve-ce-biti-dobro",
+      "pada-kisa"
     ],
     "verified": false,
     "placements": [
@@ -32176,9 +32310,7 @@
       "place"
     ],
     "register": "neutral",
-    "changesBy": [
-      "noun gender"
-    ],
+    "changesBy": [],
     "alternatives": [
       {
         "serbian": "Kafić",
@@ -32306,7 +32438,8 @@
     "related": [
       "kafana",
       "hoces-da-izadjemo",
-      "vikend"
+      "vikend",
+      "hoces-da-prosetamo"
     ],
     "verified": false,
     "placements": [
@@ -32321,6 +32454,4702 @@
       {
         "category": "Everyday situations",
         "subcategory": "Going out"
+      }
+    ]
+  },
+  {
+    "id": "verovatno",
+    "english": "Probably",
+    "serbian": "Verovatno",
+    "pronunciation": "veh-ROH-vaht-no",
+    "meaning": "Probably, most likely",
+    "category": "Quick phrases",
+    "subcategory": "Yes, no, maybe",
+    "tags": [
+      "maybe",
+      "probably",
+      "likely"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Najverovatnije",
+        "pronunciation": "nai-veh-ROH-vaht-nee-yeh",
+        "nuance": "Most likely; stronger"
+      },
+      {
+        "serbian": "Možda",
+        "pronunciation": "MOHZH-dah",
+        "nuance": "Maybe; closer to 50/50"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Verovatno kasnim",
+        "pronunciation": "veh-ROH-vaht-no KAHS-neem",
+        "english": "I'll probably be late",
+        "context": "About me"
+      },
+      {
+        "serbian": "Verovatno si umorna",
+        "pronunciation": "veh-ROH-vaht-no see OO-mor-nah",
+        "english": "You're probably tired",
+        "context": "To her"
+      },
+      {
+        "serbian": "Verovatno je u gradu",
+        "pronunciation": "veh-ROH-vaht-no yeh oo GRAH-doo",
+        "english": "She's probably in town",
+        "context": "About her"
+      },
+      {
+        "serbian": "Verovatno ćemo ići",
+        "pronunciation": "veh-ROH-vaht-no CHEH-mo EE-chee",
+        "english": "We'll probably go",
+        "context": "About us"
+      }
+    ],
+    "texting": "verovatno",
+    "related": [
+      "sigurno",
+      "mozda",
+      "sumnjam"
+    ],
+    "verified": false,
+    "ijekavian": "Vjerovatno",
+    "watchOut": "\"Verovatno\" leans yes (about 70%). \"Možda\" is closer to 50/50.",
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Yes, no, maybe"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
+    ]
+  },
+  {
+    "id": "ponovi",
+    "english": "Can you repeat that?",
+    "serbian": "Možeš li da ponoviš?",
+    "pronunciation": "MOH-zhesh lee dah poh-NOH-veesh",
+    "meaning": "Can you say that again?",
+    "category": "Conversation",
+    "subcategory": "Questions",
+    "tags": [
+      "repeat",
+      "understand",
+      "language"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "formal"
+    ],
+    "forms": [
+      {
+        "serbian": "Možeš li da ponoviš?",
+        "pronunciation": "MOH-zhesh lee dah poh-NOH-veesh",
+        "formal": "casual",
+        "useWhen": "To one friend or someone your age",
+        "example": {
+          "serbian": "Izvini, možeš li da ponoviš?",
+          "pronunciation": "eez-VEE-nee, MOH-zhesh lee dah poh-NOH-veesh",
+          "english": "Sorry, can you repeat that?"
+        }
+      },
+      {
+        "serbian": "Možete li da ponovite?",
+        "pronunciation": "MOH-zheh-teh lee dah poh-NOH-vee-teh",
+        "formal": "polite",
+        "useWhen": "To an elder, a stranger, or a group",
+        "example": {
+          "serbian": "Oprostite, možete li da ponovite?",
+          "pronunciation": "oh-PROH-stee-teh, MOH-zheh-teh lee dah poh-NOH-vee-teh",
+          "english": "Excuse me, could you repeat that?"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Molim?",
+        "pronunciation": "MOH-leem",
+        "nuance": "Pardon? Quick and casual"
+      },
+      {
+        "serbian": "Šta si rekla?",
+        "pronunciation": "SHTAH see REH-klah",
+        "nuance": "What did you say? (to her; to a man: šta si rekao)"
+      },
+      {
+        "serbian": "Još jednom, molim te",
+        "pronunciation": "yohsh YED-nom, MOH-leem teh",
+        "nuance": "One more time, please"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Možeš li da ponoviš sporije?",
+        "pronunciation": "MOH-zhesh lee dah poh-NOH-veesh SPOH-ree-yeh",
+        "english": "Can you repeat that more slowly?",
+        "context": "Slower"
+      },
+      {
+        "serbian": "Ne čujem te, možeš li da ponoviš?",
+        "pronunciation": "neh CHOO-yem teh, MOH-zhesh lee dah poh-NOH-veesh",
+        "english": "I can't hear you, can you repeat that?",
+        "context": "Bad connection"
+      },
+      {
+        "serbian": "Nisam razumeo, možeš li da ponoviš?",
+        "pronunciation": "NEE-sahm rah-ZOO-meh-oh, MOH-zhesh lee dah poh-NOH-veesh",
+        "english": "I didn't understand, can you repeat that? (a man says this)",
+        "context": "Missed it (man)"
+      },
+      {
+        "serbian": "Nisam razumela, možeš li da ponoviš?",
+        "pronunciation": "NEE-sahm rah-ZOO-meh-lah, MOH-zhesh lee dah poh-NOH-veesh",
+        "english": "I didn't understand, can you repeat that? (a woman says this)",
+        "context": "Missed it (woman)"
+      }
+    ],
+    "texting": "mozes li da ponovis",
+    "related": [
+      "razumem",
+      "govori-sporije",
+      "sta-znaci",
+      "govoris-li-engleski",
+      "kako-se-kaze"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
+    ]
+  },
+  {
+    "id": "govori-sporije",
+    "english": "Speak slower, please",
+    "serbian": "Govori sporije, molim te",
+    "pronunciation": "GOH-vo-ree SPOH-ree-yeh, MOH-leem teh",
+    "meaning": "Please speak more slowly",
+    "category": "Conversation",
+    "subcategory": "Questions",
+    "tags": [
+      "slow",
+      "understand",
+      "language",
+      "request"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "formal"
+    ],
+    "forms": [
+      {
+        "serbian": "Govori sporije",
+        "pronunciation": "GOH-vo-ree SPOH-ree-yeh",
+        "formal": "casual",
+        "useWhen": "To one friend or someone your age",
+        "example": {
+          "serbian": "Govori sporije, molim te",
+          "pronunciation": "GOH-vo-ree SPOH-ree-yeh, MOH-leem teh",
+          "english": "Speak slower, please"
+        }
+      },
+      {
+        "serbian": "Govorite sporije",
+        "pronunciation": "GOH-vo-ree-teh SPOH-ree-yeh",
+        "formal": "polite",
+        "useWhen": "To an elder, a stranger, or a group",
+        "example": {
+          "serbian": "Govorite sporije, molim vas",
+          "pronunciation": "GOH-vo-ree-teh SPOH-ree-yeh, MOH-leem vahs",
+          "english": "Please speak more slowly"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Polako",
+        "pronunciation": "poh-LAH-ko",
+        "nuance": "Slowly, take it easy"
+      },
+      {
+        "serbian": "Malo sporije",
+        "pronunciation": "MAH-lo SPOH-ree-yeh",
+        "nuance": "A bit slower"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Govori malo sporije, još učim",
+        "pronunciation": "GOH-vo-ree MAH-lo SPOH-ree-yeh, yohsh OO-cheem",
+        "english": "Speak a bit slower, I'm still learning",
+        "context": "To her"
+      },
+      {
+        "serbian": "Sporije, molim te!",
+        "pronunciation": "SPOH-ree-yeh, MOH-leem teh",
+        "english": "Slower, please!",
+        "context": "Quick ask"
+      },
+      {
+        "serbian": "Možete li da govorite sporije?",
+        "pronunciation": "MOH-zheh-teh lee dah GOH-vo-ree-teh SPOH-ree-yeh",
+        "english": "Could you speak more slowly?",
+        "context": "To her mom"
+      },
+      {
+        "serbian": "Ona govori brzo",
+        "pronunciation": "OH-nah GOH-vo-ree BUR-zo",
+        "english": "She talks fast",
+        "context": "About her"
+      }
+    ],
+    "texting": "govori sporije, molim te",
+    "related": [
+      "ponovi",
+      "razumem",
+      "polako",
+      "ucim-srpski",
+      "ne-govorim-dobro"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
+    ]
+  },
+  {
+    "id": "sta-znaci",
+    "english": "What does … mean?",
+    "serbian": "Šta znači…?",
+    "pronunciation": "SHTAH ZNAH-chee",
+    "meaning": "What does this word or phrase mean?",
+    "category": "Conversation",
+    "subcategory": "Questions",
+    "tags": [
+      "meaning",
+      "language",
+      "question"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Šta to znači?",
+        "pronunciation": "SHTAH toh ZNAH-chee",
+        "nuance": "What does that mean?"
+      },
+      {
+        "serbian": "Šta je to?",
+        "pronunciation": "SHTAH yeh toh",
+        "nuance": "What is that?"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Šta znači 'inat'?",
+        "pronunciation": "SHTAH ZNAH-chee EE-naht",
+        "english": "What does 'inat' mean?",
+        "context": "A word"
+      },
+      {
+        "serbian": "Šta znači 'majke mi'?",
+        "pronunciation": "SHTAH ZNAH-chee MAHY-keh mee",
+        "english": "What does 'majke mi' mean?",
+        "context": "A phrase"
+      },
+      {
+        "serbian": "Šta znači to što si rekla?",
+        "pronunciation": "SHTAH ZNAH-chee toh shtoh see REH-klah",
+        "english": "What does what you said mean?",
+        "context": "Her words"
+      },
+      {
+        "serbian": "Šta ovo znači?",
+        "pronunciation": "SHTAH OH-vo ZNAH-chee",
+        "english": "What does this mean?",
+        "context": "A sign"
+      }
+    ],
+    "texting": "sta znaci",
+    "related": [
+      "kako-se-kaze",
+      "ponovi",
+      "razumem",
+      "inat"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Casual conversation"
+      }
+    ]
+  },
+  {
+    "id": "kako-se-kaze",
+    "english": "How do you say … in Serbian?",
+    "serbian": "Kako se kaže… na srpskom?",
+    "pronunciation": "KAH-ko seh KAH-zheh … nah SUR-pskom",
+    "meaning": "How do you say this in Serbian?",
+    "category": "Conversation",
+    "subcategory": "Questions",
+    "tags": [
+      "language",
+      "learning",
+      "question"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Kako se to izgovara?",
+        "pronunciation": "KAH-ko seh toh eez-GOH-vah-rah",
+        "nuance": "How do you pronounce that?"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Kako se kaže (coffee) na srpskom?",
+        "pronunciation": "KAH-ko seh KAH-zheh nah SUR-pskom",
+        "english": "How do you say 'coffee' in Serbian?",
+        "context": "Asking her"
+      },
+      {
+        "serbian": "Kako se ovo kaže?",
+        "pronunciation": "KAH-ko seh OH-vo KAH-zheh",
+        "english": "How do you say this?",
+        "context": "Pointing at it"
+      },
+      {
+        "serbian": "Kako se kaže 'zdravo' na engleskom?",
+        "pronunciation": "KAH-ko seh KAH-zheh ZDRAH-voh nah ENG-leh-skom",
+        "english": "How do you say 'zdravo' in English?",
+        "context": "Teaching her"
+      },
+      {
+        "serbian": "Kako se piše?",
+        "pronunciation": "KAH-ko seh PEE-sheh",
+        "english": "How is it written? How do you spell it?",
+        "context": "Spelling"
+      }
+    ],
+    "texting": "kako se kaze na srpskom",
+    "related": [
+      "sta-znaci",
+      "ucim-srpski",
+      "govorim-malo",
+      "ponovi"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Conversation starters"
+      }
+    ]
+  },
+  {
+    "id": "ne-govorim-dobro",
+    "english": "I don't speak Serbian well",
+    "serbian": "Ne govorim dobro srpski",
+    "pronunciation": "neh GOH-vo-reem DOH-bro SUR-pskee",
+    "meaning": "I'm not good at Serbian yet",
+    "category": "Conversation",
+    "subcategory": "Getting to know someone",
+    "tags": [
+      "language",
+      "learning",
+      "apology"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Još učim srpski",
+        "pronunciation": "yohsh OO-cheem SUR-pskee",
+        "nuance": "I'm still learning Serbian"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Ne govorim dobro srpski, ali trudim se",
+        "pronunciation": "neh GOH-vo-reem DOH-bro SUR-pskee, AH-lee TROO-deem seh",
+        "english": "I don't speak Serbian well, but I'm trying",
+        "context": "To her"
+      },
+      {
+        "serbian": "Razumem više nego što govorim",
+        "pronunciation": "rah-ZOO-mem VEE-sheh NEH-go shtoh GOH-vo-reem",
+        "english": "I understand more than I speak",
+        "context": "Understanding"
+      },
+      {
+        "serbian": "Govorim engleski i malo srpski",
+        "pronunciation": "GOH-vo-reem ENG-leh-skee ee MAH-lo SUR-pskee",
+        "english": "I speak English and a little Serbian",
+        "context": "Both languages"
+      },
+      {
+        "serbian": "Ti odlično govoriš engleski",
+        "pronunciation": "tee od-LEECH-no GOH-vo-reesh ENG-leh-skee",
+        "english": "You speak English really well",
+        "context": "Complimenting her"
+      }
+    ],
+    "texting": "ne govorim dobro srpski",
+    "related": [
+      "govorim-malo",
+      "ucim-srpski",
+      "govori-sporije",
+      "govoris-li-engleski"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Getting to know someone"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
+    ]
+  },
+  {
+    "id": "iz-kanade",
+    "english": "I'm from Canada",
+    "serbian": "Ja sam iz Kanade",
+    "pronunciation": "yah sahm eez KAH-nah-deh",
+    "meaning": "I'm from Canada",
+    "category": "Conversation",
+    "subcategory": "Getting to know someone",
+    "tags": [
+      "canada",
+      "from",
+      "origin"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "describes"
+    ],
+    "forms": [
+      {
+        "serbian": "Ja sam iz Kanade",
+        "pronunciation": "yah sahm eez KAH-nah-deh",
+        "describes": "me",
+        "useWhen": "About me",
+        "example": {
+          "serbian": "Ja sam iz Kanade, ali mi se Srbija sviđa",
+          "pronunciation": "yah sahm eez KAH-nah-deh, AH-lee mee seh SUR-bee-yah SVEE-jah",
+          "english": "I'm from Canada, but I like Serbia"
+        }
+      },
+      {
+        "serbian": "Ti si iz Srbije?",
+        "pronunciation": "tee see eez SUR-bee-yeh",
+        "describes": "her",
+        "useWhen": "Asking her",
+        "example": {
+          "serbian": "Ti si iz Srbije? Odakle tačno?",
+          "pronunciation": "tee see eez SUR-bee-yeh? OH-dahk-leh TAHCH-no",
+          "english": "Are you from Serbia? Where exactly?"
+        }
+      },
+      {
+        "serbian": "On je iz Kanade / Ona je iz Kanade",
+        "pronunciation": "ohn yeh eez KAH-nah-deh / OH-nah yeh eez KAH-nah-deh",
+        "describes": "him / her",
+        "useWhen": "About someone else",
+        "example": {
+          "serbian": "Ona je iz Kanade, ali živi ovde",
+          "pronunciation": "OH-nah yeh eez KAH-nah-deh, AH-lee ZHEE-vee OHV-deh",
+          "english": "She's from Canada, but she lives here"
+        }
+      },
+      {
+        "serbian": "Mi smo iz Kanade",
+        "pronunciation": "mee smo eez KAH-nah-deh",
+        "describes": "us",
+        "useWhen": "About us",
+        "example": {
+          "serbian": "Mi smo iz Kanade, prvi put smo ovde",
+          "pronunciation": "mee smo eez KAH-nah-deh, PUR-vee poot smo OHV-deh",
+          "english": "We're from Canada, it's our first time here"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Dolazim iz Kanade",
+        "pronunciation": "doh-LAH-zeem eez KAH-nah-deh",
+        "nuance": "I come from Canada"
+      },
+      {
+        "serbian": "Kanađanin sam",
+        "pronunciation": "kah-NAH-jah-neen sahm",
+        "nuance": "I'm a Canadian (a man says this; a woman: Kanađanka sam)"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Ja sam iz Kanade, a ti?",
+        "pronunciation": "yah sahm eez KAH-nah-deh, ah TEE",
+        "english": "I'm from Canada, and you?",
+        "context": "To her"
+      },
+      {
+        "serbian": "Moj prijatelj je iz Kanade",
+        "pronunciation": "moy PREE-yah-tel yeh eez KAH-nah-deh",
+        "english": "My friend is from Canada",
+        "context": "About a friend"
+      },
+      {
+        "serbian": "Jesi li ti iz Beograda?",
+        "pronunciation": "YEH-see lee tee eez beh-oh-GRAH-dah",
+        "english": "Are you from Belgrade?",
+        "context": "Asking her"
+      },
+      {
+        "serbian": "Mi smo iz Kanade",
+        "pronunciation": "mee smo eez KAH-nah-deh",
+        "english": "We're from Canada",
+        "context": "About us"
+      }
+    ],
+    "texting": "ja sam iz kanade",
+    "related": [
+      "odakle-si",
+      "drago-mi-je",
+      "kako-se-zoves",
+      "prvi-put"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Getting to know someone"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Introductions"
+      }
+    ]
+  },
+  {
+    "id": "cime-se-bavis",
+    "english": "What do you do (for work)?",
+    "serbian": "Čime se baviš?",
+    "pronunciation": "CHEE-meh seh BAH-veesh",
+    "meaning": "What is your job or what are you into?",
+    "category": "Conversation",
+    "subcategory": "Getting to know someone",
+    "tags": [
+      "work",
+      "job",
+      "question"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "formal"
+    ],
+    "forms": [
+      {
+        "serbian": "Čime se baviš?",
+        "pronunciation": "CHEE-meh seh BAH-veesh",
+        "formal": "casual",
+        "useWhen": "To one friend or someone your age",
+        "example": {
+          "serbian": "Čime se baviš u slobodno vreme?",
+          "pronunciation": "CHEE-meh seh BAH-veesh oo SLOH-bod-no VREH-meh",
+          "english": "What are you into in your free time?"
+        }
+      },
+      {
+        "serbian": "Čime se bavite?",
+        "pronunciation": "CHEE-meh seh BAH-vee-teh",
+        "formal": "polite",
+        "useWhen": "To an elder, a stranger, or a group",
+        "example": {
+          "serbian": "Čime se bavite, ako smem da pitam?",
+          "pronunciation": "CHEE-meh seh BAH-vee-teh, AH-ko smem dah PEE-tahm",
+          "english": "What do you do, if I may ask?"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Šta radiš od posla?",
+        "pronunciation": "SHTAH RAH-deesh od POH-slah",
+        "nuance": "What do you do for work?"
+      },
+      {
+        "serbian": "Gde radiš?",
+        "pronunciation": "GDEH RAH-deesh",
+        "nuance": "Where do you work?"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Čime se baviš? Radiš ili studiraš?",
+        "pronunciation": "CHEE-meh seh BAH-veesh? RAH-deesh EE-lee stoo-DEE-rahsh",
+        "english": "What do you do? Do you work or study?",
+        "context": "Asking her"
+      },
+      {
+        "serbian": "Bavim se dizajnom",
+        "pronunciation": "BAH-veem seh dee-ZAHY-nom",
+        "english": "I work in design",
+        "context": "Answering"
+      },
+      {
+        "serbian": "Čime se bavi tvoj brat?",
+        "pronunciation": "CHEE-meh seh BAH-vee tvoy BRAHT",
+        "english": "What does your brother do?",
+        "context": "About her brother"
+      },
+      {
+        "serbian": "Ona se bavi muzikom",
+        "pronunciation": "OH-nah seh BAH-vee MOO-zee-kom",
+        "english": "She does music",
+        "context": "About her"
+      }
+    ],
+    "texting": "cime se bavis",
+    "related": [
+      "sta-radis",
+      "odakle-si",
+      "gde-zivis",
+      "ucim-srpski"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Getting to know someone"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
+  },
+  {
+    "id": "prvi-put",
+    "english": "First time in Serbia",
+    "serbian": "Prvi put sam u Srbiji",
+    "pronunciation": "PUR-vee poot sahm oo SUR-bee-yee",
+    "meaning": "It's my first time in Serbia",
+    "category": "Conversation",
+    "subcategory": "Getting to know someone",
+    "tags": [
+      "travel",
+      "first time",
+      "serbia"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "describes"
+    ],
+    "forms": [
+      {
+        "serbian": "Prvi put sam u Srbiji",
+        "pronunciation": "PUR-vee poot sahm oo SUR-bee-yee",
+        "describes": "me",
+        "useWhen": "About me",
+        "example": {
+          "serbian": "Prvi put sam u Beogradu",
+          "pronunciation": "PUR-vee poot sahm oo beh-oh-GRAH-doo",
+          "english": "It's my first time in Belgrade"
+        }
+      },
+      {
+        "serbian": "Jesi li ovde prvi put?",
+        "pronunciation": "YEH-see lee OHV-deh PUR-vee poot",
+        "describes": "her",
+        "useWhen": "Asking her",
+        "example": {
+          "serbian": "Jesi li ovde prvi put? Kako ti se sviđa?",
+          "pronunciation": "YEH-see lee OHV-deh PUR-vee poot? KAH-ko tee seh SVEE-jah",
+          "english": "Is it your first time here? How do you like it?"
+        }
+      },
+      {
+        "serbian": "Prvi put smo ovde",
+        "pronunciation": "PUR-vee poot smo OHV-deh",
+        "describes": "us",
+        "useWhen": "About us",
+        "example": {
+          "serbian": "Prvi put smo ovde, pokaži nam grad",
+          "pronunciation": "PUR-vee poot smo OHV-deh, poh-KAH-zhee nahm GRAHD",
+          "english": "It's our first time here, show us the city"
+        }
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Prvi put sam u Srbiji, pokaži mi grad",
+        "pronunciation": "PUR-vee poot sahm oo SUR-bee-yee, poh-KAH-zhee mee GRAHD",
+        "english": "It's my first time in Serbia, show me the city",
+        "context": "To her"
+      },
+      {
+        "serbian": "Prvi put probam burek",
+        "pronunciation": "PUR-vee poot PROH-bahm BOO-rek",
+        "english": "I'm trying burek for the first time",
+        "context": "Trying food"
+      },
+      {
+        "serbian": "On je prvi put u Srbiji",
+        "pronunciation": "ohn yeh PUR-vee poot oo SUR-bee-yee",
+        "english": "It's his first time in Serbia",
+        "context": "About him"
+      }
+    ],
+    "texting": "prvi put sam u srbiji",
+    "related": [
+      "iz-kanade",
+      "srecan-put",
+      "ucim-srpski",
+      "cevapi",
+      "prvi-drugi-treci"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Getting to know someone"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Travel and transportation"
+      }
+    ]
+  },
+  {
+    "id": "kako-je-prosao-dan",
+    "english": "How was your day?",
+    "serbian": "Kako je prošao dan?",
+    "pronunciation": "KAH-ko yeh PROH-shah-oh DAHN",
+    "meaning": "How did your day go?",
+    "category": "Conversation",
+    "subcategory": "Casual conversation",
+    "tags": [
+      "day",
+      "question",
+      "check in"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "formal"
+    ],
+    "forms": [
+      {
+        "serbian": "Kako je prošao dan?",
+        "pronunciation": "KAH-ko yeh PROH-shah-oh DAHN",
+        "formal": "casual",
+        "useWhen": "To one friend or someone your age",
+        "example": {
+          "serbian": "Kako je prošao dan na poslu?",
+          "pronunciation": "KAH-ko yeh PROH-shah-oh DAHN nah POH-sloo",
+          "english": "How was your day at work?"
+        }
+      },
+      {
+        "serbian": "Kako vam je prošao dan?",
+        "pronunciation": "KAH-ko vahm yeh PROH-shah-oh DAHN",
+        "formal": "polite",
+        "useWhen": "To an elder, a stranger, or a group",
+        "example": {
+          "serbian": "Kako vam je prošao dan, gospođo?",
+          "pronunciation": "KAH-ko vahm yeh PROH-shah-oh DAHN, GOH-spoh-joh",
+          "english": "How was your day, ma’am?"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Kako ti je bio dan?",
+        "pronunciation": "KAH-ko tee yeh BEE-oh DAHN",
+        "nuance": "How was your day? (literally 'how was the day to you')"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Kako je prošao dan? Jesi li umorna?",
+        "pronunciation": "KAH-ko yeh PROH-shah-oh DAHN? YEH-see lee OO-mor-nah",
+        "english": "How was your day? Are you tired?",
+        "context": "To her"
+      },
+      {
+        "serbian": "Prošao je dobro, malo naporno",
+        "pronunciation": "PROH-shah-oh yeh DOH-bro, MAH-lo nah-POR-no",
+        "english": "It went well, a bit tiring",
+        "context": "Answering"
+      },
+      {
+        "serbian": "Kako je prošao njen ispit?",
+        "pronunciation": "KAH-ko yeh PROH-shah-oh nyen EES-peet",
+        "english": "How did her exam go?",
+        "context": "About her exam"
+      },
+      {
+        "serbian": "Dug dan, ali dobar",
+        "pronunciation": "DOOG dahn, AH-lee DOH-bahr",
+        "english": "A long day, but a good one",
+        "context": "Long day"
+      }
+    ],
+    "texting": "kako je prosao dan",
+    "related": [
+      "kako-si",
+      "kako-je-bilo",
+      "sta-radis-danas",
+      "jesi-li-dobro"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Casual conversation"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Relationship talk"
+      }
+    ]
+  },
+  {
+    "id": "jesi-li-stigla",
+    "english": "Did you arrive?",
+    "serbian": "Jesi li stigla?",
+    "pronunciation": "YEH-see lee STEEG-lah",
+    "meaning": "Did you get there? Are you there yet?",
+    "category": "Conversation",
+    "subcategory": "Questions",
+    "tags": [
+      "arrive",
+      "question",
+      "past"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "describes"
+    ],
+    "forms": [
+      {
+        "serbian": "Jesi li stigla?",
+        "pronunciation": "YEH-see lee STEEG-lah",
+        "describes": "her",
+        "useWhen": "Asking her",
+        "example": {
+          "serbian": "Jesi li stigla kući?",
+          "pronunciation": "YEH-see lee STEEG-lah KOO-chee",
+          "english": "Did you get home?"
+        }
+      },
+      {
+        "serbian": "Jesi li stigao?",
+        "pronunciation": "YEH-see lee STEE-gah-oh",
+        "describes": "him",
+        "useWhen": "Asking a man",
+        "example": {
+          "serbian": "Jesi li stigao na posao?",
+          "pronunciation": "YEH-see lee STEE-gah-oh nah POH-sah-oh",
+          "english": "Did you get to work?"
+        }
+      },
+      {
+        "serbian": "Je li stigla?",
+        "pronunciation": "YEH lee STEEG-lah",
+        "describes": "her",
+        "useWhen": "Asking about her",
+        "example": {
+          "serbian": "Je li stigla Ana?",
+          "pronunciation": "YEH lee STEEG-lah AH-nah",
+          "english": "Has Ana arrived?"
+        }
+      },
+      {
+        "serbian": "Jesmo li već stigli?",
+        "pronunciation": "YES-mo lee vuhch STEEG-lee",
+        "describes": "us",
+        "useWhen": "Asking about us",
+        "example": {
+          "serbian": "Jesmo li već stigli? Ne vidim ništa",
+          "pronunciation": "YES-mo lee vuhch STEEG-lee? neh VEE-deem NEESH-tah",
+          "english": "Are we there already? I can't see anything"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Je l' si stigla?",
+        "pronunciation": "yel see STEEG-lah",
+        "nuance": "Very casual spoken version"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Jesi li stigla? Javi mi",
+        "pronunciation": "YEH-see lee STEEG-lah? YAH-vee mee",
+        "english": "Did you arrive? Let me know",
+        "context": "To her"
+      },
+      {
+        "serbian": "Stigla sam, sve je u redu",
+        "pronunciation": "STEEG-lah sahm, SVEH yeh oo REH-doo",
+        "english": "I've arrived, everything's fine (a woman says this)",
+        "context": "Her reply"
+      },
+      {
+        "serbian": "Stigao sam pre tebe",
+        "pronunciation": "STEE-gah-oh sahm PREH TEH-beh",
+        "english": "I got here before you (a man says this)",
+        "context": "My reply"
+      },
+      {
+        "serbian": "Je li stigao paket?",
+        "pronunciation": "YEH lee STEE-gah-oh PAH-ket",
+        "english": "Has the package arrived?",
+        "context": "About a thing"
+      }
+    ],
+    "texting": "jesi li stigla",
+    "related": [
+      "stigao-sam",
+      "javi-mi-kad-stignes",
+      "kasnim",
+      "jesi-li-dobro"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Running late"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Past"
+      }
+    ]
+  },
+  {
+    "id": "jesi-li-dobro",
+    "english": "Are you okay?",
+    "serbian": "Jesi li dobro?",
+    "pronunciation": "YEH-see lee DOH-bro",
+    "meaning": "Are you okay? Is everything alright?",
+    "category": "Conversation",
+    "subcategory": "Questions",
+    "tags": [
+      "okay",
+      "worried",
+      "question"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "formal"
+    ],
+    "forms": [
+      {
+        "serbian": "Jesi li dobro?",
+        "pronunciation": "YEH-see lee DOH-bro",
+        "formal": "casual",
+        "useWhen": "To one friend or someone your age",
+        "example": {
+          "serbian": "Jesi li dobro? Nisi se javila",
+          "pronunciation": "YEH-see lee DOH-bro? NEE-see seh YAH-vee-lah",
+          "english": "Are you okay? You didn't get in touch"
+        }
+      },
+      {
+        "serbian": "Jeste li dobro?",
+        "pronunciation": "YES-teh lee DOH-bro",
+        "formal": "polite",
+        "useWhen": "To an elder, a stranger, or a group",
+        "example": {
+          "serbian": "Jeste li dobro, gospođo?",
+          "pronunciation": "YES-teh lee DOH-bro, GOH-spoh-joh",
+          "english": "Are you alright, ma’am?"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Je l' sve u redu?",
+        "pronunciation": "yel SVEH oo REH-doo",
+        "nuance": "Is everything okay?"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Jesi li dobro? Zvučiš umorno",
+        "pronunciation": "YEH-see lee DOH-bro? ZVOO-cheesh oo-MOR-no",
+        "english": "Are you okay? You sound tired",
+        "context": "To her, worried"
+      },
+      {
+        "serbian": "Dobro sam, samo sam umorna",
+        "pronunciation": "DOH-bro sahm, SAH-mo sahm OO-mor-nah",
+        "english": "I'm okay, just tired (a woman says this)",
+        "context": "Answering (woman)"
+      },
+      {
+        "serbian": "Dobro sam, samo sam umoran",
+        "pronunciation": "DOH-bro sahm, SAH-mo sahm OO-mo-rahn",
+        "english": "I'm okay, just tired (a man says this)",
+        "context": "Answering (man)"
+      },
+      {
+        "serbian": "Je li on dobro?",
+        "pronunciation": "YEH lee ohn DOH-bro",
+        "english": "Is he okay?",
+        "context": "About him"
+      }
+    ],
+    "texting": "jesi li dobro",
+    "related": [
+      "kako-si",
+      "ne-brini",
+      "jesi-li-stigla",
+      "kako-je-prosao-dan"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Emotions"
+      }
+    ]
+  },
+  {
+    "id": "sta-radis-danas",
+    "english": "What are you doing today?",
+    "serbian": "Šta radiš danas?",
+    "pronunciation": "SHTAH RAH-deesh DAH-nahs",
+    "meaning": "What are you up to today?",
+    "category": "Conversation",
+    "subcategory": "Making plans",
+    "tags": [
+      "today",
+      "plans",
+      "question"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "formal"
+    ],
+    "forms": [
+      {
+        "serbian": "Šta radiš danas?",
+        "pronunciation": "SHTAH RAH-deesh DAH-nahs",
+        "formal": "casual",
+        "useWhen": "To one friend or someone your age",
+        "example": {
+          "serbian": "Šta radiš danas posle posla?",
+          "pronunciation": "SHTAH RAH-deesh DAH-nahs POH-sleh POH-slah",
+          "english": "What are you doing after work today?"
+        }
+      },
+      {
+        "serbian": "Šta radite danas?",
+        "pronunciation": "SHTAH RAH-dee-teh DAH-nahs",
+        "formal": "polite",
+        "useWhen": "To an elder, a stranger, or a group",
+        "example": {
+          "serbian": "Šta radite danas, imate li vremena?",
+          "pronunciation": "SHTAH RAH-dee-teh DAH-nahs, EE-mah-teh lee VREH-meh-nah",
+          "english": "What are you doing today, do you have time?"
+        }
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Šta radiš danas? Hoćeš da se vidimo?",
+        "pronunciation": "SHTAH RAH-deesh DAH-nahs? HOH-chesh dah seh VEE-dee-mo",
+        "english": "What are you up to today? Want to meet up?",
+        "context": "To her"
+      },
+      {
+        "serbian": "Danas radim od kuće",
+        "pronunciation": "DAH-nahs RAH-deem od KOO-cheh",
+        "english": "I'm working from home today",
+        "context": "About me"
+      },
+      {
+        "serbian": "Šta on radi danas?",
+        "pronunciation": "SHTAH ohn RAH-dee DAH-nahs",
+        "english": "What is he doing today?",
+        "context": "About him"
+      },
+      {
+        "serbian": "Šta radimo danas?",
+        "pronunciation": "SHTAH RAH-dee-mo DAH-nahs",
+        "english": "What are we doing today?",
+        "context": "About us"
+      }
+    ],
+    "texting": "sta radis danas",
+    "related": [
+      "sta-radis",
+      "plan-za-vikend",
+      "kad-si-slobodna",
+      "kako-je-prosao-dan"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Making plans"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
+  },
+  {
+    "id": "jesi-li-se-naspavala",
+    "english": "Did you sleep well?",
+    "serbian": "Jesi li se naspavala?",
+    "pronunciation": "YEH-see lee seh nah-SPAH-vah-lah",
+    "meaning": "Did you get a good night of sleep?",
+    "category": "Flirting and relationships",
+    "subcategory": "Good morning and good night",
+    "tags": [
+      "sleep",
+      "morning",
+      "question"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "describes",
+      "speaker"
+    ],
+    "forms": [
+      {
+        "serbian": "Jesi li se naspavala?",
+        "pronunciation": "YEH-see lee seh nah-SPAH-vah-lah",
+        "describes": "her",
+        "useWhen": "Asking her",
+        "example": {
+          "serbian": "Jesi li se naspavala? Izgledaš odmorno",
+          "pronunciation": "YEH-see lee seh nah-SPAH-vah-lah? EEZ-gleh-dahsh OD-mor-no",
+          "english": "Did you sleep well? You look rested"
+        }
+      },
+      {
+        "serbian": "Jesi li se naspavao?",
+        "pronunciation": "YEH-see lee seh nah-SPAH-vah-oh",
+        "describes": "him",
+        "useWhen": "Asking a man",
+        "example": {
+          "serbian": "Jesi li se naspavao, brate?",
+          "pronunciation": "YEH-see lee seh nah-SPAH-vah-oh, BRAH-teh",
+          "english": "Did you sleep well, man?"
+        }
+      },
+      {
+        "serbian": "Naspavao sam se",
+        "pronunciation": "nah-SPAH-vah-oh sahm seh",
+        "speaker": "male",
+        "useWhen": "A man says it about himself",
+        "example": {
+          "serbian": "Naspavao sam se kao beba",
+          "pronunciation": "nah-SPAH-vah-oh sahm seh KAH-oh BEH-bah",
+          "english": "I slept like a baby"
+        }
+      },
+      {
+        "serbian": "Naspavala sam se",
+        "pronunciation": "nah-SPAH-vah-lah sahm seh",
+        "speaker": "female",
+        "useWhen": "A woman says it about herself",
+        "example": {
+          "serbian": "Naspavala sam se kao beba",
+          "pronunciation": "nah-SPAH-vah-lah sahm seh KAH-oh BEH-bah",
+          "english": "I slept like a baby"
+        }
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Dobro jutro! Jesi li se naspavala?",
+        "pronunciation": "DOH-bro YOO-tro! YEH-see lee seh nah-SPAH-vah-lah",
+        "english": "Good morning! Did you sleep well?",
+        "context": "Morning text"
+      },
+      {
+        "serbian": "Nisam se baš naspavao",
+        "pronunciation": "NEE-sahm seh BAHSH nah-SPAH-vah-oh",
+        "english": "I didn't sleep that well (a man says this)",
+        "context": "Not really (man)"
+      },
+      {
+        "serbian": "Naspavala sam se, hvala",
+        "pronunciation": "nah-SPAH-vah-lah sahm seh, HVAH-lah",
+        "english": "I slept well, thanks (a woman says this)",
+        "context": "Her reply"
+      }
+    ],
+    "texting": "jesi li se naspavala",
+    "related": [
+      "good-morning",
+      "laku-noc",
+      "dobro-jutro-sunce",
+      "spavaj"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Good morning and good night"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
+  },
+  {
+    "id": "dobro-jutro-sunce",
+    "english": "Good morning, sunshine",
+    "serbian": "Dobro jutro, sunce",
+    "pronunciation": "DOH-bro YOO-tro, SOON-tseh",
+    "meaning": "A warm good-morning text to someone you like",
+    "category": "Flirting and relationships",
+    "subcategory": "Good morning and good night",
+    "tags": [
+      "morning",
+      "sweet",
+      "pet name"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "describes"
+    ],
+    "forms": [
+      {
+        "serbian": "Dobro jutro, sunce",
+        "pronunciation": "DOH-bro YOO-tro, SOON-tseh",
+        "describes": "her",
+        "useWhen": "To her, warm",
+        "example": {
+          "serbian": "Dobro jutro, sunce! Kako si spavala?",
+          "pronunciation": "DOH-bro YOO-tro, SOON-tseh! KAH-ko see SPAH-vah-lah",
+          "english": "Good morning, sunshine! How did you sleep?"
+        }
+      },
+      {
+        "serbian": "Dobro jutro, ljubavi",
+        "pronunciation": "DOH-bro YOO-tro, LYOO-bah-vee",
+        "describes": "her",
+        "useWhen": "To a partner",
+        "example": {
+          "serbian": "Dobro jutro, ljubavi, spavaj još malo",
+          "pronunciation": "DOH-bro YOO-tro, LYOO-bah-vee, SPAH-vai yohsh MAH-lo",
+          "english": "Good morning, love, sleep a little more"
+        }
+      },
+      {
+        "serbian": "Dobro jutro, brate",
+        "pronunciation": "DOH-bro YOO-tro, BRAH-teh",
+        "describes": "him",
+        "useWhen": "To a guy friend",
+        "example": {
+          "serbian": "Dobro jutro, brate, spreman za posao?",
+          "pronunciation": "DOH-bro YOO-tro, BRAH-teh, SPREH-mahn zah POH-sah-oh",
+          "english": "Morning, man, ready for work?"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Dobro jutro, lepotice",
+        "pronunciation": "DOH-bro YOO-tro, leh-poh-TEE-tseh",
+        "nuance": "Good morning, beautiful"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Dobro jutro, sunce moje",
+        "pronunciation": "DOH-bro YOO-tro, SOON-tseh MOH-yeh",
+        "english": "Good morning, my sunshine",
+        "context": "Morning text"
+      },
+      {
+        "serbian": "Dobro jutro! Kafa je spremna",
+        "pronunciation": "DOH-bro YOO-tro! KAH-fah yeh SPREM-nah",
+        "english": "Good morning! The coffee is ready",
+        "context": "With coffee"
+      },
+      {
+        "serbian": "Dobro jutro, spavalice",
+        "pronunciation": "DOH-bro YOO-tro, spah-vah-LEE-tseh",
+        "english": "Good morning, sleepyhead",
+        "context": "Late wake-up"
+      }
+    ],
+    "texting": "dobro jutro, sunce",
+    "related": [
+      "good-morning",
+      "laku-noc-lepotice",
+      "zlato-sunce",
+      "jesi-li-se-naspavala"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Good morning and good night"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Nicknames and pet names"
+      }
+    ]
+  },
+  {
+    "id": "nedostajes-mi",
+    "english": "I miss you",
+    "serbian": "Nedostaješ mi",
+    "pronunciation": "neh-doh-STAH-yesh mee",
+    "meaning": "I miss you (standard way)",
+    "category": "Flirting and relationships",
+    "subcategory": "Missing someone",
+    "tags": [
+      "miss",
+      "love",
+      "sweet"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "describes",
+      "formal"
+    ],
+    "forms": [
+      {
+        "serbian": "Nedostaješ mi",
+        "pronunciation": "neh-doh-STAH-yesh mee",
+        "describes": "her",
+        "formal": "casual",
+        "useWhen": "I miss you (to one person)",
+        "example": {
+          "serbian": "Nedostaješ mi, kad se vidimo?",
+          "pronunciation": "neh-doh-STAH-yesh mee, KAHD seh VEE-dee-mo",
+          "english": "I miss you, when do we see each other?"
+        }
+      },
+      {
+        "serbian": "Nedostajem li ti?",
+        "pronunciation": "neh-doh-STAH-yem lee tee",
+        "describes": "me",
+        "useWhen": "Asking her: \"do you miss me?\"",
+        "example": {
+          "serbian": "Nedostajem li ti makar malo?",
+          "pronunciation": "neh-doh-STAH-yem lee tee MAH-kahr MAH-lo",
+          "english": "Do you miss me even a little?"
+        }
+      },
+      {
+        "serbian": "I ti meni nedostaješ",
+        "pronunciation": "ee tee MEH-nee neh-doh-STAH-yesh",
+        "describes": "her",
+        "useWhen": "Replying: \"I miss you too\"",
+        "example": {
+          "serbian": "I ti meni nedostaješ, jako",
+          "pronunciation": "ee tee MEH-nee neh-doh-STAH-yesh, YAH-ko",
+          "english": "I miss you too, a lot"
+        }
+      },
+      {
+        "serbian": "Nedostaje mi…",
+        "pronunciation": "neh-doh-STAH-yeh mee",
+        "describes": "him / her",
+        "useWhen": "I miss someone else or something",
+        "example": {
+          "serbian": "Nedostaje mi moja mama",
+          "pronunciation": "neh-doh-STAH-yeh mee MOH-yah MAH-mah",
+          "english": "I miss my mom"
+        }
+      },
+      {
+        "serbian": "Nedostajete mi",
+        "pronunciation": "neh-doh-STAH-yeh-teh mee",
+        "formal": "polite",
+        "useWhen": "Polite or to a group",
+        "example": {
+          "serbian": "Nedostajete mi svi",
+          "pronunciation": "neh-doh-STAH-yeh-teh mee SVEE",
+          "english": "I miss you all"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Fališ mi",
+        "pronunciation": "FAH-leesh mee",
+        "nuance": "The everyday spoken way to say it"
+      },
+      {
+        "serbian": "Mnogo mi nedostaješ",
+        "pronunciation": "MNOH-go mee neh-doh-STAH-yesh",
+        "nuance": "I miss you so much"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Nedostaješ mi više nego što misliš",
+        "pronunciation": "neh-doh-STAH-yesh mee VEE-sheh NEH-go shtoh MEE-sleesh",
+        "english": "I miss you more than you think",
+        "context": "To her"
+      },
+      {
+        "serbian": "Nedostaješ mi večeras",
+        "pronunciation": "neh-doh-STAH-yesh mee VEH-cheh-rahs",
+        "english": "I miss you tonight",
+        "context": "Late night"
+      },
+      {
+        "serbian": "Nedostaje mi Beograd",
+        "pronunciation": "neh-doh-STAH-yeh mee beh-oh-GRAHD",
+        "english": "I miss Belgrade",
+        "context": "About a place"
+      },
+      {
+        "serbian": "Nedostaje mi naš razgovor",
+        "pronunciation": "neh-doh-STAH-yeh mee NAHSH rahz-GOH-vor",
+        "english": "I miss our conversations",
+        "context": "About a thing"
+      }
+    ],
+    "texting": "nedostajes mi",
+    "related": [
+      "falis-mi",
+      "mislim-na-tebe",
+      "jedva-cekam",
+      "sanjao-sam-te"
+    ],
+    "watchOut": "Both \"nedostaješ mi\" and \"fališ mi\" are used. \"Nedostaješ mi\" is a little softer and also reads well in writing; \"fališ mi\" is the everyday spoken version.",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Missing someone"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Affection and romance"
+      }
+    ]
+  },
+  {
+    "id": "sanjao-sam-te",
+    "english": "I dreamed about you",
+    "serbian": "Sanjao sam te",
+    "pronunciation": "SAHN-yah-oh sahm teh",
+    "meaning": "I dreamed about you",
+    "category": "Flirting and relationships",
+    "subcategory": "Missing someone",
+    "tags": [
+      "dream",
+      "sweet",
+      "past"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "describes",
+      "speaker",
+      "tense"
+    ],
+    "forms": [
+      {
+        "serbian": "Sanjao sam te",
+        "pronunciation": "SAHN-yah-oh sahm teh",
+        "speaker": "male",
+        "useWhen": "A man says it",
+        "example": {
+          "serbian": "Sinoć sam te sanjao",
+          "pronunciation": "SEE-noch sahm teh SAHN-yah-oh",
+          "english": "I dreamed about you last night"
+        }
+      },
+      {
+        "serbian": "Sanjala sam te",
+        "pronunciation": "SAHN-yah-lah sahm teh",
+        "speaker": "female",
+        "useWhen": "A woman says it",
+        "example": {
+          "serbian": "Sanjala sam te noćas",
+          "pronunciation": "SAHN-yah-lah sahm teh NOH-chahs",
+          "english": "I dreamed about you tonight"
+        }
+      },
+      {
+        "serbian": "Jesi li me sanjala?",
+        "pronunciation": "YEH-see lee meh SAHN-yah-lah",
+        "describes": "her",
+        "useWhen": "Asking her",
+        "example": {
+          "serbian": "Jesi li me sanjala? Ja sam tebe sanjao",
+          "pronunciation": "YEH-see lee meh SAHN-yah-lah? yah sahm TEH-beh SAHN-yah-oh",
+          "english": "Did you dream about me? I dreamed about you"
+        }
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Sanjao sam te sinoć",
+        "pronunciation": "SAHN-yah-oh sahm teh SEE-noch",
+        "english": "I dreamed about you last night",
+        "context": "To her"
+      },
+      {
+        "serbian": "Sanjao sam čudan san",
+        "pronunciation": "SAHN-yah-oh sahm CHOO-dahn SAHN",
+        "english": "I had a strange dream",
+        "context": "A strange dream"
+      },
+      {
+        "serbian": "Slatkih snova, sanjaj me",
+        "pronunciation": "SLAHT-keeh SNOH-vah, SAHN-yai meh",
+        "english": "Sweet dreams, dream of me",
+        "context": "Sweet dreams"
+      }
+    ],
+    "texting": "sanjao sam te",
+    "related": [
+      "nedostajes-mi",
+      "slatkih-snova",
+      "mislim-na-tebe",
+      "laku-noc-lepotice"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Missing someone"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Affection and romance"
+      }
+    ]
+  },
+  {
+    "id": "jedva-cekam",
+    "english": "I can't wait to see you",
+    "serbian": "Jedva čekam da te vidim",
+    "pronunciation": "YED-vah CHEH-kahm dah teh VEE-deem",
+    "meaning": "I can't wait to see you",
+    "category": "Flirting and relationships",
+    "subcategory": "Missing someone",
+    "tags": [
+      "excited",
+      "wait",
+      "dating"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "describes"
+    ],
+    "forms": [
+      {
+        "serbian": "Jedva čekam da te vidim",
+        "pronunciation": "YED-vah CHEH-kahm dah teh VEE-deem",
+        "describes": "her",
+        "useWhen": "To her: I can't wait to see you",
+        "example": {
+          "serbian": "Jedva čekam da te vidim u petak",
+          "pronunciation": "YED-vah CHEH-kahm dah teh VEE-deem oo PEH-tahk",
+          "english": "I can't wait to see you on Friday"
+        }
+      },
+      {
+        "serbian": "Jedva čekaš?",
+        "pronunciation": "YED-vah CHEH-kahsh",
+        "describes": "her",
+        "useWhen": "Teasing her: can't you wait?",
+        "example": {
+          "serbian": "Jedva čekaš vikend, je l' tako?",
+          "pronunciation": "YED-vah CHEH-kahsh VEE-kend, yel TAH-ko",
+          "english": "You can't wait for the weekend, can you?"
+        }
+      },
+      {
+        "serbian": "Jedva čeka",
+        "pronunciation": "YED-vah CHEH-kah",
+        "describes": "him / her",
+        "useWhen": "He / she can't wait",
+        "example": {
+          "serbian": "Moja sestra jedva čeka put",
+          "pronunciation": "MOH-yah SEH-strah YED-vah CHEH-kah POOT",
+          "english": "My sister can't wait for the trip"
+        }
+      },
+      {
+        "serbian": "Jedva čekamo",
+        "pronunciation": "YED-vah CHEH-kah-mo",
+        "describes": "us",
+        "useWhen": "We can't wait",
+        "example": {
+          "serbian": "Jedva čekamo svadbu",
+          "pronunciation": "YED-vah CHEH-kah-mo SVAHD-boo",
+          "english": "We can't wait for the wedding"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Jedva čekam",
+        "pronunciation": "YED-vah CHEH-kahm",
+        "nuance": "I can't wait (short)"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Jedva čekam večeras",
+        "pronunciation": "YED-vah CHEH-kahm VEH-cheh-rahs",
+        "english": "I can't wait for tonight",
+        "context": "Before a date"
+      },
+      {
+        "serbian": "Jedva čekam da stignem",
+        "pronunciation": "YED-vah CHEH-kahm dah STEEG-nem",
+        "english": "I can't wait to get there",
+        "context": "The trip"
+      },
+      {
+        "serbian": "Jedva čekam subotu!",
+        "pronunciation": "YED-vah CHEH-kahm SOO-bo-too",
+        "english": "Can't wait for Saturday!",
+        "context": "Text sign-off"
+      }
+    ],
+    "texting": "jedva cekam da te vidim",
+    "related": [
+      "hocu-da-te-vidim",
+      "nedostajes-mi",
+      "vidimo-se-u-osam",
+      "kad-si-slobodna"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Missing someone"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Dating"
+      }
+    ]
+  },
+  {
+    "id": "zao-mi-je",
+    "english": "I'm sorry (I feel bad)",
+    "serbian": "Žao mi je",
+    "pronunciation": "ZHAH-oh mee yeh",
+    "meaning": "I'm sorry; I feel regret or sympathy",
+    "category": "Quick phrases",
+    "subcategory": "Thanks, sorry, please",
+    "tags": [
+      "sorry",
+      "sympathy",
+      "regret"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "describes"
+    ],
+    "forms": [
+      {
+        "serbian": "Žao mi je",
+        "pronunciation": "ZHAH-oh mee yeh",
+        "describes": "me",
+        "useWhen": "About me",
+        "example": {
+          "serbian": "Žao mi je, nisam hteo da te povredim",
+          "pronunciation": "ZHAH-oh mee yeh, NEE-sahm HTEH-oh dah teh poh-VREH-deem",
+          "english": "I'm sorry, I didn't mean to hurt you"
+        }
+      },
+      {
+        "serbian": "Žao ti je?",
+        "pronunciation": "ZHAH-oh tee yeh",
+        "describes": "her",
+        "useWhen": "Asking her",
+        "example": {
+          "serbian": "Žao ti je što ne dolaziš?",
+          "pronunciation": "ZHAH-oh tee yeh shtoh neh DOH-lah-zeesh",
+          "english": "Are you sorry you're not coming?"
+        }
+      },
+      {
+        "serbian": "Žao mu je / Žao joj je",
+        "pronunciation": "ZHAH-oh moo yeh / ZHAH-oh yoy yeh",
+        "describes": "him / her",
+        "useWhen": "About him / her",
+        "example": {
+          "serbian": "Žao joj je zbog toga",
+          "pronunciation": "ZHAH-oh yoy yeh ZBOHG TOH-gah",
+          "english": "She's sorry about that"
+        }
+      },
+      {
+        "serbian": "Žao nam je",
+        "pronunciation": "ZHAH-oh nahm yeh",
+        "describes": "us",
+        "useWhen": "About us",
+        "example": {
+          "serbian": "Žao nam je što kasnimo",
+          "pronunciation": "ZHAH-oh nahm yeh shtoh KAH-snee-mo",
+          "english": "We're sorry we're late"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Izvini",
+        "pronunciation": "eez-VEE-nee",
+        "nuance": "Asks forgiveness; more of an \"excuse me\" or \"sorry I did it\""
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Žao mi je što si bolesna",
+        "pronunciation": "ZHAH-oh mee yeh shtoh see BOH-lesh-nah",
+        "english": "I'm sorry you're sick (to her)",
+        "context": "Sympathy"
+      },
+      {
+        "serbian": "Žao mi je zbog sinoć",
+        "pronunciation": "ZHAH-oh mee yeh ZBOHG SEE-noch",
+        "english": "I'm sorry about last night",
+        "context": "Regret"
+      },
+      {
+        "serbian": "Žao mi je zbog tvog dede",
+        "pronunciation": "ZHAH-oh mee yeh ZBOHG tvohg DEH-deh",
+        "english": "I'm sorry about your grandfather",
+        "context": "Condolences"
+      }
+    ],
+    "texting": "zao mi je",
+    "related": [
+      "sorry",
+      "oprosti",
+      "ne-ljuti-se",
+      "izvini-sto-kasnim"
+    ],
+    "watchOut": "\"Izvini\" asks for forgiveness for something you did. \"Žao mi je\" says you feel bad, and it is also what you say when someone is hurting (\"I'm sorry for your loss\").",
+    "ijekavian": "Žao mi je (same)",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Thanks, sorry, please"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Relationship talk"
+      }
+    ]
+  },
+  {
+    "id": "oprosti",
+    "english": "Forgive me",
+    "serbian": "Oprosti",
+    "pronunciation": "oh-PROH-stee",
+    "meaning": "Forgive me; a warmer, more personal sorry",
+    "category": "Quick phrases",
+    "subcategory": "Thanks, sorry, please",
+    "tags": [
+      "sorry",
+      "forgive",
+      "apology"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "formal"
+    ],
+    "forms": [
+      {
+        "serbian": "Oprosti",
+        "pronunciation": "oh-PROH-stee",
+        "formal": "casual",
+        "useWhen": "To one friend or someone your age",
+        "example": {
+          "serbian": "Oprosti mi što sam kasnio",
+          "pronunciation": "oh-PROH-stee mee shtoh sahm KAH-snee-oh",
+          "english": "Forgive me for being late"
+        }
+      },
+      {
+        "serbian": "Oprostite",
+        "pronunciation": "oh-PROH-stee-teh",
+        "formal": "polite",
+        "useWhen": "To an elder, a stranger, or a group",
+        "example": {
+          "serbian": "Oprostite, gde je stanica?",
+          "pronunciation": "oh-PROH-stee-teh, GDEH yeh STAH-nee-tsah",
+          "english": "Excuse me, where is the station?"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Pardon",
+        "pronunciation": "pahr-DOHN",
+        "nuance": "Pardon (casual, from French)"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Oprosti, nisam hteo",
+        "pronunciation": "oh-PROH-stee, NEE-sahm HTEH-oh",
+        "english": "Forgive me, I didn't mean to (a man says this)",
+        "context": "Apologizing (man)"
+      },
+      {
+        "serbian": "Oprosti, nisam htela",
+        "pronunciation": "oh-PROH-stee, NEE-sahm HTEH-lah",
+        "english": "Forgive me, I didn't mean to (a woman says this)",
+        "context": "Apologizing (woman)"
+      },
+      {
+        "serbian": "Oprosti mi, molim te",
+        "pronunciation": "oh-PROH-stee mee, MOH-leem teh",
+        "english": "Forgive me, please",
+        "context": "Begging"
+      }
+    ],
+    "texting": "oprosti",
+    "related": [
+      "sorry",
+      "zao-mi-je",
+      "ne-ljuti-se",
+      "izvini-sto-kasnim"
+    ],
+    "watchOut": "\"Oprosti\" is warmer and more personal than \"izvini\". Use it when you really want to be forgiven.",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Thanks, sorry, please"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Relationship talk"
+      }
+    ]
+  },
+  {
+    "id": "jel-tako",
+    "english": "Right? / Isn't that so?",
+    "serbian": "Je l' tako?",
+    "pronunciation": "yel TAH-ko",
+    "meaning": "Isn't that right?",
+    "category": "Quick phrases",
+    "subcategory": "Filler and transition words",
+    "tags": [
+      "tag question",
+      "agree",
+      "spoken"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Je li tako?",
+        "pronunciation": "yeh lee TAH-ko",
+        "nuance": "The fuller, slightly more careful version"
+      },
+      {
+        "serbian": "Je l' da?",
+        "pronunciation": "yel DAH",
+        "nuance": "Very casual: \"right?\""
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Lepo je, je l' tako?",
+        "pronunciation": "LEH-po yeh, yel TAH-ko",
+        "english": "It's nice, isn't it?",
+        "context": "Checking agreement"
+      },
+      {
+        "serbian": "Ti si umorna, je l' tako?",
+        "pronunciation": "tee see OO-mor-nah, yel TAH-ko",
+        "english": "You're tired, aren't you?",
+        "context": "To her"
+      },
+      {
+        "serbian": "On kasni, je l' tako?",
+        "pronunciation": "ohn KAHS-nee, yel TAH-ko",
+        "english": "He's late, right?",
+        "context": "About him"
+      },
+      {
+        "serbian": "Vidimo se sutra, je l' tako?",
+        "pronunciation": "VEE-dee-mo seh SOO-trah, yel TAH-ko",
+        "english": "We're meeting tomorrow, right?",
+        "context": "About us"
+      }
+    ],
+    "texting": "je l tako",
+    "related": [
+      "zar-ne",
+      "tacno",
+      "u-pravu-si",
+      "slazem-se"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Filler and transition words"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Agree and disagree"
+      }
+    ]
+  },
+  {
+    "id": "zar-ne",
+    "english": "Isn't it? / Really?",
+    "serbian": "Zar ne?",
+    "pronunciation": "ZAHR neh",
+    "meaning": "Don't you think? Isn't it so?",
+    "category": "Quick phrases",
+    "subcategory": "Filler and transition words",
+    "tags": [
+      "tag question",
+      "surprise",
+      "spoken"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Je l' tako?",
+        "pronunciation": "yel TAH-ko",
+        "nuance": "Right?"
+      },
+      {
+        "serbian": "Zar nije?",
+        "pronunciation": "ZAHR NEE-yeh",
+        "nuance": "Isn't it?"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Lepo je, zar ne?",
+        "pronunciation": "LEH-po yeh, ZAHR neh",
+        "english": "It's nice, isn't it?",
+        "context": "Agreeing"
+      },
+      {
+        "serbian": "Zar nisi umorna?",
+        "pronunciation": "ZAHR NEE-see OO-mor-nah",
+        "english": "Aren't you tired?",
+        "context": "Surprised at her"
+      },
+      {
+        "serbian": "Zar on nije došao?",
+        "pronunciation": "ZAHR ohn NEE-yeh DOH-shah-oh",
+        "english": "Hasn't he come?",
+        "context": "About him"
+      },
+      {
+        "serbian": "Zar stvarno?",
+        "pronunciation": "ZAHR STVAHR-no",
+        "english": "Really? Seriously?",
+        "context": "Disbelief"
+      }
+    ],
+    "texting": "zar ne",
+    "related": [
+      "jel-tako",
+      "stvarno",
+      "salis-se",
+      "ma-daj"
+    ],
+    "watchOut": "At the end of a sentence \"zar ne?\" is a friendly \"isn't it?\". At the start (\"Zar nisi…?\") it shows surprise.",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Filler and transition words"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Reactions"
+      }
+    ]
+  },
+  {
+    "id": "dakle",
+    "english": "So / therefore",
+    "serbian": "Dakle",
+    "pronunciation": "DAHK-leh",
+    "meaning": "So, in that case; starts a point or a conclusion",
+    "category": "Quick phrases",
+    "subcategory": "Filler and transition words",
+    "tags": [
+      "filler",
+      "conclusion",
+      "flow"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Znači",
+        "pronunciation": "ZNAH-chee",
+        "nuance": "So / that means (more casual)"
+      },
+      {
+        "serbian": "Onda",
+        "pronunciation": "ON-dah",
+        "nuance": "Then"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Dakle, vidimo se u osam",
+        "pronunciation": "DAHK-leh, VEE-dee-mo seh oo OH-sahm",
+        "english": "So, see you at eight",
+        "context": "Making a point"
+      },
+      {
+        "serbian": "Dakle, ne dolaziš?",
+        "pronunciation": "DAHK-leh, neh DOH-lah-zeesh",
+        "english": "So, you're not coming?",
+        "context": "To her"
+      },
+      {
+        "serbian": "Dakle, on je kriv",
+        "pronunciation": "DAHK-leh, ohn yeh KREEV",
+        "english": "So, he's the one to blame",
+        "context": "About him"
+      },
+      {
+        "serbian": "Dakle, mi idemo",
+        "pronunciation": "DAHK-leh, mee EE-deh-mo",
+        "english": "So, we're going",
+        "context": "About us"
+      }
+    ],
+    "texting": "dakle",
+    "related": [
+      "znaci",
+      "onda",
+      "uglavnom",
+      "zapravo"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Filler and transition words"
+      },
+      {
+        "category": "Basics",
+        "subcategory": "Flow words"
+      }
+    ]
+  },
+  {
+    "id": "uglavnom",
+    "english": "Anyway / mostly",
+    "serbian": "Uglavnom",
+    "pronunciation": "OO-glahv-nom",
+    "meaning": "Anyway; mostly; in short",
+    "category": "Quick phrases",
+    "subcategory": "Filler and transition words",
+    "tags": [
+      "filler",
+      "anyway",
+      "flow"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "U svakom slučaju",
+        "pronunciation": "oo SVAH-kom SLOO-chah-yoo",
+        "nuance": "In any case"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Uglavnom, javi mi",
+        "pronunciation": "OO-glahv-nom, YAH-vee mee",
+        "english": "Anyway, let me know",
+        "context": "Wrapping up"
+      },
+      {
+        "serbian": "Uglavnom sam kod kuće",
+        "pronunciation": "OO-glahv-nom sahm kohd KOO-cheh",
+        "english": "I'm mostly at home",
+        "context": "Mostly"
+      },
+      {
+        "serbian": "Ona uglavnom kasni",
+        "pronunciation": "OH-nah OO-glahv-nom KAHS-nee",
+        "english": "She's mostly late",
+        "context": "About her"
+      },
+      {
+        "serbian": "Uglavnom idemo u kafić",
+        "pronunciation": "OO-glahv-nom EE-deh-mo oo KAH-feech",
+        "english": "We mostly go to a café",
+        "context": "About us"
+      }
+    ],
+    "texting": "uglavnom",
+    "related": [
+      "dakle",
+      "ipak",
+      "zapravo",
+      "znaci"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Filler and transition words"
+      },
+      {
+        "category": "Basics",
+        "subcategory": "Flow words"
+      }
+    ]
+  },
+  {
+    "id": "mnogo",
+    "english": "A lot / very",
+    "serbian": "Mnogo",
+    "pronunciation": "MNOH-go",
+    "meaning": "A lot, very, many",
+    "category": "Basics",
+    "subcategory": "Flow words",
+    "tags": [
+      "very",
+      "a lot",
+      "emphasis"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Puno",
+        "pronunciation": "POO-no",
+        "nuance": "A lot; very common, same idea"
+      },
+      {
+        "serbian": "Jako",
+        "pronunciation": "YAH-ko",
+        "nuance": "Very, strongly"
+      },
+      {
+        "serbian": "Baš",
+        "pronunciation": "BAHSH",
+        "nuance": "Really (casual emphasis)"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Hvala mnogo",
+        "pronunciation": "HVAH-lah MNOH-go",
+        "english": "Thanks a lot",
+        "context": "Thanks"
+      },
+      {
+        "serbian": "Mnogo mi se sviđaš",
+        "pronunciation": "MNOH-go mee seh SVEE-jahsh",
+        "english": "I like you a lot",
+        "context": "To her, flirty"
+      },
+      {
+        "serbian": "Mnogo je hladno",
+        "pronunciation": "MNOH-go yeh HLAHD-no",
+        "english": "It's very cold",
+        "context": "Weather"
+      },
+      {
+        "serbian": "On mnogo radi",
+        "pronunciation": "ohn MNOH-go RAH-dee",
+        "english": "He works a lot",
+        "context": "About him"
+      },
+      {
+        "serbian": "Mnogo smo se smejali",
+        "pronunciation": "MNOH-go smo seh smeh-YAH-lee",
+        "english": "We laughed a lot",
+        "context": "About us"
+      }
+    ],
+    "texting": "mnogo",
+    "related": [
+      "bas",
+      "hvala-puno",
+      "svidjas-mi-se",
+      "vise-nego"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Flow words"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Thanks, sorry, please"
+      }
+    ]
+  },
+  {
+    "id": "eto",
+    "english": "There you go",
+    "serbian": "Eto",
+    "pronunciation": "EH-to",
+    "meaning": "There; here you go; well then",
+    "category": "Quick phrases",
+    "subcategory": "Filler and transition words",
+    "tags": [
+      "filler",
+      "handing over",
+      "reaction"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Evo",
+        "pronunciation": "EH-vo",
+        "nuance": "Here (it is); for something close to you"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Eto, izvoli",
+        "pronunciation": "EH-to, EEZ-vo-lee",
+        "english": "Here you go",
+        "context": "Handing over"
+      },
+      {
+        "serbian": "Eto, vidiš",
+        "pronunciation": "EH-to, VEE-deesh",
+        "english": "See? There you go",
+        "context": "Making a point"
+      },
+      {
+        "serbian": "Eto ga!",
+        "pronunciation": "EH-to gah",
+        "english": "There he is / there it is!",
+        "context": "Finding it"
+      },
+      {
+        "serbian": "Eto, u pravu si",
+        "pronunciation": "EH-to, oo PRAH-voo see",
+        "english": "Fine, you're right",
+        "context": "Giving in"
+      }
+    ],
+    "texting": "eto",
+    "related": [
+      "izvolite",
+      "u-pravu-si",
+      "pa",
+      "aha"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Filler and transition words"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
+    ]
+  },
+  {
+    "id": "idemo-na-pice",
+    "english": "Let's go for a drink",
+    "serbian": "Idemo na piće",
+    "pronunciation": "EE-deh-mo nah PEE-cheh",
+    "meaning": "Let's go out for a drink",
+    "category": "Everyday situations",
+    "subcategory": "Going out",
+    "tags": [
+      "drink",
+      "invite",
+      "plans"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Idemo na pivo",
+        "pronunciation": "EE-deh-mo nah PEE-vo",
+        "nuance": "Let's get a beer"
+      },
+      {
+        "serbian": "Ajde na piće",
+        "pronunciation": "AY-deh nah PEE-cheh",
+        "nuance": "Come on, let's get a drink"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Hoćeš da izađemo na piće?",
+        "pronunciation": "HOH-chesh dah ee-ZAH-jeh-mo nah PEE-cheh",
+        "english": "Want to go out for a drink?",
+        "context": "To her"
+      },
+      {
+        "serbian": "Idemo na piće posle posla",
+        "pronunciation": "EE-deh-mo nah PEE-cheh POH-sleh POH-slah",
+        "english": "Let's get a drink after work",
+        "context": "After work"
+      },
+      {
+        "serbian": "Idemo svi na piće",
+        "pronunciation": "EE-deh-mo svee nah PEE-cheh",
+        "english": "Everyone is going for a drink",
+        "context": "With friends"
+      },
+      {
+        "serbian": "Idemo na pivo",
+        "pronunciation": "EE-deh-mo nah PEE-vo",
+        "english": "Let's get a beer",
+        "context": "Beer"
+      }
+    ],
+    "texting": "idemo na pice",
+    "related": [
+      "na-kafu",
+      "hoces-da-izadjemo",
+      "idemo-u-grad",
+      "pivo",
+      "hoces-da-prosetamo"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Going out"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Making plans"
+      }
+    ]
+  },
+  {
+    "id": "hoces-da-prosetamo",
+    "english": "Want to take a walk?",
+    "serbian": "Hoćeš da prošetamo?",
+    "pronunciation": "HOH-chesh dah proh-SHEH-tah-mo",
+    "meaning": "Do you want to go for a walk together?",
+    "category": "Everyday situations",
+    "subcategory": "Going out",
+    "tags": [
+      "walk",
+      "invite",
+      "dating"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "formal"
+    ],
+    "forms": [
+      {
+        "serbian": "Hoćeš da prošetamo?",
+        "pronunciation": "HOH-chesh dah proh-SHEH-tah-mo",
+        "formal": "casual",
+        "useWhen": "To one friend or someone your age",
+        "example": {
+          "serbian": "Hoćeš da prošetamo do centra?",
+          "pronunciation": "HOH-chesh dah proh-SHEH-tah-mo doh TSEN-trah",
+          "english": "Want to walk to the center?"
+        }
+      },
+      {
+        "serbian": "Hoćete li da prošetamo?",
+        "pronunciation": "HOH-cheh-teh lee dah proh-SHEH-tah-mo",
+        "formal": "polite",
+        "useWhen": "To an elder or a group",
+        "example": {
+          "serbian": "Hoćete li da prošetamo posle ručka?",
+          "pronunciation": "HOH-cheh-teh lee dah proh-SHEH-tah-mo POH-sleh ROOCH-kah",
+          "english": "Would you like to take a walk after lunch?"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Idemo u šetnju",
+        "pronunciation": "EE-deh-mo oo SHET-nyoo",
+        "nuance": "Let's go for a stroll"
+      },
+      {
+        "serbian": "Prošetajmo",
+        "pronunciation": "proh-SHEH-tai-mo",
+        "nuance": "Let's walk"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Hoćeš da prošetamo pored reke?",
+        "pronunciation": "HOH-chesh dah proh-SHEH-tah-mo POH-red REH-keh",
+        "english": "Want to walk by the river?",
+        "context": "To her"
+      },
+      {
+        "serbian": "Prošetajmo posle večere",
+        "pronunciation": "proh-SHEH-tai-mo POH-sleh VEH-cheh-reh",
+        "english": "Let's take a walk after dinner",
+        "context": "Evening"
+      },
+      {
+        "serbian": "Hoću, daj mi pet minuta",
+        "pronunciation": "HOH-choo, DAI mee PEHT mee-NOO-tah",
+        "english": "Sure, give me five minutes",
+        "context": "Her reply"
+      },
+      {
+        "serbian": "Šetamo svako veče",
+        "pronunciation": "SHEH-tah-mo SVAH-ko VEH-cheh",
+        "english": "We walk every evening",
+        "context": "About us"
+      }
+    ],
+    "texting": "hoces da prosetamo",
+    "related": [
+      "hoces-da-izadjemo",
+      "idemo-na-pice",
+      "korzo",
+      "veceras"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Going out"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Dating"
+      }
+    ]
+  },
+  {
+    "id": "sta-ti-se-jede",
+    "english": "What do you feel like eating?",
+    "serbian": "Šta ti se jede?",
+    "pronunciation": "SHTAH tee seh YEH-deh",
+    "meaning": "What are you in the mood to eat?",
+    "category": "Everyday situations",
+    "subcategory": "Food and drink",
+    "tags": [
+      "food",
+      "mood",
+      "question"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "describes",
+      "formal"
+    ],
+    "literal": "What eats itself to you?",
+    "forms": [
+      {
+        "serbian": "Šta ti se jede?",
+        "pronunciation": "SHTAH tee seh YEH-deh",
+        "formal": "casual",
+        "useWhen": "To one friend or someone your age",
+        "example": {
+          "serbian": "Šta ti se jede za ručak?",
+          "pronunciation": "SHTAH tee seh YEH-deh zah ROO-chahk",
+          "english": "What do you feel like for lunch?"
+        }
+      },
+      {
+        "serbian": "Šta vam se jede?",
+        "pronunciation": "SHTAH vahm seh YEH-deh",
+        "formal": "polite",
+        "useWhen": "To an elder, a stranger, or a group",
+        "example": {
+          "serbian": "Šta vam se jede, gospodine?",
+          "pronunciation": "SHTAH vahm seh YEH-deh, goh-SPOH-dee-neh",
+          "english": "What would you like to eat, sir?"
+        }
+      },
+      {
+        "serbian": "Jede mi se…",
+        "pronunciation": "YEH-deh mee seh",
+        "describes": "me",
+        "useWhen": "I feel like eating…",
+        "example": {
+          "serbian": "Jede mi se pica",
+          "pronunciation": "YEH-deh mee seh PEE-tsah",
+          "english": "I feel like pizza"
+        }
+      }
+    ],
+    "patternHint": "\"Jede mi se\" = I feel like eating. \"Pije mi se\" = I feel like a drink. \"Spava mi se\" = I feel sleepy. The person goes in the middle: mi, ti, mu, joj, nam.",
+    "examples": [
+      {
+        "serbian": "Šta ti se jede večeras?",
+        "pronunciation": "SHTAH tee seh YEH-deh VEH-cheh-rahs",
+        "english": "What do you feel like eating tonight?",
+        "context": "To her"
+      },
+      {
+        "serbian": "Jede mi se nešto slatko",
+        "pronunciation": "YEH-deh mee seh NEHSH-to SLAHT-ko",
+        "english": "I feel like something sweet",
+        "context": "About me"
+      },
+      {
+        "serbian": "Njoj se jede burek",
+        "pronunciation": "NYOY seh YEH-deh BOO-rek",
+        "english": "She feels like burek",
+        "context": "About her"
+      },
+      {
+        "serbian": "Pije mi se kafa",
+        "pronunciation": "PEE-yeh mee seh KAH-fah",
+        "english": "I feel like a coffee",
+        "context": "A drink"
+      }
+    ],
+    "texting": "sta ti se jede",
+    "related": [
+      "spava-mi-se",
+      "gladan",
+      "dorucak-rucak-vecera",
+      "idemo-na-veceru"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Food and drink"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
+  },
+  {
+    "id": "jutros-sinoc",
+    "english": "This morning / last night",
+    "serbian": "Jutros / sinoć",
+    "pronunciation": "YOO-tros / SEE-noch",
+    "meaning": "This morning; last night",
+    "category": "Basics",
+    "subcategory": "Time and days",
+    "tags": [
+      "time",
+      "morning",
+      "night"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Noćas",
+        "pronunciation": "NOH-chahs",
+        "nuance": "Tonight, or during the night"
+      },
+      {
+        "serbian": "Prekjuče",
+        "pronunciation": "PREHK-yoo-cheh",
+        "nuance": "The day before yesterday"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Jutros sam kasnio",
+        "pronunciation": "YOO-tros sahm KAHS-nee-oh",
+        "english": "I was late this morning",
+        "context": "About me"
+      },
+      {
+        "serbian": "Šta si radila sinoć?",
+        "pronunciation": "SHTAH see RAH-dee-lah SEE-noch",
+        "english": "What did you do last night?",
+        "context": "To her"
+      },
+      {
+        "serbian": "On je sinoć bio kod nas",
+        "pronunciation": "ohn yeh SEE-noch BEE-oh kohd NAHS",
+        "english": "He was at our place last night",
+        "context": "About him"
+      },
+      {
+        "serbian": "Jutros je bilo hladno",
+        "pronunciation": "YOO-tros yeh BEE-lo HLAHD-no",
+        "english": "It was cold this morning",
+        "context": "Weather"
+      }
+    ],
+    "texting": "jutros / sinoc",
+    "related": [
+      "danas-sutra-juce",
+      "veceras",
+      "jutro-vece",
+      "dani",
+      "napolju-je-hladno"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Time and days"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Casual conversation"
+      }
+    ]
+  },
+  {
+    "id": "za-sat-vremena",
+    "english": "In an hour",
+    "serbian": "Za sat vremena",
+    "pronunciation": "zah SAHT VREH-meh-nah",
+    "meaning": "In an hour",
+    "category": "Basics",
+    "subcategory": "Time and days",
+    "tags": [
+      "time",
+      "wait",
+      "late"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Za pola sata",
+        "pronunciation": "zah POH-lah SAH-tah",
+        "nuance": "In half an hour"
+      },
+      {
+        "serbian": "Za petnaest minuta",
+        "pronunciation": "zah PEHT-nah-est mee-NOO-tah",
+        "nuance": "In fifteen minutes"
+      },
+      {
+        "serbian": "Za dva sata",
+        "pronunciation": "zah DVAH SAH-tah",
+        "nuance": "In two hours"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Stižem za sat vremena",
+        "pronunciation": "STEE-zhem zah SAHT VREH-meh-nah",
+        "english": "I'll be there in an hour",
+        "context": "Running late"
+      },
+      {
+        "serbian": "Ručak je gotov za sat vremena",
+        "pronunciation": "ROO-chahk yeh GOH-tov zah SAHT VREH-meh-nah",
+        "english": "Lunch will be ready in an hour",
+        "context": "Food"
+      },
+      {
+        "serbian": "Zovem te za sat vremena",
+        "pronunciation": "ZOH-vem teh zah SAHT VREH-meh-nah",
+        "english": "I'll call you in an hour",
+        "context": "To her"
+      },
+      {
+        "serbian": "Oni stižu za sat vremena",
+        "pronunciation": "OH-nee STEE-zhoo zah SAHT VREH-meh-nah",
+        "english": "They arrive in an hour",
+        "context": "About them"
+      }
+    ],
+    "texting": "za sat vremena",
+    "related": [
+      "stizem-za-pet",
+      "kasnim",
+      "koliko-je-sati",
+      "veceras"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Time and days"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Running late"
+      }
+    ]
+  },
+  {
+    "id": "pada-kisa",
+    "english": "It's raining",
+    "serbian": "Pada kiša",
+    "pronunciation": "PAH-dah KEE-shah",
+    "meaning": "It's raining",
+    "category": "Describing and feelings",
+    "subcategory": "Describing things",
+    "tags": [
+      "weather",
+      "rain",
+      "description"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Pljušti",
+        "pronunciation": "PLYOOSH-tee",
+        "nuance": "It's pouring"
+      },
+      {
+        "serbian": "Pada sneg",
+        "pronunciation": "PAH-dah SNEG",
+        "nuance": "It's snowing"
+      },
+      {
+        "serbian": "Duva vetar",
+        "pronunciation": "DOO-vah VEH-tar",
+        "nuance": "The wind is blowing"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Pada kiša, kasnim malo",
+        "pronunciation": "PAH-dah KEE-shah, KAHS-neem MAH-lo",
+        "english": "It's raining, I'm running a bit late",
+        "context": "Texting"
+      },
+      {
+        "serbian": "Uzmi kišobran, pada kiša",
+        "pronunciation": "OOZ-mee KEE-sho-brahn, PAH-dah KEE-shah",
+        "english": "Take an umbrella, it's raining",
+        "context": "To her"
+      },
+      {
+        "serbian": "Ako pada kiša, ostajemo kod kuće",
+        "pronunciation": "AH-ko PAH-dah KEE-shah, oh-STAH-yeh-mo kohd KOO-cheh",
+        "english": "If it rains, we're staying home",
+        "context": "Plans"
+      },
+      {
+        "serbian": "Sutra će padati kiša",
+        "pronunciation": "SOO-trah cheh PAH-dah-tee KEE-shah",
+        "english": "It's going to rain tomorrow",
+        "context": "Forecast"
+      }
+    ],
+    "texting": "pada kisa",
+    "related": [
+      "kao-iz-kabla",
+      "napolju-je-hladno",
+      "kasnim",
+      "ajde"
+    ],
+    "ijekavian": "Pada kiša (same)",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Describing things"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Places"
+      }
+    ]
+  },
+  {
+    "id": "napolju-je-hladno",
+    "english": "It's cold outside",
+    "serbian": "Napolju je hladno",
+    "pronunciation": "nah-POH-lyoo yeh HLAHD-no",
+    "meaning": "It's cold outside",
+    "category": "Describing and feelings",
+    "subcategory": "Describing things",
+    "tags": [
+      "weather",
+      "cold",
+      "warm"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "patternHint": "\"Hladno je\" describes the weather. \"Hladno mi je\" says YOU feel cold (the person goes in the middle: mi, ti, mu, joj).",
+    "alternatives": [
+      {
+        "serbian": "Napolju je toplo",
+        "pronunciation": "nah-POH-lyoo yeh TOH-plo",
+        "nuance": "It's warm outside"
+      },
+      {
+        "serbian": "Napolju je vruće",
+        "pronunciation": "nah-POH-lyoo yeh VROO-cheh",
+        "nuance": "It's hot outside"
+      },
+      {
+        "serbian": "Sunčano je",
+        "pronunciation": "SOON-chah-no yeh",
+        "nuance": "It's sunny"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Obuci jaknu, napolju je hladno",
+        "pronunciation": "OH-boo-tsee YAHK-noo, nah-POH-lyoo yeh HLAHD-no",
+        "english": "Put on a jacket, it's cold outside",
+        "context": "To her"
+      },
+      {
+        "serbian": "Hladno mi je, napolju je minus",
+        "pronunciation": "HLAHD-no mee yeh, nah-POH-lyoo yeh MEE-noos",
+        "english": "I'm cold, it's below zero outside",
+        "context": "About me"
+      },
+      {
+        "serbian": "Napolju je vruće, idemo na reku",
+        "pronunciation": "nah-POH-lyoo yeh VROO-cheh, EE-deh-mo nah REH-koo",
+        "english": "It's hot outside, let's go to the river",
+        "context": "Summer"
+      },
+      {
+        "serbian": "Lepo je vreme, hajde da prošetamo",
+        "pronunciation": "LEH-po yeh VREH-meh, HAY-deh dah proh-SHEH-tah-mo",
+        "english": "The weather's nice, let's go for a walk",
+        "context": "Nice day"
+      }
+    ],
+    "texting": "napolju je hladno",
+    "related": [
+      "hladno-mi-je",
+      "pada-kisa",
+      "jutros-sinoc",
+      "lepo-mi-je-s-tobom"
+    ],
+    "ijekavian": "Vani je hladno",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Describing things"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Places"
+      }
+    ]
+  },
+  {
+    "id": "koje-je-boje",
+    "english": "What colour is it?",
+    "serbian": "Koje je boje?",
+    "pronunciation": "KOH-yeh yeh BOH-yeh",
+    "meaning": "What colour is it?",
+    "category": "Basics",
+    "subcategory": "Colors",
+    "tags": [
+      "color",
+      "question",
+      "describing"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "noun gender"
+    ],
+    "forms": [
+      {
+        "serbian": "Crven je auto",
+        "pronunciation": "TSUR-ven yeh OW-toh",
+        "nounGender": "masculine",
+        "useWhen": "Masculine thing",
+        "example": {
+          "serbian": "Crven je auto ispred kuće",
+          "pronunciation": "TSUR-ven yeh OW-toh EES-pred KOO-cheh",
+          "english": "The car in front of the house is red"
+        }
+      },
+      {
+        "serbian": "Crvena je jakna",
+        "pronunciation": "TSUR-veh-nah yeh YAHK-nah",
+        "nounGender": "feminine",
+        "useWhen": "Feminine thing",
+        "example": {
+          "serbian": "Crvena je moja omiljena jakna",
+          "pronunciation": "TSUR-veh-nah yeh MOH-yah oh-MEEL-yeh-nah YAHK-nah",
+          "english": "The red one is my favourite jacket"
+        }
+      },
+      {
+        "serbian": "Crveno je vino",
+        "pronunciation": "TSUR-veh-no yeh VEE-no",
+        "nounGender": "neuter",
+        "useWhen": "Neuter thing",
+        "example": {
+          "serbian": "Crveno je vino bolje",
+          "pronunciation": "TSUR-veh-no yeh VEE-no BOH-lyeh",
+          "english": "The red wine is better"
+        }
+      }
+    ],
+    "patternHint": "Colours match the thing: crven auto, crvena jakna, crveno vino.",
+    "examples": [
+      {
+        "serbian": "Koje je boje tvoja jakna?",
+        "pronunciation": "KOH-yeh yeh BOH-yeh TVOH-yah YAHK-nah",
+        "english": "What colour is your jacket?",
+        "context": "Asking"
+      },
+      {
+        "serbian": "Crvena je",
+        "pronunciation": "TSUR-veh-nah yeh",
+        "english": "It's red",
+        "context": "Answering"
+      },
+      {
+        "serbian": "Koja ti je omiljena boja?",
+        "pronunciation": "KOH-yah tee yeh oh-MEEL-yeh-nah BOH-yah",
+        "english": "What's your favourite colour?",
+        "context": "Favourite"
+      },
+      {
+        "serbian": "Moja omiljena boja je plava",
+        "pronunciation": "MOH-yah oh-MEEL-yeh-nah BOH-yah yeh PLAH-vah",
+        "english": "My favourite colour is blue",
+        "context": "About me"
+      }
+    ],
+    "texting": "koje je boje",
+    "related": [
+      "boje",
+      "tamno-svetlo",
+      "tvoj",
+      "veliko-malo"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Colors"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
+  },
+  {
+    "id": "tamno-svetlo",
+    "english": "Dark / light",
+    "serbian": "Tamno / svetlo",
+    "pronunciation": "TAHM-no / SVEHT-lo",
+    "meaning": "Dark and light (colours, rooms, hair)",
+    "category": "Basics",
+    "subcategory": "Colors",
+    "tags": [
+      "color",
+      "dark",
+      "light"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Tamna / svetla",
+        "pronunciation": "TAHM-nah / SVEHT-lah",
+        "nuance": "Dark / light (feminine)"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Tamnoplava jakna",
+        "pronunciation": "tahm-no-PLAH-vah YAHK-nah",
+        "english": "A dark blue jacket",
+        "context": "A dark shade"
+      },
+      {
+        "serbian": "Svetloplava majica",
+        "pronunciation": "svet-lo-PLAH-vah MAH-ee-tsah",
+        "english": "A light blue t-shirt",
+        "context": "A light shade"
+      },
+      {
+        "serbian": "U sobi je tamno",
+        "pronunciation": "oo SOH-bee yeh TAHM-no",
+        "english": "It's dark in the room",
+        "context": "A room"
+      },
+      {
+        "serbian": "Ona ima tamnu kosu",
+        "pronunciation": "OH-nah EE-mah TAHM-noo KOH-soo",
+        "english": "She has dark hair",
+        "context": "About her"
+      }
+    ],
+    "texting": "tamno / svetlo",
+    "related": [
+      "boje",
+      "koje-je-boje",
+      "veliko-malo",
+      "staro-novo"
+    ],
+    "ijekavian": "svijetlo (light)",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Colors"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "People: appearance"
+      }
+    ]
+  },
+  {
+    "id": "prvi-drugi-treci",
+    "english": "First, second, third",
+    "serbian": "Prvi / drugi / treći",
+    "pronunciation": "PUR-vee / DROO-gee / TREH-chee",
+    "meaning": "Ordinal numbers: first, second, third…",
+    "category": "Basics",
+    "subcategory": "Numbers",
+    "tags": [
+      "numbers",
+      "order",
+      "first"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "noun gender"
+    ],
+    "forms": [
+      {
+        "serbian": "Prvi / prva / prvo",
+        "pronunciation": "PUR-vee / PUR-vah / PUR-vo",
+        "nounGender": "masculine / feminine / neuter",
+        "useWhen": "First",
+        "example": {
+          "serbian": "Prvi dan, prva noć, prvo veče",
+          "pronunciation": "PUR-vee DAHN, PUR-vah NOHCH, PUR-vo VEH-cheh",
+          "english": "First day, first night, first evening"
+        }
+      },
+      {
+        "serbian": "Drugi / druga / drugo",
+        "pronunciation": "DROO-gee / DROO-gah / DROO-go",
+        "nounGender": "masculine / feminine / neuter",
+        "useWhen": "Second",
+        "example": {
+          "serbian": "Drugi put, druga ulica, drugo pitanje",
+          "pronunciation": "DROO-gee POOT, DROO-gah OO-lee-tsah, DROO-go PEE-tah-nyeh",
+          "english": "Second time, second street, second question"
+        }
+      },
+      {
+        "serbian": "Treći / treća / treće",
+        "pronunciation": "TREH-chee / TREH-chah / TREH-cheh",
+        "nounGender": "masculine / feminine / neuter",
+        "useWhen": "Third",
+        "example": {
+          "serbian": "Treći sprat, treća vrata, treće mesto",
+          "pronunciation": "TREH-chee SPRAHT, TREH-chah VRAH-tah, TREH-cheh MEH-sto",
+          "english": "Third floor, third door, third place"
+        }
+      },
+      {
+        "serbian": "Poslednji / poslednja / poslednje",
+        "pronunciation": "POH-sled-nyee / POH-sled-nyah / POH-sled-nyeh",
+        "nounGender": "masculine / feminine / neuter",
+        "useWhen": "Last",
+        "example": {
+          "serbian": "Poslednji autobus je u ponoć",
+          "pronunciation": "POH-sled-nyee ow-TOH-boos yeh oo POH-noch",
+          "english": "The last bus is at midnight"
+        }
+      }
+    ],
+    "patternHint": "After 1-4 the pattern is regular: -i / -a / -o. Say the full ordinal for dates: prvi maj, drugi januar.",
+    "alternatives": [
+      {
+        "serbian": "Četvrti",
+        "pronunciation": "CHEH-tur-tee",
+        "nuance": "Fourth"
+      },
+      {
+        "serbian": "Peti",
+        "pronunciation": "PEH-tee",
+        "nuance": "Fifth"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Prvi maj je praznik",
+        "pronunciation": "PUR-vee MAI yeh PRAHZ-neek",
+        "english": "The first of May is a holiday",
+        "context": "Dates"
+      },
+      {
+        "serbian": "Živim na trećem spratu",
+        "pronunciation": "ZHEE-veem nah TREH-chem SPRAH-too",
+        "english": "I live on the third floor",
+        "context": "Floors"
+      },
+      {
+        "serbian": "Ti si prva kojoj ovo kažem",
+        "pronunciation": "tee see PUR-vah KOH-yoy OH-vo KAH-zhem",
+        "english": "You're the first person I'm telling this",
+        "context": "To her"
+      },
+      {
+        "serbian": "Mi smo drugi na redu",
+        "pronunciation": "mee smo DROO-gee nah REH-doo",
+        "english": "We're second in line",
+        "context": "About us"
+      }
+    ],
+    "texting": "prvi / drugi / treci",
+    "related": [
+      "brojevi",
+      "dani",
+      "meseci",
+      "prvi-put"
+    ],
+    "ijekavian": "posljednji (last)",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Numbers"
+      },
+      {
+        "category": "Basics",
+        "subcategory": "Time and days"
+      }
+    ]
+  },
+  {
+    "id": "cena-u-dinarima",
+    "english": "Prices in dinars",
+    "serbian": "Sto pedeset dinara",
+    "pronunciation": "STOH PEH-deh-set DEE-nah-rah",
+    "meaning": "150 dinars; how the word \"dinar\" changes with the number",
+    "category": "Basics",
+    "subcategory": "Numbers",
+    "tags": [
+      "price",
+      "dinar",
+      "numbers"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "plural"
+    ],
+    "forms": [
+      {
+        "serbian": "jedan dinar",
+        "pronunciation": "YEH-dahn DEE-nahr",
+        "useWhen": "1 (and 21, 31…)",
+        "example": {
+          "serbian": "Jedan dinar je mala para",
+          "pronunciation": "YEH-dahn DEE-nahr yeh MAH-lah PAH-rah",
+          "english": "One dinar is a small amount"
+        }
+      },
+      {
+        "serbian": "dva / tri / četiri dinara",
+        "pronunciation": "DVAH / TREE / CHEH-tee-ree DEE-nah-rah",
+        "useWhen": "2, 3 and 4 (also 22, 23, 24…)",
+        "example": {
+          "serbian": "Tri dinara, molim",
+          "pronunciation": "TREE DEE-nah-rah, MOH-leem",
+          "english": "Three dinars, please"
+        }
+      },
+      {
+        "serbian": "pet i više dinara",
+        "pronunciation": "PEHT ee VEE-sheh DEE-nah-rah",
+        "useWhen": "5 and up, and all the teens (11 to 14 too)",
+        "example": {
+          "serbian": "Dvanaest dinara je jeftino",
+          "pronunciation": "DVAH-nah-est DEE-nah-rah yeh YEF-tee-no",
+          "english": "Twelve dinars is cheap"
+        }
+      }
+    ],
+    "patternHint": "1 → dinar. 2 to 4 → dinara. 5 and up → dinara too. Only \"jedan\" and \"dva\" change themselves (dve with feminine words: dve hiljade).",
+    "examples": [
+      {
+        "serbian": "Koliko košta? Sto dvadeset dinara",
+        "pronunciation": "KOH-lee-ko KOH-shtah? STOH DVAH-deh-set DEE-nah-rah",
+        "english": "How much is it? 120 dinars",
+        "context": "Asking the price"
+      },
+      {
+        "serbian": "Samo pedeset dinara",
+        "pronunciation": "SAH-mo PEH-deh-set DEE-nah-rah",
+        "english": "Only 50 dinars",
+        "context": "Cheap"
+      },
+      {
+        "serbian": "Dve hiljade dinara",
+        "pronunciation": "DVEH HEEL-yah-deh DEE-nah-rah",
+        "english": "Two thousand dinars",
+        "context": "Expensive"
+      },
+      {
+        "serbian": "To košta jedan dinar",
+        "pronunciation": "TOH KOH-shtah YEH-dahn DEE-nahr",
+        "english": "That costs one dinar",
+        "context": "One dinar"
+      }
+    ],
+    "texting": "sto pedeset dinara",
+    "related": [
+      "koliko-kosta",
+      "brojevi",
+      "skupo",
+      "jeftino"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Numbers"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Shopping and money"
+      }
+    ]
+  },
+  {
+    "id": "dugacko-kratko",
+    "english": "Long / short",
+    "serbian": "Dugačak / kratak",
+    "pronunciation": "DOO-gah-chahk / KRAH-tahk",
+    "meaning": "Long and short (things, time, hair)",
+    "category": "Basics",
+    "subcategory": "Shapes and sizes",
+    "tags": [
+      "size",
+      "long",
+      "short"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "noun gender"
+    ],
+    "forms": [
+      {
+        "serbian": "Dugačak je",
+        "pronunciation": "DOO-gah-chahk yeh",
+        "nounGender": "masculine",
+        "useWhen": "Masculine thing",
+        "example": {
+          "serbian": "Ovaj put je dugačak",
+          "pronunciation": "OH-vai POOT yeh DOO-gah-chahk",
+          "english": "This road is long"
+        }
+      },
+      {
+        "serbian": "Dugačka je",
+        "pronunciation": "DOO-gahch-kah yeh",
+        "nounGender": "feminine",
+        "useWhen": "Feminine thing",
+        "example": {
+          "serbian": "Dugačka je ulica",
+          "pronunciation": "DOO-gahch-kah yeh OO-lee-tsah",
+          "english": "The street is long"
+        }
+      },
+      {
+        "serbian": "Dugačko je",
+        "pronunciation": "DOO-gahch-ko yeh",
+        "nounGender": "neuter",
+        "useWhen": "Neuter thing",
+        "example": {
+          "serbian": "Dugačko je putovanje",
+          "pronunciation": "DOO-gahch-ko yeh poo-toh-VAH-nyeh",
+          "english": "It's a long trip"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Kratak / kratka / kratko",
+        "pronunciation": "KRAH-tahk / KRAHT-kah / KRAHT-ko",
+        "nuance": "Short (m. / f. / n.)"
+      },
+      {
+        "serbian": "Dug / duga / dugo",
+        "pronunciation": "DOOG / DOO-gah / DOO-go",
+        "nuance": "Long (shorter form; also \"for a long time\")"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Haljina je kratka",
+        "pronunciation": "HAHL-yee-nah yeh KRAHT-kah",
+        "english": "The dress is short",
+        "context": "A thing"
+      },
+      {
+        "serbian": "Ona ima dugu kosu",
+        "pronunciation": "OH-nah EE-mah DOO-goo KOH-soo",
+        "english": "She has long hair",
+        "context": "About her"
+      },
+      {
+        "serbian": "Dan je bio dugačak",
+        "pronunciation": "DAHN yeh BEE-oh DOO-gah-chahk",
+        "english": "The day was long",
+        "context": "A day"
+      },
+      {
+        "serbian": "Kratak film, ali dobar",
+        "pronunciation": "KRAH-tahk FEELM, AH-lee DOH-bahr",
+        "english": "A short film, but a good one",
+        "context": "A film"
+      }
+    ],
+    "texting": "dugacak / kratak",
+    "related": [
+      "veliko-malo",
+      "oblici",
+      "staro-novo",
+      "visok-nizak",
+      "siroko-usko"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Shapes and sizes"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "People: appearance"
+      }
+    ]
+  },
+  {
+    "id": "siroko-usko",
+    "english": "Wide / narrow",
+    "serbian": "Širok / uzak",
+    "pronunciation": "SHEE-rok / OO-zahk",
+    "meaning": "Wide and narrow",
+    "category": "Basics",
+    "subcategory": "Shapes and sizes",
+    "tags": [
+      "size",
+      "wide",
+      "narrow"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "noun gender"
+    ],
+    "forms": [
+      {
+        "serbian": "Širok je",
+        "pronunciation": "SHEE-rok yeh",
+        "nounGender": "masculine",
+        "useWhen": "Masculine thing",
+        "example": {
+          "serbian": "Put je širok",
+          "pronunciation": "POOT yeh SHEE-rok",
+          "english": "The road is wide"
+        }
+      },
+      {
+        "serbian": "Široka je",
+        "pronunciation": "SHEE-ro-kah yeh",
+        "nounGender": "feminine",
+        "useWhen": "Feminine thing",
+        "example": {
+          "serbian": "Ulica je široka",
+          "pronunciation": "OO-lee-tsah yeh SHEE-ro-kah",
+          "english": "The street is wide"
+        }
+      },
+      {
+        "serbian": "Široko je",
+        "pronunciation": "SHEE-ro-ko yeh",
+        "nounGender": "neuter",
+        "useWhen": "Neuter thing",
+        "example": {
+          "serbian": "Široko je polje",
+          "pronunciation": "SHEE-ro-ko yeh POH-lyeh",
+          "english": "The field is wide"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Uzak / uska / usko",
+        "pronunciation": "OO-zahk / OOS-kah / OOS-ko",
+        "nuance": "Narrow (m. / f. / n.)"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Ove cipele su preuske",
+        "pronunciation": "OH-veh TSEE-peh-leh soo preh-OOS-keh",
+        "english": "These shoes are too tight",
+        "context": "Clothes"
+      },
+      {
+        "serbian": "Ona ima širok osmeh",
+        "pronunciation": "OH-nah EE-mah SHEE-rok OS-meh",
+        "english": "She has a wide smile",
+        "context": "About her"
+      },
+      {
+        "serbian": "Soba je široka",
+        "pronunciation": "SOH-bah yeh SHEE-ro-kah",
+        "english": "The room is wide",
+        "context": "A room"
+      },
+      {
+        "serbian": "Ulica je preuska za kamion",
+        "pronunciation": "OO-lee-tsah yeh preh-OOS-kah zah KAH-mee-on",
+        "english": "The street is too narrow for a truck",
+        "context": "A road"
+      }
+    ],
+    "texting": "sirok / uzak",
+    "related": [
+      "dugacko-kratko",
+      "veliko-malo",
+      "oblici",
+      "nezgodno"
+    ],
+    "ijekavian": "širok / uzak (same)",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Shapes and sizes"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Describing things"
+      }
+    ]
+  },
+  {
+    "id": "mene-tebe",
+    "english": "Me / you / him / her (as the object)",
+    "serbian": "Mene / tebe / njega / nju",
+    "pronunciation": "MEH-neh / TEH-beh / NYEH-gah / NYOO",
+    "meaning": "The object forms of the pronouns",
+    "category": "Basics",
+    "subcategory": "Pronouns",
+    "tags": [
+      "pronoun",
+      "object",
+      "grammar"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "describes"
+    ],
+    "forms": [
+      {
+        "serbian": "mene / me",
+        "pronunciation": "MEH-neh / meh",
+        "describes": "me",
+        "useWhen": "Me",
+        "example": {
+          "serbian": "Zovi mene, ne njega",
+          "pronunciation": "ZOH-vee MEH-neh, neh NYEH-gah",
+          "english": "Call me, not him"
+        }
+      },
+      {
+        "serbian": "tebe / te",
+        "pronunciation": "TEH-beh / teh",
+        "describes": "you",
+        "useWhen": "You (to one person)",
+        "example": {
+          "serbian": "Čekam tebe",
+          "pronunciation": "CHEH-kahm TEH-beh",
+          "english": "I'm waiting for you"
+        }
+      },
+      {
+        "serbian": "njega / ga",
+        "pronunciation": "NYEH-gah / gah",
+        "describes": "him",
+        "useWhen": "Him",
+        "example": {
+          "serbian": "Vidim njega, ne vidim nju",
+          "pronunciation": "VEE-deem NYEH-gah, neh VEE-deem NYOO",
+          "english": "I see him, I do not see her"
+        }
+      },
+      {
+        "serbian": "nju / je",
+        "pronunciation": "NYOO / yeh",
+        "describes": "her",
+        "useWhen": "Her",
+        "example": {
+          "serbian": "Pitaj nju",
+          "pronunciation": "PEE-tai NYOO",
+          "english": "Ask her"
+        }
+      },
+      {
+        "serbian": "nas / nas",
+        "pronunciation": "NAHS / nahs",
+        "describes": "us",
+        "useWhen": "Us",
+        "example": {
+          "serbian": "Zovu nas na večeru",
+          "pronunciation": "ZOH-voo NAHS nah VEH-cheh-roo",
+          "english": "They are inviting us to dinner"
+        }
+      },
+      {
+        "serbian": "njih / ih",
+        "pronunciation": "NYEEH / eeh",
+        "describes": "them",
+        "useWhen": "Them",
+        "example": {
+          "serbian": "Vidim njih",
+          "pronunciation": "VEE-deem NYEEH",
+          "english": "I see them"
+        }
+      }
+    ],
+    "patternHint": "The short forms (me, te, ga, je, nas, ih) are the everyday ones: \"volim te\". The long forms (mene, tebe…) add emphasis or come after a preposition: \"za tebe\".",
+    "examples": [
+      {
+        "serbian": "Volim tebe, ne njega",
+        "pronunciation": "VOH-leem TEH-beh, neh NYEH-gah",
+        "english": "I love you, not him",
+        "context": "To her"
+      },
+      {
+        "serbian": "Zoveš li mene ili nju?",
+        "pronunciation": "ZOH-vesh lee MEH-neh EE-lee NYOO",
+        "english": "Are you calling me or her?",
+        "context": "Asking"
+      },
+      {
+        "serbian": "Pitam njih, ne vas",
+        "pronunciation": "PEE-tahm NYEEH, neh VAHS",
+        "english": "I'm asking them, not you (all)",
+        "context": "About them"
+      },
+      {
+        "serbian": "Vidim te, vidiš li me?",
+        "pronunciation": "VEE-deem teh, VEE-deesh lee meh",
+        "english": "I see you, do you see me?",
+        "context": "Short forms"
+      }
+    ],
+    "texting": "mene / tebe / njega / nju",
+    "related": [
+      "ja-mi",
+      "ti-vi",
+      "on-ona",
+      "meni-tebi"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Pronouns"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Affection and romance"
+      }
+    ]
+  },
+  {
+    "id": "meni-tebi",
+    "english": "To me / to you / to him / to her",
+    "serbian": "Meni / tebi / njemu / njoj",
+    "pronunciation": "MEH-nee / TEH-bee / NYEH-moo / NYOY",
+    "meaning": "The \"to someone\" forms of the pronouns",
+    "category": "Basics",
+    "subcategory": "Pronouns",
+    "tags": [
+      "pronoun",
+      "dative",
+      "grammar"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "describes"
+    ],
+    "forms": [
+      {
+        "serbian": "meni / mi",
+        "pronunciation": "MEH-nee / mee",
+        "describes": "me",
+        "useWhen": "To me",
+        "example": {
+          "serbian": "Daj mi to",
+          "pronunciation": "DAI mee TOH",
+          "english": "Give me that"
+        }
+      },
+      {
+        "serbian": "tebi / ti",
+        "pronunciation": "TEH-bee / tee",
+        "describes": "you",
+        "useWhen": "To you",
+        "example": {
+          "serbian": "Šaljem ti poruku",
+          "pronunciation": "SHAH-lyem tee POH-roo-koo",
+          "english": "I'm sending you a message"
+        }
+      },
+      {
+        "serbian": "njemu / mu",
+        "pronunciation": "NYEH-moo / moo",
+        "describes": "him",
+        "useWhen": "To him",
+        "example": {
+          "serbian": "Dajem mu knjigu",
+          "pronunciation": "DAH-yem moo KNYEE-goo",
+          "english": "I'm giving him a book"
+        }
+      },
+      {
+        "serbian": "njoj / joj",
+        "pronunciation": "NYOY / yoy",
+        "describes": "her",
+        "useWhen": "To her",
+        "example": {
+          "serbian": "Kupio sam joj cveće",
+          "pronunciation": "KOO-pee-oh sahm yoy TSVEH-cheh",
+          "english": "I bought her flowers"
+        }
+      },
+      {
+        "serbian": "nama / nam",
+        "pronunciation": "NAH-mah / nahm",
+        "describes": "us",
+        "useWhen": "To us",
+        "example": {
+          "serbian": "Javi nam kad stigneš",
+          "pronunciation": "YAH-vee nahm kahd STEEG-nesh",
+          "english": "Let us know when you arrive"
+        }
+      },
+      {
+        "serbian": "njima / im",
+        "pronunciation": "NYEE-mah / eem",
+        "describes": "them",
+        "useWhen": "To them",
+        "example": {
+          "serbian": "Javi im da kasnimo",
+          "pronunciation": "YAH-vee eem dah KAHS-nee-mo",
+          "english": "Tell them we're late"
+        }
+      }
+    ],
+    "patternHint": "The short forms (mi, ti, mu, joj, nam, im) are the everyday ones and sit right after the first word: \"Daj mi\", \"Javi mi\", \"Kupio sam joj\".",
+    "examples": [
+      {
+        "serbian": "Pošalji mi sliku",
+        "pronunciation": "POH-shah-lyee mee SLEE-koo",
+        "english": "Send me a picture",
+        "context": "To her"
+      },
+      {
+        "serbian": "Doneo sam ti kafu",
+        "pronunciation": "DOH-neh-oh sahm tee KAH-foo",
+        "english": "I brought you a coffee",
+        "context": "For her"
+      },
+      {
+        "serbian": "Rekao sam mu istinu",
+        "pronunciation": "REH-kah-oh sahm moo EES-tee-noo",
+        "english": "I told him the truth",
+        "context": "About him"
+      },
+      {
+        "serbian": "Pišem joj svaki dan",
+        "pronunciation": "PEE-shem yoy SVAH-kee DAHN",
+        "english": "I write to her every day",
+        "context": "About her"
+      }
+    ],
+    "texting": "meni / tebi / njemu / njoj",
+    "related": [
+      "mene-tebe",
+      "daj-mi",
+      "javi-se",
+      "ja-mi"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Pronouns"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Affection and romance"
+      }
+    ]
+  },
+  {
+    "id": "ko-to-je",
+    "english": "Who is that? / What is that?",
+    "serbian": "Ko je to?",
+    "pronunciation": "KOH yeh toh",
+    "meaning": "Who is that?",
+    "category": "Basics",
+    "subcategory": "This and that",
+    "tags": [
+      "question",
+      "this and that",
+      "who"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Šta je to?",
+        "pronunciation": "SHTAH yeh toh",
+        "nuance": "What is that?"
+      },
+      {
+        "serbian": "Ko je ovaj?",
+        "pronunciation": "KOH yeh OH-vai",
+        "nuance": "Who is this (guy)?"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Ko je to na slici?",
+        "pronunciation": "KOH yeh toh nah SLEE-tsee",
+        "english": "Who's that in the picture?",
+        "context": "A photo"
+      },
+      {
+        "serbian": "Ko je to? Uđi",
+        "pronunciation": "KOH yeh toh? OO-jee",
+        "english": "Who is it? Come in",
+        "context": "At the door"
+      },
+      {
+        "serbian": "Šta je ovo?",
+        "pronunciation": "SHTAH yeh OH-vo",
+        "english": "What is this?",
+        "context": "A thing"
+      },
+      {
+        "serbian": "Ko je ona?",
+        "pronunciation": "KOH yeh OH-nah",
+        "english": "Who is she?",
+        "context": "About her"
+      }
+    ],
+    "texting": "ko je to",
+    "related": [
+      "ko",
+      "sta",
+      "ovaj-taj",
+      "ovo-je"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "This and that"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
+  },
+  {
+    "id": "vidimo-se-u-osam",
+    "english": "See you at eight",
+    "serbian": "Vidimo se u osam",
+    "pronunciation": "VEE-dee-mo seh oo OH-sahm",
+    "meaning": "See you at eight o’clock",
+    "category": "Conversation",
+    "subcategory": "Confirming plans",
+    "tags": [
+      "time",
+      "plans",
+      "meet"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "forms": [
+      {
+        "serbian": "Vidimo se u osam",
+        "pronunciation": "VEE-dee-mo seh oo OH-sahm",
+        "useWhen": "On the hour",
+        "example": {
+          "serbian": "Vidimo se u osam, ne kasni",
+          "pronunciation": "VEE-dee-mo seh oo OH-sahm, neh KAHS-nee",
+          "english": "See you at eight, don't be late"
+        }
+      },
+      {
+        "serbian": "Vidimo se u pola osam",
+        "pronunciation": "VEE-dee-mo seh oo POH-lah OH-sahm",
+        "useWhen": "At 7:30 (half to eight)",
+        "example": {
+          "serbian": "Vidimo se u pola osam kod mene",
+          "pronunciation": "VEE-dee-mo seh oo POH-lah OH-sahm kohd MEH-neh",
+          "english": "See you at 7:30 at my place"
+        }
+      },
+      {
+        "serbian": "Vidimo se u osam i petnaest",
+        "pronunciation": "VEE-dee-mo seh oo OH-sahm ee PEHT-nah-est",
+        "useWhen": "At 8:15",
+        "example": {
+          "serbian": "Vidimo se u osam i petnaest",
+          "pronunciation": "VEE-dee-mo seh oo OH-sahm ee PEHT-nah-est",
+          "english": "See you at 8:15"
+        }
+      },
+      {
+        "serbian": "Vidimo se u petnaest do osam",
+        "pronunciation": "VEE-dee-mo seh oo PEHT-nah-est doh OH-sahm",
+        "useWhen": "At 7:45",
+        "example": {
+          "serbian": "Vidimo se u petnaest do osam",
+          "pronunciation": "VEE-dee-mo seh oo PEHT-nah-est doh OH-sahm",
+          "english": "See you at 7:45"
+        }
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Vidimo se u osam ispred kafića",
+        "pronunciation": "VEE-dee-mo seh oo OH-sahm EES-pred KAH-fee-chah",
+        "english": "See you at eight in front of the café",
+        "context": "Confirming"
+      },
+      {
+        "serbian": "Dolazim po tebe u sedam",
+        "pronunciation": "doh-LAH-zeem poh TEH-beh oo SEH-dahm",
+        "english": "I'll pick you up at seven",
+        "context": "Picking her up"
+      },
+      {
+        "serbian": "Je l' i dalje u osam?",
+        "pronunciation": "yel ee DAHL-yeh oo OH-sahm",
+        "english": "Is it still at eight?",
+        "context": "Checking"
+      },
+      {
+        "serbian": "Oni stižu u devet",
+        "pronunciation": "OH-nee STEE-zhoo oo DEH-veht",
+        "english": "They arrive at nine",
+        "context": "About them"
+      }
+    ],
+    "texting": "vidimo se u osam",
+    "related": [
+      "u-koliko-sati",
+      "dogovoreno",
+      "koliko-je-sati",
+      "javi-ako-se-promeni",
+      "jedva-cekam"
+    ],
+    "watchOut": "\"U pola osam\" means HALF TO eight, so 7:30, not 8:30. It is a very easy slip. Say \"u osam i trideset\" if you want to be unmistakable.",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Confirming plans"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Making plans"
+      },
+      {
+        "category": "Basics",
+        "subcategory": "Time and days"
+      }
+    ]
+  },
+  {
+    "id": "javi-ako-se-promeni",
+    "english": "Let me know if anything changes",
+    "serbian": "Javi mi ako se nešto promeni",
+    "pronunciation": "YAH-vee mee AH-ko seh NEHSH-to proh-MEH-nee",
+    "meaning": "Let me know if anything changes",
+    "category": "Conversation",
+    "subcategory": "Confirming plans",
+    "tags": [
+      "plans",
+      "update",
+      "request"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "formal"
+    ],
+    "forms": [
+      {
+        "serbian": "Javi mi ako se nešto promeni",
+        "pronunciation": "YAH-vee mee AH-ko seh NEHSH-to proh-MEH-nee",
+        "formal": "casual",
+        "useWhen": "To one friend or someone your age",
+        "example": {
+          "serbian": "Javi mi ako se nešto promeni do petka",
+          "pronunciation": "YAH-vee mee AH-ko seh NEHSH-to proh-MEH-nee doh PET-kah",
+          "english": "Let me know if anything changes by Friday"
+        }
+      },
+      {
+        "serbian": "Javite mi ako se nešto promeni",
+        "pronunciation": "YAH-vee-teh mee AH-ko seh NEHSH-to proh-MEH-nee",
+        "formal": "polite",
+        "useWhen": "To an elder, a stranger, or a group",
+        "example": {
+          "serbian": "Javite mi ako se nešto promeni, molim vas",
+          "pronunciation": "YAH-vee-teh mee AH-ko seh NEHSH-to proh-MEH-nee, MOH-leem vahs",
+          "english": "Please let me know if anything changes"
+        }
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Javi mi ako se plan promeni",
+        "pronunciation": "YAH-vee mee AH-ko seh PLAHN proh-MEH-nee",
+        "english": "Let me know if the plan changes",
+        "context": "To her"
+      },
+      {
+        "serbian": "Javiću ti ako se nešto promeni",
+        "pronunciation": "YAH-vee-choo tee AH-ko seh NEHSH-to proh-MEH-nee",
+        "english": "I'll tell you if anything changes",
+        "context": "Promise"
+      },
+      {
+        "serbian": "Javi ako počne kiša",
+        "pronunciation": "YAH-vee AH-ko POHCH-neh KEE-shah",
+        "english": "Let me know if it starts raining",
+        "context": "Weather"
+      },
+      {
+        "serbian": "Javi mi ako kasniš",
+        "pronunciation": "YAH-vee mee AH-ko KAHS-neesh",
+        "english": "Let me know if you're running late",
+        "context": "Running late"
+      }
+    ],
+    "texting": "javi mi ako se nesto promeni",
+    "related": [
+      "javi-se",
+      "dogovoreno",
+      "vidimo-se-u-osam",
+      "moze-li-drugi-dan"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Confirming plans"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Cancelling"
+      }
+    ]
+  },
+  {
+    "id": "najbolji",
+    "english": "The best",
+    "serbian": "Najbolji / najbolja / najbolje",
+    "pronunciation": "NAI-bohl-yee / NAI-bohl-yah / NAI-bohl-yeh",
+    "meaning": "The best",
+    "category": "Describing and feelings",
+    "subcategory": "Comparisons",
+    "tags": [
+      "best",
+      "compliment",
+      "comparison"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "noun gender"
+    ],
+    "forms": [
+      {
+        "serbian": "Najbolji je",
+        "pronunciation": "NAI-bohl-yee yeh",
+        "nounGender": "masculine",
+        "useWhen": "Masculine thing, or a man",
+        "example": {
+          "serbian": "Ovo je najbolji burek",
+          "pronunciation": "OH-vo yeh NAI-bohl-yee BOO-rek",
+          "english": "This is the best burek"
+        }
+      },
+      {
+        "serbian": "Najbolja je",
+        "pronunciation": "NAI-bohl-yah yeh",
+        "nounGender": "feminine",
+        "useWhen": "Feminine thing, or a woman",
+        "example": {
+          "serbian": "Ona je najbolja drugarica",
+          "pronunciation": "OH-nah yeh NAI-bohl-yah droo-GAH-ree-tsah",
+          "english": "She is the best friend"
+        }
+      },
+      {
+        "serbian": "Najbolje je",
+        "pronunciation": "NAI-bohl-yeh yeh",
+        "nounGender": "neuter",
+        "useWhen": "Neuter thing, or the best option",
+        "example": {
+          "serbian": "Najbolje je da ostanemo kod kuće",
+          "pronunciation": "NAI-bohl-yeh yeh dah oh-STAH-neh-mo kohd KOO-cheh",
+          "english": "The best thing is to stay home"
+        }
+      }
+    ],
+    "patternHint": "Add \"naj-\" in front of the comparative: bolji → najbolji, lepši → najlepši, veći → najveći.",
+    "examples": [
+      {
+        "serbian": "Ti si najbolja",
+        "pronunciation": "tee see NAI-bohl-yah",
+        "english": "You're the best",
+        "context": "To her"
+      },
+      {
+        "serbian": "On je najbolji",
+        "pronunciation": "ohn yeh NAI-bohl-yee",
+        "english": "He's the best",
+        "context": "About him"
+      },
+      {
+        "serbian": "Ovo je najbolja kafa u gradu",
+        "pronunciation": "OH-vo yeh NAI-bohl-yah KAH-fah oo GRAH-doo",
+        "english": "This is the best coffee in town",
+        "context": "A thing"
+      },
+      {
+        "serbian": "Mi smo najbolji tim",
+        "pronunciation": "mee smo NAI-bohl-yee TEEM",
+        "english": "We're the best team",
+        "context": "About us"
+      }
+    ],
+    "texting": "najbolji / najbolja / najbolje",
+    "related": [
+      "bolje",
+      "dobro-lose",
+      "svaka-cast",
+      "skuplje-jeftinije"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Comparisons"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Opinions"
+      }
+    ]
+  },
+  {
+    "id": "skuplje-jeftinije",
+    "english": "More expensive / cheaper",
+    "serbian": "Skuplje / jeftinije",
+    "pronunciation": "SKOOP-lyeh / YEF-tee-nee-yeh",
+    "meaning": "More expensive; cheaper",
+    "category": "Describing and feelings",
+    "subcategory": "Comparisons",
+    "tags": [
+      "price",
+      "comparison",
+      "shopping"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Najskuplje",
+        "pronunciation": "NAI-skoop-lyeh",
+        "nuance": "The most expensive"
+      },
+      {
+        "serbian": "Najjeftinije",
+        "pronunciation": "nai-YEF-tee-nee-yeh",
+        "nuance": "The cheapest"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Ovo je skuplje nego ono",
+        "pronunciation": "OH-vo yeh SKOOP-lyeh NEH-go OH-no",
+        "english": "This is more expensive than that",
+        "context": "Comparing"
+      },
+      {
+        "serbian": "Imate li nešto jeftinije?",
+        "pronunciation": "EE-mah-teh lee NEHSH-to YEF-tee-nee-yeh",
+        "english": "Do you have anything cheaper?",
+        "context": "In a shop"
+      },
+      {
+        "serbian": "Ovde je jeftinije",
+        "pronunciation": "OHV-deh yeh YEF-tee-nee-yeh",
+        "english": "It's cheaper here",
+        "context": "Eating out"
+      },
+      {
+        "serbian": "Skuplje je nego što misliš",
+        "pronunciation": "SKOOP-lyeh yeh NEH-go shtoh MEE-sleesh",
+        "english": "It's more expensive than you think",
+        "context": "To her"
+      }
+    ],
+    "texting": "skuplje / jeftinije",
+    "related": [
+      "skupo",
+      "jeftino",
+      "koliko-kosta",
+      "vise-nego",
+      "najbolji"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Comparisons"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Shopping and money"
+      }
+    ]
+  },
+  {
+    "id": "tvoj-broj",
+    "english": "Can I get your number?",
+    "serbian": "Daj mi svoj broj",
+    "pronunciation": "DAI mee svoy BROY",
+    "meaning": "Give me your number",
+    "category": "Flirting and relationships",
+    "subcategory": "Dating",
+    "tags": [
+      "number",
+      "phone",
+      "dating"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "describes"
+    ],
+    "forms": [
+      {
+        "serbian": "Daj mi svoj broj",
+        "pronunciation": "DAI mee svoy BROY",
+        "describes": "her",
+        "useWhen": "To her, casual",
+        "example": {
+          "serbian": "Daj mi svoj broj da ti pišem",
+          "pronunciation": "DAI mee svoy BROY dah tee PEE-shem",
+          "english": "Give me your number so I can text you"
+        }
+      },
+      {
+        "serbian": "Koji ti je broj?",
+        "pronunciation": "KOH-yee tee yeh BROY",
+        "describes": "you",
+        "useWhen": "Asking neutrally",
+        "example": {
+          "serbian": "Koji ti je broj telefona?",
+          "pronunciation": "KOH-yee tee yeh BROY teh-leh-FOH-nah",
+          "english": "What's your phone number?"
+        }
+      },
+      {
+        "serbian": "Evo mog broja",
+        "pronunciation": "EH-vo mohg BROH-yah",
+        "describes": "me",
+        "useWhen": "Giving yours",
+        "example": {
+          "serbian": "Evo mog broja, javi se",
+          "pronunciation": "EH-vo mohg BROH-yah, YAH-vee seh",
+          "english": "Here's my number, get in touch"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Imaš li Viber?",
+        "pronunciation": "EE-mahsh lee VEE-ber",
+        "nuance": "Do you have Viber? (very common in Serbia)"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Možeš li da mi daš svoj broj?",
+        "pronunciation": "MOH-zhesh lee dah mee DAHSH svoy BROY",
+        "english": "Can you give me your number?",
+        "context": "Asking"
+      },
+      {
+        "serbian": "Ovo je moj broj",
+        "pronunciation": "OH-vo yeh moy BROY",
+        "english": "This is my number",
+        "context": "Texting first"
+      },
+      {
+        "serbian": "Sačuvaj moj broj",
+        "pronunciation": "sah-CHOO-vai moy BROY",
+        "english": "Save my number",
+        "context": "Saving it"
+      }
+    ],
+    "texting": "daj mi svoj broj",
+    "related": [
+      "javi-se",
+      "kako-se-zoves",
+      "kad-si-slobodna",
+      "hocu-da-te-vidim"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Dating"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Getting to know someone"
+      }
+    ]
+  },
+  {
+    "id": "drska-si",
+    "english": "You're cheeky",
+    "serbian": "Drska si",
+    "pronunciation": "DUR-skah see",
+    "meaning": "You're cheeky; you've got nerve",
+    "category": "Slang and swearing",
+    "subcategory": "Playful insults",
+    "tags": [
+      "teasing",
+      "cheeky",
+      "playful"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "describes",
+      "speaker"
+    ],
+    "forms": [
+      {
+        "serbian": "Drska si",
+        "pronunciation": "DUR-skah see",
+        "describes": "her",
+        "useWhen": "Teasing her",
+        "example": {
+          "serbian": "Drska si, ali slatka",
+          "pronunciation": "DUR-skah see, AH-lee SLAHT-kah",
+          "english": "You're cheeky, but sweet"
+        }
+      },
+      {
+        "serbian": "Drzak si",
+        "pronunciation": "DUR-zahk see",
+        "describes": "him",
+        "useWhen": "Teasing a man",
+        "example": {
+          "serbian": "Drzak si, brate",
+          "pronunciation": "DUR-zahk see, BRAH-teh",
+          "english": "You've got nerve, man"
+        }
+      },
+      {
+        "serbian": "Drzak sam",
+        "pronunciation": "DUR-zahk sahm",
+        "speaker": "male",
+        "useWhen": "A man about himself",
+        "example": {
+          "serbian": "Možda sam drzak, ali iskren",
+          "pronunciation": "MOHZH-dah sahm DUR-zahk, AH-lee EES-kren",
+          "english": "Maybe I'm bold, but honest"
+        }
+      },
+      {
+        "serbian": "Drska sam",
+        "pronunciation": "DUR-skah sahm",
+        "speaker": "female",
+        "useWhen": "A woman about herself",
+        "example": {
+          "serbian": "Možda sam drska, ali iskrena",
+          "pronunciation": "MOHZH-dah sahm DUR-skah, AH-lee EES-kreh-nah",
+          "english": "Maybe I'm bold, but honest"
+        }
+      },
+      {
+        "serbian": "Drzak je / drska je",
+        "pronunciation": "DUR-zahk yeh / DUR-skah yeh",
+        "describes": "him / her",
+        "useWhen": "About someone else",
+        "example": {
+          "serbian": "Moj brat je drzak",
+          "pronunciation": "moy BRAHT yeh DUR-zahk",
+          "english": "My brother is cheeky"
+        }
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Drska si, ali mi se sviđa",
+        "pronunciation": "DUR-skah see, AH-lee mee seh SVEE-jah",
+        "english": "You're cheeky, but I like it",
+        "context": "Teasing her"
+      },
+      {
+        "serbian": "Znam, drzak sam",
+        "pronunciation": "znahm, DUR-zahk sahm",
+        "english": "I know, I'm cheeky (a man says this)",
+        "context": "Owning it (man)"
+      },
+      {
+        "serbian": "Znam, drska sam",
+        "pronunciation": "znahm, DUR-skah sahm",
+        "english": "I know, I'm cheeky (a woman says this)",
+        "context": "Owning it (woman)"
+      }
+    ],
+    "texting": "drska si",
+    "related": [
+      "zezas-me",
+      "luda-si",
+      "nemoguc-sam",
+      "budala"
+    ],
+    "watchOut": "\"Drzak\" can be a real insult if said seriously (rude, disrespectful). With a smile and the right tone it is teasing.",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Playful insults"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Playful teasing"
+      }
+    ]
+  },
+  {
+    "id": "kapiram",
+    "english": "I get it",
+    "serbian": "Kapiram",
+    "pronunciation": "kah-PEE-rahm",
+    "meaning": "I get it, I catch your meaning",
+    "category": "Slang and swearing",
+    "subcategory": "Reactions",
+    "tags": [
+      "understand",
+      "slang",
+      "reply"
+    ],
+    "register": "slang",
+    "changesBy": [
+      "describes"
+    ],
+    "forms": [
+      {
+        "serbian": "Kapiram",
+        "pronunciation": "kah-PEE-rahm",
+        "describes": "me",
+        "useWhen": "About me",
+        "example": {
+          "serbian": "Kapiram šta hoćeš da kažeš",
+          "pronunciation": "kah-PEE-rahm SHTAH HOH-chesh dah KAH-zhesh",
+          "english": "I get what you mean"
+        }
+      },
+      {
+        "serbian": "Kapiraš",
+        "pronunciation": "kah-PEE-rahsh",
+        "describes": "her",
+        "useWhen": "About her",
+        "example": {
+          "serbian": "Kapiraš brzo",
+          "pronunciation": "kah-PEE-rahsh BUR-zo",
+          "english": "You catch on fast"
+        }
+      },
+      {
+        "serbian": "Kapira",
+        "pronunciation": "kah-PEE-rah",
+        "describes": "him / her",
+        "useWhen": "About someone else",
+        "example": {
+          "serbian": "Ona sve kapira",
+          "pronunciation": "OH-nah SVEH kah-PEE-rah",
+          "english": "She gets everything"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Razumem",
+        "pronunciation": "rah-ZOO-mem",
+        "nuance": "I understand (neutral, fine for anyone)"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Aha, kapiram",
+        "pronunciation": "AH-hah, kah-PEE-rahm",
+        "english": "Ah, I get it",
+        "context": "Got it"
+      },
+      {
+        "serbian": "Kapiraš li?",
+        "pronunciation": "kah-PEE-rahsh lee",
+        "english": "Do you get it?",
+        "context": "Asking her"
+      },
+      {
+        "serbian": "Ne kapiram",
+        "pronunciation": "neh kah-PEE-rahm",
+        "english": "I don't get it",
+        "context": "Not getting it"
+      },
+      {
+        "serbian": "On ne kapira",
+        "pronunciation": "ohn neh kah-PEE-rah",
+        "english": "He doesn't get it",
+        "context": "About him"
+      }
+    ],
+    "texting": "kapiram",
+    "related": [
+      "razumem",
+      "aha",
+      "znaci",
+      "nemam-pojma"
+    ],
+    "watchOut": "Casual slang. Fine with friends; with elders or in formal settings say \"razumem\".",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Reactions"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Casual slang"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
+    ]
+  },
+  {
+    "id": "fora",
+    "english": "Cool / a good one",
+    "serbian": "Fora",
+    "pronunciation": "FOH-rah",
+    "meaning": "Cool, a neat trick, a good joke",
+    "category": "Slang and swearing",
+    "subcategory": "Reactions",
+    "tags": [
+      "cool",
+      "slang",
+      "joke"
+    ],
+    "register": "slang",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Super",
+        "pronunciation": "SOO-per",
+        "nuance": "Great, cool (more neutral)"
+      },
+      {
+        "serbian": "Ludilo",
+        "pronunciation": "LOO-dee-lo",
+        "nuance": "Wild, awesome"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "To je fora!",
+        "pronunciation": "toh yeh FOH-rah",
+        "english": "That's cool!",
+        "context": "Cool"
+      },
+      {
+        "serbian": "Dobra fora",
+        "pronunciation": "DOH-brah FOH-rah",
+        "english": "Good one",
+        "context": "A good joke"
+      },
+      {
+        "serbian": "Ovaj kafić je fora",
+        "pronunciation": "OH-vai KAH-feech yeh FOH-rah",
+        "english": "This café is cool",
+        "context": "A place"
+      },
+      {
+        "serbian": "Ona je fora",
+        "pronunciation": "OH-nah yeh FOH-rah",
+        "english": "She's cool",
+        "context": "About her"
+      }
+    ],
+    "texting": "fora",
+    "related": [
+      "cool",
+      "ludilo",
+      "bezveze",
+      "svaka-cast"
+    ],
+    "watchOut": "Slang. Use it with friends; it can sound too casual for elders or formal situations.",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Reactions"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Casual slang"
+      }
+    ]
+  },
+  {
+    "id": "jao",
+    "english": "Oh no / wow / ouch",
+    "serbian": "Jao",
+    "pronunciation": "YAH-oh",
+    "meaning": "Oh no, wow, ouch",
+    "category": "Slang and swearing",
+    "subcategory": "Reactions",
+    "tags": [
+      "reaction",
+      "surprise",
+      "pain"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Joj",
+        "pronunciation": "YOY",
+        "nuance": "Oh my / aw / ouch (very similar)"
+      },
+      {
+        "serbian": "Majko",
+        "pronunciation": "MAHY-ko",
+        "nuance": "Oh my goodness (literally \"mother\")"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Jao, boli me!",
+        "pronunciation": "YAH-oh, BOH-lee meh",
+        "english": "Ow, it hurts!",
+        "context": "Pain"
+      },
+      {
+        "serbian": "Jao, kako je lepo!",
+        "pronunciation": "YAH-oh, KAH-ko yeh LEH-po",
+        "english": "Wow, how beautiful!",
+        "context": "Awe"
+      },
+      {
+        "serbian": "Jao, zaboravila sam!",
+        "pronunciation": "YAH-oh, zah-boh-RAH-vee-lah sahm",
+        "english": "Oh no, I forgot! (a woman says this)",
+        "context": "Oh no (woman)"
+      },
+      {
+        "serbian": "Jao, zaboravio sam!",
+        "pronunciation": "YAH-oh, zah-boh-RAH-vee-oh sahm",
+        "english": "Oh no, I forgot! (a man says this)",
+        "context": "Oh no (man)"
+      }
+    ],
+    "texting": "jao",
+    "related": [
+      "joj",
+      "ludilo",
+      "boze-moj",
+      "ma-daj"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Reactions"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Reactions"
       }
     ]
   }

@@ -1,9 +1,10 @@
 import { useMemo, useState } from 'react'
-import { search } from '../lib/search.js'
+import { search, searchWords } from '../lib/search.js'
 import { useSettings } from '../lib/settings.jsx'
 import EntryRow from '../components/EntryRow.jsx'
 import FilterChips from '../components/FilterChips.jsx'
 import Icon from '../components/Icons.jsx'
+import { useWordCard } from '../components/WordCard.jsx'
 
 const isWord = (e) => !/\s/.test(e.serbian.trim())
 const isSlang = (e) => e.register === 'slang' || e.register === 'vulgar'
@@ -19,6 +20,8 @@ export default function Search() {
   const [filter, setFilter] = useState('all')
   const { settings } = useSettings()
   const { results, suggestions } = useMemo(() => search(query, { showVulgar: settings.showVulgar, limit: 60 }), [query, settings.showVulgar])
+  const wordHits = useMemo(() => searchWords(query, { showVulgar: settings.showVulgar }), [query, settings.showVulgar])
+  const { open: openWord } = useWordCard()
   const open = query.trim().length > 0
   const count = (k) => results.filter((r) => FILTERS[k](r.entry)).length
   const shown = results.filter((r) => FILTERS[filter](r.entry))
@@ -54,15 +57,32 @@ export default function Search() {
       {open && (
         <div className="card-list">
           {shown.map(({ entry, note }) => <EntryRow key={entry.id} entry={entry} note={note} />)}
-          {!results.length && (
+          {!results.length && !wordHits.length && (
             <div className="no-match">
               <strong>No match yet</strong>
               {suggestions.length > 0 && <p>Closest suggestions:</p>}
               {suggestions.map(({ entry, note }) => <EntryRow key={entry.id} entry={entry} note={note} />)}
             </div>
           )}
+          {!results.length && wordHits.length > 0 && <p className="empty pad">No phrases match, but these words do.</p>}
           {results.length > 0 && !shown.length && <p className="empty pad">Nothing in this filter. Try All.</p>}
         </div>
+      )}
+      {open && wordHits.length > 0 && (
+        <>
+          <h2 className="section-label">Words</h2>
+          <div className="card-list">
+            {wordHits.map(({ key, w }) => (
+              <div key={key} className="row-wrap">
+                <button type="button" className="row word-row" onClick={() => openWord(key)}>
+                  <span className="row-en">{w.en}</span>
+                  <span className="row-sr">{key}</span>
+                  <span className="row-pr">{w.pron}</span>
+                </button>
+              </div>
+            ))}
+          </div>
+        </>
       )}
     </>
   )

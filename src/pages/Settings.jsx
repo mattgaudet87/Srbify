@@ -1,5 +1,11 @@
 import { useSettings } from '../lib/settings.jsx'
 import Icon from '../components/Icons.jsx'
+import CopyButton from '../components/CopyButton.jsx'
+import { allEntries } from '../lib/search.js'
+
+const unverified = allEntries.filter((e) => !e.verified)
+// A plain list a Serbian speaker can mark up: English, Serbian, and the entry id to change in entries.json.
+const CHECK_LIST = unverified.map((e) => `${e.english} = ${e.serbian}  [${e.id}]`).join('\n')
 
 function Segment({ label, value, options, onChange }) {
   return (
@@ -58,11 +64,19 @@ export default function Settings() {
         ))}
       </div>
 
+      <h2 className="group-title">Checking</h2>
+      <div className="set-card">
+        <div className="about">
+          <span className="set-desc">{unverified.length} of {allEntries.length} entries haven’t been checked by a native speaker yet.</span>
+          <CopyButton text={CHECK_LIST} small label="Copy the list to send for checking" />
+        </div>
+      </div>
+
       <h2 className="group-title">About</h2>
       <div className="set-card">
         <div className="about">
           <img src="/wordmark.png" alt="Srbify" width="150" />
-          <span className="set-desc">Version 1.0.0 · Saved in this browser only</span>
+          <span className="set-desc">Version {__APP_VERSION__} · Saved in this browser only</span>
         </div>
       </div>
     </>

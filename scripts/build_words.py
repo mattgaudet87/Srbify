@@ -44,6 +44,13 @@ for k, w in words.items():
     if keyof(k) in link: w['entry'] = link[keyof(k)]
 words["l'"] = {'en': 'short for "li" (question marker)', 'note': 'Spoken short form: "Je l\' si gladna?" = "Jesi li gladna?"', 'tags': ['particle', 'casual'], 'pron': 'leh'}
 words['nzm'] = {'en': "I don't know; idk", 'note': 'Text abbreviation for "ne znam"', 'tags': ['interj', 'slang'], 'pron': 'en-zeh-EM', 'entry': link.get('ne znam') or 'nzm'}
+# Base-word links ("Locative of aerodrom", "Ijekavian of dete", "From ići"): only kept when the base word has a card.
+BASE = re.compile(r'^(?:Form of|Nominative:|Locative of|Instrumental of|Genitive of|Accusative of|Dative of|Plural of|Ijekavian of|Infinitive of|Short form of|Fuller form of|Feminine form of|Masculine form of|Vocative of|Comparative of|Superlative of|Future of|From)\s+(?:"|“)?([^\W\d_]+)', re.I)
+for k, w in words.items():
+    m = BASE.match(w.get('note', '')) if 'abbreviation' not in w['en'] else None
+    if m:
+        b = m.group(1).lower()
+        if b in words and b != k: w['base'] = b
 missing = [k for k, w in words.items() if not w.get('pron')]
 print(len(words), 'words; missing pron:', missing)
 json.dump(dict(sorted(words.items())), open('src/data/words.json', 'w'), ensure_ascii=False, indent=0)

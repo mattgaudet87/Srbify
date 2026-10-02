@@ -1,6 +1,7 @@
 import Fuse from 'fuse.js'
 import entries from '../data/entries.json'
 import { byName, placementsOf } from './categories'
+import words from '../data/words.json'
 
 // Same normalization for the typed text and for the data:
 // lowercase, strip accents (š→s, č/ć→c, ž→z), đ→dj, trim extra spaces.
@@ -80,3 +81,24 @@ export function search(rawQuery, { limit = 20, showVulgar = false } = {}) {
 }
 
 export const categoryOf = (entry) => byName(entry.category)
+
+// Dictionary search over the word cards (every single word the app knows, in any form).
+let wordDocs
+export function searchWords(rawQuery, { limit = 8, showVulgar = false } = {}) {
+  const q = normalize(rawQuery)
+  if (q.length < 2) return []
+  wordDocs ||= Object.entries(words).map(([key, w]) => ({ key, w, nk: normalize(key), ne: normalize(w.en) }))
+  const out = []
+  for (const d of wordDocs) {
+    if (!showVulgar && d.w.tags.includes('vulgar')) continue
+    const enWords = d.ne.split(' ')
+    let score = null
+    if (d.nk === q) score = 0
+    else if (d.nk.startsWith(q)) score = 1
+    else if (enWords.includes(q)) score = 1.5
+    else if (enWords.some((x) => x.startsWith(q))) score = 2
+    else if (q.length >= 3 && d.nk.includes(q)) score = 3
+    if (score !== null) out.push({ key: d.key, w: d.w, score })
+  }
+  return out.sort((a, b) => a.score - b.score || a.key.length - b.key.length).slice(0, limit)
+}

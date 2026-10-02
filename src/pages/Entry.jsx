@@ -1,4 +1,7 @@
+import { useEffect } from 'react'
 import { Link, useParams } from 'react-router-dom'
+import { useLibrary } from '../lib/library.jsx'
+import { audience } from '../lib/tags.js'
 import CopyButton from '../components/CopyButton.jsx'
 import StarButton from '../components/StarButton.jsx'
 import Icon from '../components/Icons.jsx'
@@ -19,7 +22,9 @@ const FORM_COLUMNS = [
 export default function Entry() {
   const { id } = useParams()
   const { settings } = useSettings()
+  const { addRecent } = useLibrary()
   const e = entryById[id]
+  useEffect(() => { if (e) addRecent(e.id) }, [e, addRecent])
   const hiddenVulgar = e?.register === 'vulgar' && !settings.showVulgar
   if (!e) return <p>Entry not found. <Link to="/">Back home</Link></p>
   if (hiddenVulgar) {
@@ -61,6 +66,7 @@ export default function Entry() {
         <TagPills entry={e} long />
         <VerifiedBadge verified={e.verified} />
       </div>
+      <p className="audience"><strong>Say it to:</strong> {audience(e)}</p>
 
       {e.forms?.length > 0 && (
         <section>
@@ -75,6 +81,8 @@ export default function Entry() {
               ))}
             </div>
           )}
+          <details className="all-forms" open={yours.length === 0}>
+          {yours.length > 0 && <summary>Show all {e.forms.length} forms</summary>}
           <div className="table-wrap">
             <table>
               <thead>
@@ -91,6 +99,7 @@ export default function Entry() {
               </tbody>
             </table>
           </div>
+          </details>
           {e.patternHint && <p className="hint">Pattern: {e.patternHint}</p>}
         </section>
       )}

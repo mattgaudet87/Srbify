@@ -7,6 +7,7 @@ import Favorites from './pages/Favorites.jsx'
 import Category from './pages/Category.jsx'
 import Entry from './pages/Entry.jsx'
 import Settings from './pages/Settings.jsx'
+import Review from './pages/Review.jsx'
 
 export default function App() {
   const { pathname } = useLocation()
@@ -23,6 +24,7 @@ export default function App() {
           <Route path="/favorites" element={<Favorites />} />
           <Route path="/category/:slug" element={<Category />} />
           <Route path="/entry/:id" element={<Entry />} />
+          <Route path="/review" element={<Review />} />
           <Route path="/settings" element={<Settings />} />
           <Route path="*" element={<Home />} />
         </Routes>

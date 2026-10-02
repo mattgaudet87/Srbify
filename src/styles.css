@@ -170,6 +170,30 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .entry .meaning h2 { font-size: 13px; font-weight: 500; color: var(--muted); margin-bottom: 4px; }
 .meaning-main { font-size: 20px; font-weight: 700; }
 .muted { color: var(--muted); font-size: 15px; }
+.today { display: grid; gap: 2px; padding: 16px 18px; margin-bottom: 18px; border-radius: var(--radius); background: var(--navy); color: var(--on-navy); }
+.today-label { font-size: 11.5px; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase; opacity: 0.75; }
+.today-sr { font-size: 26px; font-weight: 800; line-height: 1.2; margin-top: 4px; }
+.today-pr { font-size: 15px; font-style: italic; opacity: 0.85; }
+.today-en { font-size: 15px; opacity: 0.9; }
+.chips.recents { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+.fav-tools { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 12px; }
+.fav-tools .chip { cursor: pointer; }
+.backup { margin-top: 18px; padding: 14px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--card); }
+.backup summary { cursor: pointer; font-weight: 650; }
+.backup textarea { width: 100%; min-height: 84px; margin-top: 10px; border-radius: 12px; border: 1px solid var(--line); background: var(--soft); color: var(--ink); padding: 10px; font: inherit; font-size: 13px; }
+.backup .fav-tools { margin-top: 8px; }
+.review-card { margin-top: 16px; padding: 28px 20px; border-radius: var(--radius); background: var(--card); border: 1px solid var(--line); text-align: center; display: grid; gap: 8px; }
+.review-en { font-size: 22px; font-weight: 700; }
+.review-sr { font-size: 30px; font-weight: 800; }
+.review-pr { font-size: 17px; font-style: italic; color: var(--accent); }
+.review-count { color: var(--muted); font-size: 14px; margin-top: 12px; }
+.review-actions { display: flex; gap: 10px; justify-content: center; margin-top: 14px; }
+.btn { border: 0; border-radius: 14px; padding: 13px 22px; font: inherit; font-weight: 700; background: var(--navy); color: var(--on-navy); cursor: pointer; }
+.btn.ghost { background: var(--soft); color: var(--ink); }
+.audience { margin: 10px 0 0; font-size: 14px; color: var(--muted); }
+.audience strong { color: var(--ink); }
+.all-forms > summary { cursor: pointer; font-weight: 650; font-size: 14px; color: var(--accent); padding: 10px 0; list-style: none; }
+.all-forms > summary::-webkit-details-marker { display: none; }
 .badges { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
 .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); background: var(--card); }
 table { border-collapse: collapse; width: 100%; min-width: 540px; font-size: 14px; }
@@ -272,6 +296,17 @@ tr.yours td:first-child { color: var(--accent); }
 .word-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 14px; }
 .word-tags .tag.tag-pos { --c: var(--c-blue); }
 .word-tags .tag.tag-tone.t-casual { --c: var(--c-green); }
+.word-section { margin-top: 18px; }
+.word-section h3 { margin: 0 0 8px; font-size: 12px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+.word-section .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.word-ex { margin: 0; font-size: 18px; font-weight: 650; line-height: 1.35; }
+.word-ex-pron { margin: 2px 0 0; font-size: 14px; color: var(--accent); font-style: italic; }
+.word-ex-en { margin: 2px 0 0; font-size: 14px; color: var(--muted); }
+.word-used { display: grid; gap: 6px; }
+.word-used a { display: grid; padding: 9px 12px; border-radius: 12px; background: var(--soft); font-weight: 650; }
+.word-used small { font-weight: 400; color: var(--muted); font-size: 13px; }
+.word-row { width: 100%; text-align: left; background: none; border: 0; color: inherit; font: inherit; cursor: pointer; padding-right: 16px; }
+.section-label { margin: 18px 4px 0; font-size: 12px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
 .word-actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: 18px; }
 .word-entry { display: inline-flex; align-items: center; gap: 4px; font-weight: 650; font-size: 14px; color: var(--accent); }
 @keyframes fade { from { opacity: 0; } }
