@@ -5,8 +5,8 @@
     "serbian": "Zdravo",
     "pronunciation": "ZDRAH-voh",
     "meaning": "Hello / hi",
-    "category": "Greetings and goodbyes",
-    "subcategory": "Hello",
+    "category": "Quick phrases",
+    "subcategory": "Greetings and goodbyes",
     "tags": [
       "greeting",
       "hi"
@@ -62,7 +62,17 @@
       "kako-si",
       "good-morning"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Greetings and goodbyes"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Conversation starters"
+      }
+    ]
   },
   {
     "id": "cao",
@@ -70,8 +80,8 @@
     "serbian": "Ćao",
     "pronunciation": "CHOW",
     "meaning": "Casual hi and bye, same word for both",
-    "category": "Greetings and goodbyes",
-    "subcategory": "Goodbye",
+    "category": "Quick phrases",
+    "subcategory": "Greetings and goodbyes",
     "tags": [
       "greeting",
       "goodbye",
@@ -124,7 +134,17 @@
       "hello",
       "see-you"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Greetings and goodbyes"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Casual slang"
+      }
+    ]
   },
   {
     "id": "see-you",
@@ -133,8 +153,8 @@
     "pronunciation": "VEE-dee-mo seh",
     "meaning": "See you (later, soon)",
     "literal": "We see each other",
-    "category": "Greetings and goodbyes",
-    "subcategory": "Goodbye",
+    "category": "Quick phrases",
+    "subcategory": "Greetings and goodbyes",
     "tags": [
       "goodbye",
       "later"
@@ -184,7 +204,13 @@
       "cao",
       "laku-noc"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Greetings and goodbyes"
+      }
+    ]
   },
   {
     "id": "good-morning",
@@ -192,8 +218,8 @@
     "serbian": "Dobro jutro",
     "pronunciation": "DOH-bro YOO-tro",
     "meaning": "Good morning",
-    "category": "Greetings and goodbyes",
-    "subcategory": "Good morning and night",
+    "category": "Quick phrases",
+    "subcategory": "Greetings and goodbyes",
     "tags": [
       "greeting",
       "morning"
@@ -245,7 +271,17 @@
       "laku-noc",
       "hello"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Greetings and goodbyes"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Good morning and good night"
+      }
+    ]
   },
   {
     "id": "laku-noc",
@@ -253,8 +289,8 @@
     "serbian": "Laku noć",
     "pronunciation": "LAH-koo NOHTCH",
     "meaning": "Good night",
-    "category": "Greetings and goodbyes",
-    "subcategory": "Good morning and night",
+    "category": "Quick phrases",
+    "subcategory": "Greetings and goodbyes",
     "tags": [
       "greeting",
       "night",
@@ -313,7 +349,17 @@
       "see-you",
       "laku-noc-lepotice"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Greetings and goodbyes"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Good morning and good night"
+      }
+    ]
   },
   {
     "id": "kako-si",
@@ -321,8 +367,8 @@
     "serbian": "Kako si?",
     "pronunciation": "KAH-ko see",
     "meaning": "How are you?",
-    "category": "Greetings and goodbyes",
-    "subcategory": "How are you",
+    "category": "Quick phrases",
+    "subcategory": "Conversation starters",
     "tags": [
       "greeting",
       "question"
@@ -405,7 +451,21 @@
       "sta-ima",
       "im-tired"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Conversation starters"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Getting to know someone"
+      }
+    ]
   },
   {
     "id": "sta-ima",
@@ -414,8 +474,8 @@
     "pronunciation": "SHTAH EE-mah",
     "meaning": "What's up? / what's new?",
     "literal": "What is there?",
-    "category": "Greetings and goodbyes",
-    "subcategory": "How are you",
+    "category": "Quick phrases",
+    "subcategory": "Conversation starters",
     "tags": [
       "greeting",
       "question",
@@ -467,7 +527,21 @@
       "kako-si",
       "sta-radis"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Conversation starters"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Casual conversation"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Casual slang"
+      }
+    ]
   },
   {
     "id": "dobro-sam",
@@ -475,8 +549,8 @@
     "serbian": "Dobro sam, a ti?",
     "pronunciation": "DOH-bro sahm, ah TEE",
     "meaning": "I'm fine, and you?",
-    "category": "Greetings and goodbyes",
-    "subcategory": "Answers to how are you",
+    "category": "Quick phrases",
+    "subcategory": "Common replies",
     "tags": [
       "answer",
       "feelings"
@@ -595,6 +669,16 @@
           "english": "We're good, thanks"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Answering questions"
+      }
     ]
   },
   {
@@ -603,8 +687,8 @@
     "serbian": "Umoran sam",
     "pronunciation": "OO-mo-rahn sahm",
     "meaning": "I'm tired",
-    "category": "Greetings and goodbyes",
-    "subcategory": "Answers to how are you",
+    "category": "Describing and feelings",
+    "subcategory": "Physical states",
     "tags": [
       "feelings",
       "tired"
@@ -738,7 +822,21 @@
       "laku-noc",
       "im-happy"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Physical states"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Answering questions"
+      }
+    ]
   },
   {
     "id": "im-happy",
@@ -746,8 +844,8 @@
     "serbian": "Srećan sam",
     "pronunciation": "SREH-chahn sahm",
     "meaning": "I'm happy",
-    "category": "Greetings and goodbyes",
-    "subcategory": "Answers to how are you",
+    "category": "Describing and feelings",
+    "subcategory": "Emotions",
     "tags": [
       "feelings",
       "happy"
@@ -859,7 +957,17 @@
       "im-tired",
       "dobro-sam"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Emotions"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
+    ]
   },
   {
     "id": "thank-you",
@@ -867,8 +975,8 @@
     "serbian": "Hvala",
     "pronunciation": "HVAH-lah",
     "meaning": "Thanks",
-    "category": "Greetings and goodbyes",
-    "subcategory": "Manners (thanks, sorry, please)",
+    "category": "Quick phrases",
+    "subcategory": "Thanks, sorry, please",
     "tags": [
       "manners",
       "thanks"
@@ -966,6 +1074,12 @@
           "english": "Thank you for the invitation"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Thanks, sorry, please"
+      }
     ]
   },
   {
@@ -974,8 +1088,8 @@
     "serbian": "Izvini",
     "pronunciation": "eez-VEE-nee",
     "meaning": "Sorry / excuse me",
-    "category": "Greetings and goodbyes",
-    "subcategory": "Manners (thanks, sorry, please)",
+    "category": "Quick phrases",
+    "subcategory": "Thanks, sorry, please",
     "tags": [
       "manners",
       "apology"
@@ -1058,7 +1172,13 @@
       "thank-you",
       "please"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Thanks, sorry, please"
+      }
+    ]
   },
   {
     "id": "please",
@@ -1066,8 +1186,8 @@
     "serbian": "Molim te",
     "pronunciation": "MOH-leem teh",
     "meaning": "Please",
-    "category": "Greetings and goodbyes",
-    "subcategory": "Manners (thanks, sorry, please)",
+    "category": "Quick phrases",
+    "subcategory": "Thanks, sorry, please",
     "tags": [
       "manners",
       "please"
@@ -1140,7 +1260,17 @@
       "thank-you",
       "sorry"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Thanks, sorry, please"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Requests"
+      }
+    ]
   },
   {
     "id": "ludilo",
@@ -1149,8 +1279,8 @@
     "pronunciation": "LOO-dee-lo",
     "meaning": "Wild, crazy, unbelievable, awesome",
     "literal": "Madness",
-    "category": "Texting and slang",
-    "subcategory": "Reactions (ludilo, crkoh)",
+    "category": "Quick phrases",
+    "subcategory": "Reactions",
     "tags": [
       "reaction",
       "wow",
@@ -1208,7 +1338,21 @@
       "ma-daj",
       "cool"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Reactions"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Reactions"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Casual slang"
+      }
+    ]
   },
   {
     "id": "dying-laughing",
@@ -1216,8 +1360,8 @@
     "serbian": "Umirem od smeha",
     "pronunciation": "OO-mee-rem od SMEH-hah",
     "meaning": "That's hilarious, I'm dying laughing",
-    "category": "Texting and slang",
-    "subcategory": "Laughing",
+    "category": "Quick phrases",
+    "subcategory": "Reactions",
     "tags": [
       "laughing",
       "reaction",
@@ -1313,6 +1457,20 @@
           "english": "We're dying laughing together"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Reactions"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Texting slang"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Emotions"
+      }
     ]
   },
   {
@@ -1321,8 +1479,8 @@
     "serbian": "Baš je smešno",
     "pronunciation": "BAHSH yeh SMESH-no",
     "meaning": "That's really funny",
-    "category": "Texting and slang",
-    "subcategory": "Laughing",
+    "category": "Quick phrases",
+    "subcategory": "Reactions",
     "tags": [
       "laughing",
       "funny"
@@ -1415,6 +1573,16 @@
           "english": "Your brother is really funny"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Reactions"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Opinions"
+      }
     ]
   },
   {
@@ -1424,8 +1592,8 @@
     "pronunciation": "mah DAH-ee",
     "meaning": "No way! / Come on! / Get out!",
     "literal": "But give",
-    "category": "Texting and slang",
-    "subcategory": "Disbelief (ma daj)",
+    "category": "Quick phrases",
+    "subcategory": "Reactions",
     "tags": [
       "disbelief",
       "reaction"
@@ -1481,7 +1649,21 @@
       "ma-nemoj",
       "stvarno"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Reactions"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Attitude words"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Agree and disagree"
+      }
+    ]
   },
   {
     "id": "ma-nemoj",
@@ -1490,8 +1672,8 @@
     "pronunciation": "mah NEH-moy",
     "meaning": "Yeah right / don't say! (often sarcastic)",
     "literal": "But don't",
-    "category": "Texting and slang",
-    "subcategory": "Disbelief (ma daj)",
+    "category": "Quick phrases",
+    "subcategory": "Agree and disagree",
     "tags": [
       "disbelief",
       "sarcasm",
@@ -1544,7 +1726,21 @@
       "ma-daj",
       "salis-se"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Agree and disagree"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Attitude words"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Teasing and comebacks"
+      }
+    ]
   },
   {
     "id": "salis-se",
@@ -1552,8 +1748,8 @@
     "serbian": "Šališ se",
     "pronunciation": "SHAH-leesh seh",
     "meaning": "You're joking, right?",
-    "category": "Texting and slang",
-    "subcategory": "Disbelief (ma daj)",
+    "category": "Quick phrases",
+    "subcategory": "Reactions",
     "tags": [
       "disbelief",
       "joking",
@@ -1653,7 +1849,17 @@
       "ma-daj",
       "stvarno"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Reactions"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Teasing and comebacks"
+      }
+    ]
   },
   {
     "id": "cool",
@@ -1661,8 +1867,8 @@
     "serbian": "Super",
     "pronunciation": "SOO-per",
     "meaning": "Cool, great, awesome",
-    "category": "Texting and slang",
-    "subcategory": "Cool and lame",
+    "category": "Describing and feelings",
+    "subcategory": "Opinions",
     "tags": [
       "cool",
       "great",
@@ -1724,7 +1930,21 @@
       "bezveze",
       "ludilo"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Opinions"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Casual slang"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Reactions"
+      }
+    ]
   },
   {
     "id": "bezveze",
@@ -1733,8 +1953,8 @@
     "pronunciation": "BEZ-veh-zeh",
     "meaning": "Pointless, lame, random, no big deal",
     "literal": "Without connection",
-    "category": "Texting and slang",
-    "subcategory": "Cool and lame",
+    "category": "Describing and feelings",
+    "subcategory": "Opinions",
     "tags": [
       "lame",
       "boring",
@@ -1792,7 +2012,17 @@
       "cool",
       "nema-veze"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Opinions"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Casual slang"
+      }
+    ]
   },
   {
     "id": "bre",
@@ -1800,8 +2030,8 @@
     "serbian": "Bre",
     "pronunciation": "BREH",
     "meaning": "Added for emphasis, like 'dude', 'man' or 'bro'",
-    "category": "Texting and slang",
-    "subcategory": "Attitude words (bre, ajde, ma, joj)",
+    "category": "Slang and swearing",
+    "subcategory": "Attitude words",
     "tags": [
       "attitude",
       "filler",
@@ -1848,7 +2078,17 @@
       "ajde",
       "joj"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Attitude words"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Filler and transition words"
+      }
+    ]
   },
   {
     "id": "ajde",
@@ -1856,8 +2096,8 @@
     "serbian": "Ajde",
     "pronunciation": "AY-deh",
     "meaning": "Come on / let's / OK then / bye (when wrapping up)",
-    "category": "Texting and slang",
-    "subcategory": "Attitude words (bre, ajde, ma, joj)",
+    "category": "Slang and swearing",
+    "subcategory": "Attitude words",
     "tags": [
       "attitude",
       "lets",
@@ -1941,7 +2181,21 @@
       "bre",
       "vazi"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Attitude words"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Invitations"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Filler and transition words"
+      }
+    ]
   },
   {
     "id": "joj",
@@ -1949,8 +2203,8 @@
     "serbian": "Joj",
     "pronunciation": "YOY",
     "meaning": "Oh my / aw / ouch / oh no",
-    "category": "Texting and slang",
-    "subcategory": "Attitude words (bre, ajde, ma, joj)",
+    "category": "Slang and swearing",
+    "subcategory": "Attitude words",
     "tags": [
       "attitude",
       "reaction",
@@ -2014,7 +2268,17 @@
       "bre",
       "sorry"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Attitude words"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Reactions"
+      }
+    ]
   },
   {
     "id": "nzm",
@@ -2022,8 +2286,8 @@
     "serbian": "Ne znam",
     "pronunciation": "neh ZNAHM",
     "meaning": "I don't know",
-    "category": "Texting and slang",
-    "subcategory": "Texting abbreviations",
+    "category": "Slang and swearing",
+    "subcategory": "Abbreviations",
     "tags": [
       "abbreviation",
       "texting",
@@ -2141,6 +2405,20 @@
           "english": "They don't know anything"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Abbreviations"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Texting slang"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
     ]
   },
   {
@@ -2149,8 +2427,8 @@
     "serbian": "Tačno",
     "pronunciation": "TAHCH-no",
     "meaning": "Exactly, that's right",
-    "category": "Conversation fillers",
-    "subcategory": "Agreeing (tačno, tako je)",
+    "category": "Quick phrases",
+    "subcategory": "Agree and disagree",
     "tags": [
       "agree",
       "right"
@@ -2206,7 +2484,17 @@
       "vazi",
       "naravno"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Agree and disagree"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
+    ]
   },
   {
     "id": "aha",
@@ -2214,8 +2502,8 @@
     "serbian": "Aha",
     "pronunciation": "AH-hah",
     "meaning": "Uh-huh, I see, got it",
-    "category": "Conversation fillers",
-    "subcategory": "Active listening (aha, jeste)",
+    "category": "Quick phrases",
+    "subcategory": "Filler and transition words",
     "tags": [
       "listening",
       "filler"
@@ -2271,7 +2559,17 @@
       "tacno",
       "stvarno"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Filler and transition words"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
+    ]
   },
   {
     "id": "stvarno",
@@ -2279,8 +2577,8 @@
     "serbian": "Stvarno?",
     "pronunciation": "STVAHR-no",
     "meaning": "Really? Seriously?",
-    "category": "Conversation fillers",
-    "subcategory": "Reacting",
+    "category": "Quick phrases",
+    "subcategory": "Reactions",
     "tags": [
       "reaction",
       "question",
@@ -2337,7 +2635,17 @@
       "ma-daj",
       "aha"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Reactions"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Casual conversation"
+      }
+    ]
   },
   {
     "id": "znaci",
@@ -2346,8 +2654,8 @@
     "pronunciation": "ZNAH-chee",
     "meaning": "So... / that means / you know",
     "literal": "(It) means",
-    "category": "Conversation fillers",
-    "subcategory": "Thinking words (pa, znači, ono)",
+    "category": "Quick phrases",
+    "subcategory": "Filler and transition words",
     "tags": [
       "filler",
       "thinking"
@@ -2399,7 +2707,13 @@
       "pa",
       "ono"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Filler and transition words"
+      }
+    ]
   },
   {
     "id": "pa",
@@ -2407,8 +2721,8 @@
     "serbian": "Pa",
     "pronunciation": "PAH",
     "meaning": "Well, so, then (starts a sentence or answer)",
-    "category": "Conversation fillers",
-    "subcategory": "Thinking words (pa, znači, ono)",
+    "category": "Quick phrases",
+    "subcategory": "Filler and transition words",
     "tags": [
       "filler",
       "thinking"
@@ -2460,7 +2774,13 @@
       "znaci",
       "ono"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Filler and transition words"
+      }
+    ]
   },
   {
     "id": "ono",
@@ -2469,8 +2789,8 @@
     "pronunciation": "OH-no",
     "meaning": "'Like' or 'you know', used while finding the word",
     "literal": "That (thing)",
-    "category": "Conversation fillers",
-    "subcategory": "Thinking words (pa, znači, ono)",
+    "category": "Quick phrases",
+    "subcategory": "Filler and transition words",
     "tags": [
       "filler",
       "thinking"
@@ -2516,7 +2836,13 @@
       "znaci",
       "pa"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Filler and transition words"
+      }
+    ]
   },
   {
     "id": "sumnjam",
@@ -2524,8 +2850,8 @@
     "serbian": "Sumnjam",
     "pronunciation": "SOOM-nyahm",
     "meaning": "I doubt it",
-    "category": "Conversation fillers",
-    "subcategory": "Doubt (sumnjam, ne bih rekao)",
+    "category": "Quick phrases",
+    "subcategory": "Agree and disagree",
     "tags": [
       "doubt"
     ],
@@ -2575,7 +2901,17 @@
       "ne-bih-rekao",
       "mozda"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Agree and disagree"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Yes, no, maybe"
+      }
+    ]
   },
   {
     "id": "ne-bih-rekao",
@@ -2583,8 +2919,8 @@
     "serbian": "Ne bih rekao",
     "pronunciation": "neh bih REH-kah-oh",
     "meaning": "I wouldn't say so / I don't think so",
-    "category": "Conversation fillers",
-    "subcategory": "Doubt (sumnjam, ne bih rekao)",
+    "category": "Quick phrases",
+    "subcategory": "Agree and disagree",
     "tags": [
       "doubt",
       "polite-disagree"
@@ -2656,7 +2992,17 @@
       "sumnjam",
       "mozda"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Agree and disagree"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Formal and polite"
+      }
+    ]
   },
   {
     "id": "nema-veze",
@@ -2665,8 +3011,8 @@
     "pronunciation": "NEH-mah VEH-zeh",
     "meaning": "No problem, never mind, doesn't matter",
     "literal": "There's no connection",
-    "category": "Conversation fillers",
-    "subcategory": "Softeners (nema veze)",
+    "category": "Quick phrases",
+    "subcategory": "Common replies",
     "tags": [
       "softener",
       "no-worries"
@@ -2723,7 +3069,17 @@
       "bezveze",
       "vazi"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Thanks, sorry, please"
+      }
+    ]
   },
   {
     "id": "vazi",
@@ -2732,8 +3088,8 @@
     "pronunciation": "VAH-zhee",
     "meaning": "OK, sounds good, deal",
     "literal": "It's valid",
-    "category": "Conversation fillers",
-    "subcategory": "Agreeing (tačno, tako je)",
+    "category": "Quick phrases",
+    "subcategory": "Agree and disagree",
     "tags": [
       "agree",
       "ok",
@@ -2790,7 +3146,25 @@
       "tacno",
       "nema-veze"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Agree and disagree"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Confirming plans"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Yes, no, maybe"
+      }
+    ]
   },
   {
     "id": "mozda",
@@ -2798,8 +3172,8 @@
     "serbian": "Možda",
     "pronunciation": "MOHZH-dah",
     "meaning": "Maybe / perhaps",
-    "category": "Conversation fillers",
-    "subcategory": "Doubt (sumnjam, ne bih rekao)",
+    "category": "Quick phrases",
+    "subcategory": "Yes, no, maybe",
     "tags": [
       "doubt",
       "maybe"
@@ -2850,7 +3224,13 @@
       "sumnjam",
       "nzm"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Yes, no, maybe"
+      }
+    ]
   },
   {
     "id": "naravno",
@@ -2858,8 +3238,8 @@
     "serbian": "Naravno",
     "pronunciation": "nah-RAHV-no",
     "meaning": "Of course, sure",
-    "category": "Conversation fillers",
-    "subcategory": "Agreeing (tačno, tako je)",
+    "category": "Quick phrases",
+    "subcategory": "Agree and disagree",
     "tags": [
       "agree",
       "of-course"
@@ -2915,7 +3295,17 @@
       "tacno",
       "vazi"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Agree and disagree"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Yes, no, maybe"
+      }
+    ]
   },
   {
     "id": "sta",
@@ -2923,8 +3313,8 @@
     "serbian": "Šta?",
     "pronunciation": "SHTAH",
     "meaning": "What?",
-    "category": "Questions",
-    "subcategory": "Question words (who, what, where...)",
+    "category": "Basics",
+    "subcategory": "Question words",
     "tags": [
       "question",
       "what"
@@ -2977,7 +3367,17 @@
       "zasto",
       "koji"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Question words"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
   },
   {
     "id": "ko",
@@ -2985,8 +3385,8 @@
     "serbian": "Ko?",
     "pronunciation": "KOH",
     "meaning": "Who?",
-    "category": "Questions",
-    "subcategory": "Question words (who, what, where...)",
+    "category": "Basics",
+    "subcategory": "Question words",
     "tags": [
       "question",
       "who"
@@ -3039,7 +3439,17 @@
       "sta",
       "gde"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Question words"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
   },
   {
     "id": "gde",
@@ -3047,8 +3457,8 @@
     "serbian": "Gde?",
     "pronunciation": "GDEH",
     "meaning": "Where?",
-    "category": "Questions",
-    "subcategory": "Question words (who, what, where...)",
+    "category": "Basics",
+    "subcategory": "Question words",
     "tags": [
       "question",
       "where"
@@ -3126,7 +3536,17 @@
       "gde-si",
       "odakle-si"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Question words"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
   },
   {
     "id": "kad",
@@ -3134,8 +3554,8 @@
     "serbian": "Kad?",
     "pronunciation": "KAHD",
     "meaning": "When?",
-    "category": "Questions",
-    "subcategory": "Question words (who, what, where...)",
+    "category": "Basics",
+    "subcategory": "Question words",
     "tags": [
       "question",
       "when"
@@ -3186,7 +3606,17 @@
       "gde",
       "sta"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Question words"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
   },
   {
     "id": "zasto",
@@ -3194,8 +3624,8 @@
     "serbian": "Zašto?",
     "pronunciation": "ZAHSH-toh",
     "meaning": "Why?",
-    "category": "Questions",
-    "subcategory": "Question words (who, what, where...)",
+    "category": "Basics",
+    "subcategory": "Question words",
     "tags": [
       "question",
       "why"
@@ -3252,7 +3682,17 @@
       "sta",
       "kako"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Question words"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
   },
   {
     "id": "kako",
@@ -3260,8 +3700,8 @@
     "serbian": "Kako?",
     "pronunciation": "KAH-ko",
     "meaning": "How? / Pardon?",
-    "category": "Questions",
-    "subcategory": "Question words (who, what, where...)",
+    "category": "Basics",
+    "subcategory": "Question words",
     "tags": [
       "question",
       "how"
@@ -3312,7 +3752,17 @@
       "zasto",
       "kako-si"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Question words"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
   },
   {
     "id": "koji",
@@ -3320,8 +3770,8 @@
     "serbian": "Koji / koja / koje",
     "pronunciation": "KOH-yee / KOH-yah / KOH-yeh",
     "meaning": "Which (one)? It matches the thing you ask about.",
-    "category": "Questions",
-    "subcategory": "Which and what kind (koji, kakav)",
+    "category": "Basics",
+    "subcategory": "Question words",
     "tags": [
       "question",
       "which"
@@ -3405,7 +3855,17 @@
       "sta",
       "ko"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Question words"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
   },
   {
     "id": "sta-radis",
@@ -3413,8 +3873,8 @@
     "serbian": "Šta radiš?",
     "pronunciation": "SHTAH RAH-deesh",
     "meaning": "What are you up to?",
-    "category": "Questions",
-    "subcategory": "Common questions she'll ask",
+    "category": "Conversation",
+    "subcategory": "Questions",
     "tags": [
       "question",
       "daily"
@@ -3524,7 +3984,21 @@
       "sta-ima",
       "gde-si"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Getting to know someone"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Conversation starters"
+      }
+    ]
   },
   {
     "id": "gde-si",
@@ -3532,8 +4006,8 @@
     "serbian": "Gde si?",
     "pronunciation": "GDEH see",
     "meaning": "Where are you?",
-    "category": "Questions",
-    "subcategory": "Common questions she'll ask",
+    "category": "Conversation",
+    "subcategory": "Questions",
     "tags": [
       "question",
       "daily",
@@ -3634,7 +4108,13 @@
       "gde",
       "sta-radis"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
   },
   {
     "id": "jesi-li-gladna",
@@ -3642,8 +4122,8 @@
     "serbian": "Jesi li gladan?",
     "pronunciation": "YEH-see lee GLAH-dahn",
     "meaning": "Are you hungry?",
-    "category": "Questions",
-    "subcategory": "Common questions she'll ask",
+    "category": "Conversation",
+    "subcategory": "Questions",
     "tags": [
       "question",
       "food",
@@ -3743,7 +4223,21 @@
       "im-tired",
       "sta-radis"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Food and drink"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Physical states"
+      }
+    ]
   },
   {
     "id": "odakle-si",
@@ -3751,8 +4245,8 @@
     "serbian": "Odakle si?",
     "pronunciation": "OH-dahk-leh see",
     "meaning": "Where are you from?",
-    "category": "Questions",
-    "subcategory": "Common questions she'll ask",
+    "category": "Conversation",
+    "subcategory": "Getting to know someone",
     "tags": [
       "question",
       "origin",
@@ -3829,7 +4323,17 @@
       "gde",
       "gde-si"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Getting to know someone"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      }
+    ]
   },
   {
     "id": "koliko",
@@ -3837,8 +4341,8 @@
     "serbian": "Koliko?",
     "pronunciation": "KOH-lee-ko",
     "meaning": "How much / how many?",
-    "category": "Questions",
-    "subcategory": "Question words (who, what, where...)",
+    "category": "Basics",
+    "subcategory": "Question words",
     "tags": [
       "question",
       "how-much",
@@ -3890,7 +4394,21 @@
       "kad",
       "kako"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Question words"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Shopping and money"
+      }
+    ]
   },
   {
     "id": "jebote",
@@ -3899,8 +4417,8 @@
     "pronunciation": "YEH-bo-teh",
     "meaning": "'Damn!', 'wow!', 'holy hell!' Used for shock, frustration or amazement.",
     "literal": "Literally a strong curse (f*** you), but in daily use it is just an exclamation",
-    "category": "Swearing",
-    "subcategory": "Medium (jebote)",
+    "category": "Slang and swearing",
+    "subcategory": "Strong swearing",
     "tags": [
       "swearing",
       "exclamation"
@@ -3958,7 +4476,17 @@
       "joj",
       "ludilo"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Strong swearing"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Tone and usage warnings"
+      }
+    ]
   },
   {
     "id": "majke-mi",
@@ -3967,8 +4495,8 @@
     "pronunciation": "MAHY-keh mee",
     "meaning": "'I swear', 'honestly', 'for real'",
     "literal": "By my mother",
-    "category": "Swearing",
-    "subcategory": "Mild (bre, majke mi)",
+    "category": "Slang and swearing",
+    "subcategory": "Mild swearing",
     "tags": [
       "swearing",
       "mild",
@@ -4020,7 +4548,13 @@
       "jebote",
       "bre"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Mild swearing"
+      }
+    ]
   },
   {
     "id": "falis-mi",
@@ -4029,8 +4563,8 @@
     "pronunciation": "FAH-leesh mee",
     "meaning": "I miss you",
     "literal": "You're missing to me",
-    "category": "Flirting and romance",
-    "subcategory": "Missing you",
+    "category": "Flirting and relationships",
+    "subcategory": "Missing someone",
     "tags": [
       "flirty",
       "miss",
@@ -4143,6 +4677,16 @@
           "english": "I miss you all"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Missing someone"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Flirting"
+      }
     ]
   },
   {
@@ -4151,7 +4695,7 @@
     "serbian": "Lepa si",
     "pronunciation": "LEH-pah see",
     "meaning": "You're beautiful / pretty (to her)",
-    "category": "Flirting and romance",
+    "category": "Flirting and relationships",
     "subcategory": "Compliments",
     "tags": [
       "flirty",
@@ -4272,7 +4816,21 @@
       "draga",
       "nasmejavas-me"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Compliments"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Flirting"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "People: appearance"
+      }
+    ]
   },
   {
     "id": "izgledas-lepo",
@@ -4280,7 +4838,7 @@
     "serbian": "Lepo izgledaš",
     "pronunciation": "LEH-po EEZ-gleh-dahsh",
     "meaning": "You look nice",
-    "category": "Flirting and romance",
+    "category": "Flirting and relationships",
     "subcategory": "Compliments",
     "tags": [
       "flirty",
@@ -4373,6 +4931,16 @@
           "english": "You look nice, ma’am"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Compliments"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "People: appearance"
+      }
     ]
   },
   {
@@ -4382,8 +4950,8 @@
     "pronunciation": "SVEE-jahsh mee seh",
     "meaning": "I like you (romantically, I'm attracted to you)",
     "literal": "You're pleasing to me",
-    "category": "Flirting and romance",
-    "subcategory": "Compliments",
+    "category": "Flirting and relationships",
+    "subcategory": "I like you",
     "tags": [
       "flirty",
       "like",
@@ -4490,6 +5058,16 @@
           "english": "We like each other"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "I like you"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Flirting"
+      }
     ]
   },
   {
@@ -4498,8 +5076,8 @@
     "serbian": "Mislim na tebe",
     "pronunciation": "MEE-sleem nah TEH-beh",
     "meaning": "I'm thinking about you",
-    "category": "Flirting and romance",
-    "subcategory": "Missing you",
+    "category": "Flirting and relationships",
+    "subcategory": "Missing someone",
     "tags": [
       "flirty",
       "sweet",
@@ -4599,6 +5177,16 @@
           "english": "We are all thinking of you"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Missing someone"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Affection and romance"
+      }
     ]
   },
   {
@@ -4607,7 +5195,7 @@
     "serbian": "Draga",
     "pronunciation": "DRAH-gah",
     "meaning": "'Dear', a warm way to address her",
-    "category": "Flirting and romance",
+    "category": "Flirting and relationships",
     "subcategory": "Nicknames and pet names",
     "tags": [
       "flirty",
@@ -4709,7 +5297,13 @@
       "ljubavi",
       "laku-noc-lepotice"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Nicknames and pet names"
+      }
+    ]
   },
   {
     "id": "ljubavi",
@@ -4718,7 +5312,7 @@
     "pronunciation": "LYOO-bah-vee",
     "meaning": "'My love', romantic pet name",
     "literal": "Love (said directly to someone)",
-    "category": "Flirting and romance",
+    "category": "Flirting and relationships",
     "subcategory": "Nicknames and pet names",
     "tags": [
       "flirty",
@@ -4782,7 +5376,17 @@
       "draga",
       "volim-te"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Nicknames and pet names"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Affection and romance"
+      }
+    ]
   },
   {
     "id": "laku-noc-lepotice",
@@ -4790,8 +5394,8 @@
     "serbian": "Laku noć, lepotice",
     "pronunciation": "LAH-koo NOHTCH, leh-poh-TEE-tseh",
     "meaning": "Good night, beautiful (to her)",
-    "category": "Flirting and romance",
-    "subcategory": "Good night and good morning",
+    "category": "Flirting and relationships",
+    "subcategory": "Good morning and good night",
     "tags": [
       "flirty",
       "night",
@@ -4876,7 +5480,17 @@
       "draga",
       "ljubavi"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Good morning and good night"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Nicknames and pet names"
+      }
+    ]
   },
   {
     "id": "ljubim-te",
@@ -4885,8 +5499,8 @@
     "pronunciation": "LYOO-beem teh",
     "meaning": "Kisses / take care (warm sign-off)",
     "literal": "I kiss you",
-    "category": "Flirting and romance",
-    "subcategory": "Sweet sign-offs",
+    "category": "Flirting and relationships",
+    "subcategory": "Affection and romance",
     "tags": [
       "flirty",
       "kisses",
@@ -4982,6 +5596,12 @@
           "english": "Greetings and kisses to you all"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Affection and romance"
+      }
     ]
   },
   {
@@ -4990,8 +5610,8 @@
     "serbian": "Volim te",
     "pronunciation": "VOH-leem teh",
     "meaning": "I love you",
-    "category": "Flirting and romance",
-    "subcategory": "Sweet sign-offs",
+    "category": "Flirting and relationships",
+    "subcategory": "Affection and romance",
     "tags": [
       "flirty",
       "love",
@@ -5110,6 +5730,20 @@
           "english": "I love you all"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Affection and romance"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Relationship talk"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Present"
+      }
     ]
   },
   {
@@ -5118,7 +5752,7 @@
     "serbian": "Nasmejavaš me",
     "pronunciation": "nah-smeh-YAH-vahsh meh",
     "meaning": "You make me laugh",
-    "category": "Flirting and romance",
+    "category": "Flirting and relationships",
     "subcategory": "Compliments",
     "tags": [
       "flirty",
@@ -5198,6 +5832,20 @@
           "english": "Your brother makes me laugh"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Compliments"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Flirting"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Playful teasing"
+      }
     ]
   },
   {
@@ -5206,8 +5854,8 @@
     "serbian": "Nisam to rekao",
     "pronunciation": "NEE-sahm toh REH-kah-oh",
     "meaning": "I never said that",
-    "category": "Teasing and comebacks",
-    "subcategory": "Denying (nisam to rekao)",
+    "category": "Conversation",
+    "subcategory": "Teasing and comebacks",
     "tags": [
       "teasing",
       "deny"
@@ -5303,7 +5951,21 @@
       "zezas-me",
       "samo-se-salim"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Teasing and comebacks"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Playful teasing"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Past"
+      }
+    ]
   },
   {
     "id": "zezas-me",
@@ -5311,8 +5973,8 @@
     "serbian": "Zezaš me",
     "pronunciation": "ZEH-zahsh meh",
     "meaning": "You're teasing me / pulling my leg",
-    "category": "Teasing and comebacks",
-    "subcategory": "Calling out teasing (zezaš me)",
+    "category": "Conversation",
+    "subcategory": "Teasing and comebacks",
     "tags": [
       "teasing",
       "joking"
@@ -5407,6 +6069,16 @@
           "english": "You're messing with me, aren't you?"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Teasing and comebacks"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Playful teasing"
+      }
     ]
   },
   {
@@ -5415,8 +6087,8 @@
     "serbian": "Nemoguć sam",
     "pronunciation": "NEH-mo-goochh sahm",
     "meaning": "I'm impossible (owning your bad behavior, playfully)",
-    "category": "Teasing and comebacks",
-    "subcategory": "Owning it (nemoguć sam)",
+    "category": "Conversation",
+    "subcategory": "Teasing and comebacks",
     "tags": [
       "teasing",
       "owning-it"
@@ -5515,7 +6187,21 @@
       "luda-si",
       "samo-se-salim"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Teasing and comebacks"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Playful teasing"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "People: personality"
+      }
+    ]
   },
   {
     "id": "samo-se-salim",
@@ -5523,8 +6209,8 @@
     "serbian": "Samo se šalim",
     "pronunciation": "SAH-mo seh SHAH-leem",
     "meaning": "I'm only joking",
-    "category": "Teasing and comebacks",
-    "subcategory": "Denying (nisam to rekao)",
+    "category": "Conversation",
+    "subcategory": "Teasing and comebacks",
     "tags": [
       "teasing",
       "joking"
@@ -5612,6 +6298,16 @@
           "english": "We're just joking a little"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Teasing and comebacks"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Playful teasing"
+      }
     ]
   },
   {
@@ -5620,8 +6316,8 @@
     "serbian": "Ne ljuti se",
     "pronunciation": "neh LYOO-tee seh",
     "meaning": "Don't get angry / don't be mad",
-    "category": "Teasing and comebacks",
-    "subcategory": "Owning it (nemoguć sam)",
+    "category": "Conversation",
+    "subcategory": "Teasing and comebacks",
     "tags": [
       "teasing",
       "apology"
@@ -5721,6 +6417,20 @@
         "pronunciation": "neh LYOO-tee seh, SAH-mo sahm seh SHAH-lee-lah",
         "english": "Don't be mad, I was only joking (a woman says this)"
       }
+    ],
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Teasing and comebacks"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Relationship talk"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Thanks, sorry, please"
+      }
     ]
   },
   {
@@ -5729,8 +6439,8 @@
     "serbian": "Ti si luda",
     "pronunciation": "tee see LOO-dah",
     "meaning": "You're crazy (playful)",
-    "category": "Teasing and comebacks",
-    "subcategory": "Playful insults",
+    "category": "Conversation",
+    "subcategory": "Teasing and comebacks",
     "tags": [
       "teasing",
       "crazy",
@@ -5832,7 +6542,25 @@
       "nemoguc-sam",
       "zezas-me"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Teasing and comebacks"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Playful teasing"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Playful insults"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "People: personality"
+      }
+    ]
   },
   {
     "id": "hoces-da-izadjemo",
@@ -5840,8 +6568,8 @@
     "serbian": "Hoćeš da izađemo?",
     "pronunciation": "HOH-chesh dah ee-ZAH-jeh-mo",
     "meaning": "Do you want to go out (together)?",
-    "category": "Making plans",
-    "subcategory": "Inviting",
+    "category": "Conversation",
+    "subcategory": "Making plans",
     "tags": [
       "plans",
       "invite",
@@ -5937,6 +6665,20 @@
           "english": "Does she want to go out with us?"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Making plans"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Dating"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Invitations"
+      }
     ]
   },
   {
@@ -5945,8 +6687,8 @@
     "serbian": "Kad si slobodna?",
     "pronunciation": "KAHD see SLOH-bohd-nah",
     "meaning": "When are you free?",
-    "category": "Making plans",
-    "subcategory": "When and where",
+    "category": "Conversation",
+    "subcategory": "Making plans",
     "tags": [
       "plans",
       "time",
@@ -6058,6 +6800,16 @@
         "pronunciation": "SLOH-bo-dahn sahm SOO-trah OO-veh-cheh",
         "english": "I'm free tomorrow evening"
       }
+    ],
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Making plans"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Dating"
+      }
     ]
   },
   {
@@ -6066,8 +6818,8 @@
     "serbian": "Gde da se nađemo?",
     "pronunciation": "GDEH dah seh NAH-jeh-mo",
     "meaning": "Where should we meet up?",
-    "category": "Making plans",
-    "subcategory": "When and where",
+    "category": "Conversation",
+    "subcategory": "Making plans",
     "tags": [
       "plans",
       "place",
@@ -6120,7 +6872,13 @@
       "gde",
       "u-koliko-sati"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Making plans"
+      }
+    ]
   },
   {
     "id": "u-koliko-sati",
@@ -6128,8 +6886,8 @@
     "serbian": "U koliko sati?",
     "pronunciation": "oo KOH-lee-ko SAH-tee",
     "meaning": "What time?",
-    "category": "Making plans",
-    "subcategory": "When and where",
+    "category": "Conversation",
+    "subcategory": "Making plans",
     "tags": [
       "plans",
       "time",
@@ -6181,7 +6939,17 @@
       "koliko",
       "kad-si-slobodna"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Making plans"
+      },
+      {
+        "category": "Basics",
+        "subcategory": "Time and days"
+      }
+    ]
   },
   {
     "id": "kasnim",
@@ -6189,7 +6957,7 @@
     "serbian": "Kasnim malo",
     "pronunciation": "KAHS-neem MAH-lo",
     "meaning": "I'm running a bit late",
-    "category": "Making plans",
+    "category": "Conversation",
     "subcategory": "Running late",
     "tags": [
       "plans",
@@ -6307,6 +7075,16 @@
           "english": "I was late, there was traffic (a woman says this)"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Running late"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Present"
+      }
     ]
   },
   {
@@ -6315,7 +7093,7 @@
     "serbian": "Stigao sam",
     "pronunciation": "STEE-gah-oh sahm",
     "meaning": "I'm here / I've arrived",
-    "category": "Making plans",
+    "category": "Conversation",
     "subcategory": "Running late",
     "tags": [
       "plans",
@@ -6428,7 +7206,17 @@
       "kasnim",
       "gde-si"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Running late"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Past"
+      }
+    ]
   },
   {
     "id": "ne-mogu-da-dodjem",
@@ -6436,8 +7224,8 @@
     "serbian": "Ne mogu da dođem",
     "pronunciation": "neh MOH-goo dah DOH-jem",
     "meaning": "I can't make it",
-    "category": "Making plans",
-    "subcategory": "Cancelling and rescheduling",
+    "category": "Conversation",
+    "subcategory": "Cancelling",
     "tags": [
       "plans",
       "cancel"
@@ -6537,6 +7325,16 @@
           "english": "My parents can't come"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Cancelling"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Can and can’t"
+      }
     ]
   },
   {
@@ -6545,8 +7343,8 @@
     "serbian": "Možemo li da pomerimo?",
     "pronunciation": "MOH-zheh-mo lee dah poh-MEH-ree-mo",
     "meaning": "Can we move it to another time?",
-    "category": "Making plans",
-    "subcategory": "Cancelling and rescheduling",
+    "category": "Conversation",
+    "subcategory": "Cancelling",
     "tags": [
       "plans",
       "reschedule"
@@ -6636,6 +7434,16 @@
           "english": "Can he move it?"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Cancelling"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Requests"
+      }
     ]
   },
   {
@@ -6645,8 +7453,8 @@
     "pronunciation": "doh VRAH-gah",
     "meaning": "'Damn!', 'ugh!'",
     "literal": "To the devil",
-    "category": "Swearing",
-    "subcategory": "Mild (bre, majke mi)",
+    "category": "Slang and swearing",
+    "subcategory": "Mild swearing",
     "tags": [
       "swearing",
       "mild",
@@ -6699,7 +7507,13 @@
       "majke-mi",
       "jebote"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Mild swearing"
+      }
+    ]
   },
   {
     "id": "sranje",
@@ -6708,8 +7522,8 @@
     "pronunciation": "SRAH-nyeh",
     "meaning": "'Crap!', 'bullshit!'",
     "literal": "Crap (as in feces)",
-    "category": "Swearing",
-    "subcategory": "Medium (jebote)",
+    "category": "Slang and swearing",
+    "subcategory": "Strong swearing",
     "tags": [
       "swearing",
       "medium",
@@ -6762,7 +7576,13 @@
       "jebote",
       "do-vraga"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Strong swearing"
+      }
+    ]
   },
   {
     "id": "jebi-se",
@@ -6770,8 +7590,8 @@
     "serbian": "Jebi se",
     "pronunciation": "YEH-bee seh",
     "meaning": "'F*** off' (a real insult)",
-    "category": "Swearing",
-    "subcategory": "Strong",
+    "category": "Slang and swearing",
+    "subcategory": "Strong swearing",
     "tags": [
       "swearing",
       "strong",
@@ -6843,6 +7663,20 @@
           "english": "F*** off, leave me alone"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Strong swearing"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Insults"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Tone and usage warnings"
+      }
     ]
   },
   {
@@ -6851,7 +7685,7 @@
     "serbian": "Ti / vi",
     "pronunciation": "TEE / VEE",
     "meaning": "'You': ti for one friend, vi for elders, strangers or a group",
-    "category": "Building blocks",
+    "category": "Basics",
     "subcategory": "Pronouns",
     "tags": [
       "pronoun",
@@ -6940,7 +7774,17 @@
       "kako-si",
       "ja-mi"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Pronouns"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Formal and polite"
+      }
+    ]
   },
   {
     "id": "on-ona",
@@ -6948,7 +7792,7 @@
     "serbian": "On / ona / oni",
     "pronunciation": "OHN / OH-nah / OH-nee",
     "meaning": "He, she, they",
-    "category": "Building blocks",
+    "category": "Basics",
     "subcategory": "Pronouns",
     "tags": [
       "pronoun",
@@ -7052,7 +7896,13 @@
       "ja-mi",
       "to-be"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Pronouns"
+      }
+    ]
   },
   {
     "id": "ja-mi",
@@ -7060,7 +7910,7 @@
     "serbian": "Ja / mi",
     "pronunciation": "YAH / MEE",
     "meaning": "I, we",
-    "category": "Building blocks",
+    "category": "Basics",
     "subcategory": "Pronouns",
     "tags": [
       "pronoun",
@@ -7161,6 +8011,12 @@
           "english": "The two of us are going to dinner"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Pronouns"
+      }
     ]
   },
   {
@@ -7169,8 +8025,8 @@
     "serbian": "Sam / si / je",
     "pronunciation": "SAHM / SEE / YEH",
     "meaning": "The present of 'to be'",
-    "category": "Building blocks",
-    "subcategory": "To be (sam, si, je)",
+    "category": "Verbs and actions",
+    "subcategory": "Everyday verbs",
     "tags": [
       "verb",
       "be",
@@ -7279,7 +8135,17 @@
       "nisam",
       "ti-vi"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Everyday verbs"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Present"
+      }
+    ]
   },
   {
     "id": "nisam",
@@ -7287,8 +8153,8 @@
     "serbian": "Nisam",
     "pronunciation": "NEE-sahm",
     "meaning": "I am not",
-    "category": "Building blocks",
-    "subcategory": "Not (nisam, ne-)",
+    "category": "Verbs and actions",
+    "subcategory": "Present",
     "tags": [
       "negation",
       "be",
@@ -7404,7 +8270,13 @@
       "to-be",
       "necu"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Present"
+      }
+    ]
   },
   {
     "id": "nemam",
@@ -7412,8 +8284,8 @@
     "serbian": "Nemam",
     "pronunciation": "NEH-mahm",
     "meaning": "I don't have",
-    "category": "Building blocks",
-    "subcategory": "Not (nisam, ne-)",
+    "category": "Verbs and actions",
+    "subcategory": "Present",
     "tags": [
       "negation",
       "have",
@@ -7529,7 +8401,13 @@
       "nisam",
       "necu"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Present"
+      }
+    ]
   },
   {
     "id": "moj",
@@ -7537,8 +8415,8 @@
     "serbian": "Moj / moja / moje",
     "pronunciation": "MOY / MOH-yah / MOH-yeh",
     "meaning": "My, matching the thing owned",
-    "category": "Building blocks",
-    "subcategory": "My and your",
+    "category": "Basics",
+    "subcategory": "My, your, his, her",
     "tags": [
       "possessive",
       "my"
@@ -7631,7 +8509,13 @@
       "tvoj",
       "koji"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "My, your, his, her"
+      }
+    ]
   },
   {
     "id": "tvoj",
@@ -7639,8 +8523,8 @@
     "serbian": "Tvoj / tvoja / tvoje",
     "pronunciation": "TVOY / TVOH-yah / TVOH-yeh",
     "meaning": "Your (casual), matching the thing owned",
-    "category": "Building blocks",
-    "subcategory": "My and your",
+    "category": "Basics",
+    "subcategory": "My, your, his, her",
     "tags": [
       "possessive",
       "your"
@@ -7740,7 +8624,13 @@
       "moj",
       "koji"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "My, your, his, her"
+      }
+    ]
   },
   {
     "id": "i",
@@ -7748,8 +8638,8 @@
     "serbian": "I",
     "pronunciation": "EE",
     "meaning": "And",
-    "category": "Building blocks",
-    "subcategory": "Glue words (and, but, also, baš)",
+    "category": "Basics",
+    "subcategory": "And, but, because",
     "tags": [
       "glue",
       "and"
@@ -7800,7 +8690,17 @@
       "ali",
       "ili"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "And, but, because"
+      },
+      {
+        "category": "Basics",
+        "subcategory": "Flow words"
+      }
+    ]
   },
   {
     "id": "ali",
@@ -7808,8 +8708,8 @@
     "serbian": "Ali",
     "pronunciation": "AH-lee",
     "meaning": "But",
-    "category": "Building blocks",
-    "subcategory": "Glue words (and, but, also, baš)",
+    "category": "Basics",
+    "subcategory": "And, but, because",
     "tags": [
       "glue",
       "but"
@@ -7859,7 +8759,17 @@
       "i",
       "ili"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "And, but, because"
+      },
+      {
+        "category": "Basics",
+        "subcategory": "Flow words"
+      }
+    ]
   },
   {
     "id": "ili",
@@ -7867,8 +8777,8 @@
     "serbian": "Ili",
     "pronunciation": "EE-lee",
     "meaning": "Or",
-    "category": "Building blocks",
-    "subcategory": "Glue words (and, but, also, baš)",
+    "category": "Basics",
+    "subcategory": "And, but, because",
     "tags": [
       "glue",
       "or"
@@ -7906,7 +8816,17 @@
       "i",
       "ali"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "And, but, because"
+      },
+      {
+        "category": "Basics",
+        "subcategory": "Flow words"
+      }
+    ]
   },
   {
     "id": "bas",
@@ -7914,8 +8834,8 @@
     "serbian": "Baš",
     "pronunciation": "BAHSH",
     "meaning": "Really, exactly, just, so",
-    "category": "Building blocks",
-    "subcategory": "Glue words (and, but, also, baš)",
+    "category": "Basics",
+    "subcategory": "Flow words",
     "tags": [
       "glue",
       "emphasis",
@@ -7974,7 +8894,17 @@
       "ludilo",
       "i"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Flow words"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Filler and transition words"
+      }
+    ]
   },
   {
     "id": "takodje",
@@ -7982,8 +8912,8 @@
     "serbian": "Takođe",
     "pronunciation": "tah-KOH-jeh",
     "meaning": "Also, too",
-    "category": "Building blocks",
-    "subcategory": "Glue words (and, but, also, baš)",
+    "category": "Basics",
+    "subcategory": "And, but, because",
     "tags": [
       "glue",
       "also"
@@ -8033,7 +8963,17 @@
       "i",
       "bas"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "And, but, because"
+      },
+      {
+        "category": "Basics",
+        "subcategory": "Flow words"
+      }
+    ]
   },
   {
     "id": "brojevi",
@@ -8041,7 +8981,7 @@
     "serbian": "Jedan, dva, tri...",
     "pronunciation": "YEH-dahn, DVAH, TREE...",
     "meaning": "One to ten: jedan, dva, tri, četiri, pet, šest, sedam, osam, devet, deset",
-    "category": "Building blocks",
+    "category": "Basics",
     "subcategory": "Numbers",
     "tags": [
       "numbers",
@@ -8125,7 +9065,13 @@
     "related": [
       "koliko"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Numbers"
+      }
+    ]
   },
   {
     "id": "idem",
@@ -8133,8 +9079,8 @@
     "serbian": "Idem",
     "pronunciation": "EE-dehm",
     "meaning": "I go / I'm going",
-    "category": "Verbs",
-    "subcategory": "Everyday verbs (present)",
+    "category": "Verbs and actions",
+    "subcategory": "Everyday verbs",
     "tags": [
       "verb",
       "go",
@@ -8250,7 +9196,17 @@
       "ajde",
       "radim"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Everyday verbs"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Present"
+      }
+    ]
   },
   {
     "id": "radim",
@@ -8258,8 +9214,8 @@
     "serbian": "Radim",
     "pronunciation": "RAH-deem",
     "meaning": "I do, I work",
-    "category": "Verbs",
-    "subcategory": "Everyday verbs (present)",
+    "category": "Verbs and actions",
+    "subcategory": "Everyday verbs",
     "tags": [
       "verb",
       "work",
@@ -8367,7 +9323,17 @@
       "sta-radis",
       "idem"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Everyday verbs"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Present"
+      }
+    ]
   },
   {
     "id": "znam",
@@ -8375,8 +9341,8 @@
     "serbian": "Znam",
     "pronunciation": "ZNAHM",
     "meaning": "I know",
-    "category": "Verbs",
-    "subcategory": "Everyday verbs (present)",
+    "category": "Verbs and actions",
+    "subcategory": "Everyday verbs",
     "tags": [
       "verb",
       "know",
@@ -8490,7 +9456,17 @@
       "nzm",
       "radim"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Everyday verbs"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Present"
+      }
+    ]
   },
   {
     "id": "volim",
@@ -8498,8 +9474,8 @@
     "serbian": "Volim",
     "pronunciation": "VOH-leem",
     "meaning": "I like, I love",
-    "category": "Verbs",
-    "subcategory": "Everyday verbs (present)",
+    "category": "Verbs and actions",
+    "subcategory": "Everyday verbs",
     "tags": [
       "verb",
       "like",
@@ -8608,7 +9584,17 @@
       "volim-te",
       "svidjas-mi-se"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Everyday verbs"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Present"
+      }
+    ]
   },
   {
     "id": "bio-sam",
@@ -8616,8 +9602,8 @@
     "serbian": "Bio sam / bila sam",
     "pronunciation": "BEE-oh sahm / BEE-lah sahm",
     "meaning": "I was",
-    "category": "Verbs",
-    "subcategory": "Past tense",
+    "category": "Verbs and actions",
+    "subcategory": "Past",
     "tags": [
       "verb",
       "past",
@@ -8736,7 +9722,17 @@
       "isao-sam",
       "video-sam"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Past"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Everyday verbs"
+      }
+    ]
   },
   {
     "id": "isao-sam",
@@ -8744,8 +9740,8 @@
     "serbian": "Išao sam / išla sam",
     "pronunciation": "EE-shah-oh sahm / EESH-lah sahm",
     "meaning": "I went",
-    "category": "Verbs",
-    "subcategory": "Past tense",
+    "category": "Verbs and actions",
+    "subcategory": "Past",
     "tags": [
       "verb",
       "past",
@@ -8851,7 +9847,17 @@
       "bio-sam",
       "idem"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Past"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Everyday verbs"
+      }
+    ]
   },
   {
     "id": "video-sam",
@@ -8859,8 +9865,8 @@
     "serbian": "Video sam / videla sam",
     "pronunciation": "VEE-deh-oh sahm / VEE-deh-lah sahm",
     "meaning": "I saw",
-    "category": "Verbs",
-    "subcategory": "Past tense",
+    "category": "Verbs and actions",
+    "subcategory": "Past",
     "tags": [
       "verb",
       "past",
@@ -8967,7 +9973,17 @@
       "bio-sam",
       "videcemo-se"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Past"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Everyday verbs"
+      }
+    ]
   },
   {
     "id": "jeo-sam",
@@ -8975,8 +9991,8 @@
     "serbian": "Jeo sam / jela sam",
     "pronunciation": "YEH-oh sahm / YEH-lah sahm",
     "meaning": "I ate / I've eaten",
-    "category": "Verbs",
-    "subcategory": "Past tense",
+    "category": "Verbs and actions",
+    "subcategory": "Past",
     "tags": [
       "verb",
       "past",
@@ -9083,7 +10099,17 @@
       "jesi-li-gladna",
       "bio-sam"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Past"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Everyday verbs"
+      }
+    ]
   },
   {
     "id": "zvacu-te",
@@ -9091,8 +10117,8 @@
     "serbian": "Zvaću te",
     "pronunciation": "ZVAH-choo teh",
     "meaning": "I'll call you",
-    "category": "Verbs",
-    "subcategory": "Future (zvaću)",
+    "category": "Verbs and actions",
+    "subcategory": "Future",
     "tags": [
       "verb",
       "future",
@@ -9194,6 +10220,16 @@
           "english": "I'll call you on Monday"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Future"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Making plans"
+      }
     ]
   },
   {
@@ -9202,8 +10238,8 @@
     "serbian": "Javiću se",
     "pronunciation": "YAH-vee-choo seh",
     "meaning": "I'll let you know / I'll be in touch",
-    "category": "Verbs",
-    "subcategory": "Future (zvaću)",
+    "category": "Verbs and actions",
+    "subcategory": "Future",
     "tags": [
       "verb",
       "future",
@@ -9292,6 +10328,16 @@
           "english": "We'll be in touch with you"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Future"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Making plans"
+      }
     ]
   },
   {
@@ -9300,8 +10346,8 @@
     "serbian": "Videćemo se",
     "pronunciation": "VEE-deh-cheh-mo seh",
     "meaning": "We'll see each other / we'll see",
-    "category": "Verbs",
-    "subcategory": "Future (zvaću)",
+    "category": "Verbs and actions",
+    "subcategory": "Future",
     "tags": [
       "verb",
       "future",
@@ -9385,6 +10431,16 @@
           "english": "We'll see, I don't promise"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Future"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Making plans"
+      }
     ]
   },
   {
@@ -9393,8 +10449,8 @@
     "serbian": "Dođi",
     "pronunciation": "DOH-jee",
     "meaning": "Come (here)",
-    "category": "Verbs",
-    "subcategory": "Commands (dođi, spavaj)",
+    "category": "Verbs and actions",
+    "subcategory": "Commands",
     "tags": [
       "verb",
       "command",
@@ -9460,7 +10516,17 @@
       "cekaj",
       "kod-mene"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Commands"
+      },
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Invitations"
+      }
+    ]
   },
   {
     "id": "cekaj",
@@ -9468,8 +10534,8 @@
     "serbian": "Čekaj",
     "pronunciation": "CHEH-kai",
     "meaning": "Wait",
-    "category": "Verbs",
-    "subcategory": "Commands (dođi, spavaj)",
+    "category": "Verbs and actions",
+    "subcategory": "Commands",
     "tags": [
       "verb",
       "command",
@@ -9552,7 +10618,13 @@
       "dodji",
       "polako"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Commands"
+      }
+    ]
   },
   {
     "id": "javi-se",
@@ -9560,8 +10632,8 @@
     "serbian": "Javi se",
     "pronunciation": "YAH-vee seh",
     "meaning": "Let me know / text me / get in touch",
-    "category": "Verbs",
-    "subcategory": "Commands (dođi, spavaj)",
+    "category": "Verbs and actions",
+    "subcategory": "Commands",
     "tags": [
       "verb",
       "command",
@@ -9627,7 +10699,17 @@
       "javicu-se",
       "dodji"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Commands"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Making plans"
+      }
+    ]
   },
   {
     "id": "spavaj",
@@ -9635,8 +10717,8 @@
     "serbian": "Spavaj",
     "pronunciation": "SPAH-vai",
     "meaning": "Sleep (well)",
-    "category": "Verbs",
-    "subcategory": "Commands (dođi, spavaj)",
+    "category": "Verbs and actions",
+    "subcategory": "Commands",
     "tags": [
       "verb",
       "command",
@@ -9720,7 +10802,13 @@
       "laku-noc",
       "dodji"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Commands"
+      }
+    ]
   },
   {
     "id": "mogu",
@@ -9728,8 +10816,8 @@
     "serbian": "Mogu",
     "pronunciation": "MOH-goo",
     "meaning": "I can / I'm able to",
-    "category": "Verbs",
-    "subcategory": "Can, want, have to",
+    "category": "Verbs and actions",
+    "subcategory": "Can and can’t",
     "tags": [
       "verb",
       "can",
@@ -9843,7 +10931,13 @@
       "ne-mogu-da-dodjem",
       "moram"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Can and can’t"
+      }
+    ]
   },
   {
     "id": "hocu",
@@ -9851,8 +10945,8 @@
     "serbian": "Hoću",
     "pronunciation": "HOH-choo",
     "meaning": "I want to; also 'yes, I will'",
-    "category": "Verbs",
-    "subcategory": "Can, want, have to",
+    "category": "Verbs and actions",
+    "subcategory": "Want and don’t want",
     "tags": [
       "verb",
       "want",
@@ -9967,7 +11061,13 @@
       "necu",
       "hoces-da-izadjemo"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Want and don’t want"
+      }
+    ]
   },
   {
     "id": "necu",
@@ -9975,8 +11075,8 @@
     "serbian": "Neću",
     "pronunciation": "NEH-choo",
     "meaning": "I don't want to / I won't",
-    "category": "Verbs",
-    "subcategory": "Can, want, have to",
+    "category": "Verbs and actions",
+    "subcategory": "Want and don’t want",
     "tags": [
       "verb",
       "refuse",
@@ -10086,7 +11186,13 @@
       "hocu",
       "nisam"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Want and don’t want"
+      }
+    ]
   },
   {
     "id": "moram",
@@ -10094,8 +11200,8 @@
     "serbian": "Moram",
     "pronunciation": "MOH-rahm",
     "meaning": "I have to / I must",
-    "category": "Verbs",
-    "subcategory": "Can, want, have to",
+    "category": "Verbs and actions",
+    "subcategory": "Need and have to",
     "tags": [
       "verb",
       "must",
@@ -10202,7 +11308,13 @@
       "mogu",
       "ne-mogu-da-dodjem"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Verbs and actions",
+        "subcategory": "Need and have to"
+      }
+    ]
   },
   {
     "id": "gladan",
@@ -10210,8 +11322,8 @@
     "serbian": "Gladan sam",
     "pronunciation": "GLAH-dahn sahm",
     "meaning": "I'm hungry",
-    "category": "Describing words",
-    "subcategory": "Feelings (tired, happy, hungry)",
+    "category": "Describing and feelings",
+    "subcategory": "Physical states",
     "tags": [
       "feelings",
       "hungry",
@@ -10327,7 +11439,13 @@
       "jesi-li-gladna",
       "zedan"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Physical states"
+      }
+    ]
   },
   {
     "id": "zedan",
@@ -10335,8 +11453,8 @@
     "serbian": "Žedan sam",
     "pronunciation": "ZHEH-dahn sahm",
     "meaning": "I'm thirsty",
-    "category": "Describing words",
-    "subcategory": "Feelings (tired, happy, hungry)",
+    "category": "Describing and feelings",
+    "subcategory": "Physical states",
     "tags": [
       "feelings",
       "thirsty",
@@ -10452,7 +11570,13 @@
       "gladan",
       "voda"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Physical states"
+      }
+    ]
   },
   {
     "id": "tuzan",
@@ -10460,8 +11584,8 @@
     "serbian": "Tužan sam",
     "pronunciation": "TOO-zhahn sahm",
     "meaning": "I'm sad",
-    "category": "Describing words",
-    "subcategory": "Feelings (tired, happy, hungry)",
+    "category": "Describing and feelings",
+    "subcategory": "Emotions",
     "tags": [
       "feelings",
       "sad"
@@ -10583,6 +11707,12 @@
         "pronunciation": "OH-vah PEH-smah yeh TOOZH-nah",
         "english": "This song is sad"
       }
+    ],
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Emotions"
+      }
     ]
   },
   {
@@ -10591,8 +11721,8 @@
     "serbian": "Ljut sam",
     "pronunciation": "LYOOT sahm",
     "meaning": "I'm angry / mad",
-    "category": "Describing words",
-    "subcategory": "Feelings (tired, happy, hungry)",
+    "category": "Describing and feelings",
+    "subcategory": "Emotions",
     "tags": [
       "feelings",
       "angry"
@@ -10707,7 +11837,13 @@
       "ne-ljuti-se",
       "tuzan"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Emotions"
+      }
+    ]
   },
   {
     "id": "dosadno-mi-je",
@@ -10716,8 +11852,8 @@
     "pronunciation": "DOH-sahd-no mee yeh",
     "meaning": "I'm bored",
     "literal": "It's boring to me",
-    "category": "Describing words",
-    "subcategory": "Feelings (tired, happy, hungry)",
+    "category": "Describing and feelings",
+    "subcategory": "Emotions",
     "tags": [
       "feelings",
       "bored"
@@ -10829,6 +11965,12 @@
           "english": "Are you bored here?"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Emotions"
+      }
     ]
   },
   {
@@ -10837,8 +11979,8 @@
     "serbian": "Pametan si / pametna si",
     "pronunciation": "PAH-meh-tahn see / PAH-meht-nah see",
     "meaning": "You're smart",
-    "category": "Describing words",
-    "subcategory": "People (cute, crazy, funny)",
+    "category": "Describing and feelings",
+    "subcategory": "People: personality",
     "tags": [
       "people",
       "smart",
@@ -10943,7 +12085,13 @@
       "lepa-si",
       "smesan"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "People: personality"
+      }
+    ]
   },
   {
     "id": "zgodan",
@@ -10951,8 +12099,8 @@
     "serbian": "Zgodan si / zgodna si",
     "pronunciation": "ZGOH-dahn see / ZGOHD-nah see",
     "meaning": "You're good-looking",
-    "category": "Describing words",
-    "subcategory": "People (cute, crazy, funny)",
+    "category": "Describing and feelings",
+    "subcategory": "People: appearance",
     "tags": [
       "people",
       "looks",
@@ -11042,6 +12190,12 @@
         "pronunciation": "OH-nah yeh BAHSH ZGOHD-nah",
         "english": "She's really good-looking"
       }
+    ],
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "People: appearance"
+      }
     ]
   },
   {
@@ -11050,8 +12204,8 @@
     "serbian": "Smešan si / smešna si",
     "pronunciation": "SMEH-shahn see / SMESH-nah see",
     "meaning": "You're funny",
-    "category": "Describing words",
-    "subcategory": "People (cute, crazy, funny)",
+    "category": "Describing and feelings",
+    "subcategory": "People: personality",
     "tags": [
       "people",
       "funny",
@@ -11135,6 +12289,12 @@
         "pronunciation": "TOH yeh SMESH-no",
         "english": "That's ridiculous"
       }
+    ],
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "People: personality"
+      }
     ]
   },
   {
@@ -11143,8 +12303,8 @@
     "serbian": "Ukusno",
     "pronunciation": "OO-koos-no",
     "meaning": "Tasty / delicious",
-    "category": "Describing words",
-    "subcategory": "Things (good, sick, boring)",
+    "category": "Describing and feelings",
+    "subcategory": "Describing things",
     "tags": [
       "things",
       "food",
@@ -11237,6 +12397,20 @@
           "english": "The ćevapi are tasty"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Describing things"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Food and drink"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Opinions"
+      }
     ]
   },
   {
@@ -11245,8 +12419,8 @@
     "serbian": "Skupo je",
     "pronunciation": "SKOO-po yeh",
     "meaning": "It's expensive",
-    "category": "Describing words",
-    "subcategory": "Things (good, sick, boring)",
+    "category": "Describing and feelings",
+    "subcategory": "Describing things",
     "tags": [
       "things",
       "price",
@@ -11327,6 +12501,16 @@
           "english": "The shoes are expensive"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Describing things"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Shopping and money"
+      }
     ]
   },
   {
@@ -11335,8 +12519,8 @@
     "serbian": "Jeftino je",
     "pronunciation": "YEF-tee-no yeh",
     "meaning": "It's cheap",
-    "category": "Describing words",
-    "subcategory": "Things (good, sick, boring)",
+    "category": "Describing and feelings",
+    "subcategory": "Describing things",
     "tags": [
       "things",
       "price",
@@ -11417,6 +12601,16 @@
           "english": "The shoes are cheap"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Describing things"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Shopping and money"
+      }
     ]
   },
   {
@@ -11425,8 +12619,8 @@
     "serbian": "Dobro / loše",
     "pronunciation": "DOH-bro / LOH-sheh",
     "meaning": "Good / bad",
-    "category": "Describing words",
-    "subcategory": "Things (good, sick, boring)",
+    "category": "Describing and feelings",
+    "subcategory": "Opinions",
     "tags": [
       "things",
       "good",
@@ -11512,6 +12706,16 @@
           "english": "I'm fine. I sleep badly"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Opinions"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Opposites"
+      }
     ]
   },
   {
@@ -11520,8 +12724,8 @@
     "serbian": "Nije loše",
     "pronunciation": "NEE-yeh LOH-sheh",
     "meaning": "Not bad",
-    "category": "Describing words",
-    "subcategory": "Opposites with ne-",
+    "category": "Describing and feelings",
+    "subcategory": "Opinions",
     "tags": [
       "opposite",
       "not-bad"
@@ -11590,6 +12794,16 @@
           "english": "The beer isn't bad"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Opinions"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Opposites"
+      }
     ]
   },
   {
@@ -11598,8 +12812,8 @@
     "serbian": "Nezgodno",
     "pronunciation": "NEZ-gohd-no",
     "meaning": "Awkward / inconvenient / a bad moment",
-    "category": "Describing words",
-    "subcategory": "Opposites with ne-",
+    "category": "Describing and feelings",
+    "subcategory": "Opposites",
     "tags": [
       "opposite",
       "awkward",
@@ -11701,6 +12915,16 @@
           "english": "That's an awkward situation"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Opposites"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Opinions"
+      }
     ]
   },
   {
@@ -11709,7 +12933,7 @@
     "serbian": "Kafa",
     "pronunciation": "KAH-fah",
     "meaning": "Coffee",
-    "category": "Things and places",
+    "category": "Everyday situations",
     "subcategory": "Food and drink",
     "tags": [
       "food",
@@ -11800,7 +13024,17 @@
       "hoces-da-izadjemo",
       "kafic"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Food and drink"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Restaurants and cafés"
+      }
+    ]
   },
   {
     "id": "pivo",
@@ -11808,7 +13042,7 @@
     "serbian": "Pivo",
     "pronunciation": "PEE-vo",
     "meaning": "Beer",
-    "category": "Things and places",
+    "category": "Everyday situations",
     "subcategory": "Food and drink",
     "tags": [
       "food",
@@ -11882,7 +13116,13 @@
       "vino",
       "kafic"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Food and drink"
+      }
+    ]
   },
   {
     "id": "vino",
@@ -11890,7 +13130,7 @@
     "serbian": "Vino",
     "pronunciation": "VEE-no",
     "meaning": "Wine",
-    "category": "Things and places",
+    "category": "Everyday situations",
     "subcategory": "Food and drink",
     "tags": [
       "food",
@@ -11965,7 +13205,13 @@
       "pivo",
       "zivili"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Food and drink"
+      }
+    ]
   },
   {
     "id": "voda",
@@ -11973,7 +13219,7 @@
     "serbian": "Voda",
     "pronunciation": "VOH-dah",
     "meaning": "Water",
-    "category": "Things and places",
+    "category": "Everyday situations",
     "subcategory": "Food and drink",
     "tags": [
       "food",
@@ -12063,7 +13309,13 @@
       "zedan",
       "kafa"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Food and drink"
+      }
+    ]
   },
   {
     "id": "kafic",
@@ -12071,7 +13323,7 @@
     "serbian": "Kafić",
     "pronunciation": "KAH-feech",
     "meaning": "Café / bar",
-    "category": "Things and places",
+    "category": "Everyday situations",
     "subcategory": "Going out",
     "tags": [
       "going-out",
@@ -12144,7 +13396,21 @@
       "kafa",
       "racun"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Going out"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Restaurants and cafés"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Places"
+      }
+    ]
   },
   {
     "id": "racun",
@@ -12152,8 +13418,8 @@
     "serbian": "Račun, molim",
     "pronunciation": "RAH-choon, MOH-leem",
     "meaning": "The bill, please",
-    "category": "Things and places",
-    "subcategory": "Going out",
+    "category": "Everyday situations",
+    "subcategory": "Restaurants and cafés",
     "tags": [
       "going-out",
       "bill",
@@ -12220,6 +13486,16 @@
         "pronunciation": "HOH-cheh-mo lee dah poh-DEH-lee-mo RAH-choon",
         "english": "Shall we split the bill?"
       }
+    ],
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Restaurants and cafés"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Shopping and money"
+      }
     ]
   },
   {
@@ -12228,7 +13504,7 @@
     "serbian": "Stan",
     "pronunciation": "STAHN",
     "meaning": "Apartment / flat",
-    "category": "Things and places",
+    "category": "Everyday situations",
     "subcategory": "Home",
     "tags": [
       "home",
@@ -12301,7 +13577,13 @@
       "kod-mene",
       "moj"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Home"
+      }
+    ]
   },
   {
     "id": "kod-mene",
@@ -12309,7 +13591,7 @@
     "serbian": "Kod mene",
     "pronunciation": "kohd MEH-neh",
     "meaning": "At my place",
-    "category": "Things and places",
+    "category": "Everyday situations",
     "subcategory": "Home",
     "tags": [
       "home",
@@ -12411,6 +13693,16 @@
           "english": "Can we come to your place?"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Home"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Making plans"
+      }
     ]
   },
   {
@@ -12419,8 +13711,8 @@
     "serbian": "Aerodrom",
     "pronunciation": "ah-eh-ROH-drohm",
     "meaning": "Airport",
-    "category": "Things and places",
-    "subcategory": "Places",
+    "category": "Everyday situations",
+    "subcategory": "Travel and transportation",
     "tags": [
       "places",
       "travel",
@@ -12484,7 +13776,17 @@
     "related": [
       "gde"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Travel and transportation"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Places"
+      }
+    ]
   },
   {
     "id": "stanica",
@@ -12492,8 +13794,8 @@
     "serbian": "Autobuska stanica",
     "pronunciation": "ow-toh-BOO-skah STAH-nee-tsah",
     "meaning": "Bus station",
-    "category": "Things and places",
-    "subcategory": "Places",
+    "category": "Everyday situations",
+    "subcategory": "Travel and transportation",
     "tags": [
       "places",
       "travel",
@@ -12565,7 +13867,17 @@
       "aerodrom",
       "gde"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Travel and transportation"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Places"
+      }
+    ]
   },
   {
     "id": "mama-tata",
@@ -12573,8 +13885,8 @@
     "serbian": "Mama / tata",
     "pronunciation": "MAH-mah / TAH-tah",
     "meaning": "Mom / dad",
-    "category": "Things and places",
-    "subcategory": "People and family",
+    "category": "Everyday situations",
+    "subcategory": "Friends and family",
     "tags": [
       "family",
       "parents",
@@ -12675,7 +13987,17 @@
       "brat-sestra",
       "baka-deda"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Friends and family"
+      },
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Meeting family"
+      }
+    ]
   },
   {
     "id": "brat-sestra",
@@ -12683,8 +14005,8 @@
     "serbian": "Brat / sestra",
     "pronunciation": "BRAHT / SEH-strah",
     "meaning": "Brother / sister",
-    "category": "Things and places",
-    "subcategory": "People and family",
+    "category": "Everyday situations",
+    "subcategory": "Friends and family",
     "tags": [
       "family",
       "siblings",
@@ -12778,7 +14100,17 @@
       "mama-tata",
       "baka-deda"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Friends and family"
+      },
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Meeting family"
+      }
+    ]
   },
   {
     "id": "baka-deda",
@@ -12786,8 +14118,8 @@
     "serbian": "Baka / deda",
     "pronunciation": "BAH-kah / DEH-dah",
     "meaning": "Grandma / grandpa",
-    "category": "Things and places",
-    "subcategory": "People and family",
+    "category": "Everyday situations",
+    "subcategory": "Friends and family",
     "tags": [
       "family",
       "grandparents",
@@ -12870,7 +14202,17 @@
       "mama-tata",
       "brat-sestra"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Friends and family"
+      },
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Meeting family"
+      }
+    ]
   },
   {
     "id": "prijatelj",
@@ -12878,8 +14220,8 @@
     "serbian": "Prijatelj / prijateljica",
     "pronunciation": "PREE-yah-telyh / pree-yah-teh-LYEE-tsah",
     "meaning": "Friend (male / female)",
-    "category": "Things and places",
-    "subcategory": "People and family",
+    "category": "Everyday situations",
+    "subcategory": "Friends and family",
     "tags": [
       "people",
       "friend",
@@ -12969,7 +14311,13 @@
       "brat-sestra",
       "moj"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Friends and family"
+      }
+    ]
   },
   {
     "id": "danas-sutra-juce",
@@ -12977,7 +14325,7 @@
     "serbian": "Danas / sutra / juče",
     "pronunciation": "DAH-nahs / SOO-trah / YOO-cheh",
     "meaning": "Today / tomorrow / yesterday",
-    "category": "Things and places",
+    "category": "Basics",
     "subcategory": "Time and days",
     "tags": [
       "time",
@@ -13050,6 +14398,12 @@
           "english": "Yesterday I was at home (a woman says this)"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Time and days"
+      }
     ]
   },
   {
@@ -13058,7 +14412,7 @@
     "serbian": "Večeras",
     "pronunciation": "VEH-cheh-rahs",
     "meaning": "Tonight, this evening",
-    "category": "Things and places",
+    "category": "Basics",
     "subcategory": "Time and days",
     "tags": [
       "time",
@@ -13111,7 +14465,13 @@
       "sta-radis",
       "danas-sutra-juce"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Time and days"
+      }
+    ]
   },
   {
     "id": "dani",
@@ -13119,7 +14479,7 @@
     "serbian": "Ponedeljak, utorak, sreda...",
     "pronunciation": "poh-NEH-deh-lyak, OO-toh-rahk, SREH-dah...",
     "meaning": "Monday to Sunday: ponedeljak, utorak, sreda, četvrtak, petak, subota, nedelja",
-    "category": "Things and places",
+    "category": "Basics",
     "subcategory": "Time and days",
     "tags": [
       "time",
@@ -13184,7 +14544,13 @@
       "vikend",
       "danas-sutra-juce"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Time and days"
+      }
+    ]
   },
   {
     "id": "vikend",
@@ -13192,7 +14558,7 @@
     "serbian": "Vikend",
     "pronunciation": "VEE-kend",
     "meaning": "Weekend",
-    "category": "Things and places",
+    "category": "Basics",
     "subcategory": "Time and days",
     "tags": [
       "time",
@@ -13238,7 +14604,13 @@
       "dani",
       "veceras"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Time and days"
+      }
+    ]
   },
   {
     "id": "svadba",
@@ -13246,8 +14618,8 @@
     "serbian": "Svadba",
     "pronunciation": "SVAHD-bah",
     "meaning": "Wedding (party)",
-    "category": "Things and places",
-    "subcategory": "Events (svadba, slava)",
+    "category": "Everyday situations",
+    "subcategory": "Events",
     "tags": [
       "events",
       "wedding",
@@ -13320,7 +14692,13 @@
       "srecan-rodjendan",
       "slava"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Events"
+      }
+    ]
   },
   {
     "id": "slava",
@@ -13328,8 +14706,8 @@
     "serbian": "Slava",
     "pronunciation": "SLAH-vah",
     "meaning": "Slava: a Serbian family's patron saint's day, a big family feast",
-    "category": "Things and places",
-    "subcategory": "Events (svadba, slava)",
+    "category": "Everyday situations",
+    "subcategory": "Events",
     "tags": [
       "events",
       "slava",
@@ -13403,7 +14781,21 @@
       "svadba",
       "srecan-praznik"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Events"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Holidays and celebrations"
+      },
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Cultural context"
+      }
+    ]
   },
   {
     "id": "srecan-rodjendan",
@@ -13411,8 +14803,8 @@
     "serbian": "Srećan rođendan",
     "pronunciation": "SREH-chahn ROH-jen-dahn",
     "meaning": "Happy birthday",
-    "category": "Things and places",
-    "subcategory": "Events (svadba, slava)",
+    "category": "Everyday situations",
+    "subcategory": "Events",
     "tags": [
       "events",
       "birthday",
@@ -13490,7 +14882,17 @@
       "slava",
       "srecan-praznik"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Events"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Holidays and celebrations"
+      }
+    ]
   },
   {
     "id": "drago-mi-je",
@@ -13499,8 +14901,8 @@
     "pronunciation": "DRAH-go mee yeh",
     "meaning": "Nice to meet you",
     "literal": "Dear to me",
-    "category": "Meeting family and friends",
-    "subcategory": "Polite greetings",
+    "category": "Conversation",
+    "subcategory": "Introductions",
     "tags": [
       "family",
       "meeting",
@@ -13594,6 +14996,20 @@
           "english": "Mom is glad to meet you"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Introductions"
+      },
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Meeting family"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Formal and polite"
+      }
     ]
   },
   {
@@ -13602,8 +15018,8 @@
     "serbian": "Dobro veče",
     "pronunciation": "DOH-bro VEH-cheh",
     "meaning": "Good evening (a polite greeting)",
-    "category": "Meeting family and friends",
-    "subcategory": "Polite greetings",
+    "category": "Quick phrases",
+    "subcategory": "Greetings and goodbyes",
     "tags": [
       "family",
       "greeting",
@@ -13650,7 +15066,21 @@
       "drago-mi-je",
       "good-morning"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Greetings and goodbyes"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Formal and polite"
+      },
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Meeting family"
+      }
+    ]
   },
   {
     "id": "izvolite",
@@ -13658,8 +15088,8 @@
     "serbian": "Izvoli / izvolite",
     "pronunciation": "EEZ-vo-lee / EEZ-vo-lee-teh",
     "meaning": "Please, go ahead / here you go / come in",
-    "category": "Meeting family and friends",
-    "subcategory": "Polite greetings",
+    "category": "Conversation",
+    "subcategory": "Formal and polite",
     "tags": [
       "family",
       "polite",
@@ -13726,7 +15156,17 @@
       "please",
       "prijatno"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Formal and polite"
+      },
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Being a guest"
+      }
+    ]
   },
   {
     "id": "prijatno",
@@ -13734,8 +15174,8 @@
     "serbian": "Prijatno!",
     "pronunciation": "PREE-yaht-no",
     "meaning": "Enjoy your meal",
-    "category": "Meeting family and friends",
-    "subcategory": "Being a good guest",
+    "category": "Culture and etiquette",
+    "subcategory": "Being a guest",
     "tags": [
       "family",
       "food",
@@ -13782,7 +15222,17 @@
       "jos-malo",
       "zivili"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Being a guest"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Restaurants and cafés"
+      }
+    ]
   },
   {
     "id": "jos-malo",
@@ -13790,8 +15240,8 @@
     "serbian": "Još malo, hvala",
     "pronunciation": "YOHSH MAH-lo, HVAH-lah",
     "meaning": "A little more, thanks",
-    "category": "Meeting family and friends",
-    "subcategory": "Being a good guest",
+    "category": "Culture and etiquette",
+    "subcategory": "Being a guest",
     "tags": [
       "family",
       "food",
@@ -13838,7 +15288,17 @@
       "ne-treba",
       "sve-je-bilo-ukusno"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Being a guest"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Restaurants and cafés"
+      }
+    ]
   },
   {
     "id": "ne-treba",
@@ -13846,8 +15306,8 @@
     "serbian": "Ne treba, hvala",
     "pronunciation": "neh TREH-bah, HVAH-lah",
     "meaning": "No need, thanks",
-    "category": "Meeting family and friends",
-    "subcategory": "Being a good guest",
+    "category": "Culture and etiquette",
+    "subcategory": "Being a guest",
     "tags": [
       "family",
       "manners",
@@ -13900,7 +15360,17 @@
       "jos-malo",
       "prijatno"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Being a guest"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
+    ]
   },
   {
     "id": "sve-je-bilo-ukusno",
@@ -13908,8 +15378,8 @@
     "serbian": "Sve je bilo ukusno",
     "pronunciation": "SVEH yeh BEE-lo OO-koos-no",
     "meaning": "Everything was delicious",
-    "category": "Meeting family and friends",
-    "subcategory": "Compliments to the cook",
+    "category": "Culture and etiquette",
+    "subcategory": "Being a guest",
     "tags": [
       "family",
       "food",
@@ -13961,7 +15431,17 @@
       "ukusno",
       "odlicno-kuvate"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Being a guest"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Food and drink"
+      }
+    ]
   },
   {
     "id": "odlicno-kuvate",
@@ -13969,8 +15449,8 @@
     "serbian": "Odlično kuvaš / kuvate",
     "pronunciation": "od-LEECH-no KOO-vahsh / KOO-vah-teh",
     "meaning": "You cook great",
-    "category": "Meeting family and friends",
-    "subcategory": "Compliments to the cook",
+    "category": "Culture and etiquette",
+    "subcategory": "Being a guest",
     "tags": [
       "family",
       "food",
@@ -14053,7 +15533,17 @@
       "sve-je-bilo-ukusno",
       "ti-vi"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Being a guest"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Food and drink"
+      }
+    ]
   },
   {
     "id": "zivili",
@@ -14061,8 +15551,8 @@
     "serbian": "Živeli!",
     "pronunciation": "ZHEE-veh-lee",
     "meaning": "Cheers!",
-    "category": "Meeting family and friends",
-    "subcategory": "Toasts (živeli)",
+    "category": "Culture and etiquette",
+    "subcategory": "Toasts",
     "tags": [
       "family",
       "toast",
@@ -14114,7 +15604,17 @@
       "rakija",
       "vino"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Toasts"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Going out"
+      }
+    ]
   },
   {
     "id": "ucim-srpski",
@@ -14122,8 +15622,8 @@
     "serbian": "Učim srpski",
     "pronunciation": "OO-cheem SUHR-pskee",
     "meaning": "I'm learning Serbian",
-    "category": "Meeting family and friends",
-    "subcategory": "Small talk",
+    "category": "Conversation",
+    "subcategory": "Getting to know someone",
     "tags": [
       "family",
       "small-talk",
@@ -14213,6 +15713,16 @@
           "english": "We're learning Serbian together"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Getting to know someone"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Introductions"
+      }
     ]
   },
   {
@@ -14221,8 +15731,8 @@
     "serbian": "Govorim malo srpski",
     "pronunciation": "GOH-vo-reem MAH-lo SUHR-pskee",
     "meaning": "I speak a little Serbian",
-    "category": "Meeting family and friends",
-    "subcategory": "Small talk",
+    "category": "Conversation",
+    "subcategory": "Getting to know someone",
     "tags": [
       "family",
       "small-talk",
@@ -14324,6 +15834,16 @@
           "english": "Do you speak English, ma’am?"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Getting to know someone"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Introductions"
+      }
     ]
   },
   {
@@ -14332,8 +15852,8 @@
     "serbian": "Pozdravi roditelje",
     "pronunciation": "pohz-DRAH-vee roh-DEE-teh-lyeh",
     "meaning": "Say hi to your parents",
-    "category": "Meeting family and friends",
-    "subcategory": "Small talk",
+    "category": "Culture and etiquette",
+    "subcategory": "Meeting family",
     "tags": [
       "family",
       "small-talk",
@@ -14399,7 +15919,17 @@
       "mama-tata",
       "dobro-vece"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Meeting family"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Formal and polite"
+      }
+    ]
   },
   {
     "id": "srecan-praznik",
@@ -14407,8 +15937,8 @@
     "serbian": "Srećan Božić / Srećna Nova godina",
     "pronunciation": "SREH-chahn BOH-zheech / SRETCH-nah NOH-vah GOH-dee-nah",
     "meaning": "Happy Christmas / Happy New Year",
-    "category": "Culture",
-    "subcategory": "Holidays and traditions",
+    "category": "Culture and etiquette",
+    "subcategory": "Holidays",
     "tags": [
       "culture",
       "holiday",
@@ -14490,7 +16020,17 @@
       "bozic",
       "uskrs"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Holidays"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Holidays and celebrations"
+      }
+    ]
   },
   {
     "id": "bozic",
@@ -14498,8 +16038,8 @@
     "serbian": "Božić",
     "pronunciation": "BOH-zheech",
     "meaning": "Christmas, celebrated on January 7",
-    "category": "Culture",
-    "subcategory": "Holidays and traditions",
+    "category": "Culture and etiquette",
+    "subcategory": "Holidays",
     "tags": [
       "culture",
       "holiday",
@@ -14551,7 +16091,17 @@
       "srecan-praznik",
       "uskrs"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Holidays"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Holidays and celebrations"
+      }
+    ]
   },
   {
     "id": "uskrs",
@@ -14559,8 +16109,8 @@
     "serbian": "Uskrs",
     "pronunciation": "OO-skrs",
     "meaning": "Easter",
-    "category": "Culture",
-    "subcategory": "Holidays and traditions",
+    "category": "Culture and etiquette",
+    "subcategory": "Holidays",
     "tags": [
       "culture",
       "holiday",
@@ -14612,7 +16162,17 @@
       "bozic",
       "srecan-praznik"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Holidays"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Holidays and celebrations"
+      }
+    ]
   },
   {
     "id": "rakija",
@@ -14620,8 +16180,8 @@
     "serbian": "Rakija",
     "pronunciation": "RAH-kee-yah",
     "meaning": "Fruit brandy, a national drink",
-    "category": "Culture",
-    "subcategory": "Table manners and toasting",
+    "category": "Culture and etiquette",
+    "subcategory": "Toasts",
     "tags": [
       "culture",
       "drink",
@@ -14700,7 +16260,21 @@
       "zivili",
       "gost-u-kuci"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Toasts"
+      },
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Cultural context"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Food and drink"
+      }
+    ]
   },
   {
     "id": "gost-u-kuci",
@@ -14709,8 +16283,8 @@
     "pronunciation": "GOHST oo KOO-chee, BOHG oo KOO-chee",
     "meaning": "A guest in the house is God in the house",
     "literal": "A guest in the house, God in the house",
-    "category": "Culture",
-    "subcategory": "Common sayings and idioms",
+    "category": "Culture and etiquette",
+    "subcategory": "Common sayings",
     "tags": [
       "culture",
       "saying",
@@ -14756,7 +16330,17 @@
       "jos-malo",
       "rakija"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Common sayings"
+      },
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Being a guest"
+      }
+    ]
   },
   {
     "id": "polako",
@@ -14764,8 +16348,8 @@
     "serbian": "Polako",
     "pronunciation": "poh-LAH-ko",
     "meaning": "Slowly, take it easy, no rush",
-    "category": "Culture",
-    "subcategory": "Common sayings and idioms",
+    "category": "Culture and etiquette",
+    "subcategory": "Common sayings",
     "tags": [
       "culture",
       "saying",
@@ -14823,7 +16407,21 @@
       "nema-veze",
       "cekaj"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Common sayings"
+      },
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Idioms"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
+    ]
   },
   {
     "id": "inat",
@@ -14831,8 +16429,8 @@
     "serbian": "Inat",
     "pronunciation": "EE-naht",
     "meaning": "Stubborn pride: refusing to back down, often out of spite",
-    "category": "Culture",
-    "subcategory": "Common sayings and idioms",
+    "category": "Culture and etiquette",
+    "subcategory": "Cultural context",
     "tags": [
       "culture",
       "word",
@@ -14885,7 +16483,21 @@
       "nemoguc-sam",
       "luda-si"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Cultural context"
+      },
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Idioms"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "People: personality"
+      }
+    ]
   },
   {
     "id": "politika",
@@ -14893,7 +16505,7 @@
     "serbian": "Ne pričajmo o politici",
     "pronunciation": "neh PREE-chai-mo oh poh-LEE-tee-tsee",
     "meaning": "Let's not talk about politics",
-    "category": "Culture",
+    "category": "Culture and etiquette",
     "subcategory": "Things not to say",
     "tags": [
       "culture",
@@ -14941,6 +16553,16 @@
         "pronunciation": "OHN STAHL-no PREE-chah oh POH-lee-tee-tsee",
         "english": "He is always talking politics"
       }
+    ],
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Things not to say"
+      },
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Cultural context"
+      }
     ]
   },
   {
@@ -14949,7 +16571,7 @@
     "serbian": "Srpski",
     "pronunciation": "SUHR-pskee",
     "meaning": "Serbian (the language)",
-    "category": "Culture",
+    "category": "Culture and etiquette",
     "subcategory": "Things not to say",
     "tags": [
       "culture",
@@ -14990,7 +16612,17 @@
       "govorim-malo",
       "politika"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Things not to say"
+      },
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Cultural context"
+      }
+    ]
   },
   {
     "id": "mars",
@@ -14999,8 +16631,8 @@
     "pronunciation": "MAHRSH",
     "meaning": "'Get lost!', 'beat it!'",
     "literal": "March!",
-    "category": "Swearing",
-    "subcategory": "What each one really means",
+    "category": "Slang and swearing",
+    "subcategory": "Insults",
     "tags": [
       "swearing",
       "rude",
@@ -15052,7 +16684,17 @@
       "jebi-se",
       "jebote"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Insults"
+      },
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Tone and usage warnings"
+      }
+    ]
   },
   {
     "id": "izvini-na-izrazu",
@@ -15060,8 +16702,8 @@
     "serbian": "Izvini na izrazu",
     "pronunciation": "eez-VEE-nee nah EEZ-rah-zoo",
     "meaning": "Pardon my language / excuse the expression",
-    "category": "Swearing",
-    "subcategory": "When it's OK",
+    "category": "Slang and swearing",
+    "subcategory": "Tone and usage warnings",
     "tags": [
       "swearing",
       "apology",
@@ -15122,7 +16764,17 @@
       "sorry",
       "sranje"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Tone and usage warnings"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Formal and polite"
+      }
+    ]
   },
   {
     "id": "nemoj-tako",
@@ -15130,8 +16782,8 @@
     "serbian": "Nemoj tako da pričaš",
     "pronunciation": "NEH-moy TAH-ko dah PREE-chahsh",
     "meaning": "Don't talk like that",
-    "category": "Swearing",
-    "subcategory": "When it's OK",
+    "category": "Slang and swearing",
+    "subcategory": "Tone and usage warnings",
     "tags": [
       "swearing",
       "telling-off"
@@ -15214,7 +16866,17 @@
       "izvini-na-izrazu",
       "sorry"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Slang and swearing",
+        "subcategory": "Tone and usage warnings"
+      },
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Things not to say"
+      }
+    ]
   },
   {
     "id": "ko-to-kaze",
@@ -15222,8 +16884,8 @@
     "serbian": "Ko to kaže?",
     "pronunciation": "KOH toh KAH-zheh",
     "meaning": "Says who?",
-    "category": "Teasing and comebacks",
-    "subcategory": "Comebacks",
+    "category": "Conversation",
+    "subcategory": "Teasing and comebacks",
     "tags": [
       "teasing",
       "comeback"
@@ -15274,7 +16936,17 @@
       "nisam-to-rekao",
       "zezas-me"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Teasing and comebacks"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Playful teasing"
+      }
+    ]
   },
   {
     "id": "vidi-ko-prica",
@@ -15282,8 +16954,8 @@
     "serbian": "Vidi ko priča",
     "pronunciation": "VEE-dee KOH PREE-chah",
     "meaning": "Look who's talking",
-    "category": "Teasing and comebacks",
-    "subcategory": "Comebacks",
+    "category": "Conversation",
+    "subcategory": "Teasing and comebacks",
     "tags": [
       "teasing",
       "comeback"
@@ -15342,7 +17014,17 @@
       "ko-to-kaze",
       "luda-si"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Teasing and comebacks"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Playful teasing"
+      }
+    ]
   },
   {
     "id": "sta-ti-znas",
@@ -15350,8 +17032,8 @@
     "serbian": "Šta ti znaš",
     "pronunciation": "SHTAH tee ZNAHSH",
     "meaning": "What do you know? (dismissive, teasing)",
-    "category": "Teasing and comebacks",
-    "subcategory": "Comebacks",
+    "category": "Conversation",
+    "subcategory": "Teasing and comebacks",
     "tags": [
       "teasing",
       "comeback"
@@ -15441,6 +17123,16 @@
           "english": "What do you know about it?"
         }
       }
+    ],
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Teasing and comebacks"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Playful teasing"
+      }
     ]
   },
   {
@@ -15449,8 +17141,8 @@
     "serbian": "Može",
     "pronunciation": "MOH-zheh",
     "meaning": "OK, sure, that works",
-    "category": "Making plans",
-    "subcategory": "Confirming (važi, može)",
+    "category": "Conversation",
+    "subcategory": "Confirming plans",
     "tags": [
       "plans",
       "confirm",
@@ -15508,7 +17200,21 @@
       "vazi",
       "dogovoreno"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Confirming plans"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Agree and disagree"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
+    ]
   },
   {
     "id": "dogovoreno",
@@ -15516,8 +17222,8 @@
     "serbian": "Dogovoreno",
     "pronunciation": "doh-GOH-vo-reh-no",
     "meaning": "Agreed / settled",
-    "category": "Making plans",
-    "subcategory": "Confirming (važi, može)",
+    "category": "Conversation",
+    "subcategory": "Confirming plans",
     "tags": [
       "plans",
       "confirm",
@@ -15569,7 +17275,13 @@
       "moze",
       "vazi"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Conversation",
+        "subcategory": "Confirming plans"
+      }
+    ]
   },
   {
     "id": "da-ne",
@@ -15577,8 +17289,8 @@
     "serbian": "Da / ne",
     "pronunciation": "DAH / NEH",
     "meaning": "Yes / no",
-    "category": "Questions",
-    "subcategory": "How to answer them",
+    "category": "Quick phrases",
+    "subcategory": "Yes, no, maybe",
     "tags": [
       "answer",
       "yes",
@@ -15629,7 +17341,17 @@
       "jesam",
       "naravno"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Yes, no, maybe"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Answering questions"
+      }
+    ]
   },
   {
     "id": "jesam",
@@ -15637,8 +17359,8 @@
     "serbian": "Jesam",
     "pronunciation": "YEH-sahm",
     "meaning": "'Yes I am' (answering 'jesi li...?')",
-    "category": "Questions",
-    "subcategory": "How to answer them",
+    "category": "Quick phrases",
+    "subcategory": "Yes, no, maybe",
     "tags": [
       "answer",
       "yes",
@@ -15742,7 +17464,17 @@
       "jesi-li-gladna",
       "nisam"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Yes, no, maybe"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Answering questions"
+      }
+    ]
   },
   {
     "id": "zavisi",
@@ -15750,8 +17482,8 @@
     "serbian": "Zavisi",
     "pronunciation": "zah-VEE-see",
     "meaning": "It depends",
-    "category": "Questions",
-    "subcategory": "How to answer them",
+    "category": "Quick phrases",
+    "subcategory": "Yes, no, maybe",
     "tags": [
       "answer",
       "maybe",
@@ -15803,6 +17535,1571 @@
       "mozda",
       "nzm"
     ],
-    "verified": false
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Yes, no, maybe"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Answering questions"
+      }
+    ]
+  },
+  {
+    "id": "bolje",
+    "english": "Better",
+    "serbian": "Bolji / bolja / bolje",
+    "pronunciation": "BOH-lyee / BOH-lyah / BOH-lyeh",
+    "meaning": "Better, matching the thing described",
+    "category": "Describing and feelings",
+    "subcategory": "Comparisons",
+    "tags": [
+      "compare",
+      "better",
+      "adjective"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "noun gender",
+      "describes"
+    ],
+    "forms": [
+      {
+        "serbian": "Bolji je",
+        "pronunciation": "BOH-lyee yeh",
+        "nounGender": "masculine",
+        "useWhen": "Masculine noun, or a man",
+        "example": {
+          "serbian": "Taj film je bolji",
+          "pronunciation": "TAH-ee FEELM yeh BOH-lyee",
+          "english": "That movie is better"
+        }
+      },
+      {
+        "serbian": "Bolja je",
+        "pronunciation": "BOH-lyah yeh",
+        "nounGender": "feminine",
+        "useWhen": "Feminine noun, or a woman",
+        "example": {
+          "serbian": "Ova kafa je bolja",
+          "pronunciation": "OH-vah KAH-fah yeh BOH-lyah",
+          "english": "This coffee is better"
+        }
+      },
+      {
+        "serbian": "Bolje je",
+        "pronunciation": "BOH-lyeh yeh",
+        "nounGender": "neuter",
+        "useWhen": "Neuter noun, or a general \"it\"",
+        "example": {
+          "serbian": "Pivo je bolje od vina",
+          "pronunciation": "PEE-vo yeh BOH-lyeh od VEE-nah",
+          "english": "Beer is better than wine"
+        }
+      },
+      {
+        "serbian": "Bolja si",
+        "pronunciation": "BOH-lyah see",
+        "describes": "her",
+        "useWhen": "Saying it to her",
+        "example": {
+          "serbian": "Ti si bolja od mene",
+          "pronunciation": "TEE see BOH-lyah od MEH-neh",
+          "english": "You're better than me"
+        }
+      },
+      {
+        "serbian": "Bolji sam",
+        "pronunciation": "BOH-lyee sahm",
+        "speaker": "male",
+        "useWhen": "A man talking about himself",
+        "example": {
+          "serbian": "Bolji sam nego juče",
+          "pronunciation": "BOH-lyee sahm NEH-go YOO-cheh",
+          "english": "I'm better than yesterday"
+        }
+      }
+    ],
+    "patternHint": "Masculine bolji, feminine bolja, neuter bolje. \"Than\" is od.",
+    "alternatives": [
+      {
+        "serbian": "Najbolji / najbolja / najbolje",
+        "pronunciation": "NAI-bohl-yee / NAI-bohl-yah / NAI-bohl-yeh",
+        "nuance": "The best"
+      },
+      {
+        "serbian": "Gori / gora / gore",
+        "pronunciation": "GOH-ree / GOH-rah / GOH-reh",
+        "nuance": "Worse, same endings as bolji"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Ova kafa je bolja",
+        "pronunciation": "OH-vah KAH-fah yeh BOH-lyah",
+        "english": "This coffee is better",
+        "context": "About a thing"
+      },
+      {
+        "serbian": "Ti si bolja od mene",
+        "pronunciation": "TEE see BOH-lyah od MEH-neh",
+        "english": "You're better than me",
+        "context": "To her"
+      },
+      {
+        "serbian": "On je bolji od mene",
+        "pronunciation": "OHN yeh BOH-lyee od MEH-neh",
+        "english": "He is better than me",
+        "context": "About him"
+      },
+      {
+        "serbian": "Danas sam bolje",
+        "pronunciation": "DAH-nahs sahm BOH-lyeh",
+        "english": "I'm better today",
+        "context": "About me"
+      },
+      {
+        "serbian": "Bolje da ostanemo kod kuće",
+        "pronunciation": "BOH-lyeh dah OH-stah-neh-mo kod KOO-cheh",
+        "english": "We'd better stay home",
+        "context": "Plans"
+      }
+    ],
+    "texting": "bolje",
+    "related": [
+      "nije-lose",
+      "dobro-lose",
+      "vise-nego"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Comparisons"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Opinions"
+      }
+    ]
+  },
+  {
+    "id": "vise-nego",
+    "english": "More than",
+    "serbian": "Više nego",
+    "pronunciation": "VEE-sheh NEH-go",
+    "meaning": "More than, less than",
+    "category": "Describing and feelings",
+    "subcategory": "Comparisons",
+    "tags": [
+      "compare",
+      "more"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Manje nego",
+        "pronunciation": "MAH-nyeh NEH-go",
+        "nuance": "Less than"
+      },
+      {
+        "serbian": "Od",
+        "pronunciation": "od",
+        "nuance": "Also \"than\" after a comparing word: bolji od mene"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Volim kafu više nego čaj",
+        "pronunciation": "VOH-leem KAH-foo VEE-sheh NEH-go CHAHY",
+        "english": "I like coffee more than tea",
+        "context": "About me"
+      },
+      {
+        "serbian": "Fališ mi više nego što misliš",
+        "pronunciation": "FAH-leesh mee VEE-sheh NEH-go shtoh MEE-sleesh",
+        "english": "I miss you more than you think",
+        "context": "To her"
+      },
+      {
+        "serbian": "Ona zna više nego ja",
+        "pronunciation": "OH-nah ZNAH VEE-sheh NEH-go yah",
+        "english": "She knows more than me",
+        "context": "About her"
+      },
+      {
+        "serbian": "Radim manje nego ti",
+        "pronunciation": "RAH-deem MAH-nyeh NEH-go tee",
+        "english": "I work less than you",
+        "context": "About us"
+      },
+      {
+        "serbian": "Ovo je skuplje nego juče",
+        "pronunciation": "OH-vo yeh SKOOP-lyeh NEH-go YOO-cheh",
+        "english": "This is pricier than yesterday",
+        "context": "About a thing"
+      }
+    ],
+    "texting": "više nego",
+    "related": [
+      "bolje",
+      "isto-kao"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Comparisons"
+      }
+    ]
+  },
+  {
+    "id": "isto-kao",
+    "english": "Same as / me too",
+    "serbian": "Isto kao",
+    "pronunciation": "EE-sto KAH-oh",
+    "meaning": "The same as; \"same here\"",
+    "category": "Describing and feelings",
+    "subcategory": "Comparisons",
+    "tags": [
+      "compare",
+      "same",
+      "agree"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "I ja isto",
+        "pronunciation": "ee yah EE-sto",
+        "nuance": "Me too"
+      },
+      {
+        "serbian": "Nije isto",
+        "pronunciation": "NEE-yeh EE-sto",
+        "nuance": "It's not the same"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Ti si isto kao tvoja mama",
+        "pronunciation": "TEE see EE-sto KAH-oh TVOH-yah MAH-mah",
+        "english": "You're just like your mom",
+        "context": "To her"
+      },
+      {
+        "serbian": "I ja isto",
+        "pronunciation": "ee yah EE-sto",
+        "english": "Me too / same here",
+        "context": "Reply"
+      },
+      {
+        "serbian": "Nije isto",
+        "pronunciation": "NEE-yeh EE-sto",
+        "english": "It's not the same",
+        "context": "About a thing"
+      },
+      {
+        "serbian": "On je isto kao brat",
+        "pronunciation": "OHN yeh EE-sto KAH-oh BRAHT",
+        "english": "He is just like his brother",
+        "context": "About him"
+      }
+    ],
+    "texting": "isto",
+    "related": [
+      "bolje",
+      "vise-nego"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Comparisons"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Agree and disagree"
+      }
+    ]
+  },
+  {
+    "id": "levo-desno",
+    "english": "Left / right / straight",
+    "serbian": "Levo / desno / pravo",
+    "pronunciation": "LEH-vo / DEH-sno / PRAH-vo",
+    "meaning": "Left, right, straight ahead",
+    "category": "Everyday situations",
+    "subcategory": "Directions",
+    "tags": [
+      "directions",
+      "left",
+      "right",
+      "straight"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "forms": [
+      {
+        "serbian": "Levo",
+        "pronunciation": "LEH-vo",
+        "useWhen": "Left",
+        "example": {
+          "serbian": "Skreni levo",
+          "pronunciation": "SKREH-nee LEH-vo",
+          "english": "Turn left"
+        }
+      },
+      {
+        "serbian": "Desno",
+        "pronunciation": "DEH-sno",
+        "useWhen": "Right",
+        "example": {
+          "serbian": "Toalet je desno",
+          "pronunciation": "toh-AH-let yeh DEH-sno",
+          "english": "The toilet is on the right"
+        }
+      },
+      {
+        "serbian": "Pravo",
+        "pronunciation": "PRAH-vo",
+        "useWhen": "Straight ahead",
+        "example": {
+          "serbian": "Idi pravo",
+          "pronunciation": "EE-dee PRAH-vo",
+          "english": "Go straight"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Skreni",
+        "pronunciation": "SKREH-nee",
+        "nuance": "Turn (a command)"
+      },
+      {
+        "serbian": "Iza ugla",
+        "pronunciation": "EE-zah OOG-lah",
+        "nuance": "Around the corner"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Idi pravo pa levo",
+        "pronunciation": "EE-dee PRAH-vo pah LEH-vo",
+        "english": "Go straight, then left",
+        "context": "Giving directions"
+      },
+      {
+        "serbian": "Kafić je desno",
+        "pronunciation": "KAH-feech yeh DEH-sno",
+        "english": "The café is on the right",
+        "context": "Giving directions"
+      },
+      {
+        "serbian": "Da li je ovo levo?",
+        "pronunciation": "dah lee yeh OH-vo LEH-vo",
+        "english": "Is this the left one?",
+        "context": "Asking"
+      },
+      {
+        "serbian": "Ovde desno, molim vas",
+        "pronunciation": "OHV-deh DEH-sno MOH-leem VAHS",
+        "english": "Right here, please (polite)",
+        "context": "Taxi"
+      }
+    ],
+    "texting": "levo / desno",
+    "related": [
+      "gde-je",
+      "blizu-daleko"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Directions"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Travel and transportation"
+      }
+    ]
+  },
+  {
+    "id": "gde-je",
+    "english": "Where is…?",
+    "serbian": "Gde je…? / Gde su…?",
+    "pronunciation": "GDEH yeh / GDEH soo",
+    "meaning": "Where is it? Where are they?",
+    "category": "Everyday situations",
+    "subcategory": "Directions",
+    "tags": [
+      "directions",
+      "question",
+      "where"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "plural"
+    ],
+    "forms": [
+      {
+        "serbian": "Gde je…?",
+        "pronunciation": "GDEH yeh",
+        "useWhen": "One thing or person",
+        "example": {
+          "serbian": "Gde je toalet?",
+          "pronunciation": "GDEH yeh toh-AH-let",
+          "english": "Where is the toilet?"
+        }
+      },
+      {
+        "serbian": "Gde su…?",
+        "pronunciation": "GDEH soo",
+        "nounGender": "plural",
+        "useWhen": "More than one",
+        "example": {
+          "serbian": "Gde su moji roditelji?",
+          "pronunciation": "GDEH soo MOH-yee roh-DEE-teh-lyee",
+          "english": "Where are my parents?"
+        }
+      }
+    ],
+    "patternHint": "\"Je\" for one thing, \"su\" for more than one.",
+    "alternatives": [
+      {
+        "serbian": "Kako da stignem do…?",
+        "pronunciation": "KAH-ko dah STEEG-nem doh",
+        "nuance": "How do I get to…?"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Gde je stanica?",
+        "pronunciation": "GDEH yeh STAH-nee-tsah",
+        "english": "Where is the station?",
+        "context": "Asking a stranger"
+      },
+      {
+        "serbian": "Gde je tvoja mama?",
+        "pronunciation": "GDEH yeh TVOH-yah MAH-mah",
+        "english": "Where is your mom?",
+        "context": "To her"
+      },
+      {
+        "serbian": "Gde su svi?",
+        "pronunciation": "GDEH soo SVEE",
+        "english": "Where is everyone?",
+        "context": "About a group"
+      },
+      {
+        "serbian": "Kako da stignem do aerodroma?",
+        "pronunciation": "KAH-ko dah STEEG-nem doh ah-eh-ROH-droh-mah",
+        "english": "How do I get to the airport?",
+        "context": "Travel"
+      }
+    ],
+    "texting": "gde je",
+    "ijekavian": "Gdje je…?",
+    "related": [
+      "gde",
+      "levo-desno",
+      "gde-si"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Directions"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Questions"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Travel and transportation"
+      }
+    ]
+  },
+  {
+    "id": "blizu-daleko",
+    "english": "Near / far",
+    "serbian": "Blizu / daleko",
+    "pronunciation": "BLEE-zoo / DAH-leh-ko",
+    "meaning": "Close by, far away",
+    "category": "Everyday situations",
+    "subcategory": "Directions",
+    "tags": [
+      "directions",
+      "near",
+      "far"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "examples": [
+      {
+        "serbian": "Da li je daleko?",
+        "pronunciation": "dah lee yeh DAH-leh-ko",
+        "english": "Is it far?",
+        "context": "Asking"
+      },
+      {
+        "serbian": "Nije daleko",
+        "pronunciation": "NEE-yeh DAH-leh-ko",
+        "english": "It's not far",
+        "context": "Answering"
+      },
+      {
+        "serbian": "Aerodrom je daleko",
+        "pronunciation": "ah-eh-ROH-drohm yeh DAH-leh-ko",
+        "english": "The airport is far",
+        "context": "About a place"
+      },
+      {
+        "serbian": "Stan je blizu",
+        "pronunciation": "STAHN yeh BLEE-zoo",
+        "english": "The apartment is close by",
+        "context": "About me"
+      },
+      {
+        "serbian": "Živiš li blizu?",
+        "pronunciation": "ZHEE-veesh lee BLEE-zoo",
+        "english": "Do you live nearby?",
+        "context": "To her"
+      }
+    ],
+    "texting": "blizu / daleko",
+    "related": [
+      "gde-je",
+      "levo-desno"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Everyday situations",
+        "subcategory": "Directions"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Places"
+      }
+    ]
+  },
+  {
+    "id": "ovaj-taj",
+    "english": "This / that",
+    "serbian": "Ovaj / taj / onaj",
+    "pronunciation": "OH-vai / TAH-ee / OH-nai",
+    "meaning": "This (near me), that (near you), that over there",
+    "category": "Basics",
+    "subcategory": "This and that",
+    "tags": [
+      "this",
+      "that",
+      "demonstrative"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "noun gender"
+    ],
+    "forms": [
+      {
+        "serbian": "Ovaj / ova / ovo",
+        "pronunciation": "OH-vai / OH-vah / OH-vo",
+        "nounGender": "all three",
+        "useWhen": "This: close to me",
+        "example": {
+          "serbian": "Ova kafa je odlična",
+          "pronunciation": "OH-vah KAH-fah yeh od-LEECH-nah",
+          "english": "This coffee is excellent"
+        }
+      },
+      {
+        "serbian": "Taj / ta / to",
+        "pronunciation": "TAH-ee / TAH / TOH",
+        "nounGender": "all three",
+        "useWhen": "That: close to you, or just mentioned",
+        "example": {
+          "serbian": "Ta pesma je ludilo",
+          "pronunciation": "TAH PEH-smah yeh LOO-dee-lo",
+          "english": "That song is crazy"
+        }
+      },
+      {
+        "serbian": "Onaj / ona / ono",
+        "pronunciation": "OH-nai / OH-nah / OH-no",
+        "nounGender": "all three",
+        "useWhen": "That one over there, far from both of us",
+        "example": {
+          "serbian": "Onaj tip je smešan",
+          "pronunciation": "OH-nai TEEP yeh SMEH-shahn",
+          "english": "That guy over there is funny"
+        }
+      },
+      {
+        "serbian": "Ovo",
+        "pronunciation": "OH-vo",
+        "nounGender": "neuter",
+        "useWhen": "This, about a general thing",
+        "example": {
+          "serbian": "Ovo je sve",
+          "pronunciation": "OH-vo yeh SVEH",
+          "english": "This is everything"
+        }
+      },
+      {
+        "serbian": "To",
+        "pronunciation": "TOH",
+        "nounGender": "neuter",
+        "useWhen": "That / it: the all-purpose one",
+        "example": {
+          "serbian": "To je istina",
+          "pronunciation": "TOH yeh EE-stee-nah",
+          "english": "That's the truth"
+        }
+      }
+    ],
+    "patternHint": "Each one has three forms: masculine (-j), feminine (-a), neuter (-o): ovaj/ova/ovo, taj/ta/to, onaj/ona/ono.",
+    "examples": [
+      {
+        "serbian": "Ovaj telefon je skup",
+        "pronunciation": "OH-vai TEH-leh-fon yeh SKOOP",
+        "english": "This phone is expensive",
+        "context": "About a thing"
+      },
+      {
+        "serbian": "Taj film je dobar",
+        "pronunciation": "TAH-ee FEELM yeh DOH-bahr",
+        "english": "That movie is good",
+        "context": "To her"
+      },
+      {
+        "serbian": "Ona haljina je prelepa",
+        "pronunciation": "OH-nah HAHL-yee-nah yeh preh-LEH-pah",
+        "english": "That dress over there is gorgeous",
+        "context": "About someone"
+      },
+      {
+        "serbian": "To je sve",
+        "pronunciation": "TOH yeh SVEH",
+        "english": "That's all",
+        "context": "Reaction"
+      }
+    ],
+    "texting": "ovo / to / ono",
+    "related": [
+      "ovde-tamo",
+      "koji"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "This and that"
+      }
+    ]
+  },
+  {
+    "id": "ovde-tamo",
+    "english": "Here / there",
+    "serbian": "Ovde / tu / tamo",
+    "pronunciation": "OHV-deh / TOO / TAH-mo",
+    "meaning": "Here, right there, over there",
+    "category": "Basics",
+    "subcategory": "This and that",
+    "tags": [
+      "this",
+      "here",
+      "there",
+      "place"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "forms": [
+      {
+        "serbian": "Ovde",
+        "pronunciation": "OHV-deh",
+        "useWhen": "Here, where I am",
+        "example": {
+          "serbian": "Ja sam ovde",
+          "pronunciation": "YAH sahm OHV-deh",
+          "english": "I'm here"
+        }
+      },
+      {
+        "serbian": "Tu",
+        "pronunciation": "TOO",
+        "useWhen": "Right here / right there, close by",
+        "example": {
+          "serbian": "Tu sam",
+          "pronunciation": "TOO sahm",
+          "english": "I'm right here"
+        }
+      },
+      {
+        "serbian": "Tamo",
+        "pronunciation": "TAH-mo",
+        "useWhen": "Over there, far away",
+        "example": {
+          "serbian": "Tamo je kafić",
+          "pronunciation": "TAH-mo yeh KAH-feech",
+          "english": "There's a café over there"
+        }
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Dođi ovde",
+        "pronunciation": "DOH-jee OHV-deh",
+        "english": "Come here",
+        "context": "To her"
+      },
+      {
+        "serbian": "Čekam te tamo",
+        "pronunciation": "CHEH-kahm teh TAH-mo",
+        "english": "I'll wait for you there",
+        "context": "About me"
+      },
+      {
+        "serbian": "Nisi sama, tu sam",
+        "pronunciation": "NEE-see SAH-mah TOO sahm",
+        "english": "You're not alone, I'm here",
+        "context": "Reassuring"
+      },
+      {
+        "serbian": "Ključevi su tamo",
+        "pronunciation": "KLYOO-cheh-vee soo TAH-mo",
+        "english": "The keys are over there",
+        "context": "About a thing"
+      }
+    ],
+    "texting": "ovde / tamo",
+    "ijekavian": "Ovdje",
+    "related": [
+      "ovaj-taj",
+      "gde-je"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "This and that"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Directions"
+      }
+    ]
+  },
+  {
+    "id": "boje",
+    "english": "Colors",
+    "serbian": "Crvena, plava, zelena, žuta, bela, crna",
+    "pronunciation": "TSUR-veh-nah, PLAH-vah, zeh-LEH-nah, ZHOO-tah, BEH-lah, TSUR-nah",
+    "meaning": "The basic colors",
+    "category": "Basics",
+    "subcategory": "Colors",
+    "tags": [
+      "colors",
+      "adjective"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "noun gender",
+      "plural"
+    ],
+    "forms": [
+      {
+        "serbian": "Crven / plav / zelen",
+        "pronunciation": "TSUR-ven / PLAHV / ZEH-len",
+        "nounGender": "masculine",
+        "useWhen": "Masculine noun",
+        "example": {
+          "serbian": "Auto je crven",
+          "pronunciation": "OW-toh yeh TSUR-ven",
+          "english": "The car is red"
+        }
+      },
+      {
+        "serbian": "Crvena / plava / zelena",
+        "pronunciation": "TSUR-veh-nah / PLAH-vah / zeh-LEH-nah",
+        "nounGender": "feminine",
+        "useWhen": "Feminine noun",
+        "example": {
+          "serbian": "Tvoja haljina je plava",
+          "pronunciation": "TVOH-yah HAHL-yee-nah yeh PLAH-vah",
+          "english": "Your dress is blue"
+        }
+      },
+      {
+        "serbian": "Crveno / plavo / zeleno",
+        "pronunciation": "TSUR-veh-no / PLAH-vo / zeh-LEH-no",
+        "nounGender": "neuter",
+        "useWhen": "Neuter noun",
+        "example": {
+          "serbian": "Srce je crveno",
+          "pronunciation": "SUHR-tseh yeh TSUR-veh-no",
+          "english": "The heart is red"
+        }
+      },
+      {
+        "serbian": "Crvene / plave",
+        "pronunciation": "TSUR-veh-neh / PLAH-veh",
+        "nounGender": "feminine plural",
+        "useWhen": "Several feminine things",
+        "example": {
+          "serbian": "Cipele su crvene",
+          "pronunciation": "TSEE-peh-leh soo TSUR-veh-neh",
+          "english": "The shoes are red"
+        }
+      }
+    ],
+    "patternHint": "Colors match the noun: crven (m.), crvena (f.), crveno (n.). Same pattern for plava, zelena, žuta, bela, crna.",
+    "alternatives": [
+      {
+        "serbian": "Žuta / žut / žuto",
+        "pronunciation": "ZHOO-tah / ZHOOT / ZHOO-to",
+        "nuance": "Yellow"
+      },
+      {
+        "serbian": "Bela / beo / belo",
+        "pronunciation": "BEH-lah / BEH-oh / BEH-lo",
+        "nuance": "White"
+      },
+      {
+        "serbian": "Crna / crn / crno",
+        "pronunciation": "TSUR-nah / TSURN / TSUR-no",
+        "nuance": "Black"
+      },
+      {
+        "serbian": "Siva / siv / sivo",
+        "pronunciation": "SEE-vah / SEEV / SEE-vo",
+        "nuance": "Gray"
+      },
+      {
+        "serbian": "Roze",
+        "pronunciation": "ROH-zeh",
+        "nuance": "Pink: never changes"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Auto je crn",
+        "pronunciation": "OW-toh yeh TSURN",
+        "english": "The car is black",
+        "context": "About a thing"
+      },
+      {
+        "serbian": "Volim tvoju žutu haljinu",
+        "pronunciation": "VOH-leem TVOH-yoo ZHOO-too HAHL-yee-noo",
+        "english": "I love your yellow dress",
+        "context": "To her"
+      },
+      {
+        "serbian": "Vino je belo",
+        "pronunciation": "VEE-no yeh BEH-lo",
+        "english": "The wine is white",
+        "context": "About a drink"
+      },
+      {
+        "serbian": "Imate li to u zelenoj?",
+        "pronunciation": "EE-mah-teh lee toh oo zeh-LEH-noy",
+        "english": "Do you have this in green?",
+        "context": "Shopping"
+      }
+    ],
+    "texting": "boje",
+    "ijekavian": "bijela",
+    "related": [
+      "ovaj-taj"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Colors"
+      }
+    ]
+  },
+  {
+    "id": "veliko-malo",
+    "english": "Big / small",
+    "serbian": "Veliki / mali",
+    "pronunciation": "VEH-lee-kee / MAH-lee",
+    "meaning": "Big, small",
+    "category": "Basics",
+    "subcategory": "Shapes and sizes",
+    "tags": [
+      "size",
+      "big",
+      "small",
+      "adjective"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "noun gender"
+    ],
+    "forms": [
+      {
+        "serbian": "Veliki / mali",
+        "pronunciation": "VEH-lee-kee / MAH-lee",
+        "nounGender": "masculine",
+        "useWhen": "Masculine noun",
+        "example": {
+          "serbian": "Grad je veliki",
+          "pronunciation": "GRAHD yeh VEH-lee-kee",
+          "english": "The city is big"
+        }
+      },
+      {
+        "serbian": "Velika / mala",
+        "pronunciation": "VEH-lee-kah / MAH-lah",
+        "nounGender": "feminine",
+        "useWhen": "Feminine noun",
+        "example": {
+          "serbian": "Kuća je velika",
+          "pronunciation": "KOO-chah yeh VEH-lee-kah",
+          "english": "The house is big"
+        }
+      },
+      {
+        "serbian": "Veliko / malo",
+        "pronunciation": "VEH-lee-ko / MAH-lo",
+        "nounGender": "neuter",
+        "useWhen": "Neuter noun",
+        "example": {
+          "serbian": "Selo je malo",
+          "pronunciation": "SEH-lo yeh MAH-lo",
+          "english": "The village is small"
+        }
+      }
+    ],
+    "patternHint": "Veliki, velika, veliko / mali, mala, malo. Careful: \"malo\" is also \"a little\".",
+    "alternatives": [
+      {
+        "serbian": "Ogroman",
+        "pronunciation": "oh-GROH-mahn",
+        "nuance": "Huge"
+      },
+      {
+        "serbian": "Mali / mala",
+        "pronunciation": "MAH-lee / MAH-lah",
+        "nuance": "Also a sweet way to call someone small: \"mala\" for a girl"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Stan je mali",
+        "pronunciation": "STAHN yeh MAH-lee",
+        "english": "The apartment is small",
+        "context": "About a thing"
+      },
+      {
+        "serbian": "Kafić je pun, ali nije veliki",
+        "pronunciation": "KAH-feech yeh POON AH-lee NEE-yeh VEH-lee-kee",
+        "english": "The café is full but it's not big",
+        "context": "About a place"
+      },
+      {
+        "serbian": "Imam veliku porodicu",
+        "pronunciation": "EE-mahm VEH-lee-koo poh-roh-DEE-tsoo",
+        "english": "I have a big family",
+        "context": "About me"
+      },
+      {
+        "serbian": "Moja mala",
+        "pronunciation": "MOH-yah MAH-lah",
+        "english": "My little one (to her, playful)",
+        "context": "Cute"
+      }
+    ],
+    "texting": "veliko / malo",
+    "related": [
+      "boje",
+      "oblici"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Shapes and sizes"
+      },
+      {
+        "category": "Describing and feelings",
+        "subcategory": "Describing things"
+      }
+    ]
+  },
+  {
+    "id": "oblici",
+    "english": "Shapes",
+    "serbian": "Krug, kvadrat, trougao",
+    "pronunciation": "KROOG, KVAH-draht, TROH-oo-gah-oh",
+    "meaning": "Basic shapes",
+    "category": "Basics",
+    "subcategory": "Shapes and sizes",
+    "tags": [
+      "shapes",
+      "noun"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "noun gender"
+    ],
+    "alternatives": [
+      {
+        "serbian": "Srce",
+        "pronunciation": "SUHR-tseh",
+        "nuance": "Heart"
+      },
+      {
+        "serbian": "Linija",
+        "pronunciation": "LEE-nee-yah",
+        "nuance": "Line"
+      },
+      {
+        "serbian": "Okrugao / okrugla",
+        "pronunciation": "OH-kroo-gah-oh / OH-krooglah",
+        "nuance": "Round (m. / f.)"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Ovo je krug",
+        "pronunciation": "OH-vo yeh KROOG",
+        "english": "This is a circle",
+        "context": "About a thing"
+      },
+      {
+        "serbian": "Torta je okrugla",
+        "pronunciation": "TOHR-tah yeh OH-kroog-lah",
+        "english": "The cake is round",
+        "context": "About a thing"
+      },
+      {
+        "serbian": "Nacrtala sam srce",
+        "pronunciation": "nah-TSUR-tah-lah sahm SUHR-tseh",
+        "english": "I drew a heart",
+        "context": "Sweet"
+      },
+      {
+        "serbian": "Ovo je kvadrat",
+        "pronunciation": "OH-vo yeh KVAH-draht",
+        "english": "This is a square",
+        "context": "About a thing"
+      }
+    ],
+    "texting": "oblici",
+    "related": [
+      "veliko-malo",
+      "boje"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Shapes and sizes"
+      }
+    ]
+  },
+  {
+    "id": "u-na",
+    "english": "In / on / at",
+    "serbian": "U / na",
+    "pronunciation": "OO / NAH",
+    "meaning": "In, on, at, to",
+    "category": "Basics",
+    "subcategory": "Prepositions",
+    "tags": [
+      "preposition",
+      "place",
+      "in",
+      "on"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "forms": [
+      {
+        "serbian": "U (+ place)",
+        "pronunciation": "OO",
+        "useWhen": "Inside something, a city or a country",
+        "example": {
+          "serbian": "Ja sam u kafiću",
+          "pronunciation": "YAH sahm oo KAH-fee-choo",
+          "english": "I'm in the café"
+        }
+      },
+      {
+        "serbian": "Na (+ place / event)",
+        "pronunciation": "NAH",
+        "useWhen": "On something, at an event, a station, at work",
+        "example": {
+          "serbian": "Čekam te na stanici",
+          "pronunciation": "CHEH-kahm teh nah STAH-nee-tsee",
+          "english": "I'm waiting for you at the station"
+        }
+      },
+      {
+        "serbian": "U / na (+ time)",
+        "pronunciation": "OO / NAH",
+        "useWhen": "Time words: u petak is \"on Friday\"",
+        "example": {
+          "serbian": "Vidimo se u petak",
+          "pronunciation": "VEE-dee-mo seh oo PEH-tahk",
+          "english": "See you on Friday"
+        }
+      }
+    ],
+    "patternHint": "\"U\" for inside things and cities. \"Na\" for surfaces, events, open spaces and many \"at\" places (na poslu, na stanici).",
+    "examples": [
+      {
+        "serbian": "Živim u Kanadi",
+        "pronunciation": "ZHEE-veem oo KAH-nah-dee",
+        "english": "I live in Canada",
+        "context": "About me"
+      },
+      {
+        "serbian": "Gde si, na poslu?",
+        "pronunciation": "GDEH see nah POH-sloo",
+        "english": "Where are you, at work?",
+        "context": "To her"
+      },
+      {
+        "serbian": "On radi u banci",
+        "pronunciation": "OHN RAH-dee oo BAHN-tsee",
+        "english": "He works at a bank",
+        "context": "About him"
+      },
+      {
+        "serbian": "Idemo na žurku",
+        "pronunciation": "EE-deh-mo nah ZHOOR-koo",
+        "english": "We're going to a party",
+        "context": "About us"
+      }
+    ],
+    "texting": "u / na",
+    "related": [
+      "sa-bez",
+      "za-od"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Prepositions"
+      },
+      {
+        "category": "Everyday situations",
+        "subcategory": "Places"
+      }
+    ]
+  },
+  {
+    "id": "sa-bez",
+    "english": "With / without",
+    "serbian": "Sa / bez",
+    "pronunciation": "SAH / BEZ",
+    "meaning": "With, without",
+    "category": "Basics",
+    "subcategory": "Prepositions",
+    "tags": [
+      "preposition",
+      "with",
+      "without"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "forms": [
+      {
+        "serbian": "Sa (+ person)",
+        "pronunciation": "SAH",
+        "useWhen": "With someone (the word after changes a little: sa mnom, sa tobom)",
+        "example": {
+          "serbian": "Idem sa tobom",
+          "pronunciation": "EE-dem sah TOH-bom",
+          "english": "I'm going with you"
+        }
+      },
+      {
+        "serbian": "Bez (+ thing)",
+        "pronunciation": "BEZ",
+        "useWhen": "Without something",
+        "example": {
+          "serbian": "Kafa bez šećera",
+          "pronunciation": "KAH-fah bez SHEH-cheh-rah",
+          "english": "Coffee without sugar"
+        }
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Hoćeš li sa mnom?",
+        "pronunciation": "HOH-chesh lee sah MNOHM",
+        "english": "Do you want to come with me?",
+        "context": "To her"
+      },
+      {
+        "serbian": "Ne mogu bez tebe",
+        "pronunciation": "NEH MOH-goo bez TEH-beh",
+        "english": "I can't do without you",
+        "context": "About me"
+      },
+      {
+        "serbian": "Pijem vodu bez gasa",
+        "pronunciation": "PEE-yem VOH-doo bez GAH-sah",
+        "english": "I drink still water",
+        "context": "About a drink"
+      },
+      {
+        "serbian": "Ona je sa prijateljicom",
+        "pronunciation": "OH-nah yeh sah pree-yah-teh-LYEE-tsom",
+        "english": "She's with a friend",
+        "context": "About her"
+      }
+    ],
+    "texting": "sa / bez",
+    "related": [
+      "u-na",
+      "za-od"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Prepositions"
+      }
+    ]
+  },
+  {
+    "id": "za-od",
+    "english": "For / from",
+    "serbian": "Za / od / iz",
+    "pronunciation": "ZAH / OD / EEZ",
+    "meaning": "For, from, out of",
+    "category": "Basics",
+    "subcategory": "Prepositions",
+    "tags": [
+      "preposition",
+      "for",
+      "from"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "forms": [
+      {
+        "serbian": "Za",
+        "pronunciation": "ZAH",
+        "useWhen": "For someone or something",
+        "example": {
+          "serbian": "Cveće je za tebe",
+          "pronunciation": "TSVEH-cheh yeh zah TEH-beh",
+          "english": "The flowers are for you"
+        }
+      },
+      {
+        "serbian": "Od",
+        "pronunciation": "OD",
+        "useWhen": "From a person, or \"than\" after a comparison",
+        "example": {
+          "serbian": "Poruka od mame",
+          "pronunciation": "POH-roo-kah od MAH-meh",
+          "english": "A message from mom"
+        }
+      },
+      {
+        "serbian": "Iz",
+        "pronunciation": "EEZ",
+        "useWhen": "From a place (where you come from)",
+        "example": {
+          "serbian": "Ja sam iz Kanade",
+          "pronunciation": "YAH sahm eez KAH-nah-deh",
+          "english": "I'm from Canada"
+        }
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Ja sam iz Kanade",
+        "pronunciation": "YAH sahm eez KAH-nah-deh",
+        "english": "I'm from Canada",
+        "context": "Small talk"
+      },
+      {
+        "serbian": "Hvala za sve",
+        "pronunciation": "HVAH-lah zah SVEH",
+        "english": "Thanks for everything",
+        "context": "Thanks"
+      },
+      {
+        "serbian": "Ovo je od mame",
+        "pronunciation": "OH-vo yeh od MAH-meh",
+        "english": "This is from mom",
+        "context": "About a thing"
+      },
+      {
+        "serbian": "Ovo je za tebe",
+        "pronunciation": "OH-vo yeh zah TEH-beh",
+        "english": "This is for you",
+        "context": "About a thing"
+      }
+    ],
+    "texting": "za / od / iz",
+    "related": [
+      "u-na",
+      "sa-bez",
+      "odakle-si"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Prepositions"
+      }
+    ]
+  },
+  {
+    "id": "dobar-dan",
+    "english": "Good day (polite hello)",
+    "serbian": "Dobar dan",
+    "pronunciation": "DOH-bahr DAHN",
+    "meaning": "The polite daytime hello",
+    "category": "Culture and etiquette",
+    "subcategory": "Talking to elders",
+    "tags": [
+      "greeting",
+      "polite",
+      "elders"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Dobro jutro",
+        "pronunciation": "DOH-bro YOO-tro",
+        "nuance": "Good morning"
+      },
+      {
+        "serbian": "Dobro veče",
+        "pronunciation": "DOH-bro VEH-cheh",
+        "nuance": "Good evening"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Dobar dan, kako ste?",
+        "pronunciation": "DOH-bahr DAHN KAH-ko steh",
+        "english": "Good day, how are you?",
+        "context": "To an elder"
+      },
+      {
+        "serbian": "Dobar dan, gospodine",
+        "pronunciation": "DOH-bahr DAHN GOH-spoh-dee-neh",
+        "english": "Good day, sir",
+        "context": "To her dad"
+      },
+      {
+        "serbian": "Dobar dan, gospođo",
+        "pronunciation": "DOH-bahr DAHN GOH-spoh-jo",
+        "english": "Good day, madam",
+        "context": "To her mom"
+      },
+      {
+        "serbian": "Dobar dan svima",
+        "pronunciation": "DOH-bahr DAHN SVEE-mah",
+        "english": "Good day, everyone",
+        "context": "To a group"
+      }
+    ],
+    "texting": "dobar dan",
+    "watchOut": "With friends use \"zdravo\" or \"ćao\". \"Dobar dan\" is for elders, shops, offices and people you don't know.",
+    "related": [
+      "hello",
+      "dobro-vece",
+      "kako-ste"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Talking to elders"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Greetings and goodbyes"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Formal and polite"
+      }
+    ]
+  },
+  {
+    "id": "kako-ste",
+    "english": "How are you? (polite)",
+    "serbian": "Kako ste?",
+    "pronunciation": "KAH-ko steh",
+    "meaning": "How are you, to someone older or a stranger",
+    "category": "Culture and etiquette",
+    "subcategory": "Talking to elders",
+    "tags": [
+      "greeting",
+      "polite",
+      "elders",
+      "question"
+    ],
+    "register": "neutral",
+    "changesBy": [
+      "formal"
+    ],
+    "forms": [
+      {
+        "serbian": "Kako si?",
+        "pronunciation": "KAH-ko see",
+        "useWhen": "Casual: friends, her",
+        "example": {
+          "serbian": "Kako si, lepotice?",
+          "pronunciation": "KAH-ko see leh-poh-TEE-tseh",
+          "english": "How are you, beautiful?"
+        }
+      },
+      {
+        "serbian": "Kako ste?",
+        "pronunciation": "KAH-ko steh",
+        "formal": "polite",
+        "useWhen": "Polite: elders, strangers, several people",
+        "example": {
+          "serbian": "Kako ste, gospođo?",
+          "pronunciation": "KAH-ko steh GOH-spoh-jo",
+          "english": "How are you, madam?"
+        }
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Kako ste vi?",
+        "pronunciation": "KAH-ko steh VEE",
+        "english": "And how are you?",
+        "context": "To her mom"
+      },
+      {
+        "serbian": "Kako ste spavali?",
+        "pronunciation": "KAH-ko steh SPAH-vah-lee",
+        "english": "How did you sleep?",
+        "context": "Morning visit"
+      },
+      {
+        "serbian": "Dobro sam, hvala. A vi?",
+        "pronunciation": "DOH-bro sahm HVAH-lah. ah VEE",
+        "english": "I'm good, thanks. And you?",
+        "context": "Reply"
+      },
+      {
+        "serbian": "Kako ste, momci?",
+        "pronunciation": "KAH-ko steh MOHM-tsee",
+        "english": "How are you, guys?",
+        "context": "To a group"
+      }
+    ],
+    "texting": "kako ste",
+    "related": [
+      "kako-si",
+      "dobar-dan",
+      "ti-vi"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Talking to elders"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Formal and polite"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Conversation starters"
+      }
+    ]
+  },
+  {
+    "id": "dovidjenja",
+    "english": "Goodbye (polite)",
+    "serbian": "Doviđenja",
+    "pronunciation": "doh-VEE-jen-yah",
+    "meaning": "Goodbye, literally \"until we see each other\"",
+    "category": "Culture and etiquette",
+    "subcategory": "Talking to elders",
+    "tags": [
+      "goodbye",
+      "polite",
+      "elders"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Vidimo se",
+        "pronunciation": "VEE-dee-mo seh",
+        "nuance": "See you: friendly, casual"
+      },
+      {
+        "serbian": "Ćao",
+        "pronunciation": "CHOW",
+        "nuance": "Bye: casual"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Doviđenja, gospodine",
+        "pronunciation": "doh-VEE-jen-yah GOH-spoh-dee-neh",
+        "english": "Goodbye, sir",
+        "context": "To an elder"
+      },
+      {
+        "serbian": "Doviđenja i hvala",
+        "pronunciation": "doh-VEE-jen-yah ee HVAH-lah",
+        "english": "Goodbye and thank you",
+        "context": "Thanking"
+      },
+      {
+        "serbian": "Doviđenja svima",
+        "pronunciation": "doh-VEE-jen-yah SVEE-mah",
+        "english": "Goodbye, everyone",
+        "context": "To a group"
+      },
+      {
+        "serbian": "Doviđenja, vidimo se",
+        "pronunciation": "doh-VEE-jen-yah VEE-dee-mo seh",
+        "english": "Goodbye, see you",
+        "context": "Friendly"
+      }
+    ],
+    "texting": "doviđenja",
+    "related": [
+      "see-you",
+      "cao",
+      "dobar-dan"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Culture and etiquette",
+        "subcategory": "Talking to elders"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Greetings and goodbyes"
+      },
+      {
+        "category": "Conversation",
+        "subcategory": "Formal and polite"
+      }
+    ]
   }
 ]

@@ -1,0 +1,64 @@
+# Words added with the later content batch (categories restructure).
+aerodroma|airport (of)|"Do aerodroma" = to the airport|noun,masc
+bela|white (feminine)|"Bela kafa" = white coffee; matches the noun|adj,fem
+beo|white (masculine)||adj,masc
+bijela|white (feminine)|Ijekavian of bela|adj,fem
+bolja|better (feminine)|Matches a woman or feminine noun|adj,fem
+bolje|better (neuter); better (adverb)|"Bolje" also means "I'd better…" and "better (than before)"|adj,neut
+bolji|better (masculine)|Matches a man or masculine noun|adj,masc
+crn|black (masculine)||adj,masc
+crna|black (feminine)||adj,fem
+crven|red (masculine)||adj,masc
+crvene|red (plural feminine)||adj,plural
+crveno|red (neuter)||adj,neut
+desno|right; to the right||adv
+gasa|gas; carbonation (of)|"Voda bez gasa" = still water|noun,masc
+gora|worse (feminine)||adj,fem
+gore|worse (neuter); up|"Gore" = worse; also "up / upstairs"|adj,neut
+gori|worse (masculine)|Opposite of bolji|adj,masc
+haljinu|dress (object)|"Volim tvoju haljinu" = I love your dress|noun,fem
+imate|you (plural / polite) have|"Imate li…?" = do you have…?|verb,present,formal
+iza|behind; around|"Iza ugla" = around the corner|prep
+kanade|Canada (of)|"Iz Kanade" = from Canada|noun,fem
+ključevi|keys||noun,masc,plural
+krug|circle||noun,masc
+kvadrat|square||noun,masc
+levo|left; to the left||adv
+linija|line||noun,fem
+mala|small; little (feminine)|Also a sweet "my little one" for a girl|adj,fem
+manje|less; fewer|"Manje nego" = less than|adv
+nacrtala|drew (she)||verb,past,fem
+ogroman|huge (masc)||adj,masc
+okrugao|round (masc)||adj,masc
+okrugla|round (fem)||adj,fem
+ostanemo|we stay|"Da ostanemo" = that we stay|verb,present,plural
+pijem|I drink||verb,present
+plav|blue (masculine); blond|Also "blond" for hair|adj,masc
+plava|blue (feminine); blonde||adj,fem
+plave|blue (plural feminine)||adj,plural
+plavo|blue (neuter)||adj,neut
+poruka|message; text|Also the thing you text: "poruka"|noun,fem
+pravo|straight; right (correct)|"Idi pravo" = go straight|adv
+prijateljicom|with a (female) friend|Instrumental of prijateljica|noun,fem
+roze|pink|Never changes with the noun|adj
+selo|village||noun,neut
+siv|gray (masculine)||adj,masc
+siva|gray (feminine)||adj,fem
+sivo|gray (neuter)||adj,neut
+skreni|turn (command)|"Skreni levo" = turn left|verb,command
+skuplje|more expensive|Comparative of skup: "skuplje nego…"|adj,neut
+ta|that (feminine)|"Ta pesma" = that song; neuter is "to"|pron,fem
+trougao|triangle||noun,masc
+ugla|corner (of)|"Iza ugla" = around the corner|noun,masc
+veliko|big (neuter)||adj,neut
+veliku|big (feminine, object)||adj,fem
+zelen|green (masculine)||adj,masc
+zelena|green (feminine)||adj,fem
+zeleno|green (neuter)||adj,neut
+zelenoj|green (in the feminine, locative)|"U zelenoj" = in green|adj,fem
+živim|I live||verb,present
+živiš|you live|"Gde živiš?" = where do you live?|verb,present
+žut|yellow (masculine)||adj,masc
+žuta|yellow (feminine)||adj,fem
+žuto|yellow (neuter)||adj,neut
+žutu|yellow (feminine, object)||adj,fem

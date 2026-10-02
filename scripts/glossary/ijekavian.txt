@@ -1,0 +1,20 @@
+# Ijekavian (Bosnia, Croatia, Montenegro) spellings. In Serbia you'll see the ekavian form instead.
+bijelo|white (neuter)|Ijekavian of belo|adj,neut
+dvije|two (feminine)|Ijekavian of dve|num,fem
+lijepa|beautiful; pretty (woman)|Ijekavian of lepa|adj,fem
+lijepo|nicely; nice|Ijekavian of lepo|adv,neut
+more|sea||noun,neut
+nasmijavaš|you make (me) laugh|Ijekavian of nasmejavaš|verb,present
+nedjelja|Sunday; week|Ijekavian of nedelja|noun,fem
+ovdje|here|Ijekavian of ovde|adv
+pomjerimo|let's move; reschedule|Ijekavian of pomerimo|verb,present,plural
+posebno|especially; special|"Ništa posebno" = nothing special|adv
+razumijem|I understand|Ijekavian of razumem|verb,present
+smijeha|of laughter|Ijekavian of smeha|noun,masc
+smiješan|funny (man)|Ijekavian of smešan|adj,masc
+smiješna|funny (woman)|Ijekavian of smešna|adj,fem
+smiješno|funny|Ijekavian of smešno|adj,neut
+tko|who|Ijekavian / Croatian form of ko|pron
+vidio|saw (he)|Ijekavian of video|verb,past,masc
+vidjela|saw (she)|Ijekavian of videla|verb,past,fem
+vidjet|to see; will see|Ijekavian "vidjet ćemo" = we'll see|verb

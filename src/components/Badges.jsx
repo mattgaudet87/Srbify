@@ -1,4 +1,5 @@
 import Icon from './Icons.jsx'
+import { entryTags } from '../lib/tags.js'
 
 const CHANGE_LABELS = {
   speaker: 'Changes if you’re M / F',
@@ -29,4 +30,10 @@ export function VerifiedBadge({ verified }) {
       {verified ? 'Verified by a native speaker' : 'Not yet verified'}
     </span>
   )
+}
+
+// Small coloured tags: tone, tense, who it changes for. `max` trims for list rows; `long` uses the full labels.
+export function TagPills({ entry, max = 99, long = false, kinds }) {
+  const tags = entryTags(entry).filter((t) => !kinds || kinds.includes(t.kind)).slice(0, max)
+  return tags.map((t) => <span key={t.key} className={`tag tag-${t.kind} t-${t.key}`}>{long ? t.long : t.label}</span>)
 }

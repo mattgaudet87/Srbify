@@ -1,0 +1,9959 @@
+{
+"a": {
+"en": "and; but; (as in \"and you?\")",
+"note": "A softer \"and/but\" that links a contrast or turns the question back: \"Dobro sam, a ti?\"",
+"tags": [
+"conj"
+],
+"pron": "ah",
+"entry": "i"
+},
+"aerodrom": {
+"en": "airport",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "ah-eh-ROH-drohm",
+"entry": "aerodrom"
+},
+"aerodroma": {
+"en": "airport (of)",
+"note": "\"Do aerodroma\" = to the airport",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "ah-eh-ROH-droh-mah"
+},
+"aerodromu": {
+"en": "at the airport",
+"note": "Locative of aerodrom; \"na aerodromu\" = at the airport",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "ah-eh-ROH-droh-moo"
+},
+"aha": {
+"en": "uh-huh; I see",
+"note": "Sound of understanding or agreement",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "AH-hah",
+"entry": "aha"
+},
+"ajde": {
+"en": "come on; let's go; OK",
+"note": "Short form of hajde. Used to nudge, encourage or agree",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "AY-deh",
+"entry": "ajde"
+},
+"ajmo": {
+"en": "let's go",
+"note": "Short form of hajdemo, \"let's\"",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "AY-mo",
+"entry": "ajde"
+},
+"ajte": {
+"en": "come on (to a group / polite)",
+"note": "Plural or polite form of ajde",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "AY-teh",
+"entry": "ajde"
+},
+"ali": {
+"en": "but",
+"note": "Contrast word",
+"tags": [
+"conj"
+],
+"pron": "AH-lee",
+"entry": "ali"
+},
+"ana": {
+"en": "Ana",
+"note": "A female name",
+"tags": [
+"name",
+"fem"
+],
+"pron": "AH-nah"
+},
+"anu": {
+"en": "Ana (as the object)",
+"note": "Ana in the accusative: \"pitaj Anu\" = ask Ana",
+"tags": [
+"name",
+"fem"
+],
+"pron": "AH-noo"
+},
+"auto": {
+"en": "car",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "OW-toh"
+},
+"autobus": {
+"en": "bus",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "ow-TOH-boos"
+},
+"autobuska": {
+"en": "bus (station)",
+"note": "Adjective: \"autobuska stanica\" = bus station",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "ow-toh-BOO-skah"
+},
+"badnje": {
+"en": "Christmas Eve (eve of)",
+"note": "In \"Badnje veče\" = Christmas Eve, Orthodox, January 6",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "BAHD-nyeh"
+},
+"baka": {
+"en": "grandma",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "BAH-kah",
+"entry": "baka-deda"
+},
+"bake": {
+"en": "grandma's; of grandma",
+"note": "Form of baka",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "BAH-keh"
+},
+"bakina": {
+"en": "grandma's",
+"note": "Possessive: belongs to grandma",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "BAH-kee-nah"
+},
+"banci": {
+"en": "in the bank; at the bank",
+"note": "Locative of banka (bank)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "BAHN-tsee"
+},
+"bar": {
+"en": "at least; also: a bar",
+"note": "\"Bar malo\" = at least a little",
+"tags": [
+"adv"
+],
+"pron": "bahr"
+},
+"baš": {
+"en": "really; exactly; just",
+"note": "Adds emphasis: baš lepo = really nice",
+"tags": [
+"particle",
+"casual"
+],
+"pron": "BAHSH",
+"entry": "bas"
+},
+"baš me briga": {
+"en": "I couldn't care less",
+"note": "Casual, can sound rude",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "BAHSH meh BREE-gah",
+"entry": "bas"
+},
+"bela": {
+"en": "white (feminine)",
+"note": "\"Bela kafa\" = white coffee; matches the noun",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "BEH-lah"
+},
+"belo": {
+"en": "white",
+"note": "Neuter form, matches a neuter noun",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "BEH-lo"
+},
+"beo": {
+"en": "white (masculine)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "BEH-oh"
+},
+"beograda": {
+"en": "of Belgrade",
+"note": "Genitive of Beograd",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "beh-oh-GRAH-dah"
+},
+"beogradu": {
+"en": "in Belgrade",
+"note": "Locative of Beograd",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "beh-oh-GRAH-doo"
+},
+"bez": {
+"en": "without",
+"tags": [
+"prep"
+],
+"pron": "bez",
+"entry": "sa-bez"
+},
+"bezveze": {
+"en": "lame; pointless; random",
+"note": "Slang. Literally \"without connection\"",
+"tags": [
+"adj",
+"slang"
+],
+"pron": "BEZ-veh-zeh",
+"entry": "bezveze"
+},
+"bi": {
+"en": "would",
+"note": "Helper word for \"would\" (conditional): on bi došao = he would come",
+"tags": [
+"particle"
+],
+"pron": "bee"
+},
+"bih": {
+"en": "would (I)",
+"note": "\"I would\": ja bih. Also used in ne bih rekao = I wouldn't say so",
+"tags": [
+"particle"
+],
+"pron": "bih"
+},
+"bijela": {
+"en": "white (feminine)",
+"note": "Ijekavian of bela",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "BEE-yeh-lah"
+},
+"bijelo": {
+"en": "white (neuter)",
+"note": "Ijekavian of belo",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "BEE-yeh-lo"
+},
+"bila": {
+"en": "was (she); been",
+"note": "Past tense of biti for a woman or a feminine noun",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "BEE-lah"
+},
+"bili": {
+"en": "were (they)",
+"note": "Past tense of biti for a group",
+"tags": [
+"verb",
+"past"
+],
+"pron": "BEE-lee"
+},
+"bilo": {
+"en": "was (it); been",
+"note": "Past tense of biti for \"it\"; also \"bilo šta\" = anything",
+"tags": [
+"verb",
+"past",
+"neut"
+],
+"pron": "BEE-lo"
+},
+"bio": {
+"en": "was (he)",
+"note": "Past tense of biti for a man",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "BEE-oh"
+},
+"biće": {
+"en": "will be",
+"note": "Future of biti: \"it will be\"",
+"tags": [
+"verb",
+"future"
+],
+"pron": "BEE-cheh"
+},
+"blizu": {
+"en": "near; close",
+"tags": [
+"adv"
+],
+"pron": "BLEE-zoo",
+"entry": "blizu-daleko"
+},
+"bog": {
+"en": "God",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "BOHG"
+},
+"bolesna": {
+"en": "sick (she)",
+"note": "Feminine form of bolestan",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "BOH-less-nah"
+},
+"bolestan": {
+"en": "sick (he)",
+"note": "Masculine form; feminine is bolesna",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "BOH-leh-stahn"
+},
+"bolja": {
+"en": "better (feminine)",
+"note": "Matches a woman or feminine noun",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "BOH-lyah",
+"entry": "bolje"
+},
+"bolje": {
+"en": "better (neuter); better (adverb)",
+"note": "\"Bolje\" also means \"I'd better…\" and \"better (than before)\"",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "BOH-lyeh",
+"entry": "bolje"
+},
+"bolji": {
+"en": "better (masculine)",
+"note": "Matches a man or masculine noun",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "BOH-lyee",
+"entry": "bolje"
+},
+"božić": {
+"en": "Christmas",
+"note": "Orthodox Christmas, January 7",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "BOH-zheech",
+"entry": "bozic"
+},
+"brat": {
+"en": "brother",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "BRAHT",
+"entry": "brat-sestra"
+},
+"brata": {
+"en": "brother (as object)",
+"note": "Accusative/genitive of brat",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "BRAH-tah"
+},
+"brate": {
+"en": "bro; dude",
+"note": "Calling a man \"brat\" (vocative). Used for friends, not just family",
+"tags": [
+"noun",
+"masc",
+"slang"
+],
+"pron": "BRAH-teh",
+"entry": "bre"
+},
+"bravo": {
+"en": "well done; bravo",
+"tags": [
+"interj"
+],
+"pron": "BRAH-vo"
+},
+"bre": {
+"en": "dude; man; hey",
+"note": "Filler word for emphasis, to a friend. Casual, can sound rough to elders",
+"tags": [
+"interj",
+"slang"
+],
+"pron": "BREH",
+"entry": "bre"
+},
+"briga": {
+"en": "worry; care",
+"note": "\"Baš me briga\" = I couldn't care less",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "BREE-gah"
+},
+"brineš": {
+"en": "you worry",
+"note": "\"You worry\" (casual) from brinuti se",
+"tags": [
+"verb",
+"present"
+],
+"pron": "BREE-nesh"
+},
+"brini": {
+"en": "worry (command)",
+"note": "\"Don't worry\" = ne brini",
+"tags": [
+"verb",
+"command"
+],
+"pron": "BREE-nee"
+},
+"bude": {
+"en": "will be; is (if)",
+"note": "\"Ako bude…\" = if it is",
+"tags": [
+"verb",
+"future"
+],
+"pron": "BOO-deh"
+},
+"budem": {
+"en": "I will be",
+"note": "From biti: \"I will be\"",
+"tags": [
+"verb",
+"future"
+],
+"pron": "BOO-dem"
+},
+"ceo": {
+"en": "whole; all (day)",
+"note": "\"Ceo dan\" = all day long",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "TSEH-oh"
+},
+"cipele": {
+"en": "shoes",
+"tags": [
+"noun",
+"fem",
+"plural"
+],
+"pron": "TSEE-peh-leh"
+},
+"cmok": {
+"en": "smooch; kiss",
+"note": "Playful kiss sound",
+"tags": [
+"noun",
+"masc",
+"casual"
+],
+"pron": "TSMOHK",
+"entry": "ljubim-te"
+},
+"crkoh": {
+"en": "I died (laughing)",
+"note": "Slang for \"I'm dying\": past tense, I (male or female)",
+"tags": [
+"verb",
+"past",
+"slang"
+],
+"pron": "TSUR-koh",
+"entry": "dying-laughing"
+},
+"crn": {
+"en": "black (masculine)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "TSURN"
+},
+"crna": {
+"en": "black (feminine)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "TSUR-nah"
+},
+"crno": {
+"en": "black",
+"note": "Neuter form",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "TSUR-no"
+},
+"crven": {
+"en": "red (masculine)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "TSUR-ven"
+},
+"crvena": {
+"en": "red",
+"note": "Feminine form",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "TSUR-veh-nah"
+},
+"crvene": {
+"en": "red (plural feminine)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "TSUR-veh-neh"
+},
+"crveno": {
+"en": "red (neuter)",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "TSUR-veh-no"
+},
+"cveće": {
+"en": "flowers",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "TSVEH-cheh"
+},
+"da": {
+"en": "yes; that; to",
+"note": "Yes, but also joins phrases: hoću da idem = I want to go",
+"tags": [
+"particle"
+],
+"pron": "dah",
+"entry": "da-ne"
+},
+"daj": {
+"en": "give; come on",
+"note": "\"Ma daj!\" = come on / no way",
+"tags": [
+"verb",
+"command"
+],
+"pron": "DAH-ee"
+},
+"dakle": {
+"en": "so; therefore",
+"note": "Wraps up a point",
+"tags": [
+"conj"
+],
+"pron": "DAHK-leh",
+"entry": "znaci"
+},
+"daleko": {
+"en": "far",
+"tags": [
+"adv"
+],
+"pron": "DAH-leh-ko",
+"entry": "blizu-daleko"
+},
+"dan": {
+"en": "day",
+"note": "\"Dobar dan\" = good day",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "DAHN"
+},
+"danas": {
+"en": "today",
+"tags": [
+"adv"
+],
+"pron": "DAH-nahs",
+"entry": "danas-sutra-juce"
+},
+"deca": {
+"en": "children",
+"tags": [
+"noun",
+"plural"
+],
+"pron": "DEH-tsah"
+},
+"dece": {
+"en": "of children; children's",
+"note": "Genitive of deca",
+"tags": [
+"noun",
+"plural"
+],
+"pron": "DEH-tseh"
+},
+"decembru": {
+"en": "in December",
+"note": "Locative of decembar",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "deh-TSEM-broo"
+},
+"decom": {
+"en": "with the children",
+"note": "Instrumental of deca",
+"tags": [
+"noun",
+"plural"
+],
+"pron": "DEH-tsom"
+},
+"decu": {
+"en": "children (as object)",
+"note": "Accusative of deca",
+"tags": [
+"noun",
+"plural"
+],
+"pron": "DEH-tsoo"
+},
+"deda": {
+"en": "grandpa",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "DEH-dah",
+"entry": "baka-deda"
+},
+"deset": {
+"en": "ten",
+"tags": [
+"num"
+],
+"pron": "DEH-set"
+},
+"desilo": {
+"en": "happened",
+"note": "\"Šta se desilo?\" = what happened?",
+"tags": [
+"verb",
+"past",
+"neut"
+],
+"pron": "DEH-see-lo"
+},
+"desno": {
+"en": "right; to the right",
+"tags": [
+"adv"
+],
+"pron": "DEH-sno",
+"entry": "levo-desno"
+},
+"dete": {
+"en": "child",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "DEH-teh"
+},
+"divna": {
+"en": "lovely; wonderful (feminine)",
+"note": "Warm compliment",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "DEEV-nah"
+},
+"divni": {
+"en": "lovely (plural / masc. formal)",
+"note": "Plural of divan",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "DEEV-nee"
+},
+"do": {
+"en": "until; to; by",
+"note": "\"Do viđenja\" = until we see each other",
+"tags": [
+"prep"
+],
+"pron": "doh"
+},
+"do vraga": {
+"en": "damn it; to hell",
+"note": "Mild curse. Literally \"to the devil\"",
+"tags": [
+"interj",
+"slang"
+],
+"pron": "doh VRAH-gah",
+"entry": "do-vraga"
+},
+"do đavola": {
+"en": "damn it",
+"note": "Same as do vraga, more old-fashioned",
+"tags": [
+"interj",
+"slang"
+],
+"pron": "doh JAH-vo-lah",
+"entry": "do-vraga"
+},
+"dobar": {
+"en": "good (masculine)",
+"note": "Matches a masculine noun: dobar dan",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "DOH-bahr"
+},
+"dobar dan": {
+"en": "good day; hello (polite)",
+"note": "The polite daytime hello, for elders and strangers",
+"tags": [
+"interj",
+"formal"
+],
+"pron": "DOH-bahr DAHN",
+"entry": "dobar-dan"
+},
+"dobra": {
+"en": "good (feminine)",
+"note": "Matches a feminine noun: dobra ideja",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "DOH-brah"
+},
+"dobro": {
+"en": "good; well; fine",
+"note": "The all-purpose \"good\". Doesn't change when used as an adverb",
+"tags": [
+"adv",
+"neut"
+],
+"pron": "DOH-bro",
+"entry": "dobro-lose"
+},
+"dobro jutro": {
+"en": "good morning",
+"note": "Used until about 10 AM",
+"tags": [
+"interj"
+],
+"pron": "DOH-bro YOO-tro",
+"entry": "good-morning"
+},
+"dobro veče": {
+"en": "good evening",
+"note": "After about 6 PM. Polite or casual",
+"tags": [
+"interj",
+"formal"
+],
+"pron": "DOH-bro VEH-cheh",
+"entry": "dobro-vece"
+},
+"dobrodošao": {
+"en": "welcome (to a man)",
+"note": "Feminine is dobrodošla",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "doh-broh-DOH-shah-oh"
+},
+"dogovor": {
+"en": "deal; agreement",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "DOH-go-vor",
+"entry": "dogovoreno"
+},
+"dogovoreno": {
+"en": "agreed; settled",
+"note": "\"It's a plan\"",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "doh-GOH-vo-reh-no",
+"entry": "dogovoreno"
+},
+"dogovorili": {
+"en": "we agreed",
+"note": "Past tense, plural: \"we arranged\"",
+"tags": [
+"verb",
+"past",
+"plural"
+],
+"pron": "doh-GOH-vo-ree-lee"
+},
+"dolaze": {
+"en": "they come; they're coming",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "DOH-lah-zeh"
+},
+"dolazi": {
+"en": "he/she comes; is coming",
+"tags": [
+"verb",
+"present"
+],
+"pron": "DOH-lah-zee"
+},
+"dolazim": {
+"en": "I come; I'm coming",
+"tags": [
+"verb",
+"present"
+],
+"pron": "DOH-lah-zeem"
+},
+"dolaziš": {
+"en": "you come; you're coming",
+"note": "Casual \"you\"",
+"tags": [
+"verb",
+"present"
+],
+"pron": "DOH-lah-zeesh"
+},
+"domaća": {
+"en": "homemade; home (feminine)",
+"note": "\"Domaća rakija\" = homemade rakija",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "DOH-mah-chah"
+},
+"domaćine": {
+"en": "host (to a man)",
+"note": "Calling the host; \"domaćin\" = host",
+"tags": [
+"noun",
+"masc",
+"formal"
+],
+"pron": "doh-MAH-chee-neh"
+},
+"doneti": {
+"en": "to bring",
+"tags": [
+"verb"
+],
+"pron": "DOH-neh-tee"
+},
+"dopadaš": {
+"en": "you appeal to (me)",
+"note": "\"Dopadaš mi se\" = I like you (a bit like sviđaš)",
+"tags": [
+"verb",
+"present",
+"flirty"
+],
+"pron": "DOH-pah-dahsh"
+},
+"dosadan": {
+"en": "boring; annoying (masc)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "DOH-sah-dahn"
+},
+"dosadno": {
+"en": "boring",
+"note": "\"Dosadno mi je\" = I'm bored",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "DOH-sahd-no",
+"entry": "bezveze"
+},
+"dosadno mi je": {
+"en": "I'm bored",
+"note": "Literally \"boring to me is\"",
+"tags": [
+"interj"
+],
+"pron": "DOH-sahd-no mee yeh",
+"entry": "dosadno-mi-je"
+},
+"doviđenja": {
+"en": "goodbye",
+"note": "Short for \"do viđenja\", a polite goodbye",
+"tags": [
+"interj",
+"formal"
+],
+"pron": "doh-VEE-jen-yah",
+"entry": "dovidjenja"
+},
+"doći": {
+"en": "to come",
+"note": "The infinitive: \"to come\"",
+"tags": [
+"verb"
+],
+"pron": "DOH-chee"
+},
+"dođe": {
+"en": "he/she comes; may come",
+"note": "Short, one-time \"arrives\"",
+"tags": [
+"verb",
+"present"
+],
+"pron": "DOH-jeh"
+},
+"dođem": {
+"en": "I come; I arrive",
+"note": "\"Ne mogu da dođem\" = I can't come",
+"tags": [
+"verb",
+"present"
+],
+"pron": "DOH-jem"
+},
+"dođemo": {
+"en": "we come; we arrive",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "DOH-jeh-mo"
+},
+"dođeš": {
+"en": "you come; you arrive",
+"note": "Casual",
+"tags": [
+"verb",
+"present"
+],
+"pron": "DOH-jesh"
+},
+"dođi": {
+"en": "come",
+"note": "Command, casual (to one person)",
+"tags": [
+"verb",
+"command"
+],
+"pron": "DOH-jee",
+"entry": "dodji"
+},
+"dođite": {
+"en": "come (plural / polite)",
+"note": "Command for a group or a person you're polite to",
+"tags": [
+"verb",
+"command",
+"formal"
+],
+"pron": "DOH-jee-teh",
+"entry": "dodji"
+},
+"dođu": {
+"en": "they come; they arrive",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "DOH-joo"
+},
+"došao": {
+"en": "came (he); arrived",
+"note": "Past tense, man. Feminine: došla",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "DOH-shah-oh"
+},
+"došla": {
+"en": "came (she); arrived",
+"note": "Past tense, woman",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "DOH-shlah"
+},
+"došli": {
+"en": "came (they); arrived",
+"note": "Past tense, group",
+"tags": [
+"verb",
+"past",
+"plural"
+],
+"pron": "DOH-shlee"
+},
+"draga": {
+"en": "dear; darling",
+"note": "To a woman you care about (pet name) or \"dear\" in a letter",
+"tags": [
+"noun",
+"fem",
+"flirty"
+],
+"pron": "DRAH-gah",
+"entry": "draga"
+},
+"dragi": {
+"en": "dear (masc)",
+"note": "To a man; or \"dragi\" = darling (m.)",
+"tags": [
+"adj",
+"masc",
+"flirty"
+],
+"pron": "DRAH-gee",
+"entry": "draga"
+},
+"drago": {
+"en": "glad; pleased",
+"note": "\"Drago mi je\" = nice to meet you",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "DRAH-go"
+},
+"drago mi je": {
+"en": "nice to meet you; I'm glad",
+"note": "Literally \"dear to me is\"",
+"tags": [
+"interj"
+],
+"pron": "DRAH-go mee yeh",
+"entry": "drago-mi-je"
+},
+"drug": {
+"en": "friend (male); comrade",
+"note": "Pal; \"drugarica\" is the female form",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "DROOG"
+},
+"drugarica": {
+"en": "friend (female)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "droo-GAH-ree-tsah"
+},
+"drugarice": {
+"en": "friends (female)",
+"note": "Plural of drugarica",
+"tags": [
+"noun",
+"fem",
+"plural"
+],
+"pron": "droo-GAH-ree-tseh"
+},
+"drugaricom": {
+"en": "with a friend (female)",
+"note": "Instrumental of drugarica",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "droo-GAH-ree-tsom"
+},
+"drugačije": {
+"en": "differently",
+"note": "\"Drugačije je\" = it is different",
+"tags": [
+"adv"
+],
+"pron": "DROO-gah-chee-yeh"
+},
+"drugi": {
+"en": "second; other; another",
+"note": "\"Drugi put\" = next time",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "DROO-gee"
+},
+"drugom": {
+"en": "with another; to another",
+"note": "\"O nečem drugom\" = about something else",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "DROO-gom"
+},
+"dva": {
+"en": "two (masculine / neuter)",
+"tags": [
+"num"
+],
+"pron": "DVAH"
+},
+"dvadeset": {
+"en": "twenty",
+"tags": [
+"num"
+],
+"pron": "DVAH-deh-set"
+},
+"dve": {
+"en": "two (feminine)",
+"note": "Used with feminine nouns",
+"tags": [
+"num",
+"fem"
+],
+"pron": "DVEH"
+},
+"dvije": {
+"en": "two (feminine)",
+"note": "Ijekavian of dve",
+"tags": [
+"num",
+"fem"
+],
+"pron": "DVEE-yeh"
+},
+"dvoje": {
+"en": "two (of them); a pair",
+"note": "For a couple or mixed group: \"nas dvoje\" = the two of us",
+"tags": [
+"num"
+],
+"pron": "DVOH-yeh"
+},
+"ej": {
+"en": "hey",
+"note": "Casual attention-grabber",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "AY",
+"entry": "hello"
+},
+"engleski": {
+"en": "English (language)",
+"note": "The language name. Not capitalized in Serbian",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "EN-gleh-skee"
+},
+"espreso": {
+"en": "espresso",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "eh-SPREH-so",
+"entry": "kafa"
+},
+"evo": {
+"en": "here; here it is; here I am",
+"note": "\"Evo me\" = here I am",
+"tags": [
+"particle"
+],
+"pron": "EH-vo"
+},
+"faca": {
+"en": "badass; awesome (person)",
+"note": "Slang for someone impressive. Literally \"knife\"",
+"tags": [
+"noun",
+"fem",
+"slang"
+],
+"pron": "FAH-tsah",
+"entry": "cool"
+},
+"fala": {
+"en": "thanks",
+"note": "Shortened, texting-style hvala",
+"tags": [
+"interj",
+"slang"
+],
+"pron": "FAH-lah",
+"entry": "thank-you"
+},
+"fali": {
+"en": "(is) missing",
+"note": "\"Fali mi\" = I'm missing it / I miss it",
+"tags": [
+"verb",
+"present"
+],
+"pron": "FAH-lee"
+},
+"falim": {
+"en": "I'm missing; I lack",
+"note": "\"Falim ti\" = you miss me",
+"tags": [
+"verb",
+"present"
+],
+"pron": "FAH-leem"
+},
+"falite": {
+"en": "you (plural / polite) are missing",
+"note": "\"Fališ\" for several people or politely",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "FAH-lee-teh"
+},
+"fališ": {
+"en": "you're missing; I miss you",
+"note": "\"Fališ mi\" = I miss you",
+"tags": [
+"verb",
+"present",
+"flirty"
+],
+"pron": "FAH-leesh"
+},
+"film": {
+"en": "movie",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "FEELM"
+},
+"fino": {
+"en": "nice; fine",
+"note": "Neuter form, like \"nice\" or \"pleasant\"",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "FEE-no",
+"entry": "ukusno"
+},
+"flašu": {
+"en": "a bottle",
+"note": "Accusative of flaša",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "FLAH-shoo"
+},
+"fontane": {
+"en": "fountains; of the fountain",
+"note": "Genitive/plural of fontana",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "FOHN-tah-neh"
+},
+"fudbal": {
+"en": "football; soccer",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "FOOD-bahl"
+},
+"fudbalu": {
+"en": "football (about)",
+"note": "\"O fudbalu\" = about football",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "FOOD-bah-loo"
+},
+"ga": {
+"en": "him; it",
+"note": "Short form of \"him\" as an object: pitaj ga = ask him",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "gah"
+},
+"gasa": {
+"en": "gas; carbonation (of)",
+"note": "\"Voda bez gasa\" = still water",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "GAH-sah"
+},
+"gazirana": {
+"en": "sparkling (fizzy)",
+"note": "\"Gazirana voda\" = sparkling water",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "gah-ZEE-rah-nah",
+"entry": "voda"
+},
+"gde": {
+"en": "where",
+"note": "The Serbian (ekavian) form. Ijekavian: gdje",
+"tags": [
+"particle"
+],
+"pron": "GDEH",
+"entry": "gde"
+},
+"gdje": {
+"en": "where",
+"note": "Ijekavian form (Bosnia, Croatia, Montenegro). In Serbia you'll say \"gde\"",
+"tags": [
+"particle"
+],
+"pron": "GDYEH",
+"entry": "gde"
+},
+"gladan": {
+"en": "hungry (man)",
+"note": "Feminine: gladna",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "GLAH-dahn"
+},
+"gladna": {
+"en": "hungry (woman)",
+"note": "Masculine: gladan",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "GLAHD-nah"
+},
+"gladni": {
+"en": "hungry (plural)",
+"note": "For a group",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "GLAHD-nee"
+},
+"gladno": {
+"en": "hungry (it feels)",
+"note": "Neuter or impersonal",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "GLAHD-no"
+},
+"gledamo": {
+"en": "we watch; we look",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "GLEH-dah-mo"
+},
+"glupost": {
+"en": "nonsense; a silly thing",
+"note": "Literally \"stupidity\"",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "GLOO-post",
+"entry": "sranje"
+},
+"godina": {
+"en": "year",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "GOH-dee-nah"
+},
+"gora": {
+"en": "worse (feminine)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "GOH-rah"
+},
+"gore": {
+"en": "worse (neuter); up",
+"note": "\"Gore\" = worse; also \"up / upstairs\"",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "GOH-reh"
+},
+"gori": {
+"en": "worse (masculine)",
+"note": "Opposite of bolji",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "GOH-ree"
+},
+"gospodine": {
+"en": "sir; Mr.",
+"note": "Polite address to a man",
+"tags": [
+"noun",
+"masc",
+"formal"
+],
+"pron": "GOH-spoh-dee-neh"
+},
+"gospođo": {
+"en": "madam; Mrs.",
+"note": "Polite address to a woman",
+"tags": [
+"noun",
+"fem",
+"formal"
+],
+"pron": "GOH-spoh-jo"
+},
+"gost": {
+"en": "guest",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "GOHST"
+},
+"gostoprimstvu": {
+"en": "hospitality (about)",
+"note": "From gostoprimstvo; Serbs take this very seriously",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "goh-stoh-PREEM-stvoo"
+},
+"gotov": {
+"en": "done; finished (man)",
+"note": "Feminine: gotova",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "GOH-tov"
+},
+"gotova": {
+"en": "done; finished (woman)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "GOH-toh-vah"
+},
+"gotovi": {
+"en": "done; ready (plural)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "GOH-toh-vee"
+},
+"govori": {
+"en": "speaks; speak",
+"note": "He/she speaks, or \"speak!\" (command)",
+"tags": [
+"verb",
+"present"
+],
+"pron": "GOH-vo-ree",
+"entry": "govorim-malo"
+},
+"govorim": {
+"en": "I speak",
+"tags": [
+"verb",
+"present"
+],
+"pron": "GOH-vo-reem"
+},
+"govorimo": {
+"en": "we speak",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "GOH-vo-ree-mo",
+"entry": "govorim-malo"
+},
+"govorite": {
+"en": "you speak (plural / polite)",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "GOH-vo-ree-teh"
+},
+"govoriš": {
+"en": "you speak",
+"note": "Casual",
+"tags": [
+"verb",
+"present"
+],
+"pron": "GOH-vo-reesh"
+},
+"grad": {
+"en": "city; town",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "GRAHD"
+},
+"greška": {
+"en": "mistake",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "GREH-shkah"
+},
+"gubi": {
+"en": "lose; get lost",
+"note": "\"Gubi se\" = get lost (rude)",
+"tags": [
+"verb",
+"command",
+"vulgar"
+],
+"pron": "GOO-bee"
+},
+"gužva": {
+"en": "crowd; traffic; a rush",
+"note": "\"Velika gužva\" = big crowd",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "GOOZH-vah"
+},
+"hajde": {
+"en": "come on; let's",
+"note": "The full form of ajde",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "HAY-deh",
+"entry": "ajde"
+},
+"hajdemo": {
+"en": "let's go",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "HAY-deh-mo"
+},
+"haljina": {
+"en": "dress",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "HAHL-yee-nah"
+},
+"haljini": {
+"en": "in the dress",
+"note": "Dative/locative of haljina",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "HAHL-yee-nee"
+},
+"haljinu": {
+"en": "dress (object)",
+"note": "\"Volim tvoju haljinu\" = I love your dress",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "HAHL-yee-noo"
+},
+"hej": {
+"en": "hey",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "HAY"
+},
+"hladna": {
+"en": "cold (feminine)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "HLAHD-nah"
+},
+"hladno": {
+"en": "cold",
+"note": "\"Hladno mi je\" = I'm cold",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "HLAHD-no"
+},
+"hleb": {
+"en": "bread",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "HLEHB"
+},
+"hoće": {
+"en": "wants; will",
+"note": "He/she wants or will",
+"tags": [
+"verb",
+"present"
+],
+"pron": "HOH-cheh",
+"entry": "hocu"
+},
+"hoćemo": {
+"en": "we want; shall we",
+"note": "\"Hoćemo li…?\" = shall we…?",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "HOH-cheh-mo",
+"entry": "hocu"
+},
+"hoćete": {
+"en": "you (plural / polite) want",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "HOH-cheh-teh",
+"entry": "hocu"
+},
+"hoćeš": {
+"en": "you want; will you",
+"note": "\"Hoćeš da…?\" = do you want to…?",
+"tags": [
+"verb",
+"present"
+],
+"pron": "HOH-chesh",
+"entry": "hocu"
+},
+"hoću": {
+"en": "I want; I will",
+"note": "From hteti. Short and direct",
+"tags": [
+"verb",
+"present"
+],
+"pron": "HOH-choo",
+"entry": "hocu"
+},
+"hristos": {
+"en": "Christ",
+"note": "In the Christmas greeting \"Hristos se rodi!\"",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "HREE-stohs"
+},
+"hristos se rodi": {
+"en": "Christ is born",
+"note": "Orthodox Christmas greeting. Reply: \"Vaistinu se rodi\"",
+"tags": [
+"interj"
+],
+"pron": "HREE-stohs seh ROH-dee",
+"entry": "bozic"
+},
+"hristos vaskrse": {
+"en": "Christ is risen",
+"note": "Orthodox Easter greeting. Reply: \"Vaistinu vaskrse\"",
+"tags": [
+"interj"
+],
+"pron": "HREE-stohs VAH-skrseh",
+"entry": "uskrs"
+},
+"htela": {
+"en": "wanted (she)",
+"note": "Past tense, woman",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "HTEH-lah"
+},
+"hteo": {
+"en": "wanted (he)",
+"note": "Past tense, man",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "HTEH-oh"
+},
+"hvala": {
+"en": "thank you",
+"note": "Casual or polite. Texted as \"fala\"",
+"tags": [
+"interj"
+],
+"pron": "HVAH-lah",
+"entry": "thank-you"
+},
+"i": {
+"en": "and; also",
+"note": "Also \"even\": i ona = her too",
+"tags": [
+"conj"
+],
+"pron": "ee",
+"entry": "i"
+},
+"ide": {
+"en": "goes; is going",
+"tags": [
+"verb",
+"present"
+],
+"pron": "EE-deh",
+"entry": "idem"
+},
+"ideja": {
+"en": "idea",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "ee-DEH-yah"
+},
+"idem": {
+"en": "I go; I'm going",
+"note": "From ići",
+"tags": [
+"verb",
+"present"
+],
+"pron": "EE-dem",
+"entry": "idem"
+},
+"idemo": {
+"en": "we go; let's go",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "EE-deh-mo",
+"entry": "idem"
+},
+"idete": {
+"en": "you (plural / polite) go",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "EE-deh-teh",
+"entry": "idem"
+},
+"ideš": {
+"en": "you go; you're going",
+"note": "Casual",
+"tags": [
+"verb",
+"present"
+],
+"pron": "EE-desh",
+"entry": "idem"
+},
+"idi": {
+"en": "go",
+"note": "Command, casual",
+"tags": [
+"verb",
+"command"
+],
+"pron": "EE-dee"
+},
+"idu": {
+"en": "they go",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "EE-doo",
+"entry": "idem"
+},
+"ili": {
+"en": "or",
+"tags": [
+"conj"
+],
+"pron": "EE-lee",
+"entry": "ili"
+},
+"ima": {
+"en": "there is; has",
+"note": "\"Ima li…?\" = is there…? \"Šta ima?\" = what's up?",
+"tags": [
+"verb",
+"present"
+],
+"pron": "EE-mah"
+},
+"imam": {
+"en": "I have",
+"note": "\"Imam\" for I have; negative is nemam",
+"tags": [
+"verb",
+"present"
+],
+"pron": "EE-mahm"
+},
+"imate": {
+"en": "you (plural / polite) have",
+"note": "\"Imate li…?\" = do you have…?",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "EE-mah-teh"
+},
+"imaš": {
+"en": "you have",
+"note": "Casual",
+"tags": [
+"verb",
+"present"
+],
+"pron": "EE-mahsh"
+},
+"inat": {
+"en": "stubbornness; spite",
+"note": "A Serbian trait: refusing to bend, even when it hurts you",
+"tags": [
+"noun",
+"masc",
+"culture"
+],
+"pron": "EE-naht",
+"entry": "inat"
+},
+"inata": {
+"en": "of spite; of stubbornness",
+"note": "From inat",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "EE-nah-tah"
+},
+"inatljiv": {
+"en": "stubborn (man)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "EE-naht-lyeev"
+},
+"inatljiva": {
+"en": "stubborn (woman)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "EE-naht-lyee-vah"
+},
+"interneta": {
+"en": "internet (of)",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "EEN-ter-neh-tah"
+},
+"iskreno": {
+"en": "honestly",
+"note": "\"Iskreno, ...\" = frankly",
+"tags": [
+"adv"
+],
+"pron": "EES-kreh-no",
+"entry": "majke-mi"
+},
+"ispit": {
+"en": "exam",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "EES-peet"
+},
+"ispred": {
+"en": "in front of",
+"tags": [
+"prep"
+],
+"pron": "EES-pred"
+},
+"istina": {
+"en": "truth",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "EES-tee-nah"
+},
+"isto": {
+"en": "same; likewise",
+"note": "\"Isto\" in reply to \"enjoy\" = you too",
+"tags": [
+"adv"
+],
+"pron": "EE-sto",
+"entry": "takodje"
+},
+"iz": {
+"en": "from; out of",
+"tags": [
+"prep"
+],
+"pron": "eez",
+"entry": "za-od"
+},
+"iza": {
+"en": "behind; around",
+"note": "\"Iza ugla\" = around the corner",
+"tags": [
+"prep"
+],
+"pron": "EE-zah"
+},
+"izađe": {
+"en": "goes out; comes out",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ee-ZAH-jeh"
+},
+"izađem": {
+"en": "I go out",
+"note": "Perfective: a single outing",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ee-ZAH-jem"
+},
+"izađemo": {
+"en": "we go out",
+"note": "\"Hoćeš da izađemo?\" = want to go out?",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "ee-ZAH-jeh-mo"
+},
+"izgleda": {
+"en": "looks; seems",
+"note": "\"Izgleda da…\" = it seems that…",
+"tags": [
+"verb",
+"present"
+],
+"pron": "EEZ-gleh-dah"
+},
+"izgledam": {
+"en": "I look",
+"tags": [
+"verb",
+"present"
+],
+"pron": "EEZ-gleh-dahm"
+},
+"izgledate": {
+"en": "you (plural / polite) look",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "EEZ-gleh-dah-teh"
+},
+"izgledaš": {
+"en": "you look",
+"note": "\"Lepo izgledaš\" = you look nice",
+"tags": [
+"verb",
+"present",
+"flirty"
+],
+"pron": "EEZ-gleh-dahsh"
+},
+"izgubila": {
+"en": "lost (she)",
+"note": "Past tense, woman",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "eez-GOO-bee-lah"
+},
+"izgubili": {
+"en": "lost (they)",
+"tags": [
+"verb",
+"past",
+"plural"
+],
+"pron": "eez-GOO-bee-lee"
+},
+"izgubio": {
+"en": "lost (he)",
+"note": "Past tense, man",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "eez-GOO-bee-oh"
+},
+"izmišljaš": {
+"en": "you're making it up",
+"tags": [
+"verb",
+"present"
+],
+"pron": "eez-MEESH-lyahsh"
+},
+"izrazu": {
+"en": "expression; wording",
+"note": "\"Izvini na izrazu\" = excuse my language",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "EEZ-rah-zoo"
+},
+"izvini": {
+"en": "sorry; excuse me",
+"note": "Casual. Polite: izvinite",
+"tags": [
+"verb",
+"command"
+],
+"pron": "eez-VEE-nee",
+"entry": "sorry"
+},
+"izvinite": {
+"en": "sorry; excuse me (polite)",
+"note": "Polite or plural form",
+"tags": [
+"verb",
+"command",
+"formal"
+],
+"pron": "eez-VEE-nee-teh",
+"entry": "sorry"
+},
+"izvoli": {
+"en": "here you go; please (casual)",
+"note": "Offering something to a friend",
+"tags": [
+"verb",
+"command"
+],
+"pron": "EEZ-vo-lee",
+"entry": "izvolite"
+},
+"izvolite": {
+"en": "here you go; please (polite)",
+"note": "Offering to elders, strangers, or a group",
+"tags": [
+"verb",
+"command",
+"formal"
+],
+"pron": "EEZ-vo-lee-teh",
+"entry": "izvolite"
+},
+"išao": {
+"en": "went (he)",
+"note": "Past tense, man",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "EE-shah-oh"
+},
+"išla": {
+"en": "went (she)",
+"note": "Past tense, woman",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "EESH-lah"
+},
+"išli": {
+"en": "went (they)",
+"tags": [
+"verb",
+"past",
+"plural"
+],
+"pron": "EESH-lee"
+},
+"ja": {
+"en": "I",
+"tags": [
+"pron"
+],
+"pron": "yah",
+"entry": "ja-mi"
+},
+"jadan": {
+"en": "poor (man); pitiful",
+"note": "\"Jadan ti ja\" = poor me",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "YAH-dahn"
+},
+"jadna": {
+"en": "poor (woman)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "YAHD-nah"
+},
+"jadno": {
+"en": "poor (it)",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "YAHD-no",
+"entry": "bezveze"
+},
+"jaja": {
+"en": "eggs",
+"tags": [
+"noun",
+"neut",
+"plural"
+],
+"pron": "YAH-yah"
+},
+"jaka": {
+"en": "strong; great",
+"note": "Slang: \"jaka\" = awesome",
+"tags": [
+"adj",
+"fem",
+"slang"
+],
+"pron": "YAH-kah"
+},
+"jako": {
+"en": "very; strongly",
+"tags": [
+"adv"
+],
+"pron": "YAH-ko"
+},
+"januara": {
+"en": "of January",
+"note": "Genitive: \"šestog januara\" = on January 6th",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "YAH-noo-ah-rah"
+},
+"jao": {
+"en": "oh no; ouch; wow",
+"note": "Reaction, like \"oh no!\"",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "YAH-oh",
+"entry": "joj"
+},
+"jasno": {
+"en": "clear; obviously",
+"note": "\"Jasno\" = got it",
+"tags": [
+"adv"
+],
+"pron": "YAHS-no"
+},
+"javi": {
+"en": "let know; call (command)",
+"note": "\"Javi se\" = get in touch",
+"tags": [
+"verb",
+"command"
+],
+"pron": "YAH-vee"
+},
+"javite": {
+"en": "let know (plural / polite)",
+"tags": [
+"verb",
+"command",
+"formal"
+],
+"pron": "YAH-vee-teh"
+},
+"javiti": {
+"en": "to let know",
+"note": "Infinitive",
+"tags": [
+"verb"
+],
+"pron": "YAH-vee-tee"
+},
+"javiće": {
+"en": "will get in touch (he/she)",
+"tags": [
+"verb",
+"future"
+],
+"pron": "YAH-vee-cheh"
+},
+"javićemo": {
+"en": "we'll get in touch",
+"tags": [
+"verb",
+"future",
+"plural"
+],
+"pron": "YAH-vee-cheh-mo"
+},
+"javićeš": {
+"en": "you'll get in touch",
+"tags": [
+"verb",
+"future"
+],
+"pron": "YAH-vee-chesh"
+},
+"javiću": {
+"en": "I'll get in touch",
+"note": "\"Javiću se\" = I'll call/text you",
+"tags": [
+"verb",
+"future"
+],
+"pron": "YAH-vee-choo"
+},
+"je": {
+"en": "is; are (he/she/it)",
+"note": "From biti. Weak word: sits after the first stressed word",
+"tags": [
+"verb",
+"present"
+],
+"pron": "yeh",
+"entry": "to-be"
+},
+"jebi": {
+"en": "f***; (get f***ed)",
+"note": "\"Jebi se\" = f*** off. Vulgar",
+"tags": [
+"verb",
+"command",
+"vulgar"
+],
+"pron": "YEH-bee"
+},
+"jebite": {
+"en": "f*** (plural)",
+"note": "Vulgar",
+"tags": [
+"verb",
+"command",
+"vulgar"
+],
+"pron": "YEH-bee-teh"
+},
+"jebote": {
+"en": "damn; holy hell",
+"note": "Vulgar exclamation, literally \"f*** you\". Used for shock",
+"tags": [
+"interj",
+"vulgar"
+],
+"pron": "YEH-bo-teh",
+"entry": "jebote"
+},
+"jedan": {
+"en": "one (masculine)",
+"tags": [
+"num",
+"masc"
+],
+"pron": "YEH-dahn"
+},
+"jedemo": {
+"en": "we eat",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "YEH-deh-mo"
+},
+"jedna": {
+"en": "one (feminine)",
+"tags": [
+"num",
+"fem"
+],
+"pron": "YEHD-nah"
+},
+"jedno": {
+"en": "one (neuter)",
+"tags": [
+"num",
+"neut"
+],
+"pron": "YED-no"
+},
+"jednu": {
+"en": "one (feminine, object)",
+"tags": [
+"num",
+"fem"
+],
+"pron": "YED-noo"
+},
+"jeftin": {
+"en": "cheap (masc)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "YEF-teen"
+},
+"jeftina": {
+"en": "cheap (fem)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "YEF-tee-nah"
+},
+"jeftine": {
+"en": "cheap (plural fem)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "YEF-tee-neh"
+},
+"jeftini": {
+"en": "cheap (plural masc)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "YEF-tee-nee"
+},
+"jeftino": {
+"en": "cheap (neuter)",
+"note": "\"Jeftino je\" = it's cheap",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "YEF-tee-no"
+},
+"jela": {
+"en": "ate (she); dishes",
+"note": "Past tense (woman), or dishes/food",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "YEH-lah"
+},
+"jeli": {
+"en": "ate (they)",
+"tags": [
+"verb",
+"past",
+"plural"
+],
+"pron": "YEH-lee"
+},
+"jelo": {
+"en": "dish; meal",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "YEH-lo"
+},
+"jeo": {
+"en": "ate (he)",
+"note": "Past tense, man",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "YEH-oh"
+},
+"jesam": {
+"en": "yes, I am",
+"note": "Emphatic \"I am\" in a yes answer",
+"tags": [
+"verb",
+"present"
+],
+"pron": "YEH-sahm",
+"entry": "jesam"
+},
+"jesi": {
+"en": "are you; you are",
+"note": "Used to ask: \"jesi li…?\"",
+"tags": [
+"verb",
+"present"
+],
+"pron": "YEH-see",
+"entry": "jesam"
+},
+"jesmo": {
+"en": "yes, we are",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "YES-mo",
+"entry": "jesam"
+},
+"jeste": {
+"en": "yes, it is; that's right",
+"note": "\"Jeste\" = indeed",
+"tags": [
+"verb",
+"present"
+],
+"pron": "YEH-steh",
+"entry": "aha"
+},
+"jesu": {
+"en": "yes, they are",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "YEH-soo",
+"entry": "jesam"
+},
+"jezik": {
+"en": "language; tongue",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "YEH-zeek"
+},
+"jezika": {
+"en": "of the language",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "YEH-zee-kah"
+},
+"joj": {
+"en": "oh no; aw; ouch",
+"note": "Sympathy or complaint",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "YOY",
+"entry": "joj"
+},
+"još": {
+"en": "still; more; yet",
+"note": "\"Još malo\" = a little more",
+"tags": [
+"adv"
+],
+"pron": "yohsh"
+},
+"jutro": {
+"en": "morning",
+"note": "\"Dobro jutro\" = good morning",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "YOO-tro"
+},
+"juče": {
+"en": "yesterday",
+"tags": [
+"adv"
+],
+"pron": "YOO-cheh",
+"entry": "danas-sutra-juce"
+},
+"kad": {
+"en": "when; if",
+"note": "Short for kada",
+"tags": [
+"particle",
+"casual"
+],
+"pron": "KAHD",
+"entry": "kad"
+},
+"kada": {
+"en": "when",
+"note": "Fuller form of kad",
+"tags": [
+"particle"
+],
+"pron": "KAH-dah",
+"entry": "kad"
+},
+"kafa": {
+"en": "coffee",
+"note": "Serbian coffee is strong, served with a glass of water",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "KAH-fah",
+"entry": "kafa"
+},
+"kafana": {
+"en": "tavern; café-bar",
+"note": "A traditional Serbian pub-café",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "KAH-fah-nah",
+"entry": "kafic"
+},
+"kafe": {
+"en": "coffee (as in \"coffee shop\")",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "KAH-feh",
+"entry": "kafa"
+},
+"kafić": {
+"en": "café",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "KAH-feech",
+"entry": "kafic"
+},
+"kafića": {
+"en": "of the café",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "KAH-fee-chah"
+},
+"kafiću": {
+"en": "at the café",
+"note": "Locative: \"u kafiću\"",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "KAH-fee-choo"
+},
+"kafu": {
+"en": "coffee (object)",
+"note": "Accusative of kafa: \"pijem kafu\"",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "KAH-foo",
+"entry": "kafa"
+},
+"kakav": {
+"en": "what kind (masc)",
+"note": "\"Kakav je…?\" = what's it like?",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "KAH-kahv"
+},
+"kako": {
+"en": "how",
+"tags": [
+"particle"
+],
+"pron": "KAH-ko",
+"entry": "kako"
+},
+"kakva": {
+"en": "what kind (fem)",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "KAHK-vah"
+},
+"kakvo": {
+"en": "what kind (neuter)",
+"tags": [
+"pron",
+"neut"
+],
+"pron": "KAHK-vo"
+},
+"kanade": {
+"en": "Canada (of)",
+"note": "\"Iz Kanade\" = from Canada",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "KAH-nah-deh"
+},
+"kanadi": {
+"en": "in Canada",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "KAH-nah-dee"
+},
+"kanađanin": {
+"en": "Canadian (man)",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "kah-NAH-jah-neen"
+},
+"kanađanka": {
+"en": "Canadian (woman)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "kah-NAH-jahn-kah"
+},
+"kao": {
+"en": "like; as",
+"note": "Also \"as if\" or \"kind of\": kao da = as if",
+"tags": [
+"particle"
+],
+"pron": "KAH-oh",
+"entry": "ono"
+},
+"kao da": {
+"en": "as if; like",
+"note": "\"Kao da\" = as if, as though",
+"tags": [
+"conj"
+],
+"pron": "KAH-oh dah"
+},
+"kapiram": {
+"en": "I get it; I understand",
+"note": "Slang, from Italian",
+"tags": [
+"verb",
+"present",
+"slang"
+],
+"pron": "KAH-pee-rahm"
+},
+"karta": {
+"en": "ticket; map; card",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "KAHR-tah"
+},
+"kartica": {
+"en": "card",
+"note": "Bank card, loyalty card, etc.",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "KAHR-tee-tsah"
+},
+"kartu": {
+"en": "card; ticket (object)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "KAHR-too"
+},
+"kasni": {
+"en": "is late; running late",
+"note": "\"On kasni\" = he is late",
+"tags": [
+"verb",
+"present"
+],
+"pron": "KAHS-nee",
+"entry": "kasnim"
+},
+"kasnije": {
+"en": "later",
+"tags": [
+"adv"
+],
+"pron": "KAHS-nee-yeh"
+},
+"kasnila": {
+"en": "was late (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "KAHS-nee-lah"
+},
+"kasnili": {
+"en": "were late (they)",
+"tags": [
+"verb",
+"past",
+"plural"
+],
+"pron": "KAHS-nee-lee"
+},
+"kasnim": {
+"en": "I'm running late",
+"tags": [
+"verb",
+"present"
+],
+"pron": "KAHS-neem"
+},
+"kasnimo": {
+"en": "we're running late",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "KAHS-nee-mo",
+"entry": "kasnim"
+},
+"kasnio": {
+"en": "was late (he)",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "KAHS-nee-oh"
+},
+"kasnite": {
+"en": "you (plural / polite) are late",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "KAHS-nee-teh"
+},
+"kasniš": {
+"en": "you're late",
+"note": "Casual",
+"tags": [
+"verb",
+"present"
+],
+"pron": "KAHS-neesh",
+"entry": "kasnim"
+},
+"kasno": {
+"en": "late",
+"tags": [
+"adv"
+],
+"pron": "KAHS-no"
+},
+"kašnjenja": {
+"en": "of lateness; delay",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "KAHSH-nyeh-nyah"
+},
+"kaže": {
+"en": "says",
+"note": "\"On kaže\" = he says",
+"tags": [
+"verb",
+"present"
+],
+"pron": "KAH-zheh"
+},
+"kažem": {
+"en": "I say",
+"tags": [
+"verb",
+"present"
+],
+"pron": "KAH-zhem"
+},
+"kažeš": {
+"en": "you say",
+"tags": [
+"verb",
+"present"
+],
+"pron": "KAH-zhesh"
+},
+"kiša": {
+"en": "rain",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "KEE-shah"
+},
+"ključ": {
+"en": "key",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "KLYOOCH"
+},
+"ključeve": {
+"en": "keys",
+"tags": [
+"noun",
+"masc",
+"plural"
+],
+"pron": "KLYOO-cheh-veh"
+},
+"ključevi": {
+"en": "keys",
+"tags": [
+"noun",
+"masc",
+"plural"
+],
+"pron": "KLYOO-cheh-vee"
+},
+"ko": {
+"en": "who",
+"tags": [
+"pron"
+],
+"pron": "KOH",
+"entry": "ko"
+},
+"kod": {
+"en": "at (someone's place); near",
+"note": "\"Kod mene\" = at my place",
+"tags": [
+"prep"
+],
+"pron": "kod"
+},
+"koja": {
+"en": "which (fem); who",
+"note": "\"Koja je…?\" = which one (f.) is…?",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "KOH-yah",
+"entry": "koji"
+},
+"koje": {
+"en": "which (neuter / plural)",
+"tags": [
+"pron"
+],
+"pron": "KOH-yeh",
+"entry": "koji"
+},
+"koji": {
+"en": "which; what; who (masc)",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "KOH-yee",
+"entry": "koji"
+},
+"kolač": {
+"en": "cake; pastry",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "KOH-lahch"
+},
+"koliko": {
+"en": "how much; how many",
+"tags": [
+"adv"
+],
+"pron": "KOH-lee-ko",
+"entry": "koliko"
+},
+"košta": {
+"en": "costs",
+"note": "\"Koliko košta?\" = how much does it cost?",
+"tags": [
+"verb",
+"present"
+],
+"pron": "KOH-shtah"
+},
+"krevet": {
+"en": "bed",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "KREH-vet"
+},
+"krećem": {
+"en": "I'm leaving; I'm setting off",
+"tags": [
+"verb",
+"present"
+],
+"pron": "KREH-chem",
+"entry": "idem"
+},
+"kriv": {
+"en": "guilty; to blame (man)",
+"note": "\"Kriv sam\" = I'm to blame",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "KREEV"
+},
+"krug": {
+"en": "circle",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "KROOG"
+},
+"kuda": {
+"en": "where to; which way",
+"tags": [
+"particle"
+],
+"pron": "KOO-dah"
+},
+"kukaš": {
+"en": "you're complaining",
+"tags": [
+"verb",
+"present"
+],
+"pron": "KOO-kahsh"
+},
+"kul": {
+"en": "cool",
+"note": "Slang, from English",
+"tags": [
+"adj",
+"slang"
+],
+"pron": "KOOL",
+"entry": "cool"
+},
+"kunem": {
+"en": "I swear",
+"note": "\"Kunem se\" = I swear (on…)",
+"tags": [
+"verb",
+"present"
+],
+"pron": "KOO-nem"
+},
+"kuva": {
+"en": "cooks",
+"tags": [
+"verb",
+"present"
+],
+"pron": "KOO-vah"
+},
+"kuvam": {
+"en": "I cook",
+"tags": [
+"verb",
+"present"
+],
+"pron": "KOO-vahm"
+},
+"kuvanju": {
+"en": "cooking",
+"note": "\"Dobra u kuvanju\" = good at cooking",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "KOO-vah-nyoo"
+},
+"kuvarica": {
+"en": "(female) cook",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "koo-VAH-ree-tsah"
+},
+"kuvate": {
+"en": "you (plural / polite) cook",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "KOO-vah-teh",
+"entry": "odlicno-kuvate"
+},
+"kuvaš": {
+"en": "you cook",
+"note": "Casual",
+"tags": [
+"verb",
+"present"
+],
+"pron": "KOO-vahsh"
+},
+"kuća": {
+"en": "house; home",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "KOO-chah",
+"entry": "stan"
+},
+"kuće": {
+"en": "of the house; houses",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "KOO-cheh"
+},
+"kući": {
+"en": "at home; to the house",
+"note": "Dative/locative of kuća",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "KOO-chee"
+},
+"kvadrat": {
+"en": "square",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "KVAH-draht"
+},
+"l'": {
+"en": "short for \"li\" (question marker)",
+"note": "Spoken short form: \"Je l' si gladna?\" = \"Jesi li gladna?\"",
+"tags": [
+"particle",
+"casual"
+],
+"pron": "leh"
+},
+"laku": {
+"en": "good; light; easy (in \"laku noć\")",
+"note": "\"Laku noć\" = good night. Literally \"light night\"",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "LAH-koo"
+},
+"laku noć": {
+"en": "good night",
+"note": "Literally \"light night\". Say it before bed",
+"tags": [
+"interj"
+],
+"pron": "LAH-koo NOHTCH",
+"entry": "laku-noc"
+},
+"lep": {
+"en": "handsome; nice-looking (man)",
+"note": "Said to a man. Feminine: lepa",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "LEHP"
+},
+"lepa": {
+"en": "beautiful; pretty (woman)",
+"note": "Matches a woman or feminine noun",
+"tags": [
+"adj",
+"fem",
+"flirty"
+],
+"pron": "LEH-pah"
+},
+"lepo": {
+"en": "nicely; nice; beautifully",
+"note": "Doesn't change as an adverb. Ijekavian: lijepo",
+"tags": [
+"adv",
+"neut"
+],
+"pron": "LEH-po"
+},
+"lepotica": {
+"en": "beauty; a beautiful woman",
+"note": "Compliment, a bit sweet",
+"tags": [
+"noun",
+"fem",
+"flirty"
+],
+"pron": "leh-poh-TEE-tsah"
+},
+"lepotice": {
+"en": "beautiful (calling her)",
+"note": "Vocative of lepotica: \"Laku noć, lepotice\"",
+"tags": [
+"noun",
+"fem",
+"flirty"
+],
+"pron": "leh-poh-TEE-tseh"
+},
+"levo": {
+"en": "left; to the left",
+"tags": [
+"adv"
+],
+"pron": "LEH-vo",
+"entry": "levo-desno"
+},
+"li": {
+"en": "(question marker)",
+"note": "Turns a statement into a yes/no question: \"Jesi li gladna?\"",
+"tags": [
+"particle"
+],
+"pron": "lee"
+},
+"lijepa": {
+"en": "beautiful; pretty (woman)",
+"note": "Ijekavian of lepa",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "LEE-yeh-pah"
+},
+"lijepo": {
+"en": "nicely; nice",
+"note": "Ijekavian of lepo",
+"tags": [
+"adv",
+"neut"
+],
+"pron": "LEE-yeh-po"
+},
+"linija": {
+"en": "line",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "LEE-nee-yah",
+"entry": "oblici"
+},
+"ljubav": {
+"en": "love",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "LYOO-bahv"
+},
+"ljubavi": {
+"en": "my love; sweetheart",
+"note": "Calling her/him \"my love\" (vocative). Also: of love",
+"tags": [
+"noun",
+"fem",
+"flirty"
+],
+"pron": "LYOO-bah-vee",
+"entry": "ljubavi"
+},
+"ljubazna": {
+"en": "kind; polite (woman)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "LYOO-bahz-nah"
+},
+"ljubazni": {
+"en": "kind; polite (plural / masc)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "LYOO-bahz-nee"
+},
+"ljubi": {
+"en": "kisses; kiss",
+"tags": [
+"verb",
+"present"
+],
+"pron": "LYOO-bee"
+},
+"ljubim": {
+"en": "I kiss",
+"note": "\"Ljubim te\" = kisses (sign-off)",
+"tags": [
+"verb",
+"present",
+"flirty"
+],
+"pron": "LYOO-beem"
+},
+"ljubimo": {
+"en": "we kiss",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "LYOO-bee-mo"
+},
+"ljudi": {
+"en": "people",
+"tags": [
+"noun",
+"plural"
+],
+"pron": "LYOO-dee"
+},
+"ljut": {
+"en": "angry (man)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "LYOOT"
+},
+"ljuta": {
+"en": "angry (woman)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "LYOO-tah"
+},
+"ljuti": {
+"en": "angry; (get) angry",
+"note": "\"Ne ljuti se\" = don't be mad",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "LYOO-tee"
+},
+"ljutite": {
+"en": "you (plural / polite) are angry",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "LYOO-tee-teh"
+},
+"ljutiš": {
+"en": "you're angry",
+"note": "\"Zašto se ljutiš?\" = why are you mad?",
+"tags": [
+"verb",
+"present"
+],
+"pron": "LYOO-teesh"
+},
+"ljuto": {
+"en": "angry (it); spicy",
+"note": "Neuter: also \"spicy hot\" for food",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "LYOO-to"
+},
+"lokaciju": {
+"en": "location (object)",
+"note": "\"Pošalji lokaciju\" = send your location",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "LOH-kah-tsee-yoo"
+},
+"loš": {
+"en": "bad (man); a bad one",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "LOHSH"
+},
+"loša": {
+"en": "bad (woman / fem noun)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "LOH-shah"
+},
+"loše": {
+"en": "bad; badly",
+"note": "\"Nije loše\" = not bad",
+"tags": [
+"adv",
+"neut"
+],
+"pron": "LOH-sheh",
+"entry": "dobro-lose"
+},
+"lud": {
+"en": "crazy (man)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "LOOD"
+},
+"luda": {
+"en": "crazy (woman)",
+"note": "\"Luda si\" = you're crazy (playful)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "LOO-dah"
+},
+"ludača": {
+"en": "crazy woman; nutcase",
+"note": "Teasing noun",
+"tags": [
+"noun",
+"fem",
+"slang"
+],
+"pron": "LOO-dah-chah",
+"entry": "luda-si"
+},
+"ludilo": {
+"en": "craziness; wow",
+"note": "Used as a reaction: \"Ludilo!\" = crazy! / wow!",
+"tags": [
+"noun",
+"neut",
+"slang"
+],
+"pron": "LOO-dee-lo",
+"entry": "ludilo"
+},
+"ma": {
+"en": "come on; oh",
+"note": "Opener that adds attitude: \"Ma daj!\"",
+"tags": [
+"particle",
+"casual"
+],
+"pron": "mah"
+},
+"ma daj": {
+"en": "no way; come on",
+"note": "\"Ma\" adds attitude to \"daj\" (give). Disbelief or encouragement",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "mah DAH-ee",
+"entry": "ma-daj"
+},
+"ma nemoj": {
+"en": "yeah right; no way",
+"note": "Sarcastic disbelief",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "mah NEH-moy",
+"entry": "ma-nemoj"
+},
+"majka": {
+"en": "mother",
+"note": "Formal/proper for \"mom\": mama is used day to day",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "MAHY-kah"
+},
+"majke": {
+"en": "mother's; of mother",
+"note": "In \"majke mi\" = I swear (on my mom)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "MAHY-keh"
+},
+"majke mi": {
+"en": "I swear (on my mom)",
+"note": "Mild oath. Literally \"by my mother\"",
+"tags": [
+"interj",
+"slang"
+],
+"pron": "MAHY-keh mee",
+"entry": "majke-mi"
+},
+"mala": {
+"en": "small; little (feminine)",
+"note": "Also a sweet \"my little one\" for a girl",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "MAH-lah"
+},
+"mali": {
+"en": "small; little (masc)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "MAH-lee",
+"entry": "veliko-malo"
+},
+"malo": {
+"en": "a little; a bit",
+"note": "\"Malo\" is used as a softener everywhere",
+"tags": [
+"adv"
+],
+"pron": "MAH-lo"
+},
+"mama": {
+"en": "mom",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "MAH-mah",
+"entry": "mama-tata"
+},
+"mame": {
+"en": "mom's; of mom",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "MAH-meh"
+},
+"mami": {
+"en": "to mom",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "MAH-mee"
+},
+"mamu": {
+"en": "mom (as object)",
+"note": "\"Zovem mamu\" = I'm calling my mom",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "MAH-moo"
+},
+"manje": {
+"en": "less; fewer",
+"note": "\"Manje nego\" = less than",
+"tags": [
+"adv"
+],
+"pron": "MAH-nyeh"
+},
+"marka": {
+"en": "Marka (a name)",
+"tags": [
+"name"
+],
+"pron": "MAHR-kah"
+},
+"marko": {
+"en": "Marko",
+"note": "A male name",
+"tags": [
+"name",
+"masc"
+],
+"pron": "MAHR-ko"
+},
+"marš": {
+"en": "get lost; march",
+"note": "Rude \"scram\"; \"marš!\" can also sound playful",
+"tags": [
+"interj",
+"slang"
+],
+"pron": "MAHRSH",
+"entry": "mars"
+},
+"me": {
+"en": "me",
+"note": "Short form of me: \"voliš me\"",
+"tags": [
+"pron"
+],
+"pron": "meh"
+},
+"mene": {
+"en": "me",
+"note": "Stressed form of me: \"mene\" (after a preposition or for emphasis)",
+"tags": [
+"pron"
+],
+"pron": "MEH-neh",
+"entry": "ja-mi"
+},
+"meni": {
+"en": "to me; for me",
+"note": "\"Meni je dobro\" = it's good for me",
+"tags": [
+"pron"
+],
+"pron": "MEH-nee",
+"entry": "ja-mi"
+},
+"meso": {
+"en": "meat",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "MEH-so"
+},
+"met": {
+"en": "Matt",
+"note": "Matt's name in Serbian spelling",
+"tags": [
+"name",
+"masc"
+],
+"pron": "MET"
+},
+"međutim": {
+"en": "however",
+"note": "Formal-ish \"however\"",
+"tags": [
+"conj",
+"formal"
+],
+"pron": "meh-JOO-teem",
+"entry": "ali"
+},
+"mi": {
+"en": "we; to me",
+"note": "Two jobs: \"we\" (mi smo) and short \"to me\" (sviđaš mi se)",
+"tags": [
+"pron"
+],
+"pron": "mee",
+"entry": "ja-mi"
+},
+"milo": {
+"en": "nice; sweet; dear",
+"note": "\"Milo mi je\" = I'm glad; also \"milo\" = sweet",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "MEE-lo"
+},
+"minuta": {
+"en": "minute",
+"note": "\"Pet minuta\" = five minutes",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "mee-NOO-tah"
+},
+"miru": {
+"en": "peace",
+"note": "\"Daj mi mira\" = leave me in peace",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "MEE-roo"
+},
+"misli": {
+"en": "thinks; think",
+"note": "He/she thinks, or \"think!\"",
+"tags": [
+"verb",
+"present"
+],
+"pron": "MEE-slee"
+},
+"mislila": {
+"en": "thought (she)",
+"note": "Past tense, woman",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "MEE-slee-lah"
+},
+"mislim": {
+"en": "I think",
+"note": "\"Mislim da…\" = I think that…. \"Mislim na tebe\" = I'm thinking of you",
+"tags": [
+"verb",
+"present"
+],
+"pron": "MEE-sleem"
+},
+"mislimo": {
+"en": "we think",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "MEE-slee-mo"
+},
+"mislio": {
+"en": "thought (he)",
+"note": "Past tense, man",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "MEE-slee-oh"
+},
+"misliš": {
+"en": "you think",
+"note": "\"Šta misliš?\" = what do you think?",
+"tags": [
+"verb",
+"present"
+],
+"pron": "MEE-sleesh"
+},
+"mlađa": {
+"en": "younger (woman / fem)",
+"note": "\"Mlađa sestra\" = younger sister",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "MLAH-jah"
+},
+"mnogo": {
+"en": "a lot; very; many",
+"tags": [
+"adv"
+],
+"pron": "MNOH-go"
+},
+"mnom": {
+"en": "with me",
+"note": "Instrumental of ja: \"sa mnom\"",
+"tags": [
+"pron"
+],
+"pron": "MNOHM"
+},
+"mog": {
+"en": "my (of him/it)",
+"note": "Genitive/accusative of moj: \"ljubav mog života\" = love of my life",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "mohg"
+},
+"mogu": {
+"en": "I can; I may",
+"note": "From moći",
+"tags": [
+"verb",
+"present"
+],
+"pron": "MOH-goo",
+"entry": "mogu"
+},
+"moj": {
+"en": "my (masculine)",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "MOY",
+"entry": "moj"
+},
+"moja": {
+"en": "my (feminine)",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "MOH-yah",
+"entry": "moj"
+},
+"moje": {
+"en": "my (neuter / plural)",
+"tags": [
+"pron",
+"neut"
+],
+"pron": "MOH-yeh",
+"entry": "moj"
+},
+"moji": {
+"en": "my (plural masc)",
+"tags": [
+"pron",
+"plural"
+],
+"pron": "MOH-yee"
+},
+"mojim": {
+"en": "with my; my (plural)",
+"tags": [
+"pron",
+"plural"
+],
+"pron": "MOH-yeem"
+},
+"moju": {
+"en": "my (feminine, object)",
+"note": "\"Moju mamu\" = my mom (object)",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "MOH-yoo"
+},
+"molim": {
+"en": "please; I beg your pardon",
+"note": "Also \"pardon?\" or \"you're welcome\". \"Molim te\" = please (casual)",
+"tags": [
+"verb",
+"present"
+],
+"pron": "MOH-leem",
+"entry": "sta"
+},
+"molim te": {
+"en": "please (casual)",
+"note": "\"Te\" = you. Use with friends and family",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "MOH-leem teh",
+"entry": "please"
+},
+"molim vas": {
+"en": "please (polite)",
+"note": "\"Vas\" = you (polite / plural). With elders and strangers",
+"tags": [
+"interj",
+"formal"
+],
+"pron": "MOH-leem vahs",
+"entry": "please"
+},
+"momak": {
+"en": "young man; boyfriend",
+"note": "Used for a guy / a boyfriend",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "MOH-mahk"
+},
+"momci": {
+"en": "guys; lads",
+"note": "Plural of momak, friendly",
+"tags": [
+"noun",
+"masc",
+"plural"
+],
+"pron": "MOHM-tsee"
+},
+"mora": {
+"en": "has to; must",
+"note": "\"Mora da je kasno\" = it must be late",
+"tags": [
+"verb",
+"present"
+],
+"pron": "MOH-rah",
+"entry": "moram"
+},
+"moraju": {
+"en": "they have to",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "MOH-rah-yoo",
+"entry": "moram"
+},
+"moram": {
+"en": "I have to; I must",
+"tags": [
+"verb",
+"present"
+],
+"pron": "MOH-rahm",
+"entry": "moram"
+},
+"moramo": {
+"en": "we have to",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "MOH-rah-mo",
+"entry": "moram"
+},
+"morate": {
+"en": "you (plural / polite) have to",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "MOH-rah-teh",
+"entry": "moram"
+},
+"moraš": {
+"en": "you have to",
+"note": "Casual",
+"tags": [
+"verb",
+"present"
+],
+"pron": "MOH-rahsh",
+"entry": "moram"
+},
+"more": {
+"en": "sea",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "MOH-reh"
+},
+"možda": {
+"en": "maybe; perhaps",
+"tags": [
+"adv"
+],
+"pron": "MOHZH-dah",
+"entry": "mozda"
+},
+"može": {
+"en": "it can; OK; sure",
+"note": "\"Može\" = OK. Also \"he/she can\"",
+"tags": [
+"verb",
+"present"
+],
+"pron": "MOH-zheh",
+"entry": "moze"
+},
+"možemo": {
+"en": "we can; can we",
+"note": "\"Možemo li…?\" = can we…?",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "MOH-zheh-mo",
+"entry": "mogu"
+},
+"možete": {
+"en": "you (plural / polite) can",
+"note": "\"Možete li…?\" = could you…?",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "MOH-zheh-teh",
+"entry": "mogu"
+},
+"možeš": {
+"en": "you can",
+"note": "Casual: \"možeš li…?\" = can you…?",
+"tags": [
+"verb",
+"present"
+],
+"pron": "MOH-zhesh",
+"entry": "mogu"
+},
+"mrtav": {
+"en": "dead (man)",
+"note": "\"Mrtav umoran\" = dead tired",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "MRR-tahv"
+},
+"mu": {
+"en": "him; to him",
+"note": "Short \"to him\": \"kaže mu\" = tells him",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "moo"
+},
+"muzika": {
+"en": "music",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "MOO-zee-kah"
+},
+"muziku": {
+"en": "music (object)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "MOO-zee-koo"
+},
+"na": {
+"en": "on; at; to",
+"note": "\"Na\" is the all-purpose preposition: on, at, to, onto",
+"tags": [
+"prep"
+],
+"pron": "nah",
+"entry": "u-na"
+},
+"nacrtala": {
+"en": "drew (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "nah-TSUR-tah-lah"
+},
+"najbolja": {
+"en": "the best (fem)",
+"note": "\"Najbolja\" = best",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "NAI-bohl-yah"
+},
+"najbolje": {
+"en": "the best (neuter); best",
+"note": "\"Najbolje\" = the best way",
+"tags": [
+"adv"
+],
+"pron": "NAI-bol-yeh"
+},
+"najbolji": {
+"en": "the best (masc)",
+"note": "Superlative of dobar: \"najbolji prijatelj\" = best friend",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "NAI-bohl-yee"
+},
+"najgora": {
+"en": "the worst (fem)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "NAI-go-rah"
+},
+"nam": {
+"en": "to us",
+"note": "Short \"to us\": \"reci nam\" = tell us",
+"tags": [
+"pron"
+],
+"pron": "nahm"
+},
+"nama": {
+"en": "us (after a preposition)",
+"note": "\"Kod nas\" / \"sa nama\"",
+"tags": [
+"pron"
+],
+"pron": "NAH-mah"
+},
+"naporan": {
+"en": "exhausting; tough (masc)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "NAH-poh-rahn"
+},
+"naravno": {
+"en": "of course",
+"tags": [
+"adv"
+],
+"pron": "nah-RAHV-no",
+"entry": "naravno"
+},
+"nas": {
+"en": "us; our",
+"note": "\"Nas je troje\" = there are three of us",
+"tags": [
+"pron"
+],
+"pron": "NAHS"
+},
+"nasmejava": {
+"en": "makes (him/her) laugh",
+"tags": [
+"verb",
+"present"
+],
+"pron": "nah-smeh-YAH-vah"
+},
+"nasmejavam": {
+"en": "I make (you) laugh",
+"tags": [
+"verb",
+"present"
+],
+"pron": "nah-smeh-YAH-vahm"
+},
+"nasmejavaš": {
+"en": "you make me laugh",
+"note": "\"Nasmejavaš me\" = you make me laugh",
+"tags": [
+"verb",
+"present",
+"flirty"
+],
+"pron": "nah-smeh-YAH-vahsh"
+},
+"nasmijavaš": {
+"en": "you make (me) laugh",
+"note": "Ijekavian of nasmejavaš",
+"tags": [
+"verb",
+"present"
+],
+"pron": "nah-smee-YAH-vahsh"
+},
+"nazdravlje": {
+"en": "cheers; bless you",
+"note": "Toast: to your health. Also what you say after a sneeze",
+"tags": [
+"interj"
+],
+"pron": "nahz-DRAHV-lyeh",
+"entry": "zivili"
+},
+"nazovi": {
+"en": "call (command)",
+"note": "\"Nazovi me\" = call me",
+"tags": [
+"verb",
+"command"
+],
+"pron": "NAH-zoh-vee"
+},
+"nazvaću": {
+"en": "I'll call",
+"note": "\"Nazvaću te\" = I'll call you",
+"tags": [
+"verb",
+"future"
+],
+"pron": "nahz-VAH-choo"
+},
+"nađe": {
+"en": "finds; meets",
+"tags": [
+"verb",
+"present"
+],
+"pron": "NAH-jeh"
+},
+"nađemo": {
+"en": "we find; we meet",
+"note": "\"Gde da se nađemo?\" = where shall we meet?",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "NAH-jeh-mo"
+},
+"nađimo": {
+"en": "let's meet; let's find",
+"tags": [
+"verb",
+"command",
+"plural"
+],
+"pron": "NAH-jee-mo"
+},
+"naš": {
+"en": "our (masc)",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "NAHSH"
+},
+"ne": {
+"en": "no; not",
+"note": "Goes right before the verb: ne znam",
+"tags": [
+"particle"
+],
+"pron": "neh",
+"entry": "da-ne"
+},
+"nedelja": {
+"en": "Sunday; week",
+"note": "Ekavian: nedelja. Ijekavian: nedjelja",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "NEH-deh-lyah",
+"entry": "dani"
+},
+"nedelju": {
+"en": "Sunday (object); a week",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "NEH-deh-lyoo"
+},
+"nedjelja": {
+"en": "Sunday; week",
+"note": "Ijekavian of nedelja",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "NEH-dyeh-lyah"
+},
+"nedostaješ": {
+"en": "you're missing (to me)",
+"note": "\"Nedostaješ mi\" = I miss you. Fališ mi is more casual",
+"tags": [
+"verb",
+"present",
+"flirty"
+],
+"pron": "neh-doh-STAH-yesh"
+},
+"negazirana": {
+"en": "still (not fizzy)",
+"note": "\"Negazirana voda\" = still water",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "neh-gah-ZEE-rah-nah",
+"entry": "voda"
+},
+"negde": {
+"en": "somewhere",
+"tags": [
+"adv"
+],
+"pron": "NEG-deh"
+},
+"nego": {
+"en": "than; but rather",
+"note": "\"Više nego…\" = more than…",
+"tags": [
+"conj"
+],
+"pron": "NEH-go"
+},
+"neka": {
+"en": "let; some",
+"note": "\"Neka dođe\" = let her come. Also \"some\"",
+"tags": [
+"particle"
+],
+"pron": "NEH-kah"
+},
+"nema": {
+"en": "there isn't; has none",
+"note": "\"Nema veze\" = never mind",
+"tags": [
+"verb",
+"present"
+],
+"pron": "NEH-mah",
+"entry": "nemam"
+},
+"nema na čemu": {
+"en": "you're welcome",
+"note": "Literally \"there's nothing to thank for\"",
+"tags": [
+"interj"
+],
+"pron": "NEH-mah nah CHEH-moo",
+"entry": "thank-you"
+},
+"nema problema": {
+"en": "no problem",
+"tags": [
+"interj"
+],
+"pron": "NEH-mah PROH-bleh-mah",
+"entry": "nema-veze"
+},
+"nema veze": {
+"en": "never mind; no worries",
+"note": "Literally \"there's no connection\"",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "NEH-mah VEH-zeh",
+"entry": "nema-veze"
+},
+"nemaju": {
+"en": "they don't have",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "NEH-mah-yoo",
+"entry": "nemam"
+},
+"nemam": {
+"en": "I don't have",
+"tags": [
+"verb",
+"present"
+],
+"pron": "NEH-mahm",
+"entry": "nemam"
+},
+"nemam pojma": {
+"en": "I have no idea",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "NEH-mahm POY-mah",
+"entry": "nzm"
+},
+"nemamo": {
+"en": "we don't have",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "NEH-mah-mo",
+"entry": "nemam"
+},
+"nemate": {
+"en": "you (plural / polite) don't have",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "NEH-mah-teh",
+"entry": "nemam"
+},
+"nemaš": {
+"en": "you don't have",
+"tags": [
+"verb",
+"present"
+],
+"pron": "NEH-mahsh",
+"entry": "nemam"
+},
+"nemoguć": {
+"en": "impossible (man)",
+"note": "\"Nemoguć sam\" = I'm impossible",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "NEH-moh-gooch"
+},
+"nemoguća": {
+"en": "impossible (woman)",
+"note": "\"Nemoguća si\" = you're impossible",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "NEH-moh-goo-chah"
+},
+"nemoj": {
+"en": "don't",
+"note": "\"Nemoj\" + da/verb = don't! Casual",
+"tags": [
+"verb",
+"command"
+],
+"pron": "NEH-moy"
+},
+"nemojte": {
+"en": "don't (plural / polite)",
+"tags": [
+"verb",
+"command",
+"formal"
+],
+"pron": "NEH-moy-teh"
+},
+"neprijatno": {
+"en": "awkward; unpleasant",
+"note": "\"Neprijatno mi je\" = I'm uncomfortable",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "neh-PREE-yaht-no",
+"entry": "nezgodno"
+},
+"neverovatno": {
+"en": "unbelievable; amazing",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "neh-veh-ROH-vaht-no",
+"entry": "ludilo"
+},
+"nezgodan": {
+"en": "awkward; inconvenient (masc)",
+"note": "Careful: it doesn't mean \"inconvenient\" only; also awkward",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "NEZ-go-dahn"
+},
+"nezgodna": {
+"en": "awkward (fem)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "NEZ-god-nah"
+},
+"nezgodno": {
+"en": "awkward; inconvenient",
+"note": "\"Nezgodno je\" = it's awkward",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "NEZ-gohd-no",
+"entry": "nezgodno"
+},
+"neće": {
+"en": "won't; he/she won't",
+"tags": [
+"verb",
+"future"
+],
+"pron": "NEH-cheh",
+"entry": "necu"
+},
+"nećemo": {
+"en": "we won't",
+"tags": [
+"verb",
+"future",
+"plural"
+],
+"pron": "NEH-cheh-mo",
+"entry": "necu"
+},
+"nećete": {
+"en": "you (plural / polite) won't",
+"tags": [
+"verb",
+"future",
+"formal"
+],
+"pron": "NEH-cheh-teh",
+"entry": "necu"
+},
+"nećeš": {
+"en": "you won't",
+"tags": [
+"verb",
+"future"
+],
+"pron": "NEH-chesh",
+"entry": "necu"
+},
+"neću": {
+"en": "I won't",
+"note": "\"Neću\" = I won't (refusal)",
+"tags": [
+"verb",
+"future"
+],
+"pron": "NEH-choo",
+"entry": "necu"
+},
+"nečem": {
+"en": "something (about)",
+"note": "\"O nečem\" = about something",
+"tags": [
+"pron"
+],
+"pron": "NEH-chem"
+},
+"nešto": {
+"en": "something",
+"tags": [
+"pron"
+],
+"pron": "NEHSH-to"
+},
+"nije": {
+"en": "isn't; is not",
+"note": "\"Nije loše\" = not bad",
+"tags": [
+"verb",
+"present"
+],
+"pron": "NEE-yeh",
+"entry": "nisam"
+},
+"nikad": {
+"en": "never",
+"note": "\"Nikad\" before ne: nikad ne znam = I never know",
+"tags": [
+"adv"
+],
+"pron": "NEE-kahd"
+},
+"nisam": {
+"en": "I'm not",
+"tags": [
+"verb",
+"present"
+],
+"pron": "NEE-sahm",
+"entry": "nisam"
+},
+"nisi": {
+"en": "you're not",
+"tags": [
+"verb",
+"present"
+],
+"pron": "NEE-see",
+"entry": "nisam"
+},
+"nismo": {
+"en": "we're not",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "NEES-mo",
+"entry": "nisam"
+},
+"niste": {
+"en": "you (plural / polite) aren't",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "NEES-teh",
+"entry": "nisam"
+},
+"nisu": {
+"en": "they aren't",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "NEE-soo",
+"entry": "nisam"
+},
+"ništa": {
+"en": "nothing; nothing at all",
+"note": "\"Ništa\" = nothing; also a casual \"not much\"",
+"tags": [
+"pron"
+],
+"pron": "NEESH-tah",
+"entry": "nema-veze"
+},
+"nje": {
+"en": "her (of her)",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "NYEH"
+},
+"njega": {
+"en": "him",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "NYEH-gah"
+},
+"njegov": {
+"en": "his",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "NYEH-gov"
+},
+"njegova": {
+"en": "his (feminine)",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "NYEH-go-vah"
+},
+"njemu": {
+"en": "to him",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "NYEH-moo"
+},
+"njen": {
+"en": "her; hers (masc)",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "NYEHN"
+},
+"njena": {
+"en": "her; hers (fem)",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "NYEH-nah"
+},
+"njene": {
+"en": "her; hers (plural)",
+"tags": [
+"pron"
+],
+"pron": "NYEH-neh"
+},
+"njih": {
+"en": "them",
+"tags": [
+"pron",
+"plural"
+],
+"pron": "NYEEH"
+},
+"njihov": {
+"en": "their",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "NYEE-hov"
+},
+"njihova": {
+"en": "their (fem)",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "NYEE-ho-vah"
+},
+"njoj": {
+"en": "to her",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "NYOY"
+},
+"nju": {
+"en": "her",
+"note": "Object: \"volim nju\" = I love her",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "NYOO"
+},
+"nova": {
+"en": "new (feminine)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "NOH-vah"
+},
+"novo": {
+"en": "new (neuter)",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "NOH-vo"
+},
+"novog": {
+"en": "of the new; new (masc)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "NOH-vog"
+},
+"noć": {
+"en": "night",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "NOHTCH"
+},
+"nzm": {
+"en": "I don't know; idk",
+"note": "Text abbreviation for \"ne znam\"",
+"tags": [
+"interj",
+"slang"
+],
+"pron": "en-zeh-EM",
+"entry": "nzm"
+},
+"o": {
+"en": "about; of",
+"note": "\"O čemu?\" = about what?",
+"tags": [
+"prep"
+],
+"pron": "oh"
+},
+"obećavam": {
+"en": "I promise",
+"tags": [
+"verb",
+"present"
+],
+"pron": "oh-beh-CHAH-vahm"
+},
+"oboje": {
+"en": "both",
+"tags": [
+"num"
+],
+"pron": "OH-bo-yeh"
+},
+"obožavam": {
+"en": "I adore; I love",
+"note": "Stronger than volim",
+"tags": [
+"verb",
+"present",
+"flirty"
+],
+"pron": "oh-boh-ZHAH-vahm"
+},
+"od": {
+"en": "from; of; since",
+"tags": [
+"prep"
+],
+"pron": "od",
+"entry": "za-od"
+},
+"odakle": {
+"en": "where from",
+"note": "\"Odakle si?\" = where are you from?",
+"tags": [
+"particle"
+],
+"pron": "OH-dahk-leh"
+},
+"odavde": {
+"en": "from here",
+"tags": [
+"adv"
+],
+"pron": "OH-dahv-deh"
+},
+"odavno": {
+"en": "for a long time; long ago",
+"tags": [
+"adv"
+],
+"pron": "OH-dahv-no"
+},
+"odelu": {
+"en": "suit",
+"note": "Locative of odelo",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "OH-deh-loo"
+},
+"odgovara": {
+"en": "suits; answers",
+"note": "\"Odgovara mi\" = it suits me",
+"tags": [
+"verb",
+"present"
+],
+"pron": "od-GOH-vah-rah"
+},
+"odgovor": {
+"en": "answer; reply",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "OD-goh-vor"
+},
+"odjebi": {
+"en": "f*** off; get lost",
+"note": "Vulgar, strong",
+"tags": [
+"verb",
+"command",
+"vulgar"
+],
+"pron": "OD-yeh-bee",
+"entry": "jebi-se"
+},
+"odlazite": {
+"en": "you (plural / polite) are leaving",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "OD-lah-zee-teh"
+},
+"odlaziš": {
+"en": "you're leaving",
+"tags": [
+"verb",
+"present"
+],
+"pron": "OD-lah-zeesh"
+},
+"odličan": {
+"en": "excellent (masc)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "od-LEECH-ahn"
+},
+"odlična": {
+"en": "excellent (fem)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "od-LEECH-nah"
+},
+"odlično": {
+"en": "excellent; great",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "od-LEECH-no",
+"entry": "cool"
+},
+"odluči": {
+"en": "decide (he/she decides)",
+"tags": [
+"verb",
+"present"
+],
+"pron": "OHD-loo-chee"
+},
+"odvezem": {
+"en": "I drive (someone)",
+"note": "\"Odvezem te\" = I'll drive you",
+"tags": [
+"verb",
+"present"
+],
+"pron": "od-VEH-zem"
+},
+"ogroman": {
+"en": "huge (masc)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "oh-GROH-mahn",
+"entry": "veliko-malo"
+},
+"okrugao": {
+"en": "round (masc)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "OH-kroo-gah-oh"
+},
+"okrugla": {
+"en": "round (fem)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "OH-kroog-lah"
+},
+"omiljeno": {
+"en": "favourite",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "oh-MEE-lyeh-no"
+},
+"on": {
+"en": "he; it",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "OHN",
+"entry": "on-ona"
+},
+"ona": {
+"en": "she",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "OH-nah",
+"entry": "on-ona"
+},
+"onaj": {
+"en": "that one; the one (masc)",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "OH-nai",
+"entry": "ovaj-taj"
+},
+"onako": {
+"en": "like that; so-so",
+"tags": [
+"adv"
+],
+"pron": "OH-nah-ko",
+"entry": "dobro-sam"
+},
+"one": {
+"en": "those; they (feminine)",
+"tags": [
+"pron"
+],
+"pron": "OH-neh",
+"entry": "on-ona"
+},
+"oni": {
+"en": "they (masc / mixed)",
+"tags": [
+"pron",
+"plural"
+],
+"pron": "OH-nee",
+"entry": "on-ona"
+},
+"ono": {
+"en": "that; like; you know",
+"note": "Filler word, like \"like...\": ono, znaš",
+"tags": [
+"pron",
+"casual"
+],
+"pron": "OH-no",
+"entry": "ono"
+},
+"opet": {
+"en": "again",
+"tags": [
+"adv"
+],
+"pron": "OH-pet"
+},
+"osam": {
+"en": "eight",
+"tags": [
+"num"
+],
+"pron": "OH-sahm"
+},
+"osoba": {
+"en": "person",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "OH-soh-bah"
+},
+"ostajem": {
+"en": "I'm staying",
+"tags": [
+"verb",
+"present"
+],
+"pron": "oh-STAH-yem"
+},
+"ostane": {
+"en": "stays; stays behind",
+"tags": [
+"verb",
+"present"
+],
+"pron": "OH-stah-neh"
+},
+"ostanem": {
+"en": "I stay",
+"tags": [
+"verb",
+"present"
+],
+"pron": "OH-stah-nem"
+},
+"ostanemo": {
+"en": "we stay",
+"note": "\"Da ostanemo\" = that we stay",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "OH-stah-neh-mo"
+},
+"ostaneš": {
+"en": "you stay",
+"tags": [
+"verb",
+"present"
+],
+"pron": "OH-stah-nesh"
+},
+"ostavi": {
+"en": "leave (it); leave me alone",
+"note": "\"Ostavi me\" = leave me alone",
+"tags": [
+"verb",
+"command"
+],
+"pron": "OH-stah-vee"
+},
+"ostavila": {
+"en": "left (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "oh-STAH-vee-lah"
+},
+"ostavite": {
+"en": "leave (plural / polite)",
+"tags": [
+"verb",
+"command",
+"formal"
+],
+"pron": "oh-STAH-vee-teh"
+},
+"otac": {
+"en": "father",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "OH-tahts"
+},
+"otići": {
+"en": "to leave",
+"tags": [
+"verb"
+],
+"pron": "OH-tee-chee"
+},
+"otišao": {
+"en": "left (he)",
+"note": "Past tense, man",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "OH-tee-shah-oh"
+},
+"otkažem": {
+"en": "I cancel",
+"tags": [
+"verb",
+"present"
+],
+"pron": "OT-kah-zhem"
+},
+"ova": {
+"en": "this (feminine)",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "OH-vah"
+},
+"ovaj": {
+"en": "this (masculine); um",
+"note": "Also used as a filler, like \"um\"",
+"tags": [
+"pron",
+"masc",
+"casual"
+],
+"pron": "OH-vai",
+"entry": "ovaj-taj"
+},
+"ovde": {
+"en": "here",
+"note": "Ijekavian: ovdje",
+"tags": [
+"adv"
+],
+"pron": "OHV-deh",
+"entry": "ovde-tamo"
+},
+"ovdje": {
+"en": "here",
+"note": "Ijekavian of ovde",
+"tags": [
+"adv"
+],
+"pron": "OHV-dyeh"
+},
+"ovo": {
+"en": "this",
+"note": "\"Ovo je…\" = this is…",
+"tags": [
+"pron",
+"neut"
+],
+"pron": "OH-vo",
+"entry": "ovaj-taj"
+},
+"ovog": {
+"en": "this (of / acc.)",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "OH-vog"
+},
+"ovome": {
+"en": "this (dative / locative)",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "OH-vo-meh"
+},
+"ovu": {
+"en": "this (feminine, object)",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "OH-voo"
+},
+"ozbiljan": {
+"en": "serious (man)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "OHZ-bee-lyahn"
+},
+"ozbiljna": {
+"en": "serious (woman)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "OHZ-beel-nah"
+},
+"ozbiljno": {
+"en": "seriously",
+"tags": [
+"adv"
+],
+"pron": "OHZ-beel-yno",
+"entry": "stvarno"
+},
+"pa": {
+"en": "well; so; then; but",
+"note": "Filler that links a thought: \"Pa, ne znam…\" = well, I don't know…",
+"tags": [
+"particle",
+"casual"
+],
+"pron": "PAH",
+"entry": "pa"
+},
+"pada": {
+"en": "falls; (rain) falls",
+"note": "\"Pada kiša\" = it's raining",
+"tags": [
+"verb",
+"present"
+],
+"pron": "PAH-dah"
+},
+"paket": {
+"en": "package",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "PAH-ket"
+},
+"pametan": {
+"en": "smart (man)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "PAH-meh-tahn"
+},
+"pametna": {
+"en": "smart (woman)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "PAH-meht-nah"
+},
+"pardon": {
+"en": "pardon; excuse me",
+"note": "From French; polite \"excuse me\"",
+"tags": [
+"interj",
+"formal"
+],
+"pron": "pahr-DOHN",
+"entry": "sorry"
+},
+"pas": {
+"en": "dog",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "PAHS"
+},
+"pesma": {
+"en": "song",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "PEH-smah"
+},
+"pesmu": {
+"en": "song (object)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "PEH-smoo"
+},
+"pet": {
+"en": "five",
+"tags": [
+"num"
+],
+"pron": "PET"
+},
+"petak": {
+"en": "Friday",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "PEH-tahk",
+"entry": "dani"
+},
+"petka": {
+"en": "of Friday; on Friday",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "PET-kah"
+},
+"pevaš": {
+"en": "you sing",
+"tags": [
+"verb",
+"present"
+],
+"pron": "PEH-vahsh"
+},
+"picu": {
+"en": "pizza (object)",
+"note": "\"Jedem picu\" = I'm eating pizza",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "PEE-tsoo"
+},
+"pije": {
+"en": "drinks",
+"tags": [
+"verb",
+"present"
+],
+"pron": "PEE-yeh"
+},
+"pijem": {
+"en": "I drink",
+"tags": [
+"verb",
+"present"
+],
+"pron": "PEE-yem"
+},
+"pita": {
+"en": "pie; pastry; asks",
+"note": "Savory pastry like burek-style pie. Also \"he/she asks\"",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "PEE-tah"
+},
+"pitaj": {
+"en": "ask (command)",
+"note": "Casual",
+"tags": [
+"verb",
+"command"
+],
+"pron": "PEE-tai"
+},
+"pitajte": {
+"en": "ask (plural / polite)",
+"tags": [
+"verb",
+"command",
+"formal"
+],
+"pron": "PEE-tai-teh"
+},
+"pitala": {
+"en": "asked (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "PEE-tah-lah"
+},
+"pitam": {
+"en": "I ask",
+"note": "\"Pitam se\" = I wonder",
+"tags": [
+"verb",
+"present"
+],
+"pron": "PEE-tahm"
+},
+"pitao": {
+"en": "asked (he)",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "PEE-tah-oh"
+},
+"pitaš": {
+"en": "you ask",
+"tags": [
+"verb",
+"present"
+],
+"pron": "PEE-tahsh"
+},
+"pitu": {
+"en": "pie (object)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "PEE-too"
+},
+"piva": {
+"en": "beer (of); beers",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "PEE-vah",
+"entry": "pivo"
+},
+"pivo": {
+"en": "beer",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "PEE-vo",
+"entry": "pivo"
+},
+"pizzu": {
+"en": "pizza (object)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "PEE-tsoo"
+},
+"piće": {
+"en": "drink; beverage",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "PEE-cheh"
+},
+"piše": {
+"en": "writes",
+"tags": [
+"verb",
+"present"
+],
+"pron": "PEE-sheh"
+},
+"planinu": {
+"en": "mountain (object)",
+"note": "\"Idemo na planinu\" = we're going to the mountains",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "plah-NEE-noo"
+},
+"plate": {
+"en": "(you) pay; salaries",
+"note": "Also \"plate\" = they pay",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "PLAH-teh"
+},
+"platimo": {
+"en": "we pay",
+"note": "\"Da platimo\" = let's pay",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "PLAH-tee-mo"
+},
+"platio": {
+"en": "paid (he)",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "PLAH-tee-oh"
+},
+"plav": {
+"en": "blue (masculine); blond",
+"note": "Also \"blond\" for hair",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "PLAHV"
+},
+"plava": {
+"en": "blue (feminine); blonde",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "PLAH-vah"
+},
+"plave": {
+"en": "blue (plural feminine)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "PLAH-veh"
+},
+"plavo": {
+"en": "blue (neuter)",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "PLAH-vo"
+},
+"plaćam": {
+"en": "I pay",
+"tags": [
+"verb",
+"present"
+],
+"pron": "PLAH-chahm"
+},
+"plačem": {
+"en": "I cry",
+"tags": [
+"verb",
+"present"
+],
+"pron": "PLAH-chem"
+},
+"po": {
+"en": "per; by; to fetch",
+"note": "\"Doći po tebe\" = to come pick you up",
+"tags": [
+"prep"
+],
+"pron": "poh"
+},
+"pobedila": {
+"en": "won (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "poh-BEH-dee-lah"
+},
+"podelimo": {
+"en": "let's split; we split",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "poh-DEH-lee-mo"
+},
+"pogled": {
+"en": "view; look",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "POH-gled"
+},
+"pogledaj": {
+"en": "look; watch (command)",
+"tags": [
+"verb",
+"command"
+],
+"pron": "POH-gleh-dai"
+},
+"pogrešila": {
+"en": "made a mistake (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "poh-GREH-shee-lah"
+},
+"pogrešio": {
+"en": "made a mistake (he)",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "poh-GREH-shee-oh"
+},
+"pojma": {
+"en": "idea (of)",
+"note": "\"Nemam pojma\" = I have no idea",
+"tags": [
+"noun",
+"masc",
+"casual"
+],
+"pron": "POY-mah"
+},
+"pokvario": {
+"en": "broke; ruined (he)",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "POHK-vah-ree-oh"
+},
+"polako": {
+"en": "slowly; take it easy",
+"note": "A way of life: don't rush",
+"tags": [
+"adv",
+"casual"
+],
+"pron": "poh-LAH-ko",
+"entry": "polako"
+},
+"politici": {
+"en": "politics (about)",
+"note": "\"O politici\" = about politics. Often a touchy subject",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "POH-lee-tee-tsee"
+},
+"poljubaca": {
+"en": "kisses (of)",
+"tags": [
+"noun",
+"masc",
+"plural"
+],
+"pron": "poh-LYOO-bah-tsah"
+},
+"pomeren": {
+"en": "postponed; moved (it)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "POH-meh-ren"
+},
+"pomeri": {
+"en": "move; reschedule (command)",
+"tags": [
+"verb",
+"command"
+],
+"pron": "poh-MEH-ree"
+},
+"pomerim": {
+"en": "I move; I reschedule",
+"tags": [
+"verb",
+"present"
+],
+"pron": "poh-MEH-reem"
+},
+"pomerimo": {
+"en": "let's move; reschedule",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "poh-MEH-ree-mo"
+},
+"pomeriš": {
+"en": "you move; reschedule",
+"tags": [
+"verb",
+"present"
+],
+"pron": "poh-MEH-reesh"
+},
+"pomjerimo": {
+"en": "let's move; reschedule",
+"note": "Ijekavian of pomerimo",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "poh-MYEH-ree-mo"
+},
+"pomognem": {
+"en": "I help",
+"tags": [
+"verb",
+"present"
+],
+"pron": "poh-MOHG-nem"
+},
+"pomognete": {
+"en": "you (plural / polite) help",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "poh-MOHG-neh-teh"
+},
+"pomoći": {
+"en": "to help; help",
+"tags": [
+"verb"
+],
+"pron": "POH-mo-chee"
+},
+"ponedeljak": {
+"en": "Monday",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "poh-NEH-deh-lyahk"
+},
+"ponekad": {
+"en": "sometimes",
+"tags": [
+"adv"
+],
+"pron": "POH-neh-kahd"
+},
+"porodici": {
+"en": "family (to / in)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "poh-roh-DEE-tsee"
+},
+"porodicu": {
+"en": "family (object)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "poh-roh-DEE-tsoo"
+},
+"poruka": {
+"en": "message; text",
+"note": "Also the thing you text: \"poruka\"",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "POH-roo-kah"
+},
+"poruku": {
+"en": "message (object)",
+"note": "\"Pošalji poruku\" = send a message",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "POH-roo-koo"
+},
+"posao": {
+"en": "job; work",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "POH-sah-oh"
+},
+"posebno": {
+"en": "especially; special",
+"note": "\"Ništa posebno\" = nothing special",
+"tags": [
+"adv"
+],
+"pron": "POH-seh-bno"
+},
+"posla": {
+"en": "of work; of job",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "POH-slah"
+},
+"posle": {
+"en": "after; later",
+"tags": [
+"prep"
+],
+"pron": "POH-sleh"
+},
+"poslu": {
+"en": "at work",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "POH-sloo"
+},
+"pozdrav": {
+"en": "greeting; regards",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "POHZ-drahv",
+"entry": "cao"
+},
+"pozdravi": {
+"en": "greet; say hi (command)",
+"note": "\"Pozdravi mamu\" = say hi to your mom",
+"tags": [
+"verb",
+"command"
+],
+"pron": "pohz-DRAH-vee"
+},
+"pozdravite": {
+"en": "say hi (plural / polite)",
+"tags": [
+"verb",
+"command",
+"formal"
+],
+"pron": "pohz-DRAH-vee-teh"
+},
+"pozdravlja": {
+"en": "sends regards",
+"tags": [
+"verb",
+"present"
+],
+"pron": "pohz-DRAHV-lyah"
+},
+"pozdravljam": {
+"en": "I greet; I send regards",
+"tags": [
+"verb",
+"present"
+],
+"pron": "pohz-DRAHV-lyahm"
+},
+"pozivu": {
+"en": "invitation (to)",
+"note": "\"Hvala na pozivu\" = thanks for the invitation",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "POH-zee-voo"
+},
+"pozvali": {
+"en": "invited; called (they)",
+"tags": [
+"verb",
+"past",
+"plural"
+],
+"pron": "POHZ-vah-lee"
+},
+"počinje": {
+"en": "starts; begins",
+"tags": [
+"verb",
+"present"
+],
+"pron": "POH-chee-nyeh"
+},
+"pošalji": {
+"en": "send (command)",
+"tags": [
+"verb",
+"command"
+],
+"pron": "POH-shah-lyee"
+},
+"prava": {
+"en": "right; real (fem)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "PRAH-vah"
+},
+"pravi": {
+"en": "real; right (masc)",
+"note": "\"Pravi prijatelj\" = a real friend",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "PRAH-vee"
+},
+"pravo": {
+"en": "straight; right (correct)",
+"note": "\"Idi pravo\" = go straight",
+"tags": [
+"adv"
+],
+"pron": "PRAH-vo",
+"entry": "levo-desno"
+},
+"pravu": {
+"en": "real; right (object)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "PRAH-voo"
+},
+"praznici": {
+"en": "holidays",
+"tags": [
+"noun",
+"masc",
+"plural"
+],
+"pron": "PRAHZ-nee-tsee"
+},
+"pred": {
+"en": "before; in front of",
+"tags": [
+"prep"
+],
+"pron": "pred"
+},
+"prelep": {
+"en": "gorgeous (masc)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "PREH-lep"
+},
+"prelepa": {
+"en": "gorgeous (fem)",
+"note": "Stronger than lepa: \"prelepa si\" = you're stunning",
+"tags": [
+"adj",
+"fem",
+"flirty"
+],
+"pron": "preh-LEH-pah"
+},
+"prelepo": {
+"en": "gorgeous; lovely",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "preh-LEH-po"
+},
+"preskupo": {
+"en": "way too expensive",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "preh-SKOO-po"
+},
+"presrećan": {
+"en": "very happy (man)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "preh-SREH-chahn"
+},
+"prijatelj": {
+"en": "friend (male)",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "PREE-yah-tel",
+"entry": "prijatelj"
+},
+"prijatelji": {
+"en": "friends",
+"tags": [
+"noun",
+"masc",
+"plural"
+],
+"pron": "PREE-yah-teh-lyee",
+"entry": "prijatelj"
+},
+"prijateljica": {
+"en": "friend (female)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "pree-yah-teh-LYEE-tsah",
+"entry": "prijatelj"
+},
+"prijateljice": {
+"en": "friends (female)",
+"note": "Also \"of a friend\"",
+"tags": [
+"noun",
+"fem",
+"plural"
+],
+"pron": "pree-yah-teh-LYEE-tseh",
+"entry": "prijatelj"
+},
+"prijateljicom": {
+"en": "with a (female) friend",
+"note": "Instrumental of prijateljica",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "pree-yah-teh-LYEE-tsom"
+},
+"prijatno": {
+"en": "enjoy; pleasant",
+"note": "What you say before a meal: bon appétit",
+"tags": [
+"interj"
+],
+"pron": "PREE-yaht-no",
+"entry": "prijatno"
+},
+"priča": {
+"en": "talks; story",
+"note": "\"Priča\" = he/she talks; or a story",
+"tags": [
+"verb",
+"present"
+],
+"pron": "PREE-chah"
+},
+"pričaj": {
+"en": "talk (command)",
+"tags": [
+"verb",
+"command"
+],
+"pron": "PREE-chai"
+},
+"pričajmo": {
+"en": "let's talk",
+"tags": [
+"verb",
+"command",
+"plural"
+],
+"pron": "PREE-chai-mo"
+},
+"pričamo": {
+"en": "we talk",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "PREE-chah-mo"
+},
+"pričate": {
+"en": "you (plural / polite) talk",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "PREE-chah-teh"
+},
+"pričaš": {
+"en": "you talk",
+"tags": [
+"verb",
+"present"
+],
+"pron": "PREE-chahsh"
+},
+"priče": {
+"en": "stories",
+"tags": [
+"noun",
+"fem",
+"plural"
+],
+"pron": "PREE-cheh"
+},
+"probaš": {
+"en": "you try",
+"tags": [
+"verb",
+"present"
+],
+"pron": "PROH-bahsh"
+},
+"problem": {
+"en": "problem",
+"note": "\"Nema problema\" = no problem",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "PROH-blem"
+},
+"problema": {
+"en": "problems; of a problem",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "PROH-bleh-mah"
+},
+"provodimo": {
+"en": "we spend (time)",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "proh-VOH-dee-mo"
+},
+"prošao": {
+"en": "passed; went by (he)",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "PROH-shah-oh"
+},
+"prošla": {
+"en": "passed; last (she)",
+"note": "\"Prošle nedelje\" = last week",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "PROSH-lah"
+},
+"prošli": {
+"en": "passed (they); last (masc)",
+"tags": [
+"verb",
+"past",
+"plural"
+],
+"pron": "PROSH-lee"
+},
+"psa": {
+"en": "dog (object)",
+"note": "\"Dva psa\" = two dogs",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "PSAH"
+},
+"pun": {
+"en": "full (masc)",
+"note": "\"Pun sam\" = I'm full / \"kafić je pun\" = the cafe is full",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "POON"
+},
+"puno": {
+"en": "a lot; lots",
+"tags": [
+"adv"
+],
+"pron": "POO-no"
+},
+"put": {
+"en": "time; trip; road",
+"note": "\"Drugi put\" = next time",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "POOT"
+},
+"putujemo": {
+"en": "we travel",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "poo-TOO-yeh-mo"
+},
+"rade": {
+"en": "they work/do",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "RAH-deh",
+"entry": "radim"
+},
+"radi": {
+"en": "works; does",
+"note": "\"Radi\" = he/she works; or \"does\"",
+"tags": [
+"verb",
+"present"
+],
+"pron": "RAH-dee",
+"entry": "radim"
+},
+"radila": {
+"en": "worked; did (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "RAH-dee-lah"
+},
+"radim": {
+"en": "I work; I do",
+"tags": [
+"verb",
+"present"
+],
+"pron": "RAH-deem",
+"entry": "radim"
+},
+"radimo": {
+"en": "we work; we do",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "RAH-dee-mo",
+"entry": "radim"
+},
+"radite": {
+"en": "you (plural / polite) do",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "RAH-dee-teh",
+"entry": "radim"
+},
+"radiš": {
+"en": "you do; you work",
+"note": "\"Šta radiš?\" = what are you doing?",
+"tags": [
+"verb",
+"present"
+],
+"pron": "RAH-deesh",
+"entry": "radim"
+},
+"rado": {
+"en": "gladly; happily",
+"note": "\"Rado\" = with pleasure",
+"tags": [
+"adv"
+],
+"pron": "RAH-do"
+},
+"rakija": {
+"en": "rakija",
+"note": "Fruit brandy. A must at Serbian gatherings; often homemade",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "RAH-kee-yah",
+"entry": "rakija"
+},
+"rakije": {
+"en": "of rakija",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "RAH-kee-yeh",
+"entry": "rakija"
+},
+"rakiju": {
+"en": "rakija (object)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "RAH-kee-yoo",
+"entry": "rakija"
+},
+"razloga": {
+"en": "reason (of)",
+"note": "\"Bez razloga\" = for no reason",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "RAHZ-lo-gah"
+},
+"razumem": {
+"en": "I understand",
+"tags": [
+"verb",
+"present"
+],
+"pron": "rah-ZOO-mem",
+"entry": "aha"
+},
+"razumijem": {
+"en": "I understand",
+"note": "Ijekavian of razumem",
+"tags": [
+"verb",
+"present"
+],
+"pron": "rah-ZOO-mee-yem"
+},
+"račun": {
+"en": "bill; check; account",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "RAH-choon"
+},
+"redu": {
+"en": "order",
+"note": "\"U redu\" = OK; all right",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "REH-doo"
+},
+"rekao": {
+"en": "said (he)",
+"note": "Past tense, man. Feminine: rekla",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "REH-kah-oh"
+},
+"rekla": {
+"en": "said (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "REK-lah"
+},
+"restoran": {
+"en": "restaurant",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "reh-STOH-rahn"
+},
+"rodi": {
+"en": "is born",
+"note": "\"Hristos se rodi\" = Christ is born",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ROH-dee"
+},
+"roditelja": {
+"en": "of parents",
+"tags": [
+"noun",
+"masc",
+"plural"
+],
+"pron": "roh-DEE-teh-lyah"
+},
+"roditelje": {
+"en": "parents (object)",
+"note": "\"Pozdravi roditelje\" = say hi to your parents",
+"tags": [
+"noun",
+"masc",
+"plural"
+],
+"pron": "roh-DEE-teh-lyeh"
+},
+"roditelji": {
+"en": "parents",
+"tags": [
+"noun",
+"masc",
+"plural"
+],
+"pron": "roh-DEE-teh-lyee"
+},
+"roze": {
+"en": "pink",
+"note": "Never changes with the noun",
+"tags": [
+"adj"
+],
+"pron": "ROH-zeh",
+"entry": "boje"
+},
+"rođendan": {
+"en": "birthday",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "ROH-jen-dahn"
+},
+"ručak": {
+"en": "lunch",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "ROO-chahk"
+},
+"sa": {
+"en": "with",
+"tags": [
+"prep"
+],
+"pron": "sah",
+"entry": "sa-bez"
+},
+"sad": {
+"en": "now",
+"note": "Short for sada",
+"tags": [
+"adv",
+"casual"
+],
+"pron": "SAHD"
+},
+"sada": {
+"en": "now",
+"tags": [
+"adv"
+],
+"pron": "SAH-dah"
+},
+"salate": {
+"en": "salad (of); salads",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "sah-LAH-teh"
+},
+"sam": {
+"en": "I am; alone (masc)",
+"note": "\"Sam\" = \"I am\" (from biti) or \"alone\" (m.): sama (f.)",
+"tags": [
+"verb",
+"present"
+],
+"pron": "sahm",
+"entry": "to-be"
+},
+"sama": {
+"en": "alone; by herself",
+"note": "Also the feminine of \"sam\": alone",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "SAH-mah"
+},
+"samo": {
+"en": "only; just",
+"note": "\"Samo\" = just; \"samo malo\" = just a little",
+"tags": [
+"particle"
+],
+"pron": "SAH-mo"
+},
+"sanjaj": {
+"en": "dream (command)",
+"note": "\"Sanjaj me\" = dream of me",
+"tags": [
+"verb",
+"command",
+"flirty"
+],
+"pron": "SAH-nyai"
+},
+"sastanak": {
+"en": "meeting; date",
+"note": "Could mean a work meeting or a date",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "SAH-stah-nahk"
+},
+"sat": {
+"en": "hour; clock; watch",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "SAHT"
+},
+"sati": {
+"en": "hours",
+"note": "\"U koliko sati?\" = at what time?",
+"tags": [
+"noun",
+"masc",
+"plural"
+],
+"pron": "SAH-tee"
+},
+"sačekate": {
+"en": "you (plural / polite) wait",
+"note": "\"Sačekate li…?\" = could you wait?",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "sah-CHEH-kah-teh"
+},
+"se": {
+"en": "self; (reflexive)",
+"note": "Part of reflexive verbs: \"zovem se\" = I'm called",
+"tags": [
+"particle"
+],
+"pron": "seh"
+},
+"sebe": {
+"en": "oneself",
+"note": "\"Za sebe\" = for yourself",
+"tags": [
+"pron"
+],
+"pron": "SEH-beh"
+},
+"sedam": {
+"en": "seven",
+"note": "The number 7",
+"tags": [
+"num"
+],
+"pron": "SEH-dahm"
+},
+"sedite": {
+"en": "sit (plural / polite)",
+"note": "\"Sedite!\" = please sit down",
+"tags": [
+"verb",
+"command",
+"formal"
+],
+"pron": "SEH-dee-teh"
+},
+"seka": {
+"en": "sis",
+"note": "Informal for sestra: sister",
+"tags": [
+"noun",
+"fem",
+"slang"
+],
+"pron": "SEH-kah",
+"entry": "brat-sestra"
+},
+"seksi": {
+"en": "sexy",
+"tags": [
+"adj",
+"flirty"
+],
+"pron": "SEK-see"
+},
+"selo": {
+"en": "village",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "SEH-lo"
+},
+"selu": {
+"en": "village (in)",
+"note": "\"U selu\" = in the village",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "SEH-loo"
+},
+"sendvič": {
+"en": "sandwich",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "SEND-veech"
+},
+"serija": {
+"en": "TV series",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SEH-ree-yah"
+},
+"sestra": {
+"en": "sister",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SEH-strah",
+"entry": "brat-sestra"
+},
+"sestre": {
+"en": "sister's; of sister",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SEH-streh"
+},
+"sestru": {
+"en": "sister (object)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SEH-stroo"
+},
+"sećam": {
+"en": "I remember",
+"note": "\"Sećam se\" = I remember",
+"tags": [
+"verb",
+"present"
+],
+"pron": "SEH-chahm"
+},
+"si": {
+"en": "you are",
+"note": "\"Ti si…\" = you are…",
+"tags": [
+"verb",
+"present"
+],
+"pron": "see",
+"entry": "to-be"
+},
+"siguran": {
+"en": "sure; safe (man)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "SEE-goo-rahn"
+},
+"simpatična": {
+"en": "likeable; charming (fem)",
+"note": "A friendly, warm compliment",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "seem-pah-TEECH-nah"
+},
+"sinoć": {
+"en": "last night",
+"tags": [
+"adv"
+],
+"pron": "SEE-nohch",
+"entry": "veceras"
+},
+"sit": {
+"en": "full (after eating)",
+"note": "\"Sit sam\" = I'm full (man). Woman says \"sita sam\"",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "SEET"
+},
+"situacija": {
+"en": "situation",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "see-too-AH-tsee-yah"
+},
+"siv": {
+"en": "gray (masculine)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "SEEV"
+},
+"siva": {
+"en": "gray (feminine)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "SEE-vah"
+},
+"sivo": {
+"en": "gray (neuter)",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "SEE-vo"
+},
+"skreni": {
+"en": "turn (command)",
+"note": "\"Skreni levo\" = turn left",
+"tags": [
+"verb",
+"command"
+],
+"pron": "SKREH-nee",
+"entry": "levo-desno"
+},
+"skup": {
+"en": "expensive (masc)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "SKOOP"
+},
+"skupa": {
+"en": "expensive (fem)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "SKOO-pah"
+},
+"skupe": {
+"en": "expensive (plural fem)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "SKOO-peh"
+},
+"skupi": {
+"en": "expensive (plural masc)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "SKOO-pee"
+},
+"skuplje": {
+"en": "more expensive",
+"note": "Comparative of skup: \"skuplje nego…\"",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "SKOOP-lyeh"
+},
+"skupo": {
+"en": "expensive",
+"note": "\"Skupo je\" = it's expensive",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "SKOO-po"
+},
+"slatka": {
+"en": "sweet; cute (fem)",
+"note": "Compliment: \"slatka si\" = you're cute",
+"tags": [
+"adj",
+"fem",
+"flirty"
+],
+"pron": "SLAHT-kah"
+},
+"slatke": {
+"en": "sweet (plural fem)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "SLAHT-keh"
+},
+"slava": {
+"en": "slava; glory",
+"note": "A family's patron saint day. Big feast, open house",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SLAH-vah",
+"entry": "slava"
+},
+"slavi": {
+"en": "celebrates",
+"tags": [
+"verb",
+"present"
+],
+"pron": "SLAH-vee"
+},
+"slavite": {
+"en": "you (plural / polite) celebrate",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "SLAH-vee-teh"
+},
+"slavu": {
+"en": "slava (object)",
+"note": "\"Slavimo slavu\" = we celebrate our slava",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SLAH-voo"
+},
+"slažem": {
+"en": "I agree",
+"note": "\"Slažem se\" = I agree",
+"tags": [
+"verb",
+"present"
+],
+"pron": "SLAH-zhem"
+},
+"slici": {
+"en": "picture (in)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SLEE-tsee"
+},
+"slika": {
+"en": "picture; photo",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SLEE-kah"
+},
+"slobodan": {
+"en": "free (man)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "SLOH-bo-dahn"
+},
+"slobodna": {
+"en": "free (woman)",
+"note": "\"Kad si slobodna?\" = when are you free?",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "SLOHB-od-nah"
+},
+"slobodni": {
+"en": "free (plural)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "SLOHB-od-nee"
+},
+"slobodno": {
+"en": "feel free; freely",
+"note": "\"Slobodno\" = go ahead",
+"tags": [
+"adv"
+],
+"pron": "SLOH-bod-no"
+},
+"složila": {
+"en": "agreed (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "SLOH-zhee-lah"
+},
+"složio": {
+"en": "agreed (he)",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "SLOH-zhee-oh"
+},
+"smaraj": {
+"en": "bug; annoy (command)",
+"note": "Slang: \"ne smaraj me\" = don't bug me",
+"tags": [
+"verb",
+"command",
+"slang"
+],
+"pron": "SMAH-rai"
+},
+"smeh": {
+"en": "laughter; laugh",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "SMEH"
+},
+"smeha": {
+"en": "of laughter",
+"note": "\"Umirem od smeha\" = I'm dying of laughter",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "SMEH-hah"
+},
+"smeješ": {
+"en": "you laugh",
+"note": "\"Smeješ se\" = you're laughing",
+"tags": [
+"verb",
+"present"
+],
+"pron": "SMEH-yesh"
+},
+"smešan": {
+"en": "funny (man)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "SMEH-shahn"
+},
+"smešna": {
+"en": "funny (woman)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "SMESH-nah"
+},
+"smešno": {
+"en": "funny",
+"note": "\"Smešno je\" = it's funny",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "SMESH-no"
+},
+"smijeha": {
+"en": "of laughter",
+"note": "Ijekavian of smeha",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "SMEE-yeh-hah"
+},
+"smiješan": {
+"en": "funny (man)",
+"note": "Ijekavian of smešan",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "SMEE-yeh-shahn"
+},
+"smiješna": {
+"en": "funny (woman)",
+"note": "Ijekavian of smešna",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "SMEE-yesh-nah"
+},
+"smiješno": {
+"en": "funny",
+"note": "Ijekavian of smešno",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "SMEE-yesh-no"
+},
+"smo": {
+"en": "we are",
+"note": "\"Mi smo…\" = we are…",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "smoh"
+},
+"snove": {
+"en": "dreams",
+"tags": [
+"noun",
+"masc",
+"plural"
+],
+"pron": "SNOH-veh"
+},
+"sok": {
+"en": "juice",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "SOHK"
+},
+"spava": {
+"en": "sleeps",
+"tags": [
+"verb",
+"present"
+],
+"pron": "SPAH-vah",
+"entry": "spavaj"
+},
+"spavaj": {
+"en": "sleep (command)",
+"note": "\"Spavaj\" = sleep (well)",
+"tags": [
+"verb",
+"command"
+],
+"pron": "SPAH-vai",
+"entry": "spavaj"
+},
+"spavajte": {
+"en": "sleep (plural / polite)",
+"tags": [
+"verb",
+"command",
+"formal"
+],
+"pron": "SPAH-vai-teh",
+"entry": "spavaj"
+},
+"spavala": {
+"en": "slept (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "SPAH-vah-lah"
+},
+"spavali": {
+"en": "slept (they)",
+"tags": [
+"verb",
+"past",
+"plural"
+],
+"pron": "SPAH-vah-lee"
+},
+"spavam": {
+"en": "I sleep",
+"tags": [
+"verb",
+"present"
+],
+"pron": "SPAH-vahm",
+"entry": "spavaj"
+},
+"spavao": {
+"en": "slept (he)",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "SPAH-vah-oh"
+},
+"sranje": {
+"en": "crap; bullshit",
+"note": "Vulgar. Used for \"crap!\" or \"nonsense\"",
+"tags": [
+"noun",
+"neut",
+"vulgar"
+],
+"pron": "SRAH-nyeh",
+"entry": "sranje"
+},
+"srbije": {
+"en": "of Serbia",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SUR-bee-yeh"
+},
+"srbiji": {
+"en": "in Serbia",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SUR-bee-yee"
+},
+"srce": {
+"en": "heart",
+"note": "\"Srce moje\" = my heart (pet name)",
+"tags": [
+"noun",
+"neut",
+"flirty"
+],
+"pron": "SUHR-tseh",
+"entry": "ljubavi"
+},
+"sreda": {
+"en": "Wednesday",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SREH-dah"
+},
+"sredu": {
+"en": "Wednesday (on)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SREH-doo"
+},
+"sretnemo": {
+"en": "we meet; we run into",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "SRET-neh-mo"
+},
+"srećan": {
+"en": "happy (man); lucky",
+"note": "\"Srećan rođendan\" = happy birthday",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "SREH-chahn"
+},
+"srećan rođendan": {
+"en": "happy birthday",
+"tags": [
+"interj"
+],
+"pron": "SREH-chahn ROH-jen-dahn",
+"entry": "srecan-rodjendan"
+},
+"sreće": {
+"en": "of luck; happiness",
+"note": "\"Srećno\" = good luck",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SREH-cheh"
+},
+"srećna": {
+"en": "happy (woman)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "SRETCH-nah"
+},
+"srećna nova godina": {
+"en": "happy new year",
+"note": "\"Srećna\" is feminine because \"godina\" is",
+"tags": [
+"interj"
+],
+"pron": "SRETCH-nah NOH-vah GOH-dee-nah",
+"entry": "srecan-praznik"
+},
+"srećni": {
+"en": "happy (plural)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "SRETCH-nee"
+},
+"srpski": {
+"en": "Serbian (the language)",
+"note": "Language name, not capitalized",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "SUHR-pskee",
+"entry": "srpski-jezik"
+},
+"stalno": {
+"en": "constantly; always",
+"tags": [
+"adv"
+],
+"pron": "STAHL-no"
+},
+"stan": {
+"en": "apartment; flat",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "STAHN",
+"entry": "stan"
+},
+"stanica": {
+"en": "station; stop",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "STAH-nee-tsah"
+},
+"stanici": {
+"en": "at the station",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "STAH-nee-tsee"
+},
+"stanu": {
+"en": "apartment (in)",
+"note": "\"U stanu\" = in the apartment",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "STAH-noo"
+},
+"stariji": {
+"en": "older (masc)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "STAH-ree-yee"
+},
+"ste": {
+"en": "you are (plural / polite)",
+"note": "\"Vi ste\" = you are (polite / plural)",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "steh"
+},
+"stigao": {
+"en": "arrived (he)",
+"note": "\"Stigao sam\" = I've arrived",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "STEE-gah-oh"
+},
+"stigla": {
+"en": "arrived (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "STEEG-lah"
+},
+"stigli": {
+"en": "arrived (they)",
+"tags": [
+"verb",
+"past",
+"plural"
+],
+"pron": "STEEG-lee"
+},
+"stigne": {
+"en": "arrives; makes it",
+"tags": [
+"verb",
+"present"
+],
+"pron": "STEEG-neh"
+},
+"stignem": {
+"en": "I make it; I arrive",
+"tags": [
+"verb",
+"present"
+],
+"pron": "STEEG-nem"
+},
+"stignemo": {
+"en": "we make it",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "STEEG-neh-mo"
+},
+"stignete": {
+"en": "you (plural / polite) arrive",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "STEEG-neh-teh"
+},
+"stigneš": {
+"en": "you make it",
+"tags": [
+"verb",
+"present"
+],
+"pron": "STEEG-nesh"
+},
+"stignu": {
+"en": "they make it",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "STEEG-noo"
+},
+"stići": {
+"en": "to arrive",
+"tags": [
+"verb"
+],
+"pron": "STEE-chee"
+},
+"stiže": {
+"en": "arrives",
+"note": "\"Stiže\" = he/she is arriving",
+"tags": [
+"verb",
+"present"
+],
+"pron": "STEE-zheh"
+},
+"stižem": {
+"en": "I'm arriving",
+"tags": [
+"verb",
+"present"
+],
+"pron": "STEE-zhem"
+},
+"stižeš": {
+"en": "you're arriving",
+"tags": [
+"verb",
+"present"
+],
+"pron": "STEE-zhesh"
+},
+"stvarno": {
+"en": "really; truly",
+"note": "\"Stvarno?\" = really?",
+"tags": [
+"adv"
+],
+"pron": "STVAHR-no",
+"entry": "stvarno"
+},
+"su": {
+"en": "are (they)",
+"note": "\"Oni su…\" = they are…",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "soo"
+},
+"subota": {
+"en": "Saturday",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SOO-boh-tah",
+"entry": "dani"
+},
+"subotu": {
+"en": "Saturday (on)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SOO-boh-too"
+},
+"sumnjam": {
+"en": "I doubt (it)",
+"note": "\"Sumnjam\" = I doubt it",
+"tags": [
+"verb",
+"present"
+],
+"pron": "SOOM-nyahm",
+"entry": "sumnjam"
+},
+"sunce": {
+"en": "sun",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "SOON-tseh",
+"entry": "ljubavi"
+},
+"super": {
+"en": "super; great; cool",
+"note": "Works as an adjective or a one-word reply: \"Super!\"",
+"tags": [
+"adj",
+"casual"
+],
+"pron": "SOO-per",
+"entry": "cool"
+},
+"sutra": {
+"en": "tomorrow",
+"note": "\"Do sutra\" = see you tomorrow",
+"tags": [
+"adv"
+],
+"pron": "SOO-trah",
+"entry": "danas-sutra-juce"
+},
+"svadba": {
+"en": "wedding",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SVAHD-bah",
+"entry": "svadba"
+},
+"svadbi": {
+"en": "wedding (at)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SVAHD-bee"
+},
+"svadbu": {
+"en": "wedding (object)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SVAHD-boo"
+},
+"svakako": {
+"en": "definitely; by all means",
+"tags": [
+"adv"
+],
+"pron": "SVAH-kah-ko",
+"entry": "naravno"
+},
+"svaki": {
+"en": "every; each (masc)",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "SVAH-kee"
+},
+"sve": {
+"en": "everything; all",
+"tags": [
+"pron"
+],
+"pron": "SVEH"
+},
+"sve najbolje": {
+"en": "all the best",
+"note": "Used for birthdays and as a general warm wish",
+"tags": [
+"interj"
+],
+"pron": "SVEH NAI-bol-yeh",
+"entry": "srecan-rodjendan"
+},
+"svemu": {
+"en": "everything (to)",
+"tags": [
+"pron"
+],
+"pron": "SVEH-moo"
+},
+"svi": {
+"en": "everyone; all (plural)",
+"tags": [
+"pron",
+"plural"
+],
+"pron": "SVEE"
+},
+"svima": {
+"en": "everyone (to)",
+"note": "\"Zdravo svima!\" = hi everyone!",
+"tags": [
+"pron",
+"plural"
+],
+"pron": "SVEE-mah"
+},
+"sviđa": {
+"en": "pleases; he/she likes",
+"note": "\"Sviđa mi se\" = I like it",
+"tags": [
+"verb",
+"present"
+],
+"pron": "SVEE-jah"
+},
+"sviđam": {
+"en": "I appeal (to you)",
+"note": "\"Sviđam ti se?\" = do you like me?",
+"tags": [
+"verb",
+"present",
+"flirty"
+],
+"pron": "SVEE-jahm"
+},
+"sviđamo": {
+"en": "we appeal",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "SVEE-jah-mo"
+},
+"sviđaš": {
+"en": "you appeal (to me)",
+"note": "\"Sviđaš mi se\" = I like you",
+"tags": [
+"verb",
+"present",
+"flirty"
+],
+"pron": "SVEE-jahsh"
+},
+"svoje": {
+"en": "own (one's)",
+"note": "\"Svoje\" = my/your own",
+"tags": [
+"pron",
+"neut"
+],
+"pron": "SVOH-yeh"
+},
+"ta": {
+"en": "that (feminine)",
+"note": "\"Ta pesma\" = that song; neuter is \"to\"",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "TAH"
+},
+"taj": {
+"en": "that (masc); that one",
+"note": "\"Taj\" = that (m.). \"To\" = that (neuter)",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "TAH-ee",
+"entry": "ovaj-taj"
+},
+"tako": {
+"en": "so; like that; that way",
+"note": "\"Tako je\" = that's right",
+"tags": [
+"adv"
+],
+"pron": "TAH-ko"
+},
+"takođe": {
+"en": "also; too; likewise",
+"note": "Ijekavian: također",
+"tags": [
+"adv"
+],
+"pron": "tah-KOH-jeh",
+"entry": "takodje"
+},
+"tamo": {
+"en": "there",
+"tags": [
+"adv"
+],
+"pron": "TAH-mo",
+"entry": "ovde-tamo"
+},
+"tata": {
+"en": "dad",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "TAH-tah",
+"entry": "mama-tata"
+},
+"tatom": {
+"en": "with dad",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "TAH-tom"
+},
+"tačno": {
+"en": "exactly; correct; right",
+"note": "\"Tačno!\" = exactly!",
+"tags": [
+"adv"
+],
+"pron": "TAHCH-no",
+"entry": "tacno"
+},
+"te": {
+"en": "you (object); those",
+"note": "Short \"you\": \"volim te\" = I love you. Also \"those\" (plural)",
+"tags": [
+"pron"
+],
+"pron": "teh"
+},
+"tebe": {
+"en": "you (object, stressed)",
+"note": "\"Za tebe\" = for you",
+"tags": [
+"pron"
+],
+"pron": "TEH-beh"
+},
+"tebi": {
+"en": "to you; for you",
+"note": "\"Tebi\" = to you",
+"tags": [
+"pron"
+],
+"pron": "TEH-bee"
+},
+"telefon": {
+"en": "phone",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "TEH-leh-fon"
+},
+"teško": {
+"en": "hard; difficult; heavy",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "TEHSH-ko",
+"entry": "sumnjam"
+},
+"težak": {
+"en": "hard; heavy (masc)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "TEH-zhahk"
+},
+"ti": {
+"en": "you (casual); to you",
+"note": "Casual \"you\" to one friend; also short \"to you\" in some sentences",
+"tags": [
+"pron",
+"casual"
+],
+"pron": "tee",
+"entry": "ti-vi"
+},
+"tih": {
+"en": "quiet; those (of)",
+"note": "\"Tih\" = quiet (man). Also genitive of \"ti\" = those",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "TEEH"
+},
+"tim": {
+"en": "those (to); that",
+"note": "\"Sa tim\" = with that",
+"tags": [
+"pron"
+],
+"pron": "TEEM"
+},
+"tip": {
+"en": "guy; type",
+"note": "\"On je super tip\" = he's a great guy",
+"tags": [
+"noun",
+"masc",
+"slang"
+],
+"pron": "TEEP"
+},
+"tko": {
+"en": "who",
+"note": "Ijekavian / Croatian form of ko",
+"tags": [
+"pron"
+],
+"pron": "TKOH"
+},
+"to": {
+"en": "that; it",
+"note": "\"To je…\" = that is…",
+"tags": [
+"pron",
+"neut"
+],
+"pron": "toh",
+"entry": "ovaj-taj"
+},
+"toalet": {
+"en": "toilet; restroom",
+"note": "\"Gde je toalet?\" = where's the bathroom?",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "toh-AH-let"
+},
+"tobom": {
+"en": "with you",
+"tags": [
+"pron"
+],
+"pron": "TOH-bom"
+},
+"toga": {
+"en": "that (of)",
+"note": "\"Zbog toga\" = because of that",
+"tags": [
+"pron"
+],
+"pron": "TOH-gah"
+},
+"toj": {
+"en": "that (to a woman)",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "toy"
+},
+"tom": {
+"en": "that (locative)",
+"note": "\"U tom\" = in that",
+"tags": [
+"pron"
+],
+"pron": "tohm"
+},
+"tome": {
+"en": "that (dative)",
+"tags": [
+"pron"
+],
+"pron": "TOH-meh"
+},
+"torta": {
+"en": "cake (layered)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "TOHR-tah"
+},
+"točeno": {
+"en": "on tap; draft (beer)",
+"note": "\"Točeno pivo\" = draft beer",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "TOH-cheh-no"
+},
+"treba": {
+"en": "needs; should",
+"note": "\"Treba da…\" = should; \"treba mi\" = I need",
+"tags": [
+"verb",
+"present"
+],
+"pron": "TREH-bah"
+},
+"trenutak": {
+"en": "moment",
+"note": "\"Samo trenutak\" = just a moment",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "TREH-noo-tahk"
+},
+"tri": {
+"en": "three",
+"tags": [
+"num"
+],
+"pron": "TREE"
+},
+"troje": {
+"en": "three (of them)",
+"note": "\"Nas je troje\" = there are three of us",
+"tags": [
+"num"
+],
+"pron": "TROH-yeh"
+},
+"trougao": {
+"en": "triangle",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "TROH-oo-gah-oh"
+},
+"trčanja": {
+"en": "running (of)",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "TUR-chah-nyah"
+},
+"tu": {
+"en": "here; there",
+"note": "\"Tu sam\" = I'm here",
+"tags": [
+"adv"
+],
+"pron": "TOO",
+"entry": "ovde-tamo"
+},
+"tucamo": {
+"en": "we crack (eggs together)",
+"note": "At Easter: \"tucamo jaja\" = we tap-crack eggs",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "TOO-tsah-mo"
+},
+"turska": {
+"en": "Turkish (fem)",
+"note": "\"Turska kafa\" = Turkish coffee",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "TOOR-skah"
+},
+"tužan": {
+"en": "sad (man)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "TOO-zhahn"
+},
+"tužna": {
+"en": "sad (woman)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "TOOZH-nah"
+},
+"tužni": {
+"en": "sad (plural)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "TOOZH-nee"
+},
+"tvoj": {
+"en": "your (masc)",
+"tags": [
+"pron",
+"masc"
+],
+"pron": "TVOY",
+"entry": "tvoj"
+},
+"tvoja": {
+"en": "your (fem)",
+"note": "\"Tvoja mama\" = your mom",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "TVOH-yah",
+"entry": "tvoj"
+},
+"tvoje": {
+"en": "your (neuter / plural)",
+"tags": [
+"pron",
+"neut"
+],
+"pron": "TVOH-yeh",
+"entry": "tvoj"
+},
+"tvoji": {
+"en": "your (plural masc)",
+"tags": [
+"pron",
+"plural"
+],
+"pron": "TVOH-yee"
+},
+"tvojih": {
+"en": "of your (plural)",
+"tags": [
+"pron",
+"plural"
+],
+"pron": "TVOH-yeeh"
+},
+"tvoju": {
+"en": "your (fem, object)",
+"tags": [
+"pron",
+"fem"
+],
+"pron": "TVOH-yoo"
+},
+"u": {
+"en": "in; at; to",
+"note": "\"U\" = in/at/to a place or time",
+"tags": [
+"prep"
+],
+"pron": "oo",
+"entry": "u-na"
+},
+"u pravu": {
+"en": "right (correct)",
+"note": "\"U pravu si\" = you're right",
+"tags": [
+"adj"
+],
+"pron": "oo PRAH-voo"
+},
+"u redu": {
+"en": "OK; all right",
+"note": "Literally \"in order\"",
+"tags": [
+"interj"
+],
+"pron": "oo REH-doo"
+},
+"udaje": {
+"en": "marries (she)",
+"note": "\"Udaje se\" = she's getting married",
+"tags": [
+"verb",
+"present"
+],
+"pron": "OO-dah-yeh"
+},
+"ugla": {
+"en": "corner (of)",
+"note": "\"Iza ugla\" = around the corner",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "OOG-lah"
+},
+"ugostili": {
+"en": "hosted (they)",
+"tags": [
+"verb",
+"past",
+"plural"
+],
+"pron": "oo-GOH-stee-lee"
+},
+"ukusan": {
+"en": "delicious (masc)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "OO-koo-sahn",
+"entry": "ukusno"
+},
+"ukusna": {
+"en": "delicious (fem)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "OO-koos-nah",
+"entry": "ukusno"
+},
+"ukusne": {
+"en": "delicious (plural fem)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "OO-koos-neh"
+},
+"ukusni": {
+"en": "delicious (plural masc)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "OO-koos-nee"
+},
+"ukusno": {
+"en": "delicious; tasty",
+"note": "\"Ukusno je\" = it's tasty",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "OO-koos-no",
+"entry": "ukusno"
+},
+"umire": {
+"en": "dies; is dying",
+"tags": [
+"verb",
+"present"
+],
+"pron": "oo-MEE-reh"
+},
+"umirem": {
+"en": "I'm dying",
+"note": "\"Umirem od smeha\" = I'm dying of laughter",
+"tags": [
+"verb",
+"present"
+],
+"pron": "oo-MEE-rem"
+},
+"umiremo": {
+"en": "we're dying",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "oo-MEE-reh-mo"
+},
+"umireš": {
+"en": "you're dying",
+"tags": [
+"verb",
+"present"
+],
+"pron": "oo-MEE-resh"
+},
+"umoran": {
+"en": "tired (man)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "OO-mo-rahn"
+},
+"umorna": {
+"en": "tired (woman)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "OO-mor-nah"
+},
+"umorni": {
+"en": "tired (plural)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "OO-mor-nee"
+},
+"upozna": {
+"en": "meets; gets to know",
+"tags": [
+"verb",
+"present"
+],
+"pron": "OO-pohz-nah"
+},
+"upoznaje": {
+"en": "gets to know",
+"tags": [
+"verb",
+"present"
+],
+"pron": "oo-POHZ-nah-yeh"
+},
+"upoznali": {
+"en": "met (they)",
+"tags": [
+"verb",
+"past",
+"plural"
+],
+"pron": "oo-POHZ-nah-lee"
+},
+"upravo": {
+"en": "just; exactly",
+"note": "\"Upravo sam stigao\" = I just arrived",
+"tags": [
+"adv"
+],
+"pron": "OO-prah-vo"
+},
+"uradila": {
+"en": "did; made (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "OO-rah-dee-lah"
+},
+"uradio": {
+"en": "did; made (he)",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "OO-rah-dee-oh"
+},
+"urnebesno": {
+"en": "hilarious",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "oor-neh-BES-no",
+"entry": "funny"
+},
+"uskoro": {
+"en": "soon",
+"tags": [
+"adv"
+],
+"pron": "OO-sko-ro"
+},
+"uskrs": {
+"en": "Easter",
+"note": "Orthodox Easter, a different date from Western Easter",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "OO-skrs",
+"entry": "uskrs"
+},
+"utakmicu": {
+"en": "match; game (object)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "oo-TAHK-mee-tsoo"
+},
+"utorak": {
+"en": "Tuesday",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "OO-toh-rahk"
+},
+"uvek": {
+"en": "always",
+"tags": [
+"adv"
+],
+"pron": "OO-vek"
+},
+"uveče": {
+"en": "in the evening",
+"note": "\"Uveče\" = in the evening, at night",
+"tags": [
+"adv"
+],
+"pron": "OO-veh-cheh"
+},
+"uzeću": {
+"en": "I'll take",
+"tags": [
+"verb",
+"future"
+],
+"pron": "OO-zeh-choo"
+},
+"uzmi": {
+"en": "take (command)",
+"tags": [
+"verb",
+"command"
+],
+"pron": "OOZ-mee"
+},
+"uči": {
+"en": "learns; studies",
+"tags": [
+"verb",
+"present"
+],
+"pron": "OO-chee"
+},
+"učim": {
+"en": "I learn; I study",
+"note": "\"Učim srpski\" = I'm learning Serbian",
+"tags": [
+"verb",
+"present"
+],
+"pron": "OO-cheem"
+},
+"učimo": {
+"en": "we learn",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "OO-chee-mo"
+},
+"učiš": {
+"en": "you learn",
+"tags": [
+"verb",
+"present"
+],
+"pron": "OO-cheesh"
+},
+"uđite": {
+"en": "come in (plural / polite)",
+"note": "\"Uđite!\" = please come in",
+"tags": [
+"verb",
+"command",
+"formal"
+],
+"pron": "OO-jee-teh"
+},
+"užasno": {
+"en": "awful; terribly",
+"tags": [
+"adv"
+],
+"pron": "OO-zhahs-no",
+"entry": "dobro-lose"
+},
+"vaistinu": {
+"en": "truly",
+"note": "Old-fashioned Easter reply: \"Vaistinu vaskrse!\" = truly He is risen",
+"tags": [
+"adv",
+"formal"
+],
+"pron": "VAH-ee-stee-noo"
+},
+"vaistinu se rodi": {
+"en": "truly He is born",
+"note": "The reply to \"Hristos se rodi\"",
+"tags": [
+"interj"
+],
+"pron": "VAH-ee-stee-noo seh ROH-dee",
+"entry": "bozic"
+},
+"valjda": {
+"en": "I guess; probably",
+"note": "\"Valjda\" = I suppose",
+"tags": [
+"adv",
+"casual"
+],
+"pron": "VAHL-yah-dah",
+"entry": "mozda"
+},
+"vam": {
+"en": "you (to / for, polite or plural)",
+"note": "\"Hvala vam\" = thank you (polite)",
+"tags": [
+"pron",
+"formal"
+],
+"pron": "vahm"
+},
+"vama": {
+"en": "you (polite), after preposition",
+"tags": [
+"pron",
+"formal"
+],
+"pron": "VAH-mah"
+},
+"vas": {
+"en": "you (polite / plural, object)",
+"note": "\"Molim vas\" = please (polite)",
+"tags": [
+"pron",
+"formal"
+],
+"pron": "vahs"
+},
+"vaskrse": {
+"en": "rose (from the dead)",
+"note": "From the Easter greeting \"Hristos vaskrse!\"",
+"tags": [
+"verb",
+"past"
+],
+"pron": "VAH-skrseh"
+},
+"vaš": {
+"en": "your (polite, masc)",
+"tags": [
+"pron",
+"formal"
+],
+"pron": "VAHSH"
+},
+"vaša": {
+"en": "your (polite, fem)",
+"tags": [
+"pron",
+"formal"
+],
+"pron": "VAH-shah"
+},
+"vaše": {
+"en": "your (polite, neuter / plural)",
+"tags": [
+"pron",
+"formal"
+],
+"pron": "VAH-sheh"
+},
+"važi": {
+"en": "OK; deal; valid",
+"note": "\"Važi!\" = OK, deal",
+"tags": [
+"verb",
+"present",
+"casual"
+],
+"pron": "VAH-zhee",
+"entry": "vazi"
+},
+"velika": {
+"en": "big; great (fem)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "VEH-lee-kah"
+},
+"veliki": {
+"en": "big (masc)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "VEH-lee-kee",
+"entry": "veliko-malo"
+},
+"veliko": {
+"en": "big (neuter)",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "VEH-lee-ko"
+},
+"veliku": {
+"en": "big (feminine, object)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "VEH-lee-koo"
+},
+"venčanje": {
+"en": "wedding (ceremony)",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "VEN-chahn-yeh",
+"entry": "svadba"
+},
+"verujem": {
+"en": "I believe",
+"tags": [
+"verb",
+"present"
+],
+"pron": "VEH-roo-yem"
+},
+"veze": {
+"en": "connection",
+"note": "\"Nema veze\" = it doesn't matter",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "VEH-zeh"
+},
+"već": {
+"en": "already",
+"tags": [
+"adv"
+],
+"pron": "vehch"
+},
+"veče": {
+"en": "evening",
+"note": "\"Dobro veče\" = good evening",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "VEH-cheh"
+},
+"večera": {
+"en": "dinner",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "VEH-cheh-rah"
+},
+"večeras": {
+"en": "tonight; this evening",
+"tags": [
+"adv"
+],
+"pron": "VEH-cheh-rahs",
+"entry": "veceras"
+},
+"večeru": {
+"en": "dinner (object)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "VEH-cheh-roo"
+},
+"vi": {
+"en": "you (polite / plural)",
+"note": "Use with elders, strangers, or several people",
+"tags": [
+"pron",
+"formal"
+],
+"pron": "vee",
+"entry": "ti-vi"
+},
+"videla": {
+"en": "saw (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "VEE-deh-lah"
+},
+"videli": {
+"en": "saw (they)",
+"tags": [
+"verb",
+"past",
+"plural"
+],
+"pron": "VEE-deh-lee"
+},
+"video": {
+"en": "saw (he); video",
+"note": "Past tense, man: \"video sam\" = I saw. Also \"video\"",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "VEE-deh-oh"
+},
+"videće": {
+"en": "will see (he/she)",
+"tags": [
+"verb",
+"future"
+],
+"pron": "VEE-deh-cheh"
+},
+"videćemo": {
+"en": "we'll see",
+"note": "\"Videćemo se\" = see you / we'll see each other",
+"tags": [
+"verb",
+"future",
+"plural"
+],
+"pron": "VEE-deh-cheh-mo"
+},
+"videćeš": {
+"en": "you'll see",
+"tags": [
+"verb",
+"future"
+],
+"pron": "VEE-deh-chesh",
+"entry": "videcemo-se"
+},
+"videću": {
+"en": "I'll see",
+"tags": [
+"verb",
+"future"
+],
+"pron": "VEE-deh-choo"
+},
+"vidi": {
+"en": "look; see",
+"note": "\"Vidi ko priča\" = look who's talking",
+"tags": [
+"verb",
+"command"
+],
+"pron": "VEE-dee"
+},
+"vidim": {
+"en": "I see",
+"tags": [
+"verb",
+"present"
+],
+"pron": "VEE-deem"
+},
+"vidimo": {
+"en": "we see",
+"note": "\"Vidimo se\" = see you",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "VEE-dee-mo"
+},
+"vidio": {
+"en": "saw (he)",
+"note": "Ijekavian of video",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "VEE-dee-oh"
+},
+"vidite": {
+"en": "you (plural / polite) see",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "VEE-dee-teh"
+},
+"vidiš": {
+"en": "you see",
+"note": "\"Vidiš?\" = see?",
+"tags": [
+"verb",
+"present"
+],
+"pron": "VEE-deesh"
+},
+"vidjela": {
+"en": "saw (she)",
+"note": "Ijekavian of videla",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "VEE-dyeh-lah"
+},
+"vidjet": {
+"en": "to see; will see",
+"note": "Ijekavian \"vidjet ćemo\" = we'll see",
+"tags": [
+"verb"
+],
+"pron": "VEE-dyet"
+},
+"vikend": {
+"en": "weekend",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "VEE-kend",
+"entry": "vikend"
+},
+"vikenda": {
+"en": "of the weekend",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "VEE-ken-dah"
+},
+"vikendom": {
+"en": "on weekends",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "VEE-keh-ndom"
+},
+"vina": {
+"en": "of wine; wines",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "VEE-nah",
+"entry": "vino"
+},
+"vino": {
+"en": "wine",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "VEE-no",
+"entry": "vino"
+},
+"više": {
+"en": "more",
+"note": "\"Više nego…\" = more than…",
+"tags": [
+"adv"
+],
+"pron": "VEE-sheh"
+},
+"voda": {
+"en": "water",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "VOH-dah",
+"entry": "voda"
+},
+"vode": {
+"en": "of water",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "VOH-deh",
+"entry": "voda"
+},
+"vodu": {
+"en": "water (object)",
+"note": "\"Pijem vodu\" = I drink water",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "VOH-doo",
+"entry": "voda"
+},
+"vole": {
+"en": "they love/like",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "VOH-leh",
+"entry": "volim"
+},
+"voli": {
+"en": "loves; likes",
+"tags": [
+"verb",
+"present"
+],
+"pron": "VOH-lee",
+"entry": "volim"
+},
+"volim": {
+"en": "I love; I like",
+"note": "\"Volim te\" = I love you. Also \"I like (it)\"",
+"tags": [
+"verb",
+"present"
+],
+"pron": "VOH-leem",
+"entry": "volim"
+},
+"volimo": {
+"en": "we love; we like",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "VOH-lee-mo",
+"entry": "volim"
+},
+"volite": {
+"en": "you (plural / polite) like",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "VOH-lee-teh",
+"entry": "volim"
+},
+"voliš": {
+"en": "you love; you like",
+"note": "\"Voliš li…?\" = do you like…?",
+"tags": [
+"verb",
+"present"
+],
+"pron": "VOH-leesh",
+"entry": "volim"
+},
+"voz": {
+"en": "train",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "VOHZ"
+},
+"vozi": {
+"en": "drives; rides",
+"tags": [
+"verb",
+"present"
+],
+"pron": "VOH-zee"
+},
+"vozim": {
+"en": "I drive",
+"tags": [
+"verb",
+"present"
+],
+"pron": "VOH-zeem"
+},
+"vraga": {
+"en": "devil (of)",
+"note": "\"Do vraga!\" = damn it! (mild)",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "VRAH-gah"
+},
+"vrati": {
+"en": "come back; return",
+"tags": [
+"verb",
+"command"
+],
+"pron": "VRAH-tee"
+},
+"vreme": {
+"en": "time; weather",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "VREH-meh"
+},
+"vremena": {
+"en": "times",
+"tags": [
+"noun",
+"neut",
+"plural"
+],
+"pron": "VREH-meh-nah"
+},
+"vuk": {
+"en": "wolf",
+"note": "\"Gladan kao vuk\" = hungry as a wolf",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "VOOK"
+},
+"za": {
+"en": "for; to; in (time)",
+"note": "\"Za tebe\" = for you; \"za sat\" = in an hour",
+"tags": [
+"prep"
+],
+"pron": "zah",
+"entry": "za-od"
+},
+"zabavno": {
+"en": "fun; entertaining",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "zah-BAHV-no"
+},
+"zaboravila": {
+"en": "forgot (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "zah-BOH-rah-vee-lah"
+},
+"zaboravio": {
+"en": "forgot (he)",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "zah-BOH-rah-vee-oh"
+},
+"zafrkavaš": {
+"en": "you're teasing; you're kidding",
+"note": "Slang: \"zafrkavaš me\" = you're messing with me",
+"tags": [
+"verb",
+"present",
+"slang"
+],
+"pron": "zah-FUR-kah-vahsh"
+},
+"zaista": {
+"en": "truly; indeed",
+"tags": [
+"adv"
+],
+"pron": "ZAH-ee-stah",
+"entry": "stvarno"
+},
+"zajedno": {
+"en": "together",
+"tags": [
+"adv"
+],
+"pron": "ZAH-yeh-dno"
+},
+"zaljubljen": {
+"en": "in love (man)",
+"note": "Woman: zaljubljena",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "zah-LYOO-blyen"
+},
+"zar": {
+"en": "really? (surprised); isn't it?",
+"note": "\"Zar ne?\" = right? / isn't it?",
+"tags": [
+"particle"
+],
+"pron": "zahr"
+},
+"zatvoreno": {
+"en": "closed",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "zaht-VOH-reh-no"
+},
+"zavisi": {
+"en": "it depends",
+"tags": [
+"verb",
+"present"
+],
+"pron": "zah-VEE-see",
+"entry": "zavisi"
+},
+"zašto": {
+"en": "why",
+"note": "Short: \"što\" or \"zašto\"",
+"tags": [
+"particle"
+],
+"pron": "ZAHSH-toh",
+"entry": "zasto"
+},
+"zbog": {
+"en": "because of; due to",
+"tags": [
+"prep"
+],
+"pron": "zbog"
+},
+"zdravlje": {
+"en": "health",
+"note": "\"Za zdravlje\" = to your health",
+"tags": [
+"noun",
+"neut"
+],
+"pron": "ZDRAHV-lyeh"
+},
+"zdravo": {
+"en": "hello; hi; healthy",
+"note": "Most common casual hello",
+"tags": [
+"interj"
+],
+"pron": "ZDRAH-voh",
+"entry": "hello"
+},
+"zelen": {
+"en": "green (masculine)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "ZEH-len"
+},
+"zelena": {
+"en": "green (feminine)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "zeh-LEH-nah"
+},
+"zeleno": {
+"en": "green (neuter)",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "zeh-LEH-no"
+},
+"zelenoj": {
+"en": "green (in the feminine, locative)",
+"note": "\"U zelenoj\" = in green",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "zeh-LEH-noy"
+},
+"zeza": {
+"en": "teases; messes with",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ZEH-zah"
+},
+"zezaj": {
+"en": "tease; joke (command)",
+"tags": [
+"verb",
+"command"
+],
+"pron": "ZEH-zai"
+},
+"zezam": {
+"en": "I'm messing/joking",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ZEH-zahm"
+},
+"zezate": {
+"en": "you (plural / polite) kid",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "ZEH-zah-teh"
+},
+"zezaš": {
+"en": "you're teasing",
+"note": "\"Zezaš me\" = you're messing with me",
+"tags": [
+"verb",
+"present",
+"casual"
+],
+"pron": "ZEH-zahsh"
+},
+"zgodan": {
+"en": "good-looking (man)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "ZGOH-dahn"
+},
+"zgodna": {
+"en": "good-looking (woman)",
+"tags": [
+"adj",
+"fem",
+"flirty"
+],
+"pron": "ZGOHD-nah"
+},
+"zlato": {
+"en": "gold; darling",
+"note": "\"Zlato\" = sweetheart, for a friend/partner",
+"tags": [
+"noun",
+"neut",
+"flirty"
+],
+"pron": "ZLAH-to",
+"entry": "ljubavi"
+},
+"zna": {
+"en": "knows",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ZNAH",
+"entry": "znam"
+},
+"znaju": {
+"en": "they know",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "ZNAH-yoo",
+"entry": "znam"
+},
+"znala": {
+"en": "knew (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "ZNAH-lah"
+},
+"znam": {
+"en": "I know",
+"note": "Also \"ne znam\" = I don't know",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ZNAHM",
+"entry": "znam"
+},
+"znamo": {
+"en": "we know",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "ZNAH-mo",
+"entry": "znam"
+},
+"znao": {
+"en": "knew (he)",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "ZNAH-oh"
+},
+"znate": {
+"en": "you (plural / polite) know",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "ZNAH-teh",
+"entry": "znam"
+},
+"znači": {
+"en": "means; so; I mean",
+"note": "Filler: \"znači...\" = so...",
+"tags": [
+"verb",
+"present",
+"casual"
+],
+"pron": "ZNAH-chee",
+"entry": "znaci"
+},
+"znaš": {
+"en": "you know",
+"note": "\"Znaš\" = you know (tag word)",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ZNAHSH",
+"entry": "znam"
+},
+"zove": {
+"en": "calls; is called",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ZOH-veh"
+},
+"zovem": {
+"en": "I call; I'm called",
+"note": "\"Zovem se Met\" = my name is Matt",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ZOH-vem"
+},
+"zoveš": {
+"en": "you call; you're called",
+"note": "\"Kako se zoveš?\" = what's your name?",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ZOH-vesh"
+},
+"zvaće": {
+"en": "will call (he/she)",
+"tags": [
+"verb",
+"future"
+],
+"pron": "ZVAH-cheh"
+},
+"zvaćemo": {
+"en": "we'll call",
+"tags": [
+"verb",
+"future",
+"plural"
+],
+"pron": "ZVAH-cheh-mo"
+},
+"zvaćeš": {
+"en": "you'll call",
+"tags": [
+"verb",
+"future"
+],
+"pron": "ZVAH-chesh"
+},
+"zvaću": {
+"en": "I'll call",
+"note": "\"Zvaću te\" = I'll call you",
+"tags": [
+"verb",
+"future"
+],
+"pron": "ZVAH-choo"
+},
+"ćao": {
+"en": "hi; bye",
+"note": "Casual hello and goodbye",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "CHOW",
+"entry": "cao"
+},
+"će": {
+"en": "will (he/she/it)",
+"note": "Helper word making the future",
+"tags": [
+"verb",
+"future"
+],
+"pron": "cheh"
+},
+"ćemo": {
+"en": "we will",
+"tags": [
+"verb",
+"future",
+"plural"
+],
+"pron": "CHEH-mo"
+},
+"ćevape": {
+"en": "ćevapi (object)",
+"tags": [
+"noun",
+"masc",
+"plural"
+],
+"pron": "CHEH-vah-peh"
+},
+"ćevapi": {
+"en": "ćevapi",
+"note": "Small grilled minced-meat sausages; a national dish",
+"tags": [
+"noun",
+"masc",
+"plural"
+],
+"pron": "CHEH-vah-pee"
+},
+"ću": {
+"en": "I will",
+"note": "Helper word: \"ću doći\" = I'll come",
+"tags": [
+"verb",
+"future"
+],
+"pron": "choo"
+},
+"čaj": {
+"en": "tea",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "CHAHY"
+},
+"častim": {
+"en": "I'm treating; it's on me",
+"tags": [
+"verb",
+"present"
+],
+"pron": "CHAH-steem"
+},
+"čašu": {
+"en": "glass (object)",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "CHAH-shoo"
+},
+"čeka": {
+"en": "waits",
+"tags": [
+"verb",
+"present"
+],
+"pron": "CHEH-kah"
+},
+"čekaj": {
+"en": "wait (command)",
+"note": "Casual. \"Čekaj malo\" = hold on",
+"tags": [
+"verb",
+"command"
+],
+"pron": "CHEH-kai",
+"entry": "cekaj"
+},
+"čekajte": {
+"en": "wait (plural / polite)",
+"tags": [
+"verb",
+"command",
+"formal"
+],
+"pron": "CHEH-kai-teh",
+"entry": "cekaj"
+},
+"čekam": {
+"en": "I wait",
+"tags": [
+"verb",
+"present"
+],
+"pron": "CHEH-kahm"
+},
+"čekamo": {
+"en": "we wait",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "CHEH-kah-mo"
+},
+"čekaš": {
+"en": "you wait",
+"tags": [
+"verb",
+"present"
+],
+"pron": "CHEH-kahsh"
+},
+"čemu": {
+"en": "what (to)",
+"note": "\"Čemu?\" = to what?",
+"tags": [
+"pron"
+],
+"pron": "CHEH-moo"
+},
+"četvrtak": {
+"en": "Thursday",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "CHEH-tvr-tahk",
+"entry": "dani"
+},
+"čim": {
+"en": "as soon as",
+"tags": [
+"conj"
+],
+"pron": "cheem"
+},
+"čudno": {
+"en": "strange; weird",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "CHOOD-no"
+},
+"čujemo": {
+"en": "we hear; we'll talk",
+"note": "\"Čujemo se\" = talk soon",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "CHOO-ye-mo"
+},
+"čula": {
+"en": "heard (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "CHOO-lah"
+},
+"čuo": {
+"en": "heard (he)",
+"note": "\"Jesi li čuo?\" = did you hear?",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "CHOO-oh"
+},
+"đavola": {
+"en": "devil (of)",
+"note": "\"Do đavola!\" = damn it!",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "JAH-vo-lah"
+},
+"šala": {
+"en": "joke",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SHAH-lah"
+},
+"šali": {
+"en": "jokes",
+"note": "Also \"he/she jokes\"",
+"tags": [
+"verb",
+"present"
+],
+"pron": "SHAH-lee"
+},
+"šalila": {
+"en": "joked (she)",
+"tags": [
+"verb",
+"past",
+"fem"
+],
+"pron": "SHAH-lee-lah"
+},
+"šalim": {
+"en": "I'm joking",
+"note": "\"Samo se šalim\" = I'm just joking",
+"tags": [
+"verb",
+"present"
+],
+"pron": "SHAH-leem"
+},
+"šalimo": {
+"en": "we're joking",
+"tags": [
+"verb",
+"present",
+"plural"
+],
+"pron": "SHAH-lee-mo"
+},
+"šalio": {
+"en": "joked (he)",
+"tags": [
+"verb",
+"past",
+"masc"
+],
+"pron": "SHAH-lee-oh"
+},
+"šalite": {
+"en": "you (plural / polite) joke",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "SHAH-lee-teh"
+},
+"šališ": {
+"en": "you're joking",
+"note": "\"Šališ se\" = you're kidding",
+"tags": [
+"verb",
+"present"
+],
+"pron": "SHAH-leesh"
+},
+"šalje": {
+"en": "sends",
+"tags": [
+"verb",
+"present"
+],
+"pron": "SHAH-lyeh"
+},
+"šest": {
+"en": "six",
+"tags": [
+"num"
+],
+"pron": "SHEST"
+},
+"šestog": {
+"en": "of the sixth",
+"note": "\"Šestog januara\" = on January 6",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "SHEH-stog"
+},
+"šećera": {
+"en": "sugar (of)",
+"note": "\"Bez šećera\" = without sugar",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "SHEH-cheh-rah"
+},
+"šljivovica": {
+"en": "slivovitz (plum brandy)",
+"note": "National plum rakija",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "SHLYEE-vo-vee-tsah",
+"entry": "rakija"
+},
+"šta": {
+"en": "what",
+"note": "\"Šta?\" = what? Ijekavian: što",
+"tags": [
+"pron"
+],
+"pron": "SHTAH",
+"entry": "sta"
+},
+"šta ima": {
+"en": "what's up",
+"note": "Literally \"what is there?\"",
+"tags": [
+"interj",
+"casual"
+],
+"pron": "SHTAH EE-mah",
+"entry": "sta-ima"
+},
+"što": {
+"en": "what; why; that",
+"note": "\"Što\" = why, or \"that/which\"",
+"tags": [
+"pron"
+],
+"pron": "shtoh",
+"entry": "zasto"
+},
+"žao": {
+"en": "sorry; pity",
+"note": "\"Žao mi je\" = I'm sorry",
+"tags": [
+"adv"
+],
+"pron": "ZHAH-oh"
+},
+"žao mi je": {
+"en": "I'm sorry",
+"note": "Literally \"pity to me is\". Sympathy or a light apology",
+"tags": [
+"interj"
+],
+"pron": "ZHAH-oh mee yeh",
+"entry": "sorry"
+},
+"žedan": {
+"en": "thirsty (man)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "ZHEH-dahn"
+},
+"žedna": {
+"en": "thirsty (woman)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "ZHEHD-nah"
+},
+"žedni": {
+"en": "thirsty (plural)",
+"tags": [
+"adj",
+"plural"
+],
+"pron": "ZHEHD-nee"
+},
+"žedno": {
+"en": "thirsty",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "ZHED-no"
+},
+"železnička": {
+"en": "railway (fem)",
+"note": "\"Železnička stanica\" = train station",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "zheh-LEZ-nee-chkah"
+},
+"želi": {
+"en": "wants; wishes",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ZHEH-lee"
+},
+"želim": {
+"en": "I want; I wish",
+"note": "Politer than hoću",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ZHEH-leem",
+"entry": "hocu"
+},
+"želite": {
+"en": "you (polite) want",
+"tags": [
+"verb",
+"present",
+"formal"
+],
+"pron": "ZHEH-lee-teh"
+},
+"ženi": {
+"en": "woman (to); marries",
+"note": "\"Ženi\" = to the woman",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "ZHEH-nee"
+},
+"živeli": {
+"en": "cheers",
+"note": "The standard toast: \"to life\"",
+"tags": [
+"interj"
+],
+"pron": "ZHEE-veh-lee",
+"entry": "zivili"
+},
+"živi": {
+"en": "lives; alive",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ZHEE-vee"
+},
+"živim": {
+"en": "I live",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ZHEE-veem"
+},
+"živiš": {
+"en": "you live",
+"note": "\"Gde živiš?\" = where do you live?",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ZHEE-veesh"
+},
+"života": {
+"en": "life (of)",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "ZHEE-voh-tah"
+},
+"žurbe": {
+"en": "hurry (of)",
+"note": "\"Nema žurbe\" = no rush",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "ZHOOR-beh"
+},
+"žuri": {
+"en": "is in a hurry",
+"note": "\"Žuri mi se\" = I'm in a hurry",
+"tags": [
+"verb",
+"present"
+],
+"pron": "ZHOO-ree"
+},
+"žurku": {
+"en": "party (object)",
+"note": "\"Idemo na žurku\" = we're going to a party",
+"tags": [
+"noun",
+"fem"
+],
+"pron": "ZHOOR-koo"
+},
+"žut": {
+"en": "yellow (masculine)",
+"tags": [
+"adj",
+"masc"
+],
+"pron": "ZHOOT"
+},
+"žuta": {
+"en": "yellow (feminine)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "ZHOO-tah"
+},
+"žuto": {
+"en": "yellow (neuter)",
+"tags": [
+"adj",
+"neut"
+],
+"pron": "ZHOO-to"
+},
+"žutu": {
+"en": "yellow (feminine, object)",
+"tags": [
+"adj",
+"fem"
+],
+"pron": "ZHOO-too"
+}
+}

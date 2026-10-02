@@ -1,0 +1,116 @@
+# key | meaning | note | tags   (tags: pos + tone + tense + gender; pronunciation comes from the app's own sentences)
+a|and; but; (as in "and you?")|A softer "and/but" that links a contrast or turns the question back: "Dobro sam, a ti?"|conj
+aerodrom|airport||noun,masc
+aerodromu|at the airport|Locative of aerodrom; "na aerodromu" = at the airport|noun,masc
+aha|uh-huh; I see|Sound of understanding or agreement|interj,casual
+ajde|come on; let's go; OK|Short form of hajde. Used to nudge, encourage or agree|interj,casual
+ajmo|let's go|Short form of hajdemo, "let's"|interj,casual
+ajte|come on (to a group / polite)|Plural or polite form of ajde|interj,casual
+ali|but|Contrast word|conj
+ana|Ana|A female name|name,fem
+anu|Ana (as the object)|Ana in the accusative: "pitaj Anu" = ask Ana|name,fem
+auto|car||noun,neut
+autobus|bus||noun,masc
+autobuska|bus (station)|Adjective: "autobuska stanica" = bus station|adj,fem
+badnje|Christmas Eve (eve of)|In "Badnje veče" = Christmas Eve, Orthodox, January 6|adj,neut
+baka|grandma||noun,fem
+bake|grandma's; of grandma|Form of baka|noun,fem
+bakina|grandma's|Possessive: belongs to grandma|adj,fem
+banci|in the bank; at the bank|Locative of banka (bank)|noun,fem
+bar|at least; also: a bar|"Bar malo" = at least a little|adv
+baš|really; exactly; just|Adds emphasis: baš lepo = really nice|particle,casual
+belo|white|Neuter form, matches a neuter noun|adj,neut
+beograda|of Belgrade|Genitive of Beograd|noun,masc
+beogradu|in Belgrade|Locative of Beograd|noun,masc
+bez|without||prep
+bezveze|lame; pointless; random|Slang. Literally "without connection"|adj,slang
+bi|would|Helper word for "would" (conditional): on bi došao = he would come|particle
+bih|would (I)|"I would": ja bih. Also used in ne bih rekao = I wouldn't say so|particle
+bila|was (she); been|Past tense of biti for a woman or a feminine noun|verb,past,fem
+bili|were (they)|Past tense of biti for a group|verb,past
+bilo|was (it); been|Past tense of biti for "it"; also "bilo šta" = anything|verb,past,neut
+bio|was (he)|Past tense of biti for a man|verb,past,masc
+biće|will be|Future of biti: "it will be"|verb,future
+blizu|near; close||adv
+bog|God||noun,masc
+bolesna|sick (she)|Feminine form of bolestan|adj,fem
+bolestan|sick (he)|Masculine form; feminine is bolesna|adj,masc
+božić|Christmas|Orthodox Christmas, January 7|noun,masc
+brat|brother||noun,masc
+brata|brother (as object)|Accusative/genitive of brat|noun,masc
+brate|bro; dude|Calling a man "brat" (vocative). Used for friends, not just family|noun,masc,slang
+bravo|well done; bravo||interj
+bre|dude; man; hey|Filler word for emphasis, to a friend. Casual, can sound rough to elders|interj,slang
+briga|worry; care|"Baš me briga" = I couldn't care less|noun,fem
+brineš|you worry|"You worry" (casual) from brinuti se|verb,present
+brini|worry (command)|"Don't worry" = ne brini|verb,command
+bude|will be; is (if)|"Ako bude…" = if it is|verb,future
+budem|I will be|From biti: "I will be"|verb,future
+ceo|whole; all (day)|"Ceo dan" = all day long|adj,masc
+cipele|shoes||noun,fem,plural
+cmok|smooch; kiss|Playful kiss sound|noun,masc,casual
+crkoh|I died (laughing)|Slang for "I'm dying": past tense, I (male or female)|verb,past,slang
+crno|black|Neuter form|adj,neut
+crvena|red|Feminine form|adj,fem
+cveće|flowers||noun,neut
+da|yes; that; to|Yes, but also joins phrases: hoću da idem = I want to go|particle
+daj|give; come on|"Ma daj!" = come on / no way|verb,command
+dakle|so; therefore|Wraps up a point|conj
+daleko|far||adv
+dan|day|"Dobar dan" = good day|noun,masc
+danas|today||adv
+deca|children||noun,plural
+dece|of children; children's|Genitive of deca|noun,plural
+decembru|in December|Locative of decembar|noun,masc
+decom|with the children|Instrumental of deca|noun,plural
+decu|children (as object)|Accusative of deca|noun,plural
+deda|grandpa||noun,masc
+deset|ten||num
+desilo|happened|"Šta se desilo?" = what happened?|verb,past,neut
+dete|child||noun,neut
+divna|lovely; wonderful (feminine)|Warm compliment|adj,fem
+divni|lovely (plural / masc. formal)|Plural of divan|adj,plural
+do|until; to; by|"Do viđenja" = until we see each other|prep
+dobar|good (masculine)|Matches a masculine noun: dobar dan|adj,masc
+dobra|good (feminine)|Matches a feminine noun: dobra ideja|adj,fem
+dobro|good; well; fine|The all-purpose "good". Doesn't change when used as an adverb|adv,neut
+dobrodošao|welcome (to a man)|Feminine is dobrodošla|adj,masc
+dogovor|deal; agreement||noun,masc
+dogovoreno|agreed; settled|"It's a plan"|adj,neut
+dogovorili|we agreed|Past tense, plural: "we arranged"|verb,past,plural
+dolaze|they come; they're coming||verb,present,plural
+dolazi|he/she comes; is coming||verb,present
+dolazim|I come; I'm coming||verb,present
+dolaziš|you come; you're coming|Casual "you"|verb,present
+domaća|homemade; home (feminine)|"Domaća rakija" = homemade rakija|adj,fem
+domaćine|host (to a man)|Calling the host; "domaćin" = host|noun,masc,formal
+doneti|to bring||verb
+dopadaš|you appeal to (me)|"Dopadaš mi se" = I like you (a bit like sviđaš)|verb,present,flirty
+dosadan|boring; annoying (masc)||adj,masc
+dosadno|boring|"Dosadno mi je" = I'm bored|adj,neut
+doviđenja|goodbye|Short for "do viđenja", a polite goodbye|interj,formal
+doći|to come|The infinitive: "to come"|verb
+dođe|he/she comes; may come|Short, one-time "arrives"|verb,present
+dođem|I come; I arrive|"Ne mogu da dođem" = I can't come|verb,present
+dođemo|we come; we arrive||verb,present,plural
+dođeš|you come; you arrive|Casual|verb,present
+dođi|come|Command, casual (to one person)|verb,command
+dođite|come (plural / polite)|Command for a group or a person you're polite to|verb,command,formal
+dođu|they come; they arrive||verb,present,plural
+došao|came (he); arrived|Past tense, man. Feminine: došla|verb,past,masc
+došla|came (she); arrived|Past tense, woman|verb,past,fem
+došli|came (they); arrived|Past tense, group|verb,past,plural
+draga|dear; darling|To a woman you care about (pet name) or "dear" in a letter|noun,fem,flirty
+dragi|dear (masc)|To a man; or "dragi" = darling (m.)|adj,masc,flirty
+drago|glad; pleased|"Drago mi je" = nice to meet you|adj,neut
+drug|friend (male); comrade|Pal; "drugarica" is the female form|noun,masc
+drugarica|friend (female)||noun,fem
+drugarice|friends (female)|Plural of drugarica|noun,fem,plural
+drugaricom|with a friend (female)|Instrumental of drugarica|noun,fem
+drugačije|differently|"Drugačije je" = it is different|adv
+drugi|second; other; another|"Drugi put" = next time|adj,masc
+drugom|with another; to another|"O nečem drugom" = about something else|adj,masc
+dva|two (masculine / neuter)||num
+dvadeset|twenty||num
+dve|two (feminine)|Used with feminine nouns|num,fem
+dvoje|two (of them); a pair|For a couple or mixed group: "nas dvoje" = the two of us|num

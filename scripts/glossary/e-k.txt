@@ -1,0 +1,211 @@
+ej|hey|Casual attention-grabber|interj,casual
+engleski|English (language)|The language name. Not capitalized in Serbian|noun,masc
+espreso|espresso||noun,masc
+evo|here; here it is; here I am|"Evo me" = here I am|particle
+faca|badass; awesome (person)|Slang for someone impressive. Literally "knife"|noun,fem,slang
+fala|thanks|Shortened, texting-style hvala|interj,slang
+fali|(is) missing|"Fali mi" = I'm missing it / I miss it|verb,present
+falim|I'm missing; I lack|"Falim ti" = you miss me|verb,present
+falite|you (plural / polite) are missing|"Fališ" for several people or politely|verb,present,formal
+fališ|you're missing; I miss you|"Fališ mi" = I miss you|verb,present,flirty
+film|movie||noun,masc
+fino|nice; fine|Neuter form, like "nice" or "pleasant"|adj,neut
+flašu|a bottle|Accusative of flaša|noun,fem
+fontane|fountains; of the fountain|Genitive/plural of fontana|noun,fem
+fudbal|football; soccer||noun,masc
+fudbalu|football (about)|"O fudbalu" = about football|noun,masc
+ga|him; it|Short form of "him" as an object: pitaj ga = ask him|pron,masc
+gazirana|sparkling (fizzy)|"Gazirana voda" = sparkling water|adj,fem
+gde|where|The Serbian (ekavian) form. Ijekavian: gdje|particle
+gdje|where|Ijekavian form (Bosnia, Croatia, Montenegro). In Serbia you'll say "gde"|particle
+gladan|hungry (man)|Feminine: gladna|adj,masc
+gladna|hungry (woman)|Masculine: gladan|adj,fem
+gladni|hungry (plural)|For a group|adj,plural
+gladno|hungry (it feels)|Neuter or impersonal|adj,neut
+gledamo|we watch; we look||verb,present,plural
+glupost|nonsense; a silly thing|Literally "stupidity"|noun,fem
+godina|year||noun,fem
+gospodine|sir; Mr.|Polite address to a man|noun,masc,formal
+gospođo|madam; Mrs.|Polite address to a woman|noun,fem,formal
+gost|guest||noun,masc
+gostoprimstvu|hospitality (about)|From gostoprimstvo; Serbs take this very seriously|noun,neut
+gotov|done; finished (man)|Feminine: gotova|adj,masc
+gotova|done; finished (woman)||adj,fem
+gotovi|done; ready (plural)||adj,plural
+govori|speaks; speak|He/she speaks, or "speak!" (command)|verb,present
+govorim|I speak||verb,present
+govorimo|we speak||verb,present,plural
+govorite|you speak (plural / polite)||verb,present,formal
+govoriš|you speak|Casual|verb,present
+grad|city; town||noun,masc
+greška|mistake||noun,fem
+gubi|lose; get lost|"Gubi se" = get lost (rude)|verb,command,vulgar
+gužva|crowd; traffic; a rush|"Velika gužva" = big crowd|noun,fem
+hajde|come on; let's|The full form of ajde|interj,casual
+hajdemo|let's go||interj,casual
+haljina|dress||noun,fem
+haljini|in the dress|Dative/locative of haljina|noun,fem
+hej|hey||interj,casual
+hladna|cold (feminine)||adj,fem
+hladno|cold|"Hladno mi je" = I'm cold|adj,neut
+hleb|bread||noun,masc
+hoće|wants; will|He/she wants or will|verb,present
+hoćemo|we want; shall we|"Hoćemo li…?" = shall we…?|verb,present,plural
+hoćete|you (plural / polite) want||verb,present,formal
+hoćeš|you want; will you|"Hoćeš da…?" = do you want to…?|verb,present
+hoću|I want; I will|From hteti. Short and direct|verb,present
+hristos|Christ|In the Christmas greeting "Hristos se rodi!"|noun,masc
+htela|wanted (she)|Past tense, woman|verb,past,fem
+hteo|wanted (he)|Past tense, man|verb,past,masc
+hvala|thank you|Casual or polite. Texted as "fala"|interj
+i|and; also|Also "even": i ona = her too|conj
+ide|goes; is going||verb,present
+ideja|idea||noun,fem
+idem|I go; I'm going|From ići|verb,present
+idemo|we go; let's go||verb,present,plural
+idete|you (plural / polite) go||verb,present,formal
+ideš|you go; you're going|Casual|verb,present
+idi|go|Command, casual|verb,command
+idu|they go||verb,present,plural
+ili|or||conj
+ima|there is; has|"Ima li…?" = is there…? "Šta ima?" = what's up?|verb,present
+imam|I have|"Imam" for I have; negative is nemam|verb,present
+imaš|you have|Casual|verb,present
+inat|stubbornness; spite|A Serbian trait: refusing to bend, even when it hurts you|noun,masc,culture
+inata|of spite; of stubbornness|From inat|noun,masc
+inatljiv|stubborn (man)||adj,masc
+inatljiva|stubborn (woman)||adj,fem
+interneta|internet (of)||noun,masc
+iskreno|honestly|"Iskreno, ..." = frankly|adv
+ispit|exam||noun,masc
+ispred|in front of||prep
+istina|truth||noun,fem
+isto|same; likewise|"Isto" in reply to "enjoy" = you too|adv
+iz|from; out of||prep
+izađe|goes out; comes out||verb,present
+izađem|I go out|Perfective: a single outing|verb,present
+izađemo|we go out|"Hoćeš da izađemo?" = want to go out?|verb,present,plural
+izgleda|looks; seems|"Izgleda da…" = it seems that…|verb,present
+izgledam|I look||verb,present
+izgledate|you (plural / polite) look||verb,present,formal
+izgledaš|you look|"Lepo izgledaš" = you look nice|verb,present,flirty
+izgubila|lost (she)|Past tense, woman|verb,past,fem
+izgubili|lost (they)||verb,past,plural
+izgubio|lost (he)|Past tense, man|verb,past,masc
+izmišljaš|you're making it up||verb,present
+izrazu|expression; wording|"Izvini na izrazu" = excuse my language|noun,masc
+izvini|sorry; excuse me|Casual. Polite: izvinite|verb,command
+izvinite|sorry; excuse me (polite)|Polite or plural form|verb,command,formal
+izvoli|here you go; please (casual)|Offering something to a friend|verb,command
+izvolite|here you go; please (polite)|Offering to elders, strangers, or a group|verb,command,formal
+išao|went (he)|Past tense, man|verb,past,masc
+išla|went (she)|Past tense, woman|verb,past,fem
+išli|went (they)||verb,past,plural
+ja|I||pron
+jadan|poor (man); pitiful|"Jadan ti ja" = poor me|adj,masc
+jadna|poor (woman)||adj,fem
+jadno|poor (it)||adj,neut
+jaja|eggs||noun,neut,plural
+jaka|strong; great|Slang: "jaka" = awesome|adj,fem,slang
+jako|very; strongly||adv
+januara|of January|Genitive: "šestog januara" = on January 6th|noun,masc
+jao|oh no; ouch; wow|Reaction, like "oh no!"|interj,casual
+jasno|clear; obviously|"Jasno" = got it|adv
+javi|let know; call (command)|"Javi se" = get in touch|verb,command
+javite|let know (plural / polite)||verb,command,formal
+javiti|to let know|Infinitive|verb
+javiće|will get in touch (he/she)||verb,future
+javićemo|we'll get in touch||verb,future,plural
+javićeš|you'll get in touch||verb,future
+javiću|I'll get in touch|"Javiću se" = I'll call/text you|verb,future
+je|is; are (he/she/it)|From biti. Weak word: sits after the first stressed word|verb,present
+jebi|f***; (get f***ed)|"Jebi se" = f*** off. Vulgar|verb,command,vulgar
+jebite|f*** (plural)|Vulgar|verb,command,vulgar
+jebote|damn; holy hell|Vulgar exclamation, literally "f*** you". Used for shock|interj,vulgar
+jedan|one (masculine)||num,masc
+jedemo|we eat||verb,present,plural
+jedna|one (feminine)||num,fem
+jedno|one (neuter)||num,neut
+jednu|one (feminine, object)||num,fem
+jeftin|cheap (masc)||adj,masc
+jeftina|cheap (fem)||adj,fem
+jeftine|cheap (plural fem)||adj,plural
+jeftini|cheap (plural masc)||adj,plural
+jeftino|cheap (neuter)|"Jeftino je" = it's cheap|adj,neut
+jela|ate (she); dishes|Past tense (woman), or dishes/food|verb,past,fem
+jeli|ate (they)||verb,past,plural
+jelo|dish; meal||noun,neut
+jeo|ate (he)|Past tense, man|verb,past,masc
+jesam|yes, I am|Emphatic "I am" in a yes answer|verb,present
+jesi|are you; you are|Used to ask: "jesi li…?"|verb,present
+jesmo|yes, we are||verb,present,plural
+jeste|yes, it is; that's right|"Jeste" = indeed|verb,present
+jesu|yes, they are||verb,present,plural
+jezik|language; tongue||noun,masc
+jezika|of the language||noun,masc
+joj|oh no; aw; ouch|Sympathy or complaint|interj,casual
+još|still; more; yet|"Još malo" = a little more|adv
+jutro|morning|"Dobro jutro" = good morning|noun,neut
+juče|yesterday||adv
+kad|when; if|Short for kada|particle,casual
+kada|when|Fuller form of kad|particle
+kafa|coffee|Serbian coffee is strong, served with a glass of water|noun,fem
+kafana|tavern; café-bar|A traditional Serbian pub-café|noun,fem
+kafe|coffee (as in "coffee shop")||noun,masc
+kafić|café||noun,masc
+kafića|of the café||noun,masc
+kafiću|at the café|Locative: "u kafiću"|noun,masc
+kafu|coffee (object)|Accusative of kafa: "pijem kafu"|noun,fem
+kakav|what kind (masc)|"Kakav je…?" = what's it like?|pron,masc
+kako|how||particle
+kakva|what kind (fem)||pron,fem
+kakvo|what kind (neuter)||pron,neut
+kanadi|in Canada||noun,fem
+kanađanin|Canadian (man)||noun,masc
+kanađanka|Canadian (woman)||noun,fem
+kao|like; as|Also "as if" or "kind of": kao da = as if|particle
+kapiram|I get it; I understand|Slang, from Italian|verb,present,slang
+karta|ticket; map; card||noun,fem
+kartica|card|Bank card, loyalty card, etc.|noun,fem
+kartu|card; ticket (object)||noun,fem
+kasni|is late; running late|"On kasni" = he is late|verb,present
+kasnije|later||adv
+kasnila|was late (she)||verb,past,fem
+kasnili|were late (they)||verb,past,plural
+kasnim|I'm running late||verb,present
+kasnimo|we're running late||verb,present,plural
+kasnio|was late (he)||verb,past,masc
+kasnite|you (plural / polite) are late||verb,present,formal
+kasniš|you're late|Casual|verb,present
+kasno|late||adv
+kašnjenja|of lateness; delay||noun,neut
+kaže|says|"On kaže" = he says|verb,present
+kažem|I say||verb,present
+kažeš|you say||verb,present
+kiša|rain||noun,fem
+ključ|key||noun,masc
+ključeve|keys||noun,masc,plural
+ko|who||pron
+kod|at (someone's place); near|"Kod mene" = at my place|prep
+koja|which (fem); who|"Koja je…?" = which one (f.) is…?|pron,fem
+koje|which (neuter / plural)||pron
+koji|which; what; who (masc)||pron,masc
+kolač|cake; pastry||noun,masc
+koliko|how much; how many||adv
+košta|costs|"Koliko košta?" = how much does it cost?|verb,present
+krevet|bed||noun,masc
+krećem|I'm leaving; I'm setting off||verb,present
+kriv|guilty; to blame (man)|"Kriv sam" = I'm to blame|adj,masc
+kuda|where to; which way||particle
+kukaš|you're complaining||verb,present
+kul|cool|Slang, from English|adj,slang
+kunem|I swear|"Kunem se" = I swear (on…)|verb,present
+kuva|cooks||verb,present
+kuvam|I cook||verb,present
+kuvanju|cooking|"Dobra u kuvanju" = good at cooking|noun,neut
+kuvarica|(female) cook||noun,fem
+kuvate|you (plural / polite) cook||verb,present,formal
+kuvaš|you cook|Casual|verb,present
+kuća|house; home||noun,fem
+kuće|of the house; houses||noun,fem
+kući|at home; to the house|Dative/locative of kuća|noun,fem

@@ -1,0 +1,30 @@
+# Multi-word chunks that read as one unit. Matched before single words when tapping a sentence.
+laku noć|good night|Literally "light night". Say it before bed|interj
+dobro jutro|good morning|Used until about 10 AM|interj
+dobro veče|good evening|After about 6 PM. Polite or casual|interj,formal
+dobar dan|good day; hello (polite)|The polite daytime hello, for elders and strangers|interj,formal
+majke mi|I swear (on my mom)|Mild oath. Literally "by my mother"|interj,slang
+do vraga|damn it; to hell|Mild curse. Literally "to the devil"|interj,slang
+do đavola|damn it|Same as do vraga, more old-fashioned|interj,slang
+ma daj|no way; come on|"Ma" adds attitude to "daj" (give). Disbelief or encouragement|interj,casual
+ma nemoj|yeah right; no way|Sarcastic disbelief|interj,casual
+nema veze|never mind; no worries|Literally "there's no connection"|interj,casual
+žao mi je|I'm sorry|Literally "pity to me is". Sympathy or a light apology|interj
+drago mi je|nice to meet you; I'm glad|Literally "dear to me is"|interj
+dosadno mi je|I'm bored|Literally "boring to me is"|interj
+u redu|OK; all right|Literally "in order"|interj
+molim te|please (casual)|"Te" = you. Use with friends and family|interj,casual
+molim vas|please (polite)|"Vas" = you (polite / plural). With elders and strangers|interj,formal
+nema problema|no problem||interj
+nema na čemu|you're welcome|Literally "there's nothing to thank for"|interj
+baš me briga|I couldn't care less|Casual, can sound rude|interj,casual
+nemam pojma|I have no idea||interj,casual
+šta ima|what's up|Literally "what is there?"|interj,casual
+srećan rođendan|happy birthday||interj
+srećna nova godina|happy new year|"Srećna" is feminine because "godina" is|interj
+sve najbolje|all the best|Used for birthdays and as a general warm wish|interj
+u pravu|right (correct)|"U pravu si" = you're right|adj
+hristos se rodi|Christ is born|Orthodox Christmas greeting. Reply: "Vaistinu se rodi"|interj
+vaistinu se rodi|truly He is born|The reply to "Hristos se rodi"|interj
+hristos vaskrse|Christ is risen|Orthodox Easter greeting. Reply: "Vaistinu vaskrse"|interj
+kao da|as if; like|"Kao da" = as if, as though|conj

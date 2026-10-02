@@ -1,0 +1,213 @@
+laku|good; light; easy (in "laku noć")|"Laku noć" = good night. Literally "light night"|adj,fem
+lep|handsome; nice-looking (man)|Said to a man. Feminine: lepa|adj,masc
+lepa|beautiful; pretty (woman)|Matches a woman or feminine noun|adj,fem,flirty
+lepo|nicely; nice; beautifully|Doesn't change as an adverb. Ijekavian: lijepo|adv,neut
+lepotica|beauty; a beautiful woman|Compliment, a bit sweet|noun,fem,flirty
+lepotice|beautiful (calling her)|Vocative of lepotica: "Laku noć, lepotice"|noun,fem,flirty
+li|(question marker)|Turns a statement into a yes/no question: "Jesi li gladna?"|particle
+ljubav|love||noun,fem
+ljubavi|my love; sweetheart|Calling her/him "my love" (vocative). Also: of love|noun,fem,flirty
+ljubazna|kind; polite (woman)||adj,fem
+ljubazni|kind; polite (plural / masc)||adj,plural
+ljubi|kisses; kiss||verb,present
+ljubim|I kiss|"Ljubim te" = kisses (sign-off)|verb,present,flirty
+ljubimo|we kiss||verb,present,plural
+ljudi|people||noun,plural
+ljut|angry (man)||adj,masc
+ljuta|angry (woman)||adj,fem
+ljuti|angry; (get) angry|"Ne ljuti se" = don't be mad|adj,masc
+ljutite|you (plural / polite) are angry||verb,present,formal
+ljutiš|you're angry|"Zašto se ljutiš?" = why are you mad?|verb,present
+ljuto|angry (it); spicy|Neuter: also "spicy hot" for food|adj,neut
+lokaciju|location (object)|"Pošalji lokaciju" = send your location|noun,fem
+loš|bad (man); a bad one||adj,masc
+loša|bad (woman / fem noun)||adj,fem
+loše|bad; badly|"Nije loše" = not bad|adv,neut
+lud|crazy (man)||adj,masc
+luda|crazy (woman)|"Luda si" = you're crazy (playful)|adj,fem
+ludača|crazy woman; nutcase|Teasing noun|noun,fem,slang
+ludilo|craziness; wow|Used as a reaction: "Ludilo!" = crazy! / wow!|noun,neut,slang
+ma|come on; oh|Opener that adds attitude: "Ma daj!"|particle,casual
+majka|mother|Formal/proper for "mom": mama is used day to day|noun,fem
+majke|mother's; of mother|In "majke mi" = I swear (on my mom)|noun,fem
+mali|small; little (masc)||adj,masc
+malo|a little; a bit|"Malo" is used as a softener everywhere|adv
+mama|mom||noun,fem
+mame|mom's; of mom||noun,fem
+mami|to mom||noun,fem
+mamu|mom (as object)|"Zovem mamu" = I'm calling my mom|noun,fem
+marka|Marka (a name)||name
+marko|Marko|A male name|name,masc
+marš|get lost; march|Rude "scram"; "marš!" can also sound playful|interj,slang
+me|me|Short form of me: "voliš me"|pron
+mene|me|Stressed form of me: "mene" (after a preposition or for emphasis)|pron
+meni|to me; for me|"Meni je dobro" = it's good for me|pron
+meso|meat||noun,neut
+met|Matt|Matt's name in Serbian spelling|name,masc
+međutim|however|Formal-ish "however"|conj,formal
+mi|we; to me|Two jobs: "we" (mi smo) and short "to me" (sviđaš mi se)|pron
+milo|nice; sweet; dear|"Milo mi je" = I'm glad; also "milo" = sweet|adj,neut
+minuta|minute|"Pet minuta" = five minutes|noun,fem
+miru|peace|"Daj mi mira" = leave me in peace|noun,masc
+misli|thinks; think|He/she thinks, or "think!"|verb,present
+mislila|thought (she)|Past tense, woman|verb,past,fem
+mislim|I think|"Mislim da…" = I think that…. "Mislim na tebe" = I'm thinking of you|verb,present
+mislimo|we think||verb,present,plural
+mislio|thought (he)|Past tense, man|verb,past,masc
+misliš|you think|"Šta misliš?" = what do you think?|verb,present
+mlađa|younger (woman / fem)|"Mlađa sestra" = younger sister|adj,fem
+mnogo|a lot; very; many||adv
+mnom|with me|Instrumental of ja: "sa mnom"|pron
+mog|my (of him/it)|Genitive/accusative of moj: "ljubav mog života" = love of my life|pron,masc
+mogu|I can; I may|From moći|verb,present
+moj|my (masculine)||pron,masc
+moja|my (feminine)||pron,fem
+moje|my (neuter / plural)||pron,neut
+moji|my (plural masc)||pron,plural
+mojim|with my; my (plural)||pron,plural
+moju|my (feminine, object)|"Moju mamu" = my mom (object)|pron,fem
+molim|please; I beg your pardon|Also "pardon?" or "you're welcome". "Molim te" = please (casual)|verb,present
+momak|young man; boyfriend|Used for a guy / a boyfriend|noun,masc
+momci|guys; lads|Plural of momak, friendly|noun,masc,plural
+mora|has to; must|"Mora da je kasno" = it must be late|verb,present
+moraju|they have to||verb,present,plural
+moram|I have to; I must||verb,present
+moramo|we have to||verb,present,plural
+morate|you (plural / polite) have to||verb,present,formal
+moraš|you have to|Casual|verb,present
+možda|maybe; perhaps||adv
+može|it can; OK; sure|"Može" = OK. Also "he/she can"|verb,present
+možemo|we can; can we|"Možemo li…?" = can we…?|verb,present,plural
+možete|you (plural / polite) can|"Možete li…?" = could you…?|verb,present,formal
+možeš|you can|Casual: "možeš li…?" = can you…?|verb,present
+mrtav|dead (man)|"Mrtav umoran" = dead tired|adj,masc
+mu|him; to him|Short "to him": "kaže mu" = tells him|pron,masc
+muzika|music||noun,fem
+muziku|music (object)||noun,fem
+na|on; at; to|"Na" is the all-purpose preposition: on, at, to, onto|prep
+najbolja|the best (fem)|"Najbolja" = best|adj,fem
+najbolje|the best (neuter); best|"Najbolje" = the best way|adv
+najbolji|the best (masc)|Superlative of dobar: "najbolji prijatelj" = best friend|adj,masc
+najgora|the worst (fem)||adj,fem
+nam|to us|Short "to us": "reci nam" = tell us|pron
+nama|us (after a preposition)|"Kod nas" / "sa nama"|pron
+naporan|exhausting; tough (masc)||adj,masc
+naravno|of course||adv
+nas|us; our|"Nas je troje" = there are three of us|pron
+nasmejava|makes (him/her) laugh||verb,present
+nasmejavam|I make (you) laugh||verb,present
+nasmejavaš|you make me laugh|"Nasmejavaš me" = you make me laugh|verb,present,flirty
+nazdravlje|cheers; bless you|Toast: to your health. Also what you say after a sneeze|interj
+nazovi|call (command)|"Nazovi me" = call me|verb,command
+nazvaću|I'll call|"Nazvaću te" = I'll call you|verb,future
+nađe|finds; meets||verb,present
+nađemo|we find; we meet|"Gde da se nađemo?" = where shall we meet?|verb,present,plural
+nađimo|let's meet; let's find||verb,command,plural
+naš|our (masc)||pron,masc
+ne|no; not|Goes right before the verb: ne znam|particle
+nedelja|Sunday; week|Ekavian: nedelja. Ijekavian: nedjelja|noun,fem
+nedelju|Sunday (object); a week||noun,fem
+nedostaješ|you're missing (to me)|"Nedostaješ mi" = I miss you. Fališ mi is more casual|verb,present,flirty
+negazirana|still (not fizzy)|"Negazirana voda" = still water|adj,fem
+negde|somewhere||adv
+nego|than; but rather|"Više nego…" = more than…|conj
+neka|let; some|"Neka dođe" = let her come. Also "some"|particle
+nema|there isn't; has none|"Nema veze" = never mind|verb,present
+nemaju|they don't have||verb,present,plural
+nemam|I don't have||verb,present
+nemamo|we don't have||verb,present,plural
+nemate|you (plural / polite) don't have||verb,present,formal
+nemaš|you don't have||verb,present
+nemoguć|impossible (man)|"Nemoguć sam" = I'm impossible|adj,masc
+nemoguća|impossible (woman)|"Nemoguća si" = you're impossible|adj,fem
+nemoj|don't|"Nemoj" + da/verb = don't! Casual|verb,command
+nemojte|don't (plural / polite)||verb,command,formal
+neprijatno|awkward; unpleasant|"Neprijatno mi je" = I'm uncomfortable|adj,neut
+neverovatno|unbelievable; amazing||adj,neut
+nezgodan|awkward; inconvenient (masc)|Careful: it doesn't mean "inconvenient" only; also awkward|adj,masc
+nezgodna|awkward (fem)||adj,fem
+nezgodno|awkward; inconvenient|"Nezgodno je" = it's awkward|adj,neut
+neće|won't; he/she won't||verb,future
+nećemo|we won't||verb,future,plural
+nećete|you (plural / polite) won't||verb,future,formal
+nećeš|you won't||verb,future
+neću|I won't|"Neću" = I won't (refusal)|verb,future
+nečem|something (about)|"O nečem" = about something|pron
+nešto|something||pron
+nije|isn't; is not|"Nije loše" = not bad|verb,present
+nikad|never|"Nikad" before ne: nikad ne znam = I never know|adv
+nisam|I'm not||verb,present
+nisi|you're not||verb,present
+nismo|we're not||verb,present,plural
+niste|you (plural / polite) aren't||verb,present,formal
+nisu|they aren't||verb,present,plural
+ništa|nothing; nothing at all|"Ništa" = nothing; also a casual "not much"|pron
+nje|her (of her)||pron,fem
+njega|him||pron,masc
+njegov|his||pron,masc
+njegova|his (feminine)||pron,fem
+njemu|to him||pron,masc
+njen|her; hers (masc)||pron,masc
+njena|her; hers (fem)||pron,fem
+njene|her; hers (plural)||pron
+njih|them||pron,plural
+njihov|their||pron,masc
+njihova|their (fem)||pron,fem
+njoj|to her||pron,fem
+nju|her|Object: "volim nju" = I love her|pron,fem
+nova|new (feminine)||adj,fem
+novo|new (neuter)||adj,neut
+novog|of the new; new (masc)||adj,masc
+noć|night||noun,fem
+nzm|idk; I don't know|Text abbreviation for "ne znam"|interj,slang
+o|about; of|"O čemu?" = about what?|prep
+obećavam|I promise||verb,present
+oboje|both||num
+obožavam|I adore; I love|Stronger than volim|verb,present,flirty
+od|from; of; since||prep
+odakle|where from|"Odakle si?" = where are you from?|particle
+odavde|from here||adv
+odavno|for a long time; long ago||adv
+odelu|suit|Locative of odelo|noun,neut
+odgovara|suits; answers|"Odgovara mi" = it suits me|verb,present
+odgovor|answer; reply||noun,masc
+odjebi|f*** off; get lost|Vulgar, strong|verb,command,vulgar
+odlazite|you (plural / polite) are leaving||verb,present,formal
+odlaziš|you're leaving||verb,present
+odličan|excellent (masc)||adj,masc
+odlična|excellent (fem)||adj,fem
+odlično|excellent; great||adj,neut
+odluči|decide (he/she decides)||verb,present
+odvezem|I drive (someone)|"Odvezem te" = I'll drive you|verb,present
+omiljeno|favourite||adj,neut
+on|he; it||pron,masc
+ona|she||pron,fem
+onaj|that one; the one (masc)||pron,masc
+onako|like that; so-so||adv
+one|those; they (feminine)||pron
+oni|they (masc / mixed)||pron,plural
+ono|that; like; you know|Filler word, like "like...": ono, znaš|pron,casual
+opet|again||adv
+osam|eight||num
+osoba|person||noun,fem
+ostajem|I'm staying||verb,present
+ostane|stays; stays behind||verb,present
+ostanem|I stay||verb,present
+ostaneš|you stay||verb,present
+ostavi|leave (it); leave me alone|"Ostavi me" = leave me alone|verb,command
+ostavila|left (she)||verb,past,fem
+ostavite|leave (plural / polite)||verb,command,formal
+otac|father||noun,masc
+otići|to leave||verb
+otišao|left (he)|Past tense, man|verb,past,masc
+otkažem|I cancel||verb,present
+ova|this (feminine)||pron,fem
+ovaj|this (masculine); um|Also used as a filler, like "um"|pron,masc,casual
+ovde|here|Ijekavian: ovdje|adv
+ovo|this|"Ovo je…" = this is…|pron,neut
+ovog|this (of / acc.)||pron,masc
+ovome|this (dative / locative)||pron,masc
+ovu|this (feminine, object)||pron,fem
+ozbiljan|serious (man)||adj,masc
+ozbiljna|serious (woman)||adj,fem
+ozbiljno|seriously||adv

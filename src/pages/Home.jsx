@@ -37,8 +37,16 @@ export default function Home() {
             <Link key={c.slug} to={`/category/${c.slug}`} className="tile">
               <Icon name={c.icon} size={28} />
               <span className="tile-name">{c.name}</span>
+              <span className="tile-blurb">{c.blurb}</span>
             </Link>
           ))}
+        </div>
+        <div className="grammar-card">
+          <strong>Looking for grammar?</strong>
+          <span className="muted">Verbs and Basics are laid out the way a textbook would.</span>
+          <div className="grammar-links">
+            {CATEGORIES.filter((c) => c.grammar).map((c) => <Link key={c.slug} to={`/category/${c.slug}`}>{c.name}</Link>)}
+          </div>
         </div>
       </div>
     </>

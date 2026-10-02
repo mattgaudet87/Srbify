@@ -1,0 +1,228 @@
+taj|that (masc); that one|"Taj" = that (m.). "To" = that (neuter)|pron,masc
+tako|so; like that; that way|"Tako je" = that's right|adv
+takođe|also; too; likewise|Ijekavian: također|adv
+tamo|there||adv
+tata|dad||noun,masc
+tatom|with dad||noun,masc
+tačno|exactly; correct; right|"Tačno!" = exactly!|adv
+te|you (object); those|Short "you": "volim te" = I love you. Also "those" (plural)|pron
+tebe|you (object, stressed)|"Za tebe" = for you|pron
+tebi|to you; for you|"Tebi" = to you|pron
+telefon|phone||noun,masc
+teško|hard; difficult; heavy||adj,neut
+težak|hard; heavy (masc)||adj,masc
+ti|you (casual); to you|Casual "you" to one friend; also short "to you" in some sentences|pron,casual
+tih|quiet; those (of)|"Tih" = quiet (man). Also genitive of "ti" = those|adj,masc
+tim|those (to); that|"Sa tim" = with that|pron
+tip|guy; type|"On je super tip" = he's a great guy|noun,masc,slang
+to|that; it|"To je…" = that is…|pron,neut
+toalet|toilet; restroom|"Gde je toalet?" = where's the bathroom?|noun,masc
+tobom|with you||pron
+toga|that (of)|"Zbog toga" = because of that|pron
+toj|that (to a woman)||pron,fem
+tom|that (locative)|"U tom" = in that|pron
+tome|that (dative)||pron
+torta|cake (layered)||noun,fem
+točeno|on tap; draft (beer)|"Točeno pivo" = draft beer|adj,neut
+treba|needs; should|"Treba da…" = should; "treba mi" = I need|verb,present
+trenutak|moment|"Samo trenutak" = just a moment|noun,masc
+tri|three||num
+troje|three (of them)|"Nas je troje" = there are three of us|num
+trčanja|running (of)||noun,neut
+tu|here; there|"Tu sam" = I'm here|adv
+tucamo|we crack (eggs together)|At Easter: "tucamo jaja" = we tap-crack eggs|verb,present,plural
+turska|Turkish (fem)|"Turska kafa" = Turkish coffee|adj,fem
+tužan|sad (man)||adj,masc
+tužna|sad (woman)||adj,fem
+tužni|sad (plural)||adj,plural
+tvoj|your (masc)||pron,masc
+tvoja|your (fem)|"Tvoja mama" = your mom|pron,fem
+tvoje|your (neuter / plural)||pron,neut
+tvoji|your (plural masc)||pron,plural
+tvojih|of your (plural)||pron,plural
+tvoju|your (fem, object)||pron,fem
+u|in; at; to|"U" = in/at/to a place or time|prep
+udaje|marries (she)|"Udaje se" = she's getting married|verb,present
+ugostili|hosted (they)||verb,past,plural
+ukusan|delicious (masc)||adj,masc
+ukusna|delicious (fem)||adj,fem
+ukusne|delicious (plural fem)||adj,plural
+ukusni|delicious (plural masc)||adj,plural
+ukusno|delicious; tasty|"Ukusno je" = it's tasty|adj,neut
+umire|dies; is dying||verb,present
+umirem|I'm dying|"Umirem od smeha" = I'm dying of laughter|verb,present
+umiremo|we're dying||verb,present,plural
+umireš|you're dying||verb,present
+umoran|tired (man)||adj,masc
+umorna|tired (woman)||adj,fem
+umorni|tired (plural)||adj,plural
+upozna|meets; gets to know||verb,present
+upoznaje|gets to know||verb,present
+upoznali|met (they)||verb,past,plural
+upravo|just; exactly|"Upravo sam stigao" = I just arrived|adv
+uradila|did; made (she)||verb,past,fem
+uradio|did; made (he)||verb,past,masc
+urnebesno|hilarious||adj,neut
+uskoro|soon||adv
+uskrs|Easter|Orthodox Easter, a different date from Western Easter|noun,masc
+utakmicu|match; game (object)||noun,fem
+utorak|Tuesday||noun,masc
+uvek|always||adv
+uveče|in the evening|"Uveče" = in the evening, at night|adv
+uzeću|I'll take||verb,future
+uzmi|take (command)||verb,command
+uči|learns; studies||verb,present
+učim|I learn; I study|"Učim srpski" = I'm learning Serbian|verb,present
+učimo|we learn||verb,present,plural
+učiš|you learn||verb,present
+uđite|come in (plural / polite)|"Uđite!" = please come in|verb,command,formal
+užasno|awful; terribly||adv
+vaistinu|truly|Old-fashioned Easter reply: "Vaistinu vaskrse!" = truly He is risen|adv,formal
+valjda|I guess; probably|"Valjda" = I suppose|adv,casual
+vam|you (to / for, polite or plural)|"Hvala vam" = thank you (polite)|pron,formal
+vama|you (polite), after preposition||pron,formal
+vas|you (polite / plural, object)|"Molim vas" = please (polite)|pron,formal
+vaskrse|rose (from the dead)|From the Easter greeting "Hristos vaskrse!"|verb,past
+vaš|your (polite, masc)||pron,formal
+vaša|your (polite, fem)||pron,formal
+vaše|your (polite, neuter / plural)||pron,formal
+važi|OK; deal; valid|"Važi!" = OK, deal|verb,present,casual
+velika|big; great (fem)||adj,fem
+veliki|big (masc)||adj,masc
+venčanje|wedding (ceremony)||noun,neut
+verujem|I believe||verb,present
+veze|connection|"Nema veze" = it doesn't matter|noun,fem
+već|already||adv
+veče|evening|"Dobro veče" = good evening|noun,neut
+večera|dinner||noun,fem
+večeras|tonight; this evening||adv
+večeru|dinner (object)||noun,fem
+vi|you (polite / plural)|Use with elders, strangers, or several people|pron,formal
+videla|saw (she)||verb,past,fem
+videli|saw (they)||verb,past,plural
+video|saw (he); video|Past tense, man: "video sam" = I saw. Also "video"|verb,past,masc
+videće|will see (he/she)||verb,future
+videćemo|we'll see|"Videćemo se" = see you / we'll see each other|verb,future,plural
+videćeš|you'll see||verb,future
+videću|I'll see||verb,future
+vidi|look; see|"Vidi ko priča" = look who's talking|verb,command
+vidim|I see||verb,present
+vidimo|we see|"Vidimo se" = see you|verb,present,plural
+vidite|you (plural / polite) see||verb,present,formal
+vidiš|you see|"Vidiš?" = see?|verb,present
+vikend|weekend||noun,masc
+vikenda|of the weekend||noun,masc
+vikendom|on weekends||noun,masc
+vina|of wine; wines||noun,neut
+vino|wine||noun,neut
+više|more|"Više nego…" = more than…|adv
+voda|water||noun,fem
+vode|of water||noun,fem
+vodu|water (object)|"Pijem vodu" = I drink water|noun,fem
+vole|they love/like||verb,present,plural
+voli|loves; likes||verb,present
+volim|I love; I like|"Volim te" = I love you. Also "I like (it)"|verb,present
+volimo|we love; we like||verb,present,plural
+volite|you (plural / polite) like||verb,present,formal
+voliš|you love; you like|"Voliš li…?" = do you like…?|verb,present
+voz|train||noun,masc
+vozi|drives; rides||verb,present
+vozim|I drive||verb,present
+vraga|devil (of)|"Do vraga!" = damn it! (mild)|noun,masc
+vrati|come back; return||verb,command
+vreme|time; weather||noun,neut
+vremena|times||noun,neut,plural
+vuk|wolf|"Gladan kao vuk" = hungry as a wolf|noun,masc
+za|for; to; in (time)|"Za tebe" = for you; "za sat" = in an hour|prep
+zabavno|fun; entertaining||adj,neut
+zaboravila|forgot (she)||verb,past,fem
+zaboravio|forgot (he)||verb,past,masc
+zafrkavaš|you're teasing; you're kidding|Slang: "zafrkavaš me" = you're messing with me|verb,present,slang
+zaista|truly; indeed||adv
+zajedno|together||adv
+zaljubljen|in love (man)|Woman: zaljubljena|adj,masc
+zar|really? (surprised); isn't it?|"Zar ne?" = right? / isn't it?|particle
+zatvoreno|closed||adj,neut
+zavisi|it depends||verb,present
+zašto|why|Short: "što" or "zašto"|particle
+zbog|because of; due to||prep
+zdravlje|health|"Za zdravlje" = to your health|noun,neut
+zdravo|hello; hi; healthy|Most common casual hello|interj
+zeza|teases; messes with||verb,present
+zezaj|tease; joke (command)||verb,command
+zezam|I'm messing/joking||verb,present
+zezate|you (plural / polite) kid||verb,present,formal
+zezaš|you're teasing|"Zezaš me" = you're messing with me|verb,present,casual
+zgodan|good-looking (man)||adj,masc
+zgodna|good-looking (woman)||adj,fem,flirty
+zlato|gold; darling|"Zlato" = sweetheart, for a friend/partner|noun,neut,flirty
+zna|knows||verb,present
+znaju|they know||verb,present,plural
+znala|knew (she)||verb,past,fem
+znam|I know|Also "ne znam" = I don't know|verb,present
+znamo|we know||verb,present,plural
+znao|knew (he)||verb,past,masc
+znate|you (plural / polite) know||verb,present,formal
+znači|means; so; I mean|Filler: "znači..." = so...|verb,present,casual
+znaš|you know|"Znaš" = you know (tag word)|verb,present
+zove|calls; is called||verb,present
+zovem|I call; I'm called|"Zovem se Met" = my name is Matt|verb,present
+zoveš|you call; you're called|"Kako se zoveš?" = what's your name?|verb,present
+zvaće|will call (he/she)||verb,future
+zvaćemo|we'll call||verb,future,plural
+zvaćeš|you'll call||verb,future
+zvaću|I'll call|"Zvaću te" = I'll call you|verb,future
+ćao|hi; bye|Casual hello and goodbye|interj,casual
+će|will (he/she/it)|Helper word making the future|verb,future
+ćemo|we will||verb,future,plural
+ćevape|ćevapi (object)||noun,masc,plural
+ćevapi|ćevapi|Small grilled minced-meat sausages; a national dish|noun,masc,plural
+ću|I will|Helper word: "ću doći" = I'll come|verb,future
+čaj|tea||noun,masc
+častim|I'm treating; it's on me||verb,present
+čašu|glass (object)||noun,fem
+čeka|waits||verb,present
+čekaj|wait (command)|Casual. "Čekaj malo" = hold on|verb,command
+čekajte|wait (plural / polite)||verb,command,formal
+čekam|I wait||verb,present
+čekamo|we wait||verb,present,plural
+čekaš|you wait||verb,present
+čemu|what (to)|"Čemu?" = to what?|pron
+četvrtak|Thursday||noun,masc
+čim|as soon as||conj
+čudno|strange; weird||adj,neut
+čujemo|we hear; we'll talk|"Čujemo se" = talk soon|verb,present,plural
+čula|heard (she)||verb,past,fem
+čuo|heard (he)|"Jesi li čuo?" = did you hear?|verb,past,masc
+đavola|devil (of)|"Do đavola!" = damn it!|noun,masc
+šala|joke||noun,fem
+šali|jokes|Also "he/she jokes"|verb,present
+šalila|joked (she)||verb,past,fem
+šalim|I'm joking|"Samo se šalim" = I'm just joking|verb,present
+šalimo|we're joking||verb,present,plural
+šalio|joked (he)||verb,past,masc
+šalite|you (plural / polite) joke||verb,present,formal
+šališ|you're joking|"Šališ se" = you're kidding|verb,present
+šalje|sends||verb,present
+šest|six||num
+šestog|of the sixth|"Šestog januara" = on January 6|adj,masc
+šećera|sugar (of)|"Bez šećera" = without sugar|noun,masc
+šljivovica|slivovitz (plum brandy)|National plum rakija|noun,fem
+šta|what|"Šta?" = what? Ijekavian: što|pron
+što|what; why; that|"Što" = why, or "that/which"|pron
+žao|sorry; pity|"Žao mi je" = I'm sorry|adv
+žedan|thirsty (man)||adj,masc
+žedna|thirsty (woman)||adj,fem
+žedni|thirsty (plural)||adj,plural
+žedno|thirsty||adj,neut
+železnička|railway (fem)|"Železnička stanica" = train station|adj,fem
+želi|wants; wishes||verb,present
+želim|I want; I wish|Politer than hoću|verb,present
+želite|you (polite) want||verb,present,formal
+ženi|woman (to); marries|"Ženi" = to the woman|noun,fem
+živeli|cheers|The standard toast: "to life"|interj
+živi|lives; alive||verb,present
+života|life (of)||noun,masc
+žurbe|hurry (of)|"Nema žurbe" = no rush|noun,fem
+žuri|is in a hurry|"Žuri mi se" = I'm in a hurry|verb,present
+žurku|party (object)|"Idemo na žurku" = we're going to a party|noun,fem

@@ -1,6 +1,6 @@
 import Fuse from 'fuse.js'
 import entries from '../data/entries.json'
-import { byName } from './categories'
+import { byName, placementsOf } from './categories'
 
 // Same normalization for the typed text and for the data:
 // lowercase, strip accents (š→s, č/ć→c, ž→z), đ→dj, trim extra spaces.
@@ -38,8 +38,7 @@ function buildDocs() {
     for (const f of e.forms || []) add(e, f.serbian, 'form', `${f.serbian} (${f.useWhen.toLowerCase()} · ${e.english})`)
     for (const a of e.alternatives || []) add(e, a.serbian, 'alt', `${a.serbian} (another way to say ${e.english})`)
     for (const t of e.tags || []) add(e, t, 'tag', `tagged "${t}"`)
-    add(e, e.category, 'tag')
-    add(e, e.subcategory, 'tag')
+    for (const p of placementsOf(e)) { add(e, p.category, 'tag'); add(e, p.subcategory, 'tag') }
   }
   return docs
 }

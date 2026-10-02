@@ -1,0 +1,252 @@
+pa|well; so; then; but|Filler that links a thought: "Pa, ne znam…" = well, I don't know…|particle,casual
+pada|falls; (rain) falls|"Pada kiša" = it's raining|verb,present
+paket|package||noun,masc
+pametan|smart (man)||adj,masc
+pametna|smart (woman)||adj,fem
+pardon|pardon; excuse me|From French; polite "excuse me"|interj,formal
+pas|dog||noun,masc
+pesma|song||noun,fem
+pesmu|song (object)||noun,fem
+pet|five||num
+petak|Friday||noun,masc
+petka|of Friday; on Friday||noun,masc
+pevaš|you sing||verb,present
+picu|pizza (object)|"Jedem picu" = I'm eating pizza|noun,fem
+pije|drinks||verb,present
+pita|pie; pastry; asks|Savory pastry like burek-style pie. Also "he/she asks"|noun,fem
+pitaj|ask (command)|Casual|verb,command
+pitajte|ask (plural / polite)||verb,command,formal
+pitala|asked (she)||verb,past,fem
+pitam|I ask|"Pitam se" = I wonder|verb,present
+pitao|asked (he)||verb,past,masc
+pitaš|you ask||verb,present
+pitu|pie (object)||noun,fem
+piva|beer (of); beers||noun,neut
+pivo|beer||noun,neut
+pizzu|pizza (object)||noun,fem
+piće|drink; beverage||noun,neut
+piše|writes||verb,present
+planinu|mountain (object)|"Idemo na planinu" = we're going to the mountains|noun,fem
+plate|(you) pay; salaries|Also "plate" = they pay|noun,fem
+platimo|we pay|"Da platimo" = let's pay|verb,present,plural
+platio|paid (he)||verb,past,masc
+plaćam|I pay||verb,present
+plačem|I cry||verb,present
+po|per; by; to fetch|"Doći po tebe" = to come pick you up|prep
+pobedila|won (she)||verb,past,fem
+podelimo|let's split; we split||verb,present,plural
+pogled|view; look||noun,masc
+pogledaj|look; watch (command)||verb,command
+pogrešila|made a mistake (she)||verb,past,fem
+pogrešio|made a mistake (he)||verb,past,masc
+pojma|idea (of)|"Nemam pojma" = I have no idea|noun,masc,casual
+pokvario|broke; ruined (he)||verb,past,masc
+polako|slowly; take it easy|A way of life: don't rush|adv,casual
+politici|politics (about)|"O politici" = about politics. Often a touchy subject|noun,fem
+poljubaca|kisses (of)||noun,masc,plural
+pomeren|postponed; moved (it)||adj,masc
+pomeri|move; reschedule (command)||verb,command
+pomerim|I move; I reschedule||verb,present
+pomerimo|let's move; reschedule||verb,present,plural
+pomeriš|you move; reschedule||verb,present
+pomognem|I help||verb,present
+pomognete|you (plural / polite) help||verb,present,formal
+pomoći|to help; help||verb
+ponedeljak|Monday||noun,masc
+ponekad|sometimes||adv
+porodici|family (to / in)||noun,fem
+porodicu|family (object)||noun,fem
+poruku|message (object)|"Pošalji poruku" = send a message|noun,fem
+posao|job; work||noun,masc
+posla|of work; of job||noun,masc
+posle|after; later||prep
+poslu|at work||noun,masc
+pozdrav|greeting; regards||noun,masc
+pozdravi|greet; say hi (command)|"Pozdravi mamu" = say hi to your mom|verb,command
+pozdravite|say hi (plural / polite)||verb,command,formal
+pozdravlja|sends regards||verb,present
+pozdravljam|I greet; I send regards||verb,present
+pozivu|invitation (to)|"Hvala na pozivu" = thanks for the invitation|noun,masc
+pozvali|invited; called (they)||verb,past,plural
+počinje|starts; begins||verb,present
+pošalji|send (command)||verb,command
+prava|right; real (fem)||adj,fem
+pravi|real; right (masc)|"Pravi prijatelj" = a real friend|adj,masc
+pravu|real; right (object)||adj,fem
+praznici|holidays||noun,masc,plural
+pred|before; in front of||prep
+prelep|gorgeous (masc)||adj,masc
+prelepa|gorgeous (fem)|Stronger than lepa: "prelepa si" = you're stunning|adj,fem,flirty
+prelepo|gorgeous; lovely||adj,neut
+preskupo|way too expensive||adj,neut
+presrećan|very happy (man)||adj,masc
+prijatelj|friend (male)||noun,masc
+prijatelji|friends||noun,masc,plural
+prijateljica|friend (female)||noun,fem
+prijateljice|friends (female)|Also "of a friend"|noun,fem,plural
+prijatno|enjoy; pleasant|What you say before a meal: bon appétit|interj
+priča|talks; story|"Priča" = he/she talks; or a story|verb,present
+pričaj|talk (command)||verb,command
+pričajmo|let's talk||verb,command,plural
+pričamo|we talk||verb,present,plural
+pričate|you (plural / polite) talk||verb,present,formal
+pričaš|you talk||verb,present
+priče|stories||noun,fem,plural
+probaš|you try||verb,present
+problem|problem|"Nema problema" = no problem|noun,masc
+problema|problems; of a problem||noun,masc
+provodimo|we spend (time)||verb,present,plural
+prošao|passed; went by (he)||verb,past,masc
+prošla|passed; last (she)|"Prošle nedelje" = last week|verb,past,fem
+prošli|passed (they); last (masc)||verb,past,plural
+psa|dog (object)|"Dva psa" = two dogs|noun,masc
+pun|full (masc)|"Pun sam" = I'm full / "kafić je pun" = the cafe is full|adj,masc
+puno|a lot; lots||adv
+put|time; trip; road|"Drugi put" = next time|noun,masc
+putujemo|we travel||verb,present,plural
+rade|they work/do||verb,present,plural
+radi|works; does|"Radi" = he/she works; or "does"|verb,present
+radila|worked; did (she)||verb,past,fem
+radim|I work; I do||verb,present
+radimo|we work; we do||verb,present,plural
+radite|you (plural / polite) do||verb,present,formal
+radiš|you do; you work|"Šta radiš?" = what are you doing?|verb,present
+rado|gladly; happily|"Rado" = with pleasure|adv
+rakija|rakija|Fruit brandy. A must at Serbian gatherings; often homemade|noun,fem
+rakije|of rakija||noun,fem
+rakiju|rakija (object)||noun,fem
+razloga|reason (of)|"Bez razloga" = for no reason|noun,masc
+razumem|I understand||verb,present
+račun|bill; check; account||noun,masc
+redu|order|"U redu" = OK; all right|noun,masc
+rekao|said (he)|Past tense, man. Feminine: rekla|verb,past,masc
+rekla|said (she)||verb,past,fem
+restoran|restaurant||noun,masc
+rodi|is born|"Hristos se rodi" = Christ is born|verb,present
+roditelja|of parents||noun,masc,plural
+roditelje|parents (object)|"Pozdravi roditelje" = say hi to your parents|noun,masc,plural
+roditelji|parents||noun,masc,plural
+rođendan|birthday||noun,masc
+ručak|lunch||noun,masc
+sa|with||prep
+sad|now|Short for sada|adv,casual
+sada|now||adv
+salate|salad (of); salads||noun,fem
+sam|I am; alone (masc)|"Sam" = "I am" (from biti) or "alone" (m.): sama (f.)|verb,present
+sama|alone; by herself|Also the feminine of "sam": alone|adj,fem
+samo|only; just|"Samo" = just; "samo malo" = just a little|particle
+sanjaj|dream (command)|"Sanjaj me" = dream of me|verb,command,flirty
+sastanak|meeting; date|Could mean a work meeting or a date|noun,masc
+sat|hour; clock; watch||noun,masc
+sati|hours|"U koliko sati?" = at what time?|noun,masc,plural
+sačekate|you (plural / polite) wait|"Sačekate li…?" = could you wait?|verb,present,formal
+se|self; (reflexive)|Part of reflexive verbs: "zovem se" = I'm called|particle
+sebe|oneself|"Za sebe" = for yourself|pron
+sedam|seven|The number 7|num
+sedite|sit (plural / polite)|"Sedite!" = please sit down|verb,command,formal
+seka|sis|Informal for sestra: sister|noun,fem,slang
+seksi|sexy||adj,flirty
+selu|village (in)|"U selu" = in the village|noun,neut
+sendvič|sandwich||noun,masc
+serija|TV series||noun,fem
+sestra|sister||noun,fem
+sestre|sister's; of sister||noun,fem
+sestru|sister (object)||noun,fem
+sećam|I remember|"Sećam se" = I remember|verb,present
+si|you are|"Ti si…" = you are…|verb,present
+siguran|sure; safe (man)||adj,masc
+simpatična|likeable; charming (fem)|A friendly, warm compliment|adj,fem
+sinoć|last night||adv
+sit|full (after eating)|"Sit sam" = I'm full (man). Woman says "sita sam"|adj,masc
+situacija|situation||noun,fem
+skup|expensive (masc)||adj,masc
+skupa|expensive (fem)||adj,fem
+skupe|expensive (plural fem)||adj,plural
+skupi|expensive (plural masc)||adj,plural
+skupo|expensive|"Skupo je" = it's expensive|adj,neut
+slatka|sweet; cute (fem)|Compliment: "slatka si" = you're cute|adj,fem,flirty
+slatke|sweet (plural fem)||adj,plural
+slava|slava; glory|A family's patron saint day. Big feast, open house|noun,fem
+slavi|celebrates||verb,present
+slavite|you (plural / polite) celebrate||verb,present,formal
+slavu|slava (object)|"Slavimo slavu" = we celebrate our slava|noun,fem
+slažem|I agree|"Slažem se" = I agree|verb,present
+slici|picture (in)||noun,fem
+slika|picture; photo||noun,fem
+slobodan|free (man)||adj,masc
+slobodna|free (woman)|"Kad si slobodna?" = when are you free?|adj,fem
+slobodni|free (plural)||adj,plural
+slobodno|feel free; freely|"Slobodno" = go ahead|adv
+složila|agreed (she)||verb,past,fem
+složio|agreed (he)||verb,past,masc
+smaraj|bug; annoy (command)|Slang: "ne smaraj me" = don't bug me|verb,command,slang
+smeh|laughter; laugh||noun,masc
+smeha|of laughter|"Umirem od smeha" = I'm dying of laughter|noun,masc
+smeješ|you laugh|"Smeješ se" = you're laughing|verb,present
+smešan|funny (man)||adj,masc
+smešna|funny (woman)||adj,fem
+smešno|funny|"Smešno je" = it's funny|adj,neut
+smo|we are|"Mi smo…" = we are…|verb,present,plural
+snove|dreams||noun,masc,plural
+sok|juice||noun,masc
+spava|sleeps||verb,present
+spavaj|sleep (command)|"Spavaj" = sleep (well)|verb,command
+spavajte|sleep (plural / polite)||verb,command,formal
+spavala|slept (she)||verb,past,fem
+spavali|slept (they)||verb,past,plural
+spavam|I sleep||verb,present
+spavao|slept (he)||verb,past,masc
+sranje|crap; bullshit|Vulgar. Used for "crap!" or "nonsense"|noun,neut,vulgar
+srbije|of Serbia||noun,fem
+srbiji|in Serbia||noun,fem
+srce|heart|"Srce moje" = my heart (pet name)|noun,neut,flirty
+sreda|Wednesday||noun,fem
+sredu|Wednesday (on)||noun,fem
+sretnemo|we meet; we run into||verb,present,plural
+srećan|happy (man); lucky|"Srećan rođendan" = happy birthday|adj,masc
+sreće|of luck; happiness|"Srećno" = good luck|noun,fem
+srećna|happy (woman)||adj,fem
+srećni|happy (plural)||adj,plural
+srpski|Serbian (the language)|Language name, not capitalized|adj,masc
+stalno|constantly; always||adv
+stan|apartment; flat||noun,masc
+stanica|station; stop||noun,fem
+stanici|at the station||noun,fem
+stanu|apartment (in)|"U stanu" = in the apartment|noun,masc
+stariji|older (masc)||adj,masc
+ste|you are (plural / polite)|"Vi ste" = you are (polite / plural)|verb,present,formal
+stigao|arrived (he)|"Stigao sam" = I've arrived|verb,past,masc
+stigla|arrived (she)||verb,past,fem
+stigli|arrived (they)||verb,past,plural
+stigne|arrives; makes it||verb,present
+stignem|I make it; I arrive||verb,present
+stignemo|we make it||verb,present,plural
+stignete|you (plural / polite) arrive||verb,present,formal
+stigneš|you make it||verb,present
+stignu|they make it||verb,present,plural
+stići|to arrive||verb
+stiže|arrives|"Stiže" = he/she is arriving|verb,present
+stižem|I'm arriving||verb,present
+stižeš|you're arriving||verb,present
+stvarno|really; truly|"Stvarno?" = really?|adv
+su|are (they)|"Oni su…" = they are…|verb,present,plural
+subota|Saturday||noun,fem
+subotu|Saturday (on)||noun,fem
+sumnjam|I doubt (it)|"Sumnjam" = I doubt it|verb,present
+sunce|sun||noun,neut
+super|super; great; cool|Works as an adjective or a one-word reply: "Super!"|adj,casual
+sutra|tomorrow|"Do sutra" = see you tomorrow|adv
+svadba|wedding||noun,fem
+svadbi|wedding (at)||noun,fem
+svadbu|wedding (object)||noun,fem
+svakako|definitely; by all means||adv
+svaki|every; each (masc)||pron,masc
+sve|everything; all||pron
+svemu|everything (to)||pron
+svi|everyone; all (plural)||pron,plural
+svima|everyone (to)|"Zdravo svima!" = hi everyone!|pron,plural
+sviđa|pleases; he/she likes|"Sviđa mi se" = I like it|verb,present
+sviđam|I appeal (to you)|"Sviđam ti se?" = do you like me?|verb,present,flirty
+sviđamo|we appeal||verb,present,plural
+sviđaš|you appeal (to me)|"Sviđaš mi se" = I like you|verb,present,flirty
+svoje|own (one's)|"Svoje" = my/your own|pron,neut
