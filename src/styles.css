@@ -190,6 +190,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .review-actions { display: flex; gap: 10px; justify-content: center; margin-top: 14px; }
 .btn { border: 0; border-radius: 14px; padding: 13px 22px; font: inherit; font-weight: 700; background: var(--navy); color: var(--on-navy); cursor: pointer; }
 .btn.ghost { background: var(--soft); color: var(--ink); }
+.alt-link { display: inline-flex; align-items: center; gap: 2px; margin-top: 4px; font-size: 13px; font-weight: 650; color: var(--accent); }
 .audience { margin: 10px 0 0; font-size: 14px; color: var(--muted); }
 .audience strong { color: var(--ink); }
 .all-forms > summary { cursor: pointer; font-weight: 650; font-size: 14px; color: var(--accent); padding: 10px 0; list-style: none; }

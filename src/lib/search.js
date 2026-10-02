@@ -19,6 +19,11 @@ export function normalize(text = '') {
 export const entryById = Object.fromEntries(entries.map((e) => [e.id, e]))
 export const allEntries = entries
 
+// Entry whose own phrase (or one half of "a / b") equals this text, so an alternative can link to its own card.
+const serbianKey = (s) => normalize(s)
+export const entryBySerbian = new Map()
+for (const e of entries) for (const part of e.serbian.split('/')) if (!entryBySerbian.has(serbianKey(part))) entryBySerbian.set(serbianKey(part), e.id)
+
 // Penalty added per kind of match so main matches rank above side matches.
 const KIND_PENALTY = { english: 0, main: 0, meaning: 0.04, texting: 0.03, form: 0.03, alt: 0.05, ijekavian: 0.05, tag: 0.12 }
 

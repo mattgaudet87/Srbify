@@ -6,7 +6,7 @@ import CopyButton from '../components/CopyButton.jsx'
 import StarButton from '../components/StarButton.jsx'
 import Icon from '../components/Icons.jsx'
 import { byName, placementsOf } from '../lib/categories.js'
-import { entryById } from '../lib/search.js'
+import { entryById, entryBySerbian, normalize } from '../lib/search.js'
 import { useSettings, isYourForm } from '../lib/settings.jsx'
 import { TagPills, VerifiedBadge } from '../components/Badges.jsx'
 import Sentence from '../components/Sentence.jsx'
@@ -108,12 +108,16 @@ export default function Entry() {
         <section>
           <h2>Alternatives</h2>
           <ul className="plain">
-            {e.alternatives.map((a) => (
-              <li key={a.serbian}>
-                <strong><Sentence text={a.serbian} /></strong> <span className="pron-sm inline">{a.pronunciation}</span>
-                <div className="muted">{a.nuance}</div>
-              </li>
-            ))}
+            {e.alternatives.map((a) => {
+              const own = entryBySerbian.get(normalize(a.serbian))
+              return (
+                <li key={a.serbian}>
+                  <strong><Sentence text={a.serbian} /></strong> <span className="pron-sm inline">{a.pronunciation}</span>
+                  <div className="muted">{a.nuance}</div>
+                  {own && own !== e.id && <Link to={`/entry/${own}`} className="alt-link">Open its card<Icon name="chevronR" size={14} /></Link>}
+                </li>
+              )
+            })}
           </ul>
         </section>
       )}

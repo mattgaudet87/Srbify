@@ -160,3 +160,56 @@ apsolutno|absolutely||adv
 došlo|came (neuter)|"Puno ljudi je došlo" = a lot of people came|verb,past,neut
 ovih|these (of)|"Ovih dana" = these days|pron,plural
 pozdrava|greetings (of)|"Puno pozdrava" = best wishes; also a sign-off|noun,masc
+avaj|alas|Old-fashioned, a bit poetic|interj
+brz|fast; quick (masculine)|"Brz oporavak" = a quick recovery|adj,masc
+budna|awake (feminine)|Masculine: budan|adj,fem
+deco|kids (calling them)|Vocative of deca|noun,plural
+dobre|good (plural / object)|"Dobre pare" = good money|adj,plural
+džemper|sweater||noun,masc
+ekipa|crew; team; group of friends|Casual, very common|noun,fem
+fleksibilan|flexible (masculine)|Feminine: fleksibilna|adj,masc
+hajdete|come on (plural / polite)|Group form of hajde|interj,formal
+hrana|food||noun,fem
+imaju|they have||verb,present,plural
+jedi|eat|Command|verb,command
+kiše|rain (of)|"Dosta mi je kiše" = I've had enough of the rain|noun,fem
+klimu|air conditioning (object)|Nominative: klima|noun,fem
+legnem|I lie down|"Idem da legnem" = I'm going to lie down|verb,present
+majstore|master; maestro (calling him)|Vocative of majstor, friendly|noun,masc
+mirno|calmly||adv
+mlađe|younger||adv
+nazovite|call (polite / plural)|Group form of nazovi|verb,command,formal
+novac|money (formal)|The neutral-to-formal word|noun,masc
+obožava|adores||verb,present
+obožavamo|we adore||verb,present,plural
+obožavaš|you adore||verb,present
+obzir|consideration|"Ne dolazi u obzir" = out of the question|noun,masc
+odmaraj|rest|Command: "Odmaraj se" = rest up|verb,command
+oporavak|recovery||noun,masc
+otkažemo|we cancel||verb,present,plural
+otkažeš|you cancel||verb,present
+otvoreno|openly; frankly||adv
+ozdravite|get well (polite / plural)|Group form of ozdravi|verb,command,formal
+pazite|be careful; take care (polite / plural)|Group form of pazi|verb,command,formal
+popij|drink up|Command: "Popij vode" = drink some water|verb,command
+popust|discount||noun,masc
+pozvaću|I will call; I will invite||verb,future
+praznike|holidays (object)|"Za praznike" = for the holidays|noun,masc,plural
+presladak|so sweet; so cute (masculine)|Feminine: preslatka|adj,masc
+probamo|we try||verb,present,plural
+radoznalosti|curiosity (of)|"Iz radoznalosti" = out of curiosity|noun,fem
+sita|full (feminine)|After eating. Masculine: sit|adj,fem
+sjajno|brilliant; wonderful||adj,neut
+srpskog|Serbian (of)|Genitive of srpski: "učenje srpskog" = learning Serbian|adj,masc
+stomak|stomach||noun,masc
+svoju|your own; my own (feminine, object)|"Svoju porodicu" = my own family|pron,fem
+tableta|pill||noun,fem
+ugasi|turn off|Command|verb,command
+uzmem|I take|"Ako uzmem dva" = if I take two|verb,present
+učenje|learning; studying||noun,neut
+zaboravi|forget|"Ne zaboravi" = don't forget|verb,command
+zafrkava|teases; is messing with|Slang|verb,present,slang
+zafrkavam|I tease; I mess with|Slang|verb,present,slang
+zaljubila|fell in love (she)|"Zaljubila sam se" = I fell in love (a woman says it)|verb,past,fem
+zovni|give a call|Casual: "Zovni me" = give me a ring|verb,command,casual
+šteta|a shame; what a pity||noun,fem

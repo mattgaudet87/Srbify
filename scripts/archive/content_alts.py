@@ -1,7 +1,7 @@
 """Alternatives promoted to their own entries (svakako, lepo spavaj, evo, jako, puno, molim).
 Reuses the E/F helpers from archive/content_sweep.py. Idempotent."""
 import os, sys
-root = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
+root = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..')
 sys.path.insert(0, os.path.join(root, 'scripts', 'archive')); import content_sweep as c
 os.chdir(root)
 E, F = c.E, c.F
