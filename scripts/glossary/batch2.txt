@@ -1,0 +1,643 @@
+# Words added with content batch 2 (key|meaning|note|tags).
+adresu|address (accusative)|Nominative: adresa|noun,fem
+ajvar|ajvar (roasted red pepper spread)|Served with ćevapi and bread|noun,masc
+ako|if||conj
+apoteka|pharmacy||noun,fem
+april|April||noun,masc
+autobusu|on the bus; in the bus|Locative of autobus|noun,masc
+avgust|August||noun,masc
+avgustu|in August|Locative of avgust|noun,masc
+avion|airplane||noun,masc
+baba|grandma; old lady|Also "grandmother" in many families|noun,fem
+baviš|you do; you are into (as in "čime se baviš")|From baviti se: to be busy with, to be into|verb,present
+beograd|Belgrade|The capital of Serbia|name
+birtija|rough little pub; tavern||noun,fem
+bismo|would (we); "we would"|Used with a past form: voleli bismo = we would like|verb,past
+biste|would (you, polite); "you would"|Used with a past form: da li biste mogli = would you be able|verb,past
+biti|to be (future form: "će biti")|Infinitive of "to be"|verb
+blage|slight; faint|Only in "nemam blage veze" = I have no clue|adj,fem
+boli|hurts; aches|"Boli me glava" = my head hurts|verb,present
+bože|God (calling form)|"Bože moj" = oh my God|noun,masc
+brine|worries (it worries)|"Brine me" = it worries me|verb,present
+brinete|you worry (polite or group)|"Nemojte da brinete" = don't worry|verb,present
+brinite|worry (polite command)|"Ne brinite" = don't worry|verb,command
+brzo|quickly; fast; soon||adv
+budala|fool; silly person|Usually playful between friends|noun,fem
+budale|fools; silly people||noun,plural
+budalo|you fool (calling form)|Used when addressing the person|noun,fem
+budemo|we will be|Used in "da budemo zajedno"|verb,future
+budeš|you will be|Used in "da budeš moja devojka"|verb,future
+buke|noise (of)||noun,fem
+burazer|bro; buddy|Very casual, for a guy|noun,masc,slang
+burek|burek (flaky pie)|Meat or cheese; a classic breakfast|noun,masc
+bzvz|bezveze (text abbreviation)|Meh, pointless|interj,slang
+care|dude; king (calling form)|Friendly address between guys|noun,masc,slang
+centar|center; downtown||noun,masc
+centra|center (of)||noun,masc
+centru|in the center|Locative: u centru|noun,masc
+dajte|give (polite command)|"Dajte mi" = give me, politely|verb,command
+dana|day (of)|"Od prvog dana" = from the first day|noun,masc
+debeo|heavy; fat (masculine)|Can be rude about someone's body|adj,masc
+decembar|December||noun,masc
+desio|happened (masculine)|"Desilo se" = it happened|verb,past
+detinjstva|childhood (of)|"Iz detinjstva" = from childhood|noun,neut
+devet|nine||num
+devojka|girl; girlfriend|"Moja devojka" = my girlfriend|noun,fem
+devojke|girls||noun,plural
+dečki|guys; boys; boyfriends||noun,masc,plural
+dečkima|guys (with)|"Sa dečkima" = with the guys|noun,masc,plural
+dečko|guy; boyfriend|"Moj dečko" = my boyfriend|noun,masc
+dešava|happens|"Šta se dešava?" = what's happening?|verb,present
+dijete|child|Ijekavian of dete|noun,neut
+dinar|dinar|The currency of Serbia|noun,masc
+divno|wonderful; lovely||adj,neut
+djeca|children|Ijekavian of deca|noun,plural
+djevojka|girl; girlfriend|Ijekavian of devojka|noun,fem
+dobrodošla|welcome (to a woman)||adj,fem
+dobrodošli|welcome (to several people)||adj,plural
+dobru|good (accusative feminine)|"Dobru lovu" = good money|adj,fem
+dodate|you pass; you add (polite)|"Možete li da mi dodate" = could you pass me|verb,present
+domaće|homemade; local||adj,neut
+donela|brought (feminine)|"Donela mi je" = she brought me|verb,past
+donesete|you bring (polite)|"Možete li da mi donesete" = could you bring me|verb,present
+doneseš|you bring (to her)|"Doneseš li mi" = will you bring me|verb,present
+doručak|breakfast||noun,masc
+doručkujem|I have breakfast||verb,present
+dosta|enough; plenty|"Dosta mi je" = I've had enough|adv
+dovela|brought (a person, feminine)|"Dovela me je" = she brought me|verb,past
+dozvolite|allow (polite command)|Formal: "dozvolite da…" = allow me to|verb,command,formal
+doček|the New Year midnight party; welcome||noun,masc
+dočekati|to see in; to welcome|"Dočekati Novu godinu" = see in the New Year|verb
+drag|dear; sweet (masculine)||adj,masc
+drugaricama|girlfriends (with)|"Sa drugaricama" = with her girlfriends|noun,fem,plural
+drugarima|friends (with)|"Sa drugarima" = with friends|noun,masc,plural
+društvo|company; friends|"Tvoje društvo" = your company|noun,neut
+druže|mate; comrade (calling form)|Older style, still friendly|noun,masc
+drvo|tree||noun,neut
+dugo|for a long time; long||adv
+dušo|my soul; darling (calling form)|A pet name|noun,fem,flirty
+džez|jazz||noun,masc
+februar|February||noun,masc
+filma|movie (of)|"Oko filma" = about the movie|noun,masc
+fin|nice; decent; fine|Casual way to say someone is nice|adj,masc,casual
+frke|worry; fuss (of)|"Nema frke" = no worries|noun,fem,casual
+glava|head||noun,fem
+gledaj|watch (command)||verb,command
+gledam|I watch; I look||verb,present
+gledaš|you watch||verb,present
+glupan|dummy; fool|A bit rude, milder than kreten|noun,masc,slang
+gluposti|nonsense; silly things|"Ne pričaj gluposti" = don't talk nonsense|noun,fem,plural
+godine|years (2 to 4)|2 to 4 years: godine|noun,fem,plural
+godinu|year (accusative)|"Novu godinu" = the New Year|noun,fem
+gole|bare; naked|"Do gole kože" = to the bare skin|adj,fem
+gostoprimstvo|hospitality||noun,neut
+gotovinom|by cash|Instrumental of gotovina|noun,fem
+gotovinu|cash (accusative)||noun,fem
+gradu|town; city (in)|"U gradu" = in town|noun,masc
+gužve|crowd; traffic (of)|"Dosta mi je gužve" = I've had enough of the crowds|noun,fem
+gužvi|crowd; traffic (in)|"U gužvi" = in traffic|noun,fem
+hitno|urgent; urgently||adj,neut
+hodi|come (here)|Casual: "hodi ovamo" = come here|verb,command,casual
+idiot|idiot||noun,masc,vulgar
+im|to them; them (dative)|"Čestitao sam im" = I congratulated them|pron
+imao|had (masculine)|"Nisam imao pojma" = I had no idea|verb,past
+ime|name||noun,neut
+internet|the internet||noun,masc
+intrigantna|intriguing (feminine)||adj,fem
+ipak|still; after all; nevertheless||adv
+iskrslo|came up (it came up)|"Iskrslo mi je nešto" = something came up|verb,past
+ispita|exam (of)||noun,masc
+ispitu|exam (at; on)|"Na ispitu" = at the exam|noun,masc
+ispod|under; below||prep
+ispočetka|from the beginning; again||adv
+izašla|went out (feminine)||verb,past
+izgovoriti|to pronounce||verb
+izlazi|goes out; is going out||verb,present
+izlazim|I go out||verb,present
+izlazimo|we go out||verb,present
+iznerviran|annoyed (masculine)||adj,masc
+iznervirana|annoyed (feminine)||adj,fem
+iznervirano|annoyed (neuter)||adj,neut
+izuj|take off (your shoes); command|"Izuj se" = take your shoes off|verb,command
+izvinila|apologized (feminine)|"Ona se izvinila" = she apologized|verb,past
+ići|to go||verb
+jabuke|apples||noun,fem,plural
+jakna|jacket||noun,fem
+jaknu|jacket (accusative)||noun,fem
+januar|January||noun,masc
+javila|got in touch (feminine); let know|"Nisi se javila" = you didn't get in touch|verb,past
+jbg|oh well (text abbreviation)|From "jebi ga": shit happens|interj,slang,vulgar
+jednog|one (accusative masculine)|"Jednog tipa" = a guy|num
+jednom|once; one (instrumental)|"Već jednom" = already, finally|num
+jednosmerna|one-way (feminine)|"Jednosmerna karta" = a one-way ticket|adj,fem
+jednostavno|simple; simply||adj,neut
+jedva|barely; hardly|"Jedva čekam" = I can't wait|adv
+jelena|Jelena|A woman's name|name
+jer|because|Short and slightly written|conj
+jogurt|yogurt||noun,masc
+jul|July||noun,masc
+jun|June||noun,masc
+junu|in June|Locative of jun|noun,masc
+kabla|bucket; cable (of)|"Kao iz kabla" = as from a bucket (pouring rain)|noun,masc
+kafani|tavern (in)|"U kafani" = in the tavern|noun,fem
+kafanu|tavern (accusative)|"U kafanu" = to the tavern|noun,fem
+kafi|coffee (at)|"Na kafi" = out for coffee|noun,fem
+kafom|coffee (with)|"Sa kafom" = with coffee|noun,fem
+kajmak|kajmak (creamy dairy spread)||noun,masc
+kamen|stone||noun,masc
+karte|tickets||noun,fem,plural
+kartice|cards (of)|"Primate li kartice?" = do you accept cards?|noun,fem
+karticom|by card||noun,fem
+kažete|you say; you tell (polite)||verb,present
+keva|mom (slang)||noun,fem,slang
+keš|cash||noun,masc
+kešom|by cash||noun,masc
+kiši|rain (in)|"Po kiši" = in the rain|noun,fem
+knjiga|book||noun,fem
+kolače|cakes (accusative)||noun,masc,plural
+kolonama|lines; columns (in)|"U kolonama" = in lines of traffic|noun,fem,plural
+kombi|minibus; van||noun,masc
+komplikovano|complicated||adj,neut
+komšija|neighbor||noun,masc
+komšije|neighbors||noun,plural
+komšiluk|neighborhood; neighborly community||noun,masc
+komšinica|female neighbor||noun,fem
+koncert|concert||noun,masc
+konobar|waiter||noun,masc
+korzo|korzo (evening promenade)||noun,neut
+korzom|the korzo (along)|"Šetati korzom" = to stroll the korzo|noun,neut
+koštaju|they cost||verb,present
+koštala|cost (feminine)||verb,past
+kože|skin (of)||noun,fem
+krenimo|let's start|"Krenimo ispočetka" = let's start again|verb,command
+kreten|idiot; jerk|Rude|noun,masc,vulgar
+kretena|idiot (accusative)||noun,masc,vulgar
+kreveta|bed (of)|"Ispod kreveta" = under the bed|noun,masc
+krš|crush; big fan|"Imam krš na tebe" = I have a crush on you|noun,masc,slang
+kucamo|we tap; we knock|Easter: tapping eggs together|verb,present
+kupatilo|bathroom||noun,neut
+kupila|bought (feminine)||verb,past
+kupili|bought (we; they)||verb,past
+kupio|bought (masculine)||verb,past
+kupiću|I will buy||verb,future
+kupujem|I buy||verb,present
+kvart|neighborhood; quarter||noun,masc,slang
+lak|easy (masculine)||adj,masc
+laknulo|relieved (it relieved)|"Laknulo mi je" = I felt relieved|verb,past
+lako|easy; easily||adv
+lenj|lazy (masculine)||adj,masc
+lenjivac|lazybones (man)||noun,masc
+lenjivica|lazybones (woman)||noun,fem
+lenjivice|lazybones (calling form, woman)||noun,fem
+lenjivče|lazybones (calling form, man)||noun,masc
+lik|guy; character|Slang for a guy|noun,masc,slang
+ljubazan|kind (masculine)||adj,masc
+lova|money (slang)||noun,fem,slang
+love|money (of)||noun,fem,slang
+lovu|money (accusative)||noun,fem,slang
+lp|kind regards (text abbreviation)|From "lep pozdrav"|interj,slang
+ludaka|crazy person|Affectionate|noun,masc,slang
+maj|May||noun,masc
+majica|T-shirt||noun,fem
+majko|mother (calling form)|"Majko moja" = oh my mother|noun,fem
+makar|at least; even||adv
+maler|mishap; small disaster||noun,masc,slang
+mamom|mom (with)|"Sa mamom" = with mom|noun,fem
+mape|map (of)||noun,fem
+market|supermarket||noun,masc
+mart|March||noun,masc
+martu|in March|Locative of mart|noun,masc
+matora|old lady (slang; a parent)||noun,fem,slang
+matori|old man (slang; a parent)||noun,masc,slang
+mače|kitten||noun,neut
+meseci|months||noun,masc,plural
+mesom|meat (with)|"Sa mesom" = with meat|noun,neut
+mesta|room; places (of)|"Ima mesta" = there's room|noun,neut
+mesto|place||noun,neut
+milane|Milan (calling form)|A man's name|name
+mirjana|Mirjana|A woman's name|name
+mišljenju|opinion (in)|"Po mom mišljenju" = in my opinion|noun,neut
+mjeseci|months|Ijekavian of meseci|noun,masc,plural
+mlad|young (masculine)||adj,masc
+mlada|young (feminine); bride||adj,fem
+mlade|young ones; newlyweds (accusative)||adj,plural
+mleko|milk||noun,neut
+mogao|could; was able (masculine)||verb,past
+mogli|could; were able (plural)||verb,past
+moguće|possible||adj,neut
+mom|my (instrumental; locative)|"Po mom mišljenju" = in my opinion|pron
+mršav|thin (masculine)||adj,masc
+najbliža|nearest (feminine)||adj,fem
+najlepša|loveliest; very kind (feminine)|"Najlepša hvala" = thank you so much|adj,fem
+napolju|outside||adv
+napred|forward; ahead|"Samo napred" = go right ahead|adv
+nasmejala|made laugh (feminine)|"Nasmejala si me" = you made me laugh|verb,past
+naučim|I learn|"Da naučim" = to learn|verb,present
+navučen|hooked (masculine)|"Navučen na burek" = hooked on burek|adj,masc
+nazdravili|toasted||verb,past
+naša|our (feminine)||pron,fem
+našao|found (masculine)||verb,past
+naše|our (neuter)||pron,neut
+naši|our (masculine plural)||pron,plural
+nažalost|unfortunately||adv
+nebo|sky||noun,neut
+nedeljom|on Sundays||adv
+neki|some; another; some kind of||pron
+nerviram|I get annoyed|"Nerviram se" = I'm getting worked up|verb,present
+ni|not even; neither|"Ni slučajno" = not at all|particle
+nikakav|no (kind of); not any||pron,masc
+nikako|no way; not at all||adv
+nikuda|nowhere||adv
+niska|short (feminine)||adj,fem
+nisko|short; low (neuter)||adj,neut
+nizak|short (masculine)||adj,masc
+niš|Niš|A city in southern Serbia|name
+nišu|in Niš||name
+njegovi|his (masculine plural)||pron,plural
+njegovo|his (neuter)||pron,neut
+njeni|her (masculine plural)||pron,plural
+njeno|her (neuter)||pron,neut
+njihovo|their (neuter)||pron,neut
+nov|new (masculine)||adj,masc
+nove|new (feminine plural)||adj,plural
+novembar|November||noun,masc
+novi|new (masculine, definite)||adj,masc
+novu|new (feminine accusative)|"Novu godinu" = the New Year|adj,fem
+noću|at night||adv
+ntp|no problem (text abbreviation)|From "nema problema"|interj,slang
+obavezno|obligatory; definitely||adj,neut
+obavezu|obligation||noun,fem
+obe|both (feminine)||num
+odlučim|I decide||verb,present
+odmah|right away; immediately||adv
+ok|OK||interj,casual
+okej|okay||interj,casual
+oko|about; around; eye|"Oko ovoga" = about this|prep
+oktobar|October||noun,masc
+oktobru|in October|Locative of oktobar|noun,masc
+onda|then; in that case||adv
+oprosti|forgive me; sorry|A warmer "sorry"|verb,command
+osećajte|feel (polite command)|"Osećajte se kao kod kuće" = make yourselves at home|verb,command
+osećam|I feel||verb,present
+osmeh|smile||noun,masc
+ostajemo|we stay||verb,present
+ostali|stayed (plural)||verb,past
+ostani|stay (command)||verb,command
+ostanite|stay (polite or group)||verb,command
+ostatak|the rest; the change||noun,masc
+otvorena|open (feminine)||adj,fem
+otvori|open (command)||verb,command
+ovamo|over here; this way||adv
+ove|these (feminine)||pron,plural
+ovoga|this (of; about)|"Oko ovoga" = about this|pron
+ozdravi|get well (command)||verb,command
+pao|fell (masculine)||verb,past
+papuče|slippers||noun,fem,plural
+par|couple; pair||noun,masc
+paradajzi|tomatoes||noun,masc,plural
+pare|money||noun,fem,plural
+partner|partner (male)||noun,masc
+partnerka|partner (female)||noun,fem
+pauza|break; pause||noun,fem
+pazi|watch out; be careful|"Pazi na sebe" = look after yourself|verb,command
+pekara|bakery||noun,fem
+peron|platform (train)||noun,masc
+petnaest|fifteen||num
+peške|on foot||adv
+peva|sings||verb,present
+pijaca|open-air market||noun,fem
+pijaci|market (at)|"Na pijaci" = at the market|noun,fem
+pijacu|market (accusative)|"Na pijacu" = to the market|noun,fem
+planiramo|we plan||verb,present
+planiraš|you plan||verb,present
+planove|plans||noun,masc,plural
+plati|pays||verb,present
+platim|I pay||verb,present
+platiću|I will pay||verb,future
+platiš|you pay||verb,present
+plaćamo|we pay||verb,present
+plešem|I dance||verb,present
+plešemo|we dance||verb,present
+pliveš|you swim||verb,present
+pljeskavica|pljeskavica (burger-style patty)||noun,fem
+pljušti|it pours (rain)||verb,present
+pobediš|you win||verb,present
+podne|noon; midday||noun,neut
+pogledajte|look (polite or group)||verb,command
+pokazaću|I will show||verb,future
+pokažete|you show (polite)||verb,present
+pokisli|got soaked (plural)||verb,past
+poklon|gift||noun,masc
+pokupim|I pick up|"Da te pokupim" = to pick you up|verb,present
+pola|half||num
+polazak|departure||noun,masc
+polazi|leaves; departs||verb,present
+poljubac|kiss||noun,masc
+položenom|passed (of an exam)|"Na položenom ispitu" = on passing the exam|adj
+pomaže|helps||verb,present
+pomere|they move; they reschedule||verb,present
+pomogao|helped (masculine)||verb,past
+pomogneš|you help||verb,present
+pomozi|help (command)||verb,command
+pomozite|help (polite or group)||verb,command
+pomoć|help||noun,fem
+ponaša|behaves|"Ponaša se" = he behaves|verb,present
+ponovite|repeat (polite or group)||verb,command
+ponoviti|to repeat||verb
+popijemo|we drink; let's have a drink||verb,present
+popodne|in the afternoon||adv
+popričamo|we chat||verb,present
+popusta|discount (of)|"Ima li popusta?" = is there a discount?|noun,masc
+porcija|portion||noun,fem
+porodica|family||noun,fem
+poruči|message (command); order|"Poruči mi" = message me|verb,command
+poslao|sent (masculine)||verb,past
+poslije|after|Ijekavian of posle|prep
+potpuno|totally; completely||adv
+potrebe|need (of)|"Nema potrebe" = no need|noun,fem
+potrebno|necessary||adj,neut
+povezeš|you give a ride||verb,present
+povratna|return (feminine)|"Povratna karta" = a return ticket|adj,fem
+povratnu|return (accusative feminine)||adj,fem
+poznaješ|you know (a person)||verb,present
+pošalješ|you send||verb,present
+pre|before||prep
+prebrzo|too fast||adv
+predstavim|I introduce||verb,present
+prehlađen|having a cold (masculine)||adj,masc
+prema|toward; to (a person)||prep
+prepun|stuffed; very full (masculine)||adj,masc
+preslatka|so cute (feminine)||adj,fem
+pridruži|join (command)||verb,command
+pridružila|joined (feminine)||verb,past
+pridružite|join (polite or group)||verb,command
+prija|is pleasant; suits|"Prija mi" = I enjoy it|verb,present
+prijateljstvo|friendship||noun,neut
+prije|before|Ijekavian of pre|prep
+primate|you accept (polite)||verb,present
+privlači|attracts||verb,present
+privlačim|I attract||verb,present
+privlačiš|you attract||verb,present
+priznaj|admit (command)||verb,command
+probaj|try (command)||verb,command
+probali|tried (plural)||verb,past
+probam|I try; I taste||verb,present
+prodaje|sells||verb,present
+prodavnica|shop; store||noun,fem
+prodavnice|shop (of)|"Do prodavnice" = to the shop|noun,fem
+prozor|window||noun,masc
+prozora|window (of)||noun,masc
+prošetajmo|let's take a walk||verb,command
+prošetamo|we take a walk||verb,present
+prošlo|passed; went (it went)|"Kako je prošlo?" = how did it go?|verb,past
+prvo|first||adv
+prvog|first (genitive masculine)||num
+puna|full (feminine)||adj,fem
+punjač|charger||noun,masc
+puta|trip; road (of); times|"Sledeći put" = next time|noun,masc
+putovanja|trip (of)|Plural: trips|noun,neut
+putu|trip; road (on)|"Na putu" = on the road, on the trip|noun,masc
+putuje|travels||verb,present
+putujem|I travel||verb,present
+radnja|shop||noun,fem
+ranije|earlier||adv
+rano|early||adv
+razgledam|I look around; I browse||verb,present
+razgledamo|we look around; we browse||verb,present
+razgovaraju|they talk||verb,present
+razgovaramo|we talk||verb,present
+razume|understands||verb,present
+razumeo|understood (masculine)||verb,past
+razumeš|you understand||verb,present
+recept|recipe||noun,masc
+reku|river (accusative)|"Na reku" = to the river|noun,fem
+rezervaciju|reservation (accusative)||noun,fem
+rezervisali|reserved (plural)||verb,past
+reč|word||noun,fem
+roditeljima|parents (with)|"Sa roditeljima" = with parents|noun,masc,plural
+rođena|born (feminine)||adj,fem
+ruku|hand (accusative)||noun,fem
+ručala|had lunch (feminine)||verb,past
+ručamo|we have lunch||verb,present
+ručka|lunch (of)|"Posle ručka" = after lunch|noun,masc
+ručku|lunch (at)|"Na ručku" = at lunch|noun,masc
+s|with (short form of "sa")|Before some sounds: "s tobom"|prep
+sarmu|sarma (accusative)|Sarma = cabbage rolls|noun,fem
+saznam|I find out||verb,present
+sačuvaj|save; protect (command)|"Bože sačuvaj" = God forbid|verb,command
+sedimo|we sit||verb,present
+sednem|I sit down||verb,present
+sekund|second (moment)||noun,masc
+septembar|September||noun,masc
+seri|talk rubbish (command; crude)||verb,command,vulgar
+sigurno|surely; definitely||adv
+sin|son||noun,masc
+sirom|cheese (with)|"Sa sirom" = with cheese|noun,masc
+sitno|small change; small||adj,neut
+situaciju|situation (accusative)||noun,fem
+skadarliji|Skadarlija (in)|A famous bohemian street in Belgrade|name
+skinem|I take off||verb,present
+skini|take off (command)||verb,command
+skoro|almost; soon||adv
+sladoled|ice cream||noun,masc
+slatki|sweet; cute (masculine)||adj,masc
+slatkih|sweet (genitive plural)|"Slatkih snova" = sweet dreams|adj,plural
+slatko|sweet; cute (neuter)||adj,neut
+slavimo|we celebrate||verb,present
+slaže|agrees|"Ona se slaže" = she agrees|verb,present
+slažemo|we agree||verb,present
+slažeš|you agree||verb,present
+sledeći|next||adj,masc
+slučajno|by accident||adv
+sluša|listens||verb,present
+slušaj|listen (command)||verb,command
+slušajte|listen (polite or group)||verb,command
+slušam|I listen||verb,present
+slušaš|you listen||verb,present
+smem|I may; I dare||verb,present
+snaći|manage; find one's way|"Snaći ću se" = I'll manage|verb
+snova|dreams (of)||noun,masc,plural
+so|salt||noun,fem
+sojino|soy (neuter)||adj,neut
+somun|somun (flat bread)||noun,masc
+somunu|somun (in)|"U somunu" = in flat bread|noun,masc
+spor|slow (masculine)||adj,masc
+sporije|more slowly||adv
+sporo|slowly||adv
+srbiju|Serbia (accusative)|"U Srbiju" = to Serbia|name
+srca|heart (of)||noun,neut
+srednje|medium; middle||adj,neut
+srećno|good luck||adv
+srećo|my luck (calling form)|A sweet term of address|noun,fem,flirty
+srpska|Serbian (feminine)||adj,fem
+srpsku|Serbian (accusative feminine)||adj,fem
+stanice|station (of)|"Do stanice" = to the station|noun,fem
+stanujem|I live; I stay (in a flat)||verb,present
+star|old (masculine)||adj,masc
+stara|old (feminine)||adj,fem
+stari|old (masculine, definite)||adj,masc
+staro|old (neuter)||adj,neut
+staru|old (accusative feminine)||adj,fem
+stižemo|we arrive||verb,present
+sto|table; hundred|"Sto za dvoje" = a table for two|noun,masc
+stolom|table (at)|"Za stolom" = at the table|noun,masc
+stvari|things; matter (of)|"U stvari" = in fact, actually|noun,fem
+susjed|neighbor|Ijekavian of komšija|noun,masc
+svaka|every; all (feminine)|"Svaka čast" = well done|pron,fem
+svako|every (neuter); each||pron,neut
+svega|everything (of)|"Oko svega" = about everything|pron
+svira|plays (music)||verb,present
+svirka|gig; live music||noun,fem
+svirkama|gigs (at)|"Na svirkama" = at gigs|noun,fem,plural
+svirku|gig (accusative)|"Na svirku" = to a gig|noun,fem
+sviđaju|they please; I like them|"Sviđaju mi se" = I like them|verb,present
+taksi|taxi||noun,masc
+takva|such (feminine)||pron,fem
+teraš|you push; you chase||verb,present
+teta|auntie; aunt||noun,fem
+tipa|guy (accusative)||noun,masc,slang
+tipovi|guys||noun,masc,plural
+tog|that (genitive masculine)||pron
+toplo|warm||adj,neut
+torbama|bags (with)|"Sa torbama" = with the bags|noun,fem,plural
+torontu|Toronto (in)||name
+tramvaj|tram||noun,masc
+trebaju|they are needed|"Trebaju mi" = I need (them)|verb,present
+trebaš|you are needed|"Trebaš mi" = I need you|verb,present
+trgovina|shop|Ijekavian-region word for prodavnica|noun,fem
+trideset|thirty||num
+trud|effort; trouble||noun,masc
+trudi|tries; makes an effort|"Ne trudi se" = don't bother|verb,present
+trudite|you make an effort (polite)||verb,present
+trči|runs||verb,present
+trčim|I run||verb,present
+ujutru|in the morning||adv
+ukoliko|if; in case|More formal than "ako"|conj,formal
+ukupno|in total||adv
+ume|knows how to||verb,present
+umem|I know how to||verb,present
+umemo|we know how to||verb,present
+umesto|instead of||prep
+umeš|you know how to||verb,present
+unuci|grandchildren||noun,masc,plural
+unutra|inside||adv
+uopšte|at all||adv
+upoznaj|meet (command)||verb,command
+upoznam|I get to know||verb,present
+upoznao|met (masculine)||verb,past
+ups|oops||interj,casual
+ushićen|thrilled (masculine)||adj,masc
+uspelo|worked; succeeded (it worked)||verb,past
+ustaj|get up (command)||verb,command
+ustane|gets up||verb,present
+uzbuđen|excited (masculine)||adj,masc
+uzbuđena|excited (feminine)||adj,fem
+uzbuđeni|excited (plural)||adj,plural
+uzećemo|we will take||verb,future
+uzimam|I take||verb,present
+uzimamo|we take||verb,present
+uzmemo|we take||verb,present
+uđi|come in (command)||verb,command
+ušiju|ears (of)|"Do ušiju" = up to the ears|noun,neut,plural
+užina|snack||noun,fem
+uživo|live||adv
+vaši|your (masculine plural, polite)||pron,plural
+vašoj|your (dative feminine, polite)||pron,fem
+vegetarijanski|vegetarian (masculine)||adj,masc
+veličini|size (in)||noun,fem
+venčali|got married (plural)||verb,past
+verenik|fiancé||noun,masc
+veoma|very||adv
+verovatno|probably||adv
+većoj|bigger (dative feminine)||adj,fem
+večeri|dinner; evening (at)|"Na večeri" = at dinner|noun,fem
+videti|to see||verb
+visine|height (of)||noun,fem
+visok|tall (masculine)||adj,masc
+visoka|tall (feminine)||adj,fem
+visoko|tall; high (neuter)||adj,neut
+viši|taller (masculine)||adj,masc
+vjerovatno|probably|Ijekavian of verovatno|adv
+vodi|leads; takes (a person)|"Vodi me" = he takes me|verb,present
+vodim|I take (a person)||verb,present
+volela|would like (feminine); loved|"Volela bih" = I would like|verb,past
+voleli|would like (plural)|"Voleli bismo" = we would like|verb,past
+voleo|would like (masculine); loved|"Voleo bih" = I would like|verb,past
+volje|will; mood (of)|"Nemam volje" = I'm not in the mood|noun,fem
+vozom|by train||noun,masc
+voće|fruit||noun,neut
+vrata|door||noun,neut
+vrijeme|time; weather|Ijekavian of vreme|noun,neut
+vruće|hot||adj,neut
+zaboravili|forgot (plural)||verb,past
+zaboravite|forget (polite or group)||verb,command
+zabrinut|worried (masculine)||adj,masc
+zabrinuta|worried (feminine)||adj,fem
+zabrinuti|worried (plural)||adj,plural
+zadržite|keep (polite command)|"Ostatak zadržite" = keep the change|verb,command
+zaglavljen|stuck (masculine)||adj,masc
+zaglavljena|stuck (feminine)||adj,fem
+zaglavljeni|stuck (plural)||adj,plural
+zahvalan|grateful (masculine)||adj,masc
+zakasnio|was late (masculine)||verb,past
+zaljubio|fell (in love; masculine)|"Zaljubio sam se" = I fell in love|verb,past
+zaljubljena|in love (feminine)||adj,fem
+zaljubljeni|in love (plural)||adj,plural
+zalutala|got lost (feminine)||verb,past
+zalutali|got lost (plural)||verb,past
+zalutao|got lost (masculine)||verb,past
+zanima|interests||verb,present
+zanimam|I interest||verb,present
+zanimaš|you interest||verb,present
+zanimljiv|interesting (masculine)||adj,masc
+zanimljiva|interesting (feminine)||adj,fem
+zanimljivo|interesting (neuter)||adj,neut
+zapravo|actually; in fact||adv
+zarađujem|I earn||verb,present
+zaručnica|fiancée||noun,fem
+zatim|then; afterwards||adv
+zato|therefore; that is why|"Zato što" = because|adv
+zatreba|is needed (if needed)|"Ako šta zatreba" = if anything is needed|verb,present
+zbuniš|you get confused||verb,present
+zeleniš|green market (stalls of vegetables)||noun,masc
+zgrada|building||noun,fem
+zima|cold; winter|"Zima mi je" = I'm freezing|noun,fem
+znali|knew (plural)||verb,past
+značiš|you mean (to me)||verb,present
+zoran|Zoran|A man's name|name
+zovemo|we call; we are called|"Zovemo se" = we are called|verb,present
+zovete|you call; you are called (polite)||verb,present
+ćale|dad (slang)||noun,masc,slang
+ćerka|daughter||noun,fem
+ćete|will (you, polite; they)|Part of the future: vi ćete|verb,future
+ćevapa|ćevapi (of)|"Porcija ćevapa" = a portion of ćevapi|noun,masc,plural
+ćeš|will (you)|Part of the future: ti ćeš|verb,future
+čast|honor; respect|"Svaka čast" = well done|noun,fem
+čestitam|I congratulate||verb,present
+čestitamo|we congratulate||verb,present
+čestitao|congratulated (masculine)||verb,past
+čestitke|congratulations||noun,fem,plural
+četrdeset|forty||num
+četvoro|four (people)|"Sto za četvoro" = a table for four|num
+četvrtka|Thursday (of)||noun,masc
+čika|uncle (older man)||noun,masc
+čime|with what; by what||pron
+čini|seems; does|"Čini mi se" = it seems to me|verb,present
+čita|reads||verb,present
+čuj|hey; listen|Very casual|verb,command,casual
+čuvaj|take care (command)|"Čuvaj se" = take care|verb,command
+čuvajte|take care (polite or group)||verb,command
+šanse|chance (of)|"Nema šanse" = no chance|noun,fem
+šefe|boss (calling form)||noun,masc,casual
+šetamo|we walk; we stroll||verb,present
+šetnja|walk||noun,fem
+žele|they want||verb,present
+želeo|wished (masculine)|"Želeo bih" = I would like|verb,past
+želiš|you want; you wish||verb,present
+žive|they live||verb,present
+živimo|we live||verb,present
+živite|you live (polite or group)||verb,present
+žurimo|we rush; we hurry||verb,present
+žurka|party||noun,fem,casual
+ideju|idea (accusative)||noun,fem
+voziš|you drive||verb,present

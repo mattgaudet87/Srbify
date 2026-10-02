@@ -5,6 +5,7 @@ import { allEntries } from '../lib/search.js'
 import { entryTags, tagFilterLabel } from '../lib/tags.js'
 import EntryRow from '../components/EntryRow.jsx'
 import Icon from '../components/Icons.jsx'
+import NumbersTable from '../components/NumbersTable.jsx'
 import { useSettings } from '../lib/settings.jsx'
 
 const TAG_ORDER = ['casual', 'neutral', 'formal', 'flirty', 'slang', 'vulgar', 'texting', 'past', 'present', 'future', 'mf-speaker', 'mf-about', 'noun-gender', 'plural', 'never']
@@ -67,6 +68,7 @@ export default function Category() {
           </>
         ) : (
           <>
+            {cat.slug === 'basics' && sub === 'Numbers' && <NumbersTable />}
             {tagOptions.length > 1 && (
               <div className="filter-row" role="tablist" aria-label="Filter by tag">
                 <span className="lbl">Tags</span>

@@ -283,3 +283,10 @@ tr.yours td:first-child { color: var(--accent); }
 .sub-grid .tile-name { font-size: 15px; }
 .tile-soon { opacity: 0.5; }
 .crumb { margin: 0 0 2px; font-size: 13px; opacity: 0.85; }
+
+/* Numbers table */
+.numbers { margin-bottom: 18px; }
+.num-table { min-width: 0; }
+.num-table td.num { font-weight: 700; width: 28%; font-variant-numeric: tabular-nums; }
+.num-table .pron-sm { display: block; margin: 0; }
+.num-table tr.num-big td { background: var(--soft); }
