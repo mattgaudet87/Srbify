@@ -149,6 +149,14 @@
 ],
 "pron": "AH-preel"
 },
+"apsolutno": {
+"en": "absolutely",
+"tags": [
+"adv"
+],
+"pron": "ahp-soh-LOOT-no",
+"entry": "svakako"
+},
 "auto": {
 "en": "car",
 "tags": [
@@ -1887,6 +1895,16 @@
 ],
 "pron": "DOH-shlee"
 },
+"došlo": {
+"en": "came (neuter)",
+"note": "\"Puno ljudi je došlo\" = a lot of people came",
+"tags": [
+"verb",
+"past",
+"neut"
+],
+"pron": "DOHSH-lo"
+},
 "drag": {
 "en": "dear; sweet (masculine)",
 "tags": [
@@ -2273,7 +2291,7 @@
 "particle"
 ],
 "pron": "EH-vo",
-"entry": "eto"
+"entry": "evo"
 },
 "faca": {
 "en": "badass; awesome (person)",
@@ -3797,7 +3815,7 @@
 "adv"
 ],
 "pron": "YAH-ko",
-"entry": "mnogo"
+"entry": "jako"
 },
 "januar": {
 "en": "January",
@@ -6469,7 +6487,7 @@
 "present"
 ],
 "pron": "MOH-leem",
-"entry": "sta"
+"entry": "molim"
 },
 "molim te": {
 "en": "please (casual)",
@@ -8487,6 +8505,15 @@
 ],
 "pron": "OH-veh"
 },
+"ovih": {
+"en": "these (of)",
+"note": "\"Ovih dana\" = these days",
+"tags": [
+"pron",
+"plural"
+],
+"pron": "OH-veeh"
+},
 "ovo": {
 "en": "this",
 "note": "\"Ovo je…\" = this is…",
@@ -9891,6 +9918,15 @@
 "pron": "POHZ-drahv",
 "entry": "cao"
 },
+"pozdrava": {
+"en": "greetings (of)",
+"note": "\"Puno pozdrava\" = best wishes; also a sign-off",
+"tags": [
+"noun",
+"masc"
+],
+"pron": "POHZ-drah-vah"
+},
 "pozdravi": {
 "en": "greet; say hi (command)",
 "note": "\"Pozdravi mamu\" = say hi to your mom",
@@ -10607,7 +10643,7 @@
 "adv"
 ],
 "pron": "POO-no",
-"entry": "mnogo"
+"entry": "puno"
 },
 "put": {
 "en": "time; trip; road",
@@ -12932,7 +12968,7 @@
 "adv"
 ],
 "pron": "SVAH-kah-ko",
-"entry": "naravno"
+"entry": "svakako"
 },
 "svaki": {
 "en": "every; each (masc)",

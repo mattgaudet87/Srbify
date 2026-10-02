@@ -1290,7 +1290,8 @@
       "thank-you",
       "sorry",
       "mozes-li",
-      "daj-mi"
+      "daj-mi",
+      "molim"
     ],
     "verified": false,
     "placements": [
@@ -3400,7 +3401,8 @@
     "related": [
       "tacno",
       "vazi",
-      "sigurno"
+      "sigurno",
+      "svakako"
     ],
     "verified": false,
     "placements": [
@@ -5639,7 +5641,8 @@
       "ljubavi",
       "slatkih-snova",
       "dobro-jutro-sunce",
-      "sanjao-sam-te"
+      "sanjao-sam-te",
+      "lepo-spavaj"
     ],
     "verified": false,
     "placements": [
@@ -7402,7 +7405,8 @@
       "kasnim",
       "gde-si",
       "stizem-za-pet",
-      "jesi-li-stigla"
+      "jesi-li-stigla",
+      "evo"
     ],
     "verified": false,
     "placements": [
@@ -9112,7 +9116,8 @@
       "ludilo",
       "i",
       "zato-sto",
-      "mnogo"
+      "mnogo",
+      "jako"
     ],
     "verified": false,
     "placements": [
@@ -11051,7 +11056,8 @@
     "related": [
       "laku-noc",
       "dodji",
-      "jesi-li-se-naspavala"
+      "jesi-li-se-naspavala",
+      "lepo-spavaj"
     ],
     "verified": false,
     "placements": [
@@ -15506,7 +15512,10 @@
     "related": [
       "please",
       "prijatno",
-      "eto"
+      "eto",
+      "svakako",
+      "evo",
+      "molim"
     ],
     "verified": false,
     "placements": [
@@ -17609,7 +17618,8 @@
     "related": [
       "vazi",
       "dogovoreno",
-      "u-redu"
+      "u-redu",
+      "svakako"
     ],
     "verified": false,
     "placements": [
@@ -18162,7 +18172,8 @@
       "bolje",
       "isto-kao",
       "mnogo",
-      "skuplje-jeftinije"
+      "skuplje-jeftinije",
+      "puno"
     ],
     "verified": false,
     "placements": [
@@ -19603,7 +19614,8 @@
     "related": [
       "thank-you",
       "hvala-puno",
-      "nema-veze"
+      "nema-veze",
+      "molim"
     ],
     "verified": false,
     "placements": [
@@ -19679,7 +19691,8 @@
       "thank-you",
       "nema-na-cemu",
       "hvala-na-gostoprimstvu",
-      "mnogo"
+      "mnogo",
+      "puno"
     ],
     "verified": false,
     "placements": [
@@ -20058,7 +20071,8 @@
       "verovatno",
       "mozda",
       "naravno",
-      "sumnjam"
+      "sumnjam",
+      "svakako"
     ],
     "verified": false,
     "placements": [
@@ -21499,7 +21513,8 @@
       "kasnim",
       "stigao-sam",
       "zaglavljen-sam",
-      "za-sat-vremena"
+      "za-sat-vremena",
+      "evo"
     ],
     "verified": false,
     "placements": [
@@ -23018,7 +23033,8 @@
       "laku-noc",
       "laku-noc-lepotice",
       "zlato-sunce",
-      "sanjao-sam-te"
+      "sanjao-sam-te",
+      "lepo-spavaj"
     ],
     "verified": false,
     "placements": [
@@ -32620,7 +32636,8 @@
       "govori-sporije",
       "sta-znaci",
       "govoris-li-engleski",
-      "kako-se-kaze"
+      "kako-se-kaze",
+      "molim"
     ],
     "verified": false,
     "placements": [
@@ -34730,7 +34747,9 @@
       "bas",
       "hvala-puno",
       "svidjas-mi-se",
-      "vise-nego"
+      "vise-nego",
+      "jako",
+      "puno"
     ],
     "verified": false,
     "placements": [
@@ -34797,7 +34816,8 @@
       "izvolite",
       "u-pravu-si",
       "pa",
-      "aha"
+      "aha",
+      "evo"
     ],
     "verified": false,
     "placements": [
@@ -37150,6 +37170,506 @@
       {
         "category": "Quick phrases",
         "subcategory": "Reactions"
+      }
+    ]
+  },
+  {
+    "id": "svakako",
+    "english": "Certainly / by all means",
+    "serbian": "Svakako",
+    "pronunciation": "SVAH-kah-ko",
+    "meaning": "Certainly; by all means; for sure",
+    "category": "Quick phrases",
+    "subcategory": "Agree and disagree",
+    "tags": [
+      "sure",
+      "certain",
+      "polite"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Sigurno",
+        "pronunciation": "SEE-goor-no",
+        "nuance": "Definitely; a bit more everyday"
+      },
+      {
+        "serbian": "Naravno",
+        "pronunciation": "nah-RAHV-no",
+        "nuance": "Of course"
+      },
+      {
+        "serbian": "Apsolutno",
+        "pronunciation": "ahp-soh-LOOT-no",
+        "nuance": "Absolutely"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Svakako dođi, svi te čekamo",
+        "pronunciation": "SVAH-kah-ko DOH-jee, SVEE teh CHEH-kah-mo",
+        "english": "By all means come, we're all waiting for you",
+        "context": "To her"
+      },
+      {
+        "serbian": "Svakako, izvolite",
+        "pronunciation": "SVAH-kah-ko, EEZ-vo-lee-teh",
+        "english": "Certainly, go ahead",
+        "context": "Polite yes"
+      },
+      {
+        "serbian": "Svakako ću doći",
+        "pronunciation": "SVAH-kah-ko choo DOH-chee",
+        "english": "I'll certainly come",
+        "context": "About me"
+      },
+      {
+        "serbian": "Svakako ćemo vam javiti",
+        "pronunciation": "SVAH-kah-ko CHEH-mo vahm YAH-vee-tee",
+        "english": "We'll certainly let you know",
+        "context": "About us"
+      }
+    ],
+    "texting": "svakako",
+    "related": [
+      "sigurno",
+      "naravno",
+      "moze",
+      "izvolite"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Agree and disagree"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
+    ]
+  },
+  {
+    "id": "lepo-spavaj",
+    "english": "Sleep well",
+    "serbian": "Lepo spavaj",
+    "pronunciation": "LEH-po SPAH-vai",
+    "meaning": "Sleep well; have a good sleep",
+    "category": "Flirting and relationships",
+    "subcategory": "Good morning and good night",
+    "tags": [
+      "sleep",
+      "night",
+      "sweet"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "formal"
+    ],
+    "forms": [
+      {
+        "serbian": "Lepo spavaj",
+        "pronunciation": "LEH-po SPAH-vai",
+        "formal": "casual",
+        "useWhen": "To one friend or someone your age",
+        "example": {
+          "serbian": "Lepo spavaj, vidimo se sutra",
+          "pronunciation": "LEH-po SPAH-vai, VEE-dee-mo seh SOO-trah",
+          "english": "Sleep well, see you tomorrow"
+        }
+      },
+      {
+        "serbian": "Lepo spavajte",
+        "pronunciation": "LEH-po SPAH-vai-teh",
+        "formal": "polite",
+        "useWhen": "To an elder, a stranger, or a group",
+        "example": {
+          "serbian": "Lepo spavajte, laku noć",
+          "pronunciation": "LEH-po SPAH-vai-teh, LAH-koo NOHCH",
+          "english": "Sleep well, good night"
+        }
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Lepo spavaj, lepotice",
+        "pronunciation": "LEH-po SPAH-vai, leh-poh-TEE-tseh",
+        "english": "Sleep well, beautiful",
+        "context": "To her"
+      },
+      {
+        "serbian": "Lepo spavaj i javi mi se ujutru",
+        "pronunciation": "LEH-po SPAH-vai ee YAH-vee mee seh oo-YOO-troo",
+        "english": "Sleep well and text me in the morning",
+        "context": "Late text"
+      },
+      {
+        "serbian": "Lepo spavaj i ti",
+        "pronunciation": "LEH-po SPAH-vai ee TEE",
+        "english": "Sleep well, you too",
+        "context": "Her reply"
+      }
+    ],
+    "texting": "lepo spavaj",
+    "related": [
+      "laku-noc",
+      "laku-noc-lepotice",
+      "slatkih-snova",
+      "spavaj"
+    ],
+    "ijekavian": "Lijepo spavaj",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Good morning and good night"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Greetings and goodbyes"
+      }
+    ]
+  },
+  {
+    "id": "evo",
+    "english": "Here (it is)",
+    "serbian": "Evo",
+    "pronunciation": "EH-vo",
+    "meaning": "Here it is; here I come; here we are",
+    "category": "Quick phrases",
+    "subcategory": "Filler and transition words",
+    "tags": [
+      "here",
+      "handing over",
+      "arriving"
+    ],
+    "register": "casual",
+    "changesBy": [
+      "describes"
+    ],
+    "forms": [
+      {
+        "serbian": "Evo me",
+        "pronunciation": "EH-vo meh",
+        "describes": "me",
+        "useWhen": "Me",
+        "example": {
+          "serbian": "Evo me, čekaj još malo",
+          "pronunciation": "EH-vo meh, CHEH-kai yohsh MAH-lo",
+          "english": "Here I come, wait a little longer"
+        }
+      },
+      {
+        "serbian": "Evo ga",
+        "pronunciation": "EH-vo gah",
+        "describes": "him",
+        "useWhen": "Him / it",
+        "example": {
+          "serbian": "Evo ga, stigao je",
+          "pronunciation": "EH-vo gah, STEE-gah-oh yeh",
+          "english": "Here he is, he has arrived"
+        }
+      },
+      {
+        "serbian": "Evo je",
+        "pronunciation": "EH-vo yeh",
+        "describes": "her",
+        "useWhen": "Her",
+        "example": {
+          "serbian": "Evo je, dolazi",
+          "pronunciation": "EH-vo yeh, DOH-lah-zee",
+          "english": "Here she is, she is coming"
+        }
+      },
+      {
+        "serbian": "Evo nas",
+        "pronunciation": "EH-vo nahs",
+        "describes": "us",
+        "useWhen": "Us",
+        "example": {
+          "serbian": "Evo nas, otvori vrata",
+          "pronunciation": "EH-vo nahs, OHT-voh-ree VRAH-tah",
+          "english": "Here we are, open the door"
+        }
+      }
+    ],
+    "alternatives": [
+      {
+        "serbian": "Eto",
+        "pronunciation": "EH-to",
+        "nuance": "There; there you go (about something near you or just done)"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Evo me, stižem!",
+        "pronunciation": "EH-vo meh, STEE-zhem",
+        "english": "Here I am, I'm coming!",
+        "context": "Coming"
+      },
+      {
+        "serbian": "Evo ti telefon",
+        "pronunciation": "EH-vo tee TEH-leh-fon",
+        "english": "Here's your phone",
+        "context": "Handing over"
+      },
+      {
+        "serbian": "Evo ga!",
+        "pronunciation": "EH-vo gah",
+        "english": "Here he is!",
+        "context": "Spotting him"
+      }
+    ],
+    "texting": "evo",
+    "related": [
+      "eto",
+      "izvolite",
+      "stigao-sam",
+      "stizem-za-pet"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Filler and transition words"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      }
+    ]
+  },
+  {
+    "id": "jako",
+    "english": "Very / strongly",
+    "serbian": "Jako",
+    "pronunciation": "YAH-ko",
+    "meaning": "Very, really, strongly",
+    "category": "Basics",
+    "subcategory": "Flow words",
+    "tags": [
+      "very",
+      "emphasis",
+      "intensifier"
+    ],
+    "register": "casual",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Mnogo",
+        "pronunciation": "MNOH-go",
+        "nuance": "A lot, very"
+      },
+      {
+        "serbian": "Baš",
+        "pronunciation": "BAHSH",
+        "nuance": "Really"
+      },
+      {
+        "serbian": "Puno",
+        "pronunciation": "POO-no",
+        "nuance": "A lot"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Jako mi se sviđaš",
+        "pronunciation": "YAH-ko mee seh SVEE-jahsh",
+        "english": "I like you a lot",
+        "context": "To her"
+      },
+      {
+        "serbian": "Jako mi fališ",
+        "pronunciation": "YAH-ko mee FAH-leesh",
+        "english": "I miss you a lot",
+        "context": "Missing her"
+      },
+      {
+        "serbian": "Jako sam umoran",
+        "pronunciation": "YAH-ko sahm OO-mo-rahn",
+        "english": "I'm very tired (a man says this)",
+        "context": "About me (man)"
+      },
+      {
+        "serbian": "Jako sam umorna",
+        "pronunciation": "YAH-ko sahm OO-mor-nah",
+        "english": "I'm very tired (a woman says this)",
+        "context": "About me (woman)"
+      },
+      {
+        "serbian": "Jako lepo",
+        "pronunciation": "YAH-ko LEH-po",
+        "english": "Really nice",
+        "context": "A thing"
+      }
+    ],
+    "texting": "jako",
+    "related": [
+      "mnogo",
+      "bas",
+      "puno",
+      "svidjas-mi-se"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Flow words"
+      },
+      {
+        "category": "Flirting and relationships",
+        "subcategory": "Flirting"
+      }
+    ]
+  },
+  {
+    "id": "puno",
+    "english": "A lot / much",
+    "serbian": "Puno",
+    "pronunciation": "POO-no",
+    "meaning": "A lot, much, many",
+    "category": "Basics",
+    "subcategory": "Flow words",
+    "tags": [
+      "a lot",
+      "many",
+      "amount"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Mnogo",
+        "pronunciation": "MNOH-go",
+        "nuance": "A lot, very"
+      },
+      {
+        "serbian": "Jako",
+        "pronunciation": "YAH-ko",
+        "nuance": "Very, strongly"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Puno ti hvala",
+        "pronunciation": "POO-no tee HVAH-lah",
+        "english": "Thanks a lot",
+        "context": "Thanks"
+      },
+      {
+        "serbian": "Puno pozdrava",
+        "pronunciation": "POO-no POHZ-drah-vah",
+        "english": "Lots of love / best wishes",
+        "context": "Sign-off"
+      },
+      {
+        "serbian": "Puno radim ovih dana",
+        "pronunciation": "POO-no RAH-deem OH-veeh DAH-nah",
+        "english": "I'm working a lot these days",
+        "context": "About me"
+      },
+      {
+        "serbian": "Puno ljudi je došlo",
+        "pronunciation": "POO-no LYOO-dee yeh DOHSH-lo",
+        "english": "A lot of people came",
+        "context": "Many people"
+      }
+    ],
+    "texting": "puno",
+    "related": [
+      "mnogo",
+      "jako",
+      "hvala-puno",
+      "vise-nego"
+    ],
+    "verified": false,
+    "placements": [
+      {
+        "category": "Basics",
+        "subcategory": "Flow words"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Thanks, sorry, please"
+      }
+    ]
+  },
+  {
+    "id": "molim",
+    "english": "Pardon? / Can I help you?",
+    "serbian": "Molim?",
+    "pronunciation": "MOH-leem",
+    "meaning": "Pardon? Can I help you? You are welcome",
+    "category": "Quick phrases",
+    "subcategory": "Common replies",
+    "tags": [
+      "pardon",
+      "shop",
+      "polite"
+    ],
+    "register": "neutral",
+    "changesBy": [],
+    "alternatives": [
+      {
+        "serbian": "Molim te",
+        "pronunciation": "MOH-leem teh",
+        "nuance": "Please (to a friend)"
+      },
+      {
+        "serbian": "Šta?",
+        "pronunciation": "SHTAH",
+        "nuance": "What? (very casual)"
+      },
+      {
+        "serbian": "Izvolite?",
+        "pronunciation": "EEZ-vo-lee-teh",
+        "nuance": "Yes? / how can I help? (polite)"
+      }
+    ],
+    "examples": [
+      {
+        "serbian": "Molim? Nisam čuo",
+        "pronunciation": "MOH-leem? NEE-sahm CHOO-oh",
+        "english": "Pardon? I didn't hear (a man says this)",
+        "context": "Not hearing (man)"
+      },
+      {
+        "serbian": "Molim? Nisam čula",
+        "pronunciation": "MOH-leem? NEE-sahm CHOO-lah",
+        "english": "Pardon? I didn't hear (a woman says this)",
+        "context": "Not hearing (woman)"
+      },
+      {
+        "serbian": "Izvolite, molim vas?",
+        "pronunciation": "EEZ-vo-lee-teh, MOH-leem vahs",
+        "english": "Yes, how can I help you?",
+        "context": "In a shop"
+      },
+      {
+        "serbian": "Molim, nema problema",
+        "pronunciation": "MOH-leem, NEH-mah proh-BLEH-mah",
+        "english": "You're welcome, no problem",
+        "context": "You are welcome"
+      }
+    ],
+    "texting": "molim",
+    "related": [
+      "please",
+      "ponovi",
+      "izvolite",
+      "nema-na-cemu"
+    ],
+    "watchOut": "\"Molim?\" with a rising tone means \"pardon?\". \"Molim\" said to thank-you means \"you're welcome\". Say \"Šta?\" only to friends, it can sound rude.",
+    "verified": false,
+    "placements": [
+      {
+        "category": "Quick phrases",
+        "subcategory": "Common replies"
+      },
+      {
+        "category": "Quick phrases",
+        "subcategory": "Thanks, sorry, please"
       }
     ]
   }

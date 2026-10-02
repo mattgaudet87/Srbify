@@ -156,3 +156,7 @@ zvučiš|you sound||verb,present
 posljednji|last (masculine)|Ijekavian of poslednji|adj,masc
 svijetlo|light; bright (neuter)|Ijekavian of svetlo|adj,neut
 vani|outside|More common in Croatia and Bosnia; Serbian says "napolju"|adv
+apsolutno|absolutely||adv
+došlo|came (neuter)|"Puno ljudi je došlo" = a lot of people came|verb,past,neut
+ovih|these (of)|"Ovih dana" = these days|pron,plural
+pozdrava|greetings (of)|"Puno pozdrava" = best wishes; also a sign-off|noun,masc
