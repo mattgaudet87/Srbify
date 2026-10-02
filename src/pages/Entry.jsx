@@ -8,7 +8,7 @@ import Icon from '../components/Icons.jsx'
 import { byName, placementsOf } from '../lib/categories.js'
 import { entryById, entryBySerbian, normalize } from '../lib/search.js'
 import { useSettings, isYourForm } from '../lib/settings.jsx'
-import { TagPills, VerifiedBadge } from '../components/Badges.jsx'
+import { TagPills, ConfidenceBadge } from '../components/Badges.jsx'
 import Sentence from '../components/Sentence.jsx'
 
 const FORM_COLUMNS = [
@@ -64,7 +64,7 @@ export default function Entry() {
 
       <div className="badges">
         <TagPills entry={e} long />
-        <VerifiedBadge verified={e.verified} />
+        <ConfidenceBadge entry={e} />
       </div>
       <p className="audience"><strong>Say it to:</strong> {audience(e)}</p>
 

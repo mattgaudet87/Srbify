@@ -8,6 +8,7 @@ import Category from './pages/Category.jsx'
 import Entry from './pages/Entry.jsx'
 import Settings from './pages/Settings.jsx'
 import Review from './pages/Review.jsx'
+import Checks from './pages/Checks.jsx'
 
 export default function App() {
   const { pathname } = useLocation()
@@ -25,6 +26,7 @@ export default function App() {
           <Route path="/category/:slug" element={<Category />} />
           <Route path="/entry/:id" element={<Entry />} />
           <Route path="/review" element={<Review />} />
+          <Route path="/checks" element={<Checks />} />
           <Route path="/settings" element={<Settings />} />
           <Route path="*" element={<Home />} />
         </Routes>

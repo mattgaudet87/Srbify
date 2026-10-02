@@ -74,7 +74,8 @@
         "category": "Quick phrases",
         "subcategory": "Conversation starters"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "cao",
@@ -147,7 +148,8 @@
         "category": "Slang and swearing",
         "subcategory": "Casual slang"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "see-you",
@@ -217,7 +219,8 @@
         "category": "Quick phrases",
         "subcategory": "Greetings and goodbyes"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "good-morning",
@@ -290,7 +293,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Good morning and good night"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "laku-noc",
@@ -373,7 +377,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Good morning and good night"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kako-si",
@@ -484,7 +489,8 @@
         "category": "Conversation",
         "subcategory": "Getting to know someone"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sta-ima",
@@ -564,7 +570,8 @@
         "category": "Slang and swearing",
         "subcategory": "Casual slang"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dobro-sam",
@@ -703,7 +710,8 @@
         "category": "Conversation",
         "subcategory": "Answering questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "im-tired",
@@ -863,7 +871,8 @@
         "category": "Conversation",
         "subcategory": "Answering questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "im-happy",
@@ -996,7 +1005,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "thank-you",
@@ -1112,7 +1122,8 @@
         "category": "Quick phrases",
         "subcategory": "Thanks, sorry, please"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sorry",
@@ -1215,7 +1226,8 @@
         "category": "Quick phrases",
         "subcategory": "Thanks, sorry, please"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "please",
@@ -1310,7 +1322,8 @@
         "category": "Verbs and actions",
         "subcategory": "Requests"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ludilo",
@@ -1398,7 +1411,10 @@
         "category": "Slang and swearing",
         "subcategory": "Casual slang"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Slang. Confirm usage as \"awesome\" vs \"crazy\".",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "dying-laughing",
@@ -1517,7 +1533,10 @@
         "category": "Describing and feelings",
         "subcategory": "Emotions"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm \"crkoh\" and \"umirem od smeha\" are what people actually text.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "funny",
@@ -1630,7 +1649,8 @@
         "category": "Describing and feelings",
         "subcategory": "Opinions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ma-daj",
@@ -1714,7 +1734,8 @@
         "category": "Quick phrases",
         "subcategory": "Agree and disagree"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ma-nemoj",
@@ -1796,7 +1817,10 @@
         "category": "Conversation",
         "subcategory": "Teasing and comebacks"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm the meaning (\"yeah right\" vs \"you don't say\") and when it is sarcastic.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "salis-se",
@@ -1919,7 +1943,8 @@
         "category": "Conversation",
         "subcategory": "Teasing and comebacks"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "cool",
@@ -2010,7 +2035,8 @@
         "category": "Quick phrases",
         "subcategory": "Reactions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "bezveze",
@@ -2091,7 +2117,8 @@
         "category": "Slang and swearing",
         "subcategory": "Casual slang"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "bre",
@@ -2159,7 +2186,10 @@
         "category": "Quick phrases",
         "subcategory": "Filler and transition words"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Regional filler. Confirm where it is used and when it can sound rude.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "ajde",
@@ -2271,7 +2301,8 @@
         "category": "Quick phrases",
         "subcategory": "Filler and transition words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "joj",
@@ -2356,7 +2387,8 @@
         "category": "Quick phrases",
         "subcategory": "Reactions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nzm",
@@ -2501,7 +2533,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "tacno",
@@ -2580,7 +2613,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "aha",
@@ -2657,7 +2691,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "stvarno",
@@ -2742,7 +2777,8 @@
         "category": "Quick phrases",
         "subcategory": "Yes, no, maybe"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "znaci",
@@ -2814,7 +2850,8 @@
         "category": "Quick phrases",
         "subcategory": "Filler and transition words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "pa",
@@ -2884,7 +2921,8 @@
         "category": "Quick phrases",
         "subcategory": "Filler and transition words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ono",
@@ -2946,7 +2984,8 @@
         "category": "Quick phrases",
         "subcategory": "Filler and transition words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sumnjam",
@@ -3024,7 +3063,8 @@
         "category": "Describing and feelings",
         "subcategory": "Opinions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ne-bih-rekao",
@@ -3116,7 +3156,8 @@
         "category": "Conversation",
         "subcategory": "Formal and polite"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nema-veze",
@@ -3202,7 +3243,8 @@
         "category": "Quick phrases",
         "subcategory": "Agree and disagree"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "vazi",
@@ -3289,7 +3331,8 @@
         "category": "Quick phrases",
         "subcategory": "Yes, no, maybe"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "mozda",
@@ -3364,7 +3407,8 @@
         "category": "Quick phrases",
         "subcategory": "Filler and transition words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "naravno",
@@ -3442,7 +3486,8 @@
         "category": "Quick phrases",
         "subcategory": "Yes, no, maybe"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sta",
@@ -3516,7 +3561,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ko",
@@ -3589,7 +3635,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "gde",
@@ -3686,7 +3733,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kad",
@@ -3756,7 +3804,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zasto",
@@ -3834,7 +3883,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kako",
@@ -3906,7 +3956,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "koji",
@@ -4010,7 +4061,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sta-radis",
@@ -4148,7 +4200,8 @@
         "category": "Quick phrases",
         "subcategory": "Conversation starters"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "gde-si",
@@ -4264,7 +4317,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "jesi-li-gladna",
@@ -4394,7 +4448,8 @@
         "category": "Describing and feelings",
         "subcategory": "Physical states"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "odakle-si",
@@ -4495,7 +4550,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "koliko",
@@ -4575,7 +4631,8 @@
         "category": "Basics",
         "subcategory": "Numbers"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "jebote",
@@ -4655,7 +4712,10 @@
         "category": "Slang and swearing",
         "subcategory": "Tone and usage warnings"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Vulgar. Confirm the strength and where it is acceptable.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "majke-mi",
@@ -4725,7 +4785,10 @@
         "category": "Slang and swearing",
         "subcategory": "Mild swearing"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Slang. Confirm tone and spelling.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "falis-mi",
@@ -4860,7 +4923,10 @@
         "category": "Flirting and relationships",
         "subcategory": "Flirting"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm the register difference with \"nedostaješ mi\".",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "lepa-si",
@@ -5009,7 +5075,8 @@
         "category": "Describing and feelings",
         "subcategory": "People: appearance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "izgledas-lepo",
@@ -5122,7 +5189,8 @@
         "category": "Describing and feelings",
         "subcategory": "People: appearance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "svidjas-mi-se",
@@ -5254,7 +5322,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Flirting"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "mislim-na-tebe",
@@ -5377,7 +5446,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Affection and romance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "draga",
@@ -5497,7 +5567,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Nicknames and pet names"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ljubavi",
@@ -5585,7 +5656,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Affection and romance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "laku-noc-lepotice",
@@ -5694,7 +5766,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Nicknames and pet names"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ljubim-te",
@@ -5809,7 +5882,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Affection and romance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "volim-te",
@@ -5955,7 +6029,8 @@
         "category": "Verbs and actions",
         "subcategory": "Present"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nasmejavas-me",
@@ -6058,7 +6133,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Playful teasing"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nisam-to-rekao",
@@ -6179,7 +6255,8 @@
         "category": "Verbs and actions",
         "subcategory": "Past"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zezas-me",
@@ -6296,7 +6373,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Playful teasing"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nemoguc-sam",
@@ -6420,7 +6498,10 @@
         "category": "Describing and feelings",
         "subcategory": "People: personality"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm the phrase sounds natural, not literal.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "samo-se-salim",
@@ -6528,7 +6609,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Playful teasing"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ne-ljuti-se",
@@ -6656,7 +6738,8 @@
         "category": "Quick phrases",
         "subcategory": "Thanks, sorry, please"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "luda-si",
@@ -6788,7 +6871,8 @@
         "category": "Describing and feelings",
         "subcategory": "People: personality"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "hoces-da-izadjemo",
@@ -6913,7 +6997,8 @@
         "category": "Verbs and actions",
         "subcategory": "Invitations"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kad-si-slobodna",
@@ -7050,7 +7135,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Dating"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "gde-da-se-nadjemo",
@@ -7118,7 +7204,8 @@
         "category": "Conversation",
         "subcategory": "Making plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "u-koliko-sati",
@@ -7191,7 +7278,8 @@
         "category": "Basics",
         "subcategory": "Time and days"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kasnim",
@@ -7333,7 +7421,8 @@
         "category": "Verbs and actions",
         "subcategory": "Present"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "stigao-sam",
@@ -7468,7 +7557,8 @@
         "category": "Verbs and actions",
         "subcategory": "Past"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ne-mogu-da-dodjem",
@@ -7590,7 +7680,8 @@
         "category": "Verbs and actions",
         "subcategory": "Can and can’t"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "pomerimo",
@@ -7700,7 +7791,8 @@
         "category": "Verbs and actions",
         "subcategory": "Requests"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "do-vraga",
@@ -7769,7 +7861,10 @@
         "category": "Slang and swearing",
         "subcategory": "Mild swearing"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm it is not old-fashioned.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "sranje",
@@ -7841,7 +7936,10 @@
         "category": "Slang and swearing",
         "subcategory": "Strong swearing"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Vulgar. Confirm strength.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "jebi-se",
@@ -7937,7 +8035,10 @@
         "category": "Slang and swearing",
         "subcategory": "Tone and usage warnings"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Vulgar. Confirm strength and the clean alternatives.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "ti-vi",
@@ -8046,7 +8147,8 @@
         "category": "Conversation",
         "subcategory": "Formal and polite"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "on-ona",
@@ -8165,7 +8267,8 @@
         "category": "Basics",
         "subcategory": "Pronouns"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ja-mi",
@@ -8282,7 +8385,8 @@
         "category": "Basics",
         "subcategory": "Pronouns"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "to-be",
@@ -8410,7 +8514,8 @@
         "category": "Verbs and actions",
         "subcategory": "Present"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nisam",
@@ -8541,7 +8646,8 @@
         "category": "Verbs and actions",
         "subcategory": "Present"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nemam",
@@ -8673,7 +8779,8 @@
         "category": "Verbs and actions",
         "subcategory": "Present"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "moj",
@@ -8783,7 +8890,8 @@
         "category": "Basics",
         "subcategory": "My, your, his, her"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "tvoj",
@@ -8900,7 +9008,8 @@
         "category": "Basics",
         "subcategory": "My, your, his, her"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "i",
@@ -8970,7 +9079,8 @@
         "category": "Basics",
         "subcategory": "Flow words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ali",
@@ -9042,7 +9152,8 @@
         "category": "Basics",
         "subcategory": "Flow words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ili",
@@ -9099,7 +9210,8 @@
         "category": "Basics",
         "subcategory": "Flow words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "bas",
@@ -9180,7 +9292,8 @@
         "category": "Quick phrases",
         "subcategory": "Filler and transition words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "takodje",
@@ -9249,7 +9362,8 @@
         "category": "Basics",
         "subcategory": "Flow words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "brojevi",
@@ -9355,7 +9469,8 @@
         "category": "Everyday situations",
         "subcategory": "Shopping and money"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "idem",
@@ -9491,7 +9606,8 @@
         "category": "Verbs and actions",
         "subcategory": "Present"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "radim",
@@ -9619,7 +9735,8 @@
         "category": "Verbs and actions",
         "subcategory": "Present"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "znam",
@@ -9755,7 +9872,8 @@
         "category": "Verbs and actions",
         "subcategory": "Present"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "volim",
@@ -9885,7 +10003,8 @@
         "category": "Verbs and actions",
         "subcategory": "Present"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "bio-sam",
@@ -10025,7 +10144,8 @@
         "category": "Verbs and actions",
         "subcategory": "Everyday verbs"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "isao-sam",
@@ -10150,7 +10270,8 @@
         "category": "Verbs and actions",
         "subcategory": "Everyday verbs"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "video-sam",
@@ -10278,7 +10399,8 @@
         "category": "Verbs and actions",
         "subcategory": "Everyday verbs"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "jeo-sam",
@@ -10404,7 +10526,8 @@
         "category": "Verbs and actions",
         "subcategory": "Everyday verbs"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zvacu-te",
@@ -10527,7 +10650,8 @@
         "category": "Conversation",
         "subcategory": "Making plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "javicu-se",
@@ -10636,7 +10760,8 @@
         "category": "Conversation",
         "subcategory": "Making plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "videcemo-se",
@@ -10740,7 +10865,8 @@
         "category": "Conversation",
         "subcategory": "Making plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dodji",
@@ -10826,7 +10952,8 @@
         "category": "Verbs and actions",
         "subcategory": "Invitations"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "cekaj",
@@ -10926,7 +11053,8 @@
         "category": "Verbs and actions",
         "subcategory": "Commands"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "javi-se",
@@ -11017,7 +11145,8 @@
         "category": "Conversation",
         "subcategory": "Making plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "spavaj",
@@ -11118,7 +11247,8 @@
         "category": "Verbs and actions",
         "subcategory": "Commands"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "mogu",
@@ -11250,7 +11380,8 @@
         "category": "Verbs and actions",
         "subcategory": "Can and can’t"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "hocu",
@@ -11383,7 +11514,8 @@
         "category": "Verbs and actions",
         "subcategory": "Want and don’t want"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "necu",
@@ -11510,7 +11642,8 @@
         "category": "Verbs and actions",
         "subcategory": "Want and don’t want"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "moram",
@@ -11635,7 +11768,8 @@
         "category": "Verbs and actions",
         "subcategory": "Need and have to"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "gladan",
@@ -11768,7 +11902,8 @@
         "category": "Describing and feelings",
         "subcategory": "Physical states"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zedan",
@@ -11900,7 +12035,8 @@
         "category": "Describing and feelings",
         "subcategory": "Physical states"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "tuzan",
@@ -12039,7 +12175,8 @@
         "category": "Describing and feelings",
         "subcategory": "Emotions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ljut",
@@ -12170,7 +12307,8 @@
         "category": "Describing and feelings",
         "subcategory": "Emotions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dosadno-mi-je",
@@ -12301,7 +12439,8 @@
         "category": "Describing and feelings",
         "subcategory": "Emotions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "pametan",
@@ -12422,7 +12561,8 @@
         "category": "Describing and feelings",
         "subcategory": "People: personality"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zgodan",
@@ -12529,7 +12669,8 @@
         "category": "Describing and feelings",
         "subcategory": "People: appearance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "smesan",
@@ -12629,7 +12770,8 @@
         "category": "Describing and feelings",
         "subcategory": "People: personality"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ukusno",
@@ -12746,7 +12888,8 @@
         "category": "Describing and feelings",
         "subcategory": "Opinions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "skupo",
@@ -12851,7 +12994,8 @@
         "category": "Everyday situations",
         "subcategory": "Shopping and money"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "jeftino",
@@ -12955,7 +13099,8 @@
         "category": "Everyday situations",
         "subcategory": "Shopping and money"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dobro-lose",
@@ -13062,7 +13207,8 @@
         "category": "Describing and feelings",
         "subcategory": "Opposites"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nije-lose",
@@ -13151,7 +13297,8 @@
         "category": "Describing and feelings",
         "subcategory": "Opposites"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nezgodno",
@@ -13274,7 +13421,8 @@
         "category": "Describing and feelings",
         "subcategory": "Opinions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kafa",
@@ -13389,7 +13537,8 @@
         "category": "Conversation",
         "subcategory": "Making plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "pivo",
@@ -13478,7 +13627,8 @@
         "category": "Everyday situations",
         "subcategory": "Food and drink"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "vino",
@@ -13567,7 +13717,8 @@
         "category": "Everyday situations",
         "subcategory": "Food and drink"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "voda",
@@ -13675,7 +13826,8 @@
         "category": "Everyday situations",
         "subcategory": "Restaurants and cafés"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kafic",
@@ -13776,7 +13928,8 @@
         "category": "Conversation",
         "subcategory": "Making plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "racun",
@@ -13870,7 +14023,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Dating"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "stan",
@@ -13958,7 +14112,8 @@
         "category": "Everyday situations",
         "subcategory": "Home"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kod-mene",
@@ -14079,7 +14234,8 @@
         "category": "Conversation",
         "subcategory": "Making plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "aerodrom",
@@ -14163,7 +14319,8 @@
         "category": "Everyday situations",
         "subcategory": "Places"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "stanica",
@@ -14257,7 +14414,8 @@
         "category": "Everyday situations",
         "subcategory": "Places"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "mama-tata",
@@ -14380,7 +14538,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Meeting family"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "brat-sestra",
@@ -14494,7 +14653,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Meeting family"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "baka-deda",
@@ -14599,7 +14759,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Meeting family"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "prijatelj",
@@ -14707,7 +14868,8 @@
         "category": "Everyday situations",
         "subcategory": "Friends and family"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "danas-sutra-juce",
@@ -14799,7 +14961,8 @@
         "category": "Basics",
         "subcategory": "Time and days"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "veceras",
@@ -14874,7 +15037,8 @@
         "category": "Conversation",
         "subcategory": "Making plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dani",
@@ -14956,7 +15120,8 @@
         "category": "Basics",
         "subcategory": "Time and days"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "vikend",
@@ -15019,7 +15184,8 @@
         "category": "Basics",
         "subcategory": "Time and days"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "svadba",
@@ -15108,7 +15274,8 @@
         "category": "Everyday situations",
         "subcategory": "Events"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "slava",
@@ -15205,7 +15372,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Cultural context"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "srecan-rodjendan",
@@ -15303,7 +15471,8 @@
         "category": "Everyday situations",
         "subcategory": "Holidays and celebrations"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "drago-mi-je",
@@ -15425,7 +15594,8 @@
         "category": "Conversation",
         "subcategory": "Formal and polite"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dobro-vece",
@@ -15495,7 +15665,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Meeting family"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "izvolite",
@@ -15585,7 +15756,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Being a guest"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "prijatno",
@@ -15651,7 +15823,8 @@
         "category": "Everyday situations",
         "subcategory": "Restaurants and cafés"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "jos-malo",
@@ -15721,7 +15894,8 @@
         "category": "Everyday situations",
         "subcategory": "Restaurants and cafés"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ne-treba",
@@ -15801,7 +15975,8 @@
         "category": "Conversation",
         "subcategory": "Formal and polite"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sve-je-bilo-ukusno",
@@ -15875,7 +16050,8 @@
         "category": "Everyday situations",
         "subcategory": "Food and drink"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "odlicno-kuvate",
@@ -15978,7 +16154,8 @@
         "category": "Everyday situations",
         "subcategory": "Food and drink"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zivili",
@@ -16052,7 +16229,8 @@
         "category": "Everyday situations",
         "subcategory": "Going out"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ucim-srpski",
@@ -16171,7 +16349,8 @@
         "category": "Verbs and actions",
         "subcategory": "Can and can’t"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "govorim-malo",
@@ -16295,7 +16474,8 @@
         "category": "Conversation",
         "subcategory": "Introductions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "pozdravi-roditelje",
@@ -16382,7 +16562,8 @@
         "category": "Conversation",
         "subcategory": "Formal and polite"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "srecan-praznik",
@@ -16485,7 +16666,8 @@
         "category": "Everyday situations",
         "subcategory": "Holidays and celebrations"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "bozic",
@@ -16559,7 +16741,8 @@
         "category": "Everyday situations",
         "subcategory": "Holidays and celebrations"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "uskrs",
@@ -16632,7 +16815,8 @@
         "category": "Everyday situations",
         "subcategory": "Holidays and celebrations"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "rakija",
@@ -16741,7 +16925,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Being a guest"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "gost-u-kuci",
@@ -16812,7 +16997,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Being a guest"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "polako",
@@ -16899,7 +17085,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "inat",
@@ -16976,7 +17163,8 @@
         "category": "Describing and feelings",
         "subcategory": "People: personality"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "politika",
@@ -17042,7 +17230,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Cultural context"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "srpski-jezik",
@@ -17101,7 +17290,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Cultural context"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "mars",
@@ -17174,7 +17364,10 @@
         "category": "Slang and swearing",
         "subcategory": "Tone and usage warnings"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Slang. Confirm tone (\"get lost\") and the stronger \"gubi se\".",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "izvini-na-izrazu",
@@ -17254,7 +17447,8 @@
         "category": "Conversation",
         "subcategory": "Formal and polite"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nemoj-tako",
@@ -17357,7 +17551,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Things not to say"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ko-to-kaze",
@@ -17427,7 +17622,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Playful teasing"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "vidi-ko-prica",
@@ -17505,7 +17701,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Playful teasing"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sta-ti-znas",
@@ -17614,7 +17811,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Playful teasing"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "moze",
@@ -17698,7 +17896,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dogovoreno",
@@ -17770,7 +17969,8 @@
         "category": "Conversation",
         "subcategory": "Confirming plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "da-ne",
@@ -17840,7 +18040,8 @@
         "category": "Conversation",
         "subcategory": "Answering questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "jesam",
@@ -17962,7 +18163,8 @@
         "category": "Conversation",
         "subcategory": "Answering questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zavisi",
@@ -18033,7 +18235,8 @@
         "category": "Conversation",
         "subcategory": "Answering questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "bolje",
@@ -18173,7 +18376,8 @@
         "category": "Describing and feelings",
         "subcategory": "Opinions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "vise-nego",
@@ -18247,7 +18451,8 @@
         "category": "Describing and feelings",
         "subcategory": "Comparisons"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "isto-kao",
@@ -18317,7 +18522,8 @@
         "category": "Quick phrases",
         "subcategory": "Agree and disagree"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "levo-desno",
@@ -18421,7 +18627,8 @@
         "category": "Everyday situations",
         "subcategory": "Travel and transportation"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "gde-je",
@@ -18522,7 +18729,8 @@
         "category": "Everyday situations",
         "subcategory": "Travel and transportation"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "blizu-daleko",
@@ -18589,7 +18797,8 @@
         "category": "Everyday situations",
         "subcategory": "Places"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ovaj-taj",
@@ -18704,7 +18913,8 @@
         "category": "Basics",
         "subcategory": "This and that"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ovde-tamo",
@@ -18796,7 +19006,8 @@
         "category": "Everyday situations",
         "subcategory": "Directions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "boje",
@@ -18929,7 +19140,8 @@
         "category": "Basics",
         "subcategory": "Colors"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "veliko-malo",
@@ -19044,7 +19256,8 @@
         "category": "Describing and feelings",
         "subcategory": "Describing things"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "oblici",
@@ -19116,7 +19329,8 @@
         "category": "Basics",
         "subcategory": "Shapes and sizes"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "u-na",
@@ -19208,7 +19422,8 @@
         "category": "Everyday situations",
         "subcategory": "Places"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sa-bez",
@@ -19284,7 +19499,8 @@
         "category": "Basics",
         "subcategory": "Prepositions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "za-od",
@@ -19371,7 +19587,8 @@
         "category": "Basics",
         "subcategory": "Prepositions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dobar-dan",
@@ -19453,7 +19670,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Meeting family"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kako-ste",
@@ -19542,7 +19760,8 @@
         "category": "Quick phrases",
         "subcategory": "Conversation starters"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dovidjenja",
@@ -19617,7 +19836,8 @@
         "category": "Conversation",
         "subcategory": "Formal and polite"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nema-na-cemu",
@@ -19696,7 +19916,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "hvala-puno",
@@ -19770,7 +19991,8 @@
         "category": "Quick phrases",
         "subcategory": "Thanks, sorry, please"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "u-redu",
@@ -19854,7 +20076,8 @@
         "category": "Quick phrases",
         "subcategory": "Agree and disagree"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "slazem-se",
@@ -19967,7 +20190,8 @@
         "category": "Quick phrases",
         "subcategory": "Agree and disagree"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "u-pravu-si",
@@ -20072,7 +20296,8 @@
         "category": "Quick phrases",
         "subcategory": "Agree and disagree"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sigurno",
@@ -20159,7 +20384,10 @@
         "subcategory": "Agree and disagree"
       }
     ],
-    "watchOut": "\"Sigurno\" is a firm yes. If you only lean yes, use \"verovatno\" (probably)."
+    "watchOut": "\"Sigurno\" is a firm yes. If you only lean yes, use \"verovatno\" (probably).",
+    "confidence": "unsure",
+    "reviewNote": "Confirm \"Sasvim sigurno\" and \"Svakako\" as alternatives.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "nemam-pojma",
@@ -20230,7 +20458,8 @@
         "category": "Conversation",
         "subcategory": "Answering questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dobrodosao",
@@ -20331,7 +20560,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Being a guest"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "srecan-put",
@@ -20405,7 +20635,8 @@
         "category": "Everyday situations",
         "subcategory": "Travel and transportation"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "cuvaj-se",
@@ -20504,7 +20735,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Affection and romance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "svaka-cast",
@@ -20580,7 +20812,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Compliments"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nema-sanse",
@@ -20656,7 +20889,8 @@
         "category": "Quick phrases",
         "subcategory": "Yes, no, maybe"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ne-brini",
@@ -20761,7 +20995,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kako-se-zoves",
@@ -20876,7 +21111,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "koliko-imas-godina",
@@ -20983,7 +21219,8 @@
         "category": "Conversation",
         "subcategory": "Introductions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "gde-zivis",
@@ -21091,7 +21328,8 @@
         "category": "Everyday situations",
         "subcategory": "Home"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "slobodno-vreme",
@@ -21167,7 +21405,8 @@
         "category": "Conversation",
         "subcategory": "Casual conversation"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "govoris-li-engleski",
@@ -21275,7 +21514,8 @@
         "category": "Verbs and actions",
         "subcategory": "Can and can’t"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sta-ima-novo",
@@ -21353,7 +21593,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kako-je-bilo",
@@ -21432,7 +21673,8 @@
         "category": "Verbs and actions",
         "subcategory": "Past"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "plan-za-vikend",
@@ -21509,7 +21751,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "stizem-za-pet",
@@ -21613,7 +21856,8 @@
         "category": "Conversation",
         "subcategory": "Making plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zaglavljen-sam",
@@ -21711,7 +21955,8 @@
         "category": "Describing and feelings",
         "subcategory": "Physical states"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "izvini-sto-kasnim",
@@ -21786,7 +22031,8 @@
         "category": "Quick phrases",
         "subcategory": "Thanks, sorry, please"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ne-mogu-veceras",
@@ -21867,7 +22113,8 @@
         "category": "Verbs and actions",
         "subcategory": "Can and can’t"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "moze-li-drugi-dan",
@@ -21950,7 +22197,8 @@
         "category": "Verbs and actions",
         "subcategory": "Requests"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "iskrslo-mi-je",
@@ -22022,7 +22270,8 @@
         "category": "Conversation",
         "subcategory": "Running late"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zanimas-me",
@@ -22125,7 +22374,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Flirting"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "lepo-mi-je-s-tobom",
@@ -22202,7 +22452,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Relationship talk"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zaljubljen-sam",
@@ -22328,7 +22579,8 @@
         "category": "Describing and feelings",
         "subcategory": "Emotions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "privlacis-me",
@@ -22387,7 +22639,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Flirting"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "hocu-da-te-vidim",
@@ -22499,7 +22752,8 @@
         "category": "Verbs and actions",
         "subcategory": "Want and don’t want"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "idemo-na-veceru",
@@ -22577,7 +22831,8 @@
         "category": "Verbs and actions",
         "subcategory": "Invitations"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "devojka-decko",
@@ -22694,7 +22949,8 @@
         "category": "Everyday situations",
         "subcategory": "Friends and family"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "jesmo-li-zajedno",
@@ -22767,7 +23023,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Dating"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "moramo-da-pricamo",
@@ -22843,7 +23100,8 @@
         "category": "Verbs and actions",
         "subcategory": "Need and have to"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "slatka-si",
@@ -22959,7 +23217,8 @@
         "category": "Describing and feelings",
         "subcategory": "People: appearance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zlato-sunce",
@@ -23071,7 +23330,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Affection and romance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "slatkih-snova",
@@ -23148,7 +23408,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Affection and romance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "javi-mi-kad-stignes",
@@ -23250,7 +23511,8 @@
         "category": "Verbs and actions",
         "subcategory": "Commands"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "uzbudjen-sam",
@@ -23359,7 +23621,8 @@
         "category": "Describing and feelings",
         "subcategory": "Emotions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "iznerviran-sam",
@@ -23470,7 +23733,8 @@
         "category": "Describing and feelings",
         "subcategory": "Emotions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zabrinut-sam",
@@ -23580,7 +23844,8 @@
         "category": "Describing and feelings",
         "subcategory": "Emotions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "bolestan-sam",
@@ -23698,7 +23963,8 @@
         "category": "Describing and feelings",
         "subcategory": "Physical states"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "spava-mi-se",
@@ -23819,7 +24085,8 @@
         "category": "Describing and feelings",
         "subcategory": "Physical states"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "hladno-mi-je",
@@ -23937,7 +24204,8 @@
         "category": "Describing and feelings",
         "subcategory": "Physical states"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "visok-nizak",
@@ -24043,7 +24311,8 @@
         "category": "Describing and feelings",
         "subcategory": "People: appearance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ljubazan",
@@ -24141,7 +24410,8 @@
         "category": "Describing and feelings",
         "subcategory": "People: personality"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "svidja-mi-se",
@@ -24261,7 +24531,8 @@
         "category": "Describing and feelings",
         "subcategory": "Describing things"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "mislim-da",
@@ -24370,7 +24641,8 @@
         "category": "Quick phrases",
         "subcategory": "Filler and transition words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zanimljivo",
@@ -24471,7 +24743,8 @@
         "category": "Describing and feelings",
         "subcategory": "Describing things"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "lako-tesko",
@@ -24543,7 +24816,8 @@
         "category": "Describing and feelings",
         "subcategory": "Describing things"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "brzo-sporo",
@@ -24614,7 +24888,8 @@
         "category": "Describing and feelings",
         "subcategory": "Describing things"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "staro-novo",
@@ -24723,7 +24998,8 @@
         "category": "Describing and feelings",
         "subcategory": "Describing things"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sto-za-dvoje",
@@ -24826,7 +25102,8 @@
         "category": "Everyday situations",
         "subcategory": "Going out"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ja-cu-da-platim",
@@ -24946,7 +25223,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Dating"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "da-li-imate",
@@ -25054,7 +25332,8 @@
         "category": "Everyday situations",
         "subcategory": "Restaurants and cafés"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "idemo-u-grad",
@@ -25129,7 +25408,8 @@
         "category": "Verbs and actions",
         "subcategory": "Invitations"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "svirka",
@@ -25205,7 +25485,8 @@
         "category": "Everyday situations",
         "subcategory": "Events"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "udji",
@@ -25307,7 +25588,8 @@
         "category": "Verbs and actions",
         "subcategory": "Commands"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "papuce",
@@ -25385,7 +25667,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Cultural context"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "koliko-kosta",
@@ -25502,7 +25785,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "samo-gledam",
@@ -25569,7 +25853,8 @@
         "category": "Everyday situations",
         "subcategory": "Shopping and money"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "uzecu-ovo",
@@ -25648,7 +25933,8 @@
         "category": "Everyday situations",
         "subcategory": "Restaurants and cafés"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kartica-ili-kes",
@@ -25747,7 +26033,8 @@
         "category": "Everyday situations",
         "subcategory": "Restaurants and cafés"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "prodavnica",
@@ -25831,7 +26118,8 @@
         "category": "Everyday situations",
         "subcategory": "Shopping and money"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "centar",
@@ -25907,7 +26195,8 @@
         "category": "Everyday situations",
         "subcategory": "Directions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "pijaca",
@@ -25980,7 +26269,8 @@
         "category": "Everyday situations",
         "subcategory": "Shopping and money"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zalutao-sam",
@@ -26088,7 +26378,8 @@
         "category": "Everyday situations",
         "subcategory": "Travel and transportation"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "autobus-voz-taksi",
@@ -26170,7 +26461,8 @@
         "category": "Everyday situations",
         "subcategory": "Places"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "karta",
@@ -26277,7 +26569,8 @@
         "category": "Everyday situations",
         "subcategory": "Events"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "cestitam",
@@ -26355,7 +26648,8 @@
         "category": "Quick phrases",
         "subcategory": "Thanks, sorry, please"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "srecna-nova-godina",
@@ -26433,7 +26727,8 @@
         "category": "Quick phrases",
         "subcategory": "Greetings and goodbyes"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dorucak-rucak-vecera",
@@ -26513,7 +26808,8 @@
         "category": "Basics",
         "subcategory": "Time and days"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "cevapi",
@@ -26597,7 +26893,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Cultural context"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "burek",
@@ -26679,7 +26976,8 @@
         "category": "Everyday situations",
         "subcategory": "Places"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dete-deca",
@@ -26778,7 +27076,8 @@
         "category": "Everyday situations",
         "subcategory": "Friends and family"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "komsija",
@@ -26852,7 +27151,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Cultural context"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "mogu-li",
@@ -26973,7 +27273,8 @@
         "category": "Verbs and actions",
         "subcategory": "Requests"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ne-mogu",
@@ -27094,7 +27395,8 @@
         "category": "Conversation",
         "subcategory": "Cancelling"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "umem",
@@ -27214,7 +27516,8 @@
         "category": "Verbs and actions",
         "subcategory": "Everyday verbs"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "voleo-bih",
@@ -27338,7 +27641,8 @@
         "category": "Conversation",
         "subcategory": "Formal and polite"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ne-da-mi-se",
@@ -27458,7 +27762,8 @@
         "category": "Describing and feelings",
         "subcategory": "Physical states"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "treba-mi",
@@ -27586,7 +27891,8 @@
         "category": "Verbs and actions",
         "subcategory": "Need and have to"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ne-moras",
@@ -27696,7 +28002,8 @@
         "category": "Quick phrases",
         "subcategory": "Thanks, sorry, please"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "mozes-li",
@@ -27790,7 +28097,8 @@
         "category": "Verbs and actions",
         "subcategory": "Requests"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "daj-mi",
@@ -27890,7 +28198,8 @@
         "category": "Verbs and actions",
         "subcategory": "Commands"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "pomozi-mi",
@@ -27988,7 +28297,8 @@
         "category": "Verbs and actions",
         "subcategory": "Commands"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nemoj",
@@ -28084,7 +28394,8 @@
         "category": "Verbs and actions",
         "subcategory": "Commands"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "slusaj",
@@ -28177,7 +28488,8 @@
         "category": "Verbs and actions",
         "subcategory": "Commands"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "pogledaj",
@@ -28270,7 +28582,8 @@
         "category": "Verbs and actions",
         "subcategory": "Commands"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "razumem",
@@ -28393,7 +28706,8 @@
         "category": "Verbs and actions",
         "subcategory": "Everyday verbs"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zivim",
@@ -28512,7 +28826,8 @@
         "category": "Verbs and actions",
         "subcategory": "Everyday verbs"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kupio-sam",
@@ -28633,7 +28948,8 @@
         "category": "Everyday situations",
         "subcategory": "Shopping and money"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nisam-znao",
@@ -28754,7 +29070,8 @@
         "category": "Verbs and actions",
         "subcategory": "Everyday verbs"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "jesi-li-videla",
@@ -28864,7 +29181,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ja-cu",
@@ -28995,7 +29313,8 @@
         "category": "Verbs and actions",
         "subcategory": "Future"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "pridruzi-nam-se",
@@ -29089,7 +29408,8 @@
         "category": "Verbs and actions",
         "subcategory": "Invitations"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "na-kafu",
@@ -29174,7 +29494,8 @@
         "category": "Everyday situations",
         "subcategory": "Restaurants and cafés"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "njegov-njen",
@@ -29274,7 +29595,8 @@
         "category": "Basics",
         "subcategory": "My, your, his, her"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nas-vas",
@@ -29363,7 +29685,8 @@
         "category": "Basics",
         "subcategory": "My, your, his, her"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "koliko-je-sati",
@@ -29469,7 +29792,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "meseci",
@@ -29549,7 +29873,8 @@
         "category": "Basics",
         "subcategory": "Time and days"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "jutro-vece",
@@ -29660,7 +29985,8 @@
         "category": "Basics",
         "subcategory": "Time and days"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zato-sto",
@@ -29754,7 +30080,8 @@
         "category": "Basics",
         "subcategory": "Question words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ako",
@@ -29826,7 +30153,8 @@
         "category": "Basics",
         "subcategory": "And, but, because"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "pre-posle",
@@ -29924,7 +30252,8 @@
         "category": "Basics",
         "subcategory": "Time and days"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zapravo",
@@ -29999,7 +30328,8 @@
         "category": "Quick phrases",
         "subcategory": "Filler and transition words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ipak",
@@ -30073,7 +30403,8 @@
         "category": "Basics",
         "subcategory": "Flow words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "onda",
@@ -30141,7 +30472,8 @@
         "category": "Basics",
         "subcategory": "Flow words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "bzvz",
@@ -30207,7 +30539,10 @@
         "category": "Slang and swearing",
         "subcategory": "Texting slang"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Text abbreviation. Confirm it is used.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "ntp",
@@ -30284,7 +30619,10 @@
         "category": "Slang and swearing",
         "subcategory": "Texting slang"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Text abbreviation. Confirm it is used.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "lp",
@@ -30360,7 +30698,10 @@
         "category": "Slang and swearing",
         "subcategory": "Texting slang"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Text abbreviation. Confirm it is used and reads as friendly.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "jbg",
@@ -30436,7 +30777,10 @@
         "category": "Slang and swearing",
         "subcategory": "Tone and usage warnings"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm \"jbg\" is really used in texts and what it means to her generation.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "brate",
@@ -30515,7 +30859,8 @@
         "category": "Slang and swearing",
         "subcategory": "Casual slang"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "care",
@@ -30588,7 +30933,10 @@
         "category": "Slang and swearing",
         "subcategory": "Casual slang"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm \"Care\" (friendly address, \"king\") is current slang.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "lova",
@@ -30665,7 +31013,8 @@
         "subcategory": "Shopping and money"
       }
     ],
-    "watchOut": "Street slang. Fine with friends; with strangers or at work say \"novac\" or \"pare\"."
+    "watchOut": "Street slang. Fine with friends; with strangers or at work say \"novac\" or \"pare\".",
+    "confidence": "sure"
   },
   {
     "id": "tip",
@@ -30735,7 +31084,8 @@
         "subcategory": "Casual slang"
       }
     ],
-    "watchOut": "\"Tip\" also just means \"type\" or \"kind\". As slang for a guy it can sound dismissive, so say \"momak\" or \"čovek\" to stay neutral."
+    "watchOut": "\"Tip\" also just means \"type\" or \"kind\". As slang for a guy it can sound dismissive, so say \"momak\" or \"čovek\" to stay neutral.",
+    "confidence": "sure"
   },
   {
     "id": "keva-cale",
@@ -30807,7 +31157,10 @@
         "category": "Everyday situations",
         "subcategory": "Friends and family"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Slang for mom/dad. Confirm usage and spelling (keva / ćale).",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "maler",
@@ -30879,7 +31232,10 @@
         "subcategory": "Cultural context"
       }
     ],
-    "watchOut": "Always said lightly. For something actually serious, say \"greška\" (mistake) or \"problem\"."
+    "watchOut": "Always said lightly. For something actually serious, say \"greška\" (mistake) or \"problem\".",
+    "confidence": "unsure",
+    "reviewNote": "Slang. Confirm it is common and not regional.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "boze-moj",
@@ -30956,7 +31312,8 @@
         "category": "Quick phrases",
         "subcategory": "Reactions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "budala",
@@ -31073,7 +31430,8 @@
         "category": "Slang and swearing",
         "subcategory": "Insults"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kreten",
@@ -31141,7 +31499,10 @@
         "category": "Slang and swearing",
         "subcategory": "Insults"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm strength (insult) and whether there is a female form worth adding.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "ne-seri",
@@ -31213,7 +31574,10 @@
         "category": "Slang and swearing",
         "subcategory": "Tone and usage warnings"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Vulgar. Confirm strength and that the clean alternative reads right.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "lenjivac",
@@ -31306,7 +31670,8 @@
         "category": "Slang and swearing",
         "subcategory": "Playful insults"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ovo-je",
@@ -31408,7 +31773,8 @@
         "category": "Basics",
         "subcategory": "This and that"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ostani-na-rucku",
@@ -31507,7 +31873,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Meeting family"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "samo-malo-da-probam",
@@ -31586,7 +31953,8 @@
         "category": "Everyday situations",
         "subcategory": "Food and drink"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "teta-cika",
@@ -31688,7 +32056,8 @@
         "category": "Everyday situations",
         "subcategory": "Friends and family"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ne-trudite-se",
@@ -31783,7 +32152,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Being a guest"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "hvala-na-gostoprimstvu",
@@ -31856,7 +32226,8 @@
         "category": "Quick phrases",
         "subcategory": "Thanks, sorry, please"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nazdravlje",
@@ -31933,7 +32304,8 @@
         "category": "Everyday situations",
         "subcategory": "Going out"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "za-nas",
@@ -32008,7 +32380,8 @@
         "category": "Everyday situations",
         "subcategory": "Going out"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nova-godina",
@@ -32089,7 +32462,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Cultural context"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "hristos-vaskrse",
@@ -32165,7 +32539,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Common sayings"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sve-ce-biti-dobro",
@@ -32238,7 +32613,8 @@
         "category": "Quick phrases",
         "subcategory": "Thanks, sorry, please"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sto-je-bilo-bilo-je",
@@ -32309,7 +32685,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Idioms"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kamen-sa-srca",
@@ -32371,7 +32748,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Idioms"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kao-iz-kabla",
@@ -32438,7 +32816,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Idioms"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kafana",
@@ -32522,7 +32901,8 @@
         "category": "Everyday situations",
         "subcategory": "Going out"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "korzo",
@@ -32599,7 +32979,8 @@
         "category": "Everyday situations",
         "subcategory": "Going out"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "verovatno",
@@ -32673,7 +33054,10 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "The \"about 70%\" in the Watch-out is my own estimate. Confirm how strongly \"verovatno\" leans yes.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "ponovi",
@@ -32778,7 +33162,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "govori-sporije",
@@ -32878,7 +33263,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sta-znaci",
@@ -32951,7 +33337,8 @@
         "category": "Conversation",
         "subcategory": "Casual conversation"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kako-se-kaze",
@@ -33018,7 +33405,8 @@
         "category": "Quick phrases",
         "subcategory": "Conversation starters"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ne-govorim-dobro",
@@ -33085,7 +33473,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "iz-kanade",
@@ -33205,7 +33594,8 @@
         "category": "Conversation",
         "subcategory": "Introductions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "cime-se-bavis",
@@ -33304,7 +33694,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "prvi-put",
@@ -33396,7 +33787,8 @@
         "category": "Everyday situations",
         "subcategory": "Travel and transportation"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kako-je-prosao-dan",
@@ -33489,7 +33881,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Relationship talk"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "jesi-li-stigla",
@@ -33609,7 +34002,8 @@
         "category": "Verbs and actions",
         "subcategory": "Past"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "jesi-li-dobro",
@@ -33703,7 +34097,8 @@
         "category": "Describing and feelings",
         "subcategory": "Emotions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sta-radis-danas",
@@ -33791,7 +34186,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "jesi-li-se-naspavala",
@@ -33894,7 +34290,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dobro-jutro-sunce",
@@ -33992,7 +34389,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Nicknames and pet names"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nedostajes-mi",
@@ -34127,7 +34525,10 @@
         "category": "Flirting and relationships",
         "subcategory": "Affection and romance"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm my note that \"nedostaješ mi\" is softer/more written and \"fališ mi\" more spoken.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "sanjao-sam-te",
@@ -34220,7 +34621,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Affection and romance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "jedva-cekam",
@@ -34329,7 +34731,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Dating"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zao-mi-je",
@@ -34442,7 +34845,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Relationship talk"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "oprosti",
@@ -34531,7 +34935,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Relationship talk"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "jel-tako",
@@ -34603,7 +35008,8 @@
         "category": "Quick phrases",
         "subcategory": "Agree and disagree"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zar-ne",
@@ -34677,7 +35083,8 @@
         "category": "Quick phrases",
         "subcategory": "Reactions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dakle",
@@ -34749,7 +35156,8 @@
         "category": "Basics",
         "subcategory": "Flow words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "uglavnom",
@@ -34817,7 +35225,8 @@
         "category": "Basics",
         "subcategory": "Flow words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "mnogo",
@@ -34902,7 +35311,8 @@
         "category": "Quick phrases",
         "subcategory": "Thanks, sorry, please"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "eto",
@@ -34970,7 +35380,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "idemo-na-pice",
@@ -35044,7 +35455,8 @@
         "category": "Conversation",
         "subcategory": "Making plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "hoces-da-prosetamo",
@@ -35142,7 +35554,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Dating"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sta-ti-se-jede",
@@ -35242,7 +35655,10 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm the idiom \"Šta ti se jede?\" / \"Jede mi se pica\", and whether to write \"pica\" or \"pizza\".",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "jutros-sinoc",
@@ -35315,7 +35731,8 @@
         "category": "Conversation",
         "subcategory": "Casual conversation"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "za-sat-vremena",
@@ -35392,7 +35809,8 @@
         "category": "Conversation",
         "subcategory": "Running late"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "pada-kisa",
@@ -35470,7 +35888,8 @@
         "category": "Everyday situations",
         "subcategory": "Places"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "napolju-je-hladno",
@@ -35550,7 +35969,10 @@
         "category": "Everyday situations",
         "subcategory": "Places"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm the ijekavian/regional \"Vani je hladno\" and that \"Obuci jaknu\" is the natural phrase.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "koje-je-boje",
@@ -35648,7 +36070,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "tamno-svetlo",
@@ -35716,7 +36139,8 @@
         "category": "Describing and feelings",
         "subcategory": "People: appearance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "prvi-drugi-treci",
@@ -35838,7 +36262,10 @@
         "category": "Basics",
         "subcategory": "Time and days"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm the example \"Ti si prva kojoj ovo kažem\" and the ijekavian \"posljednji\".",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "cena-u-dinarima",
@@ -35934,7 +36361,10 @@
         "category": "Everyday situations",
         "subcategory": "Shopping and money"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Grammar is standard, but confirm the idiom \"Jedan dinar je mala para\".",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "dugacko-kratko",
@@ -36044,7 +36474,8 @@
         "category": "Describing and feelings",
         "subcategory": "People: appearance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "siroko-usko",
@@ -36149,7 +36580,8 @@
         "category": "Describing and feelings",
         "subcategory": "Describing things"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "mene-tebe",
@@ -36280,7 +36712,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Affection and romance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "meni-tebi",
@@ -36411,7 +36844,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Affection and romance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ko-to-je",
@@ -36483,7 +36917,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "vidimo-se-u-osam",
@@ -36591,7 +37026,8 @@
         "category": "Basics",
         "subcategory": "Time and days"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "javi-ako-se-promeni",
@@ -36678,7 +37114,8 @@
         "category": "Conversation",
         "subcategory": "Cancelling"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "najbolji",
@@ -36777,7 +37214,8 @@
         "category": "Describing and feelings",
         "subcategory": "Opinions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "skuplje-jeftinije",
@@ -36851,7 +37289,8 @@
         "category": "Everyday situations",
         "subcategory": "Shopping and money"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "tvoj-broj",
@@ -36950,7 +37389,8 @@
         "category": "Conversation",
         "subcategory": "Getting to know someone"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "drska-si",
@@ -37066,7 +37506,10 @@
         "category": "Flirting and relationships",
         "subcategory": "Playful teasing"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm \"Drska si\" reads as playful, not insulting, and that \"Drzak si\" is OK to say to a man.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "kapiram",
@@ -37175,7 +37618,10 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Slang. Confirm register (is it fine with her friends/family?) and that \"kapiraš li?\" sounds right.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "fora",
@@ -37250,7 +37696,10 @@
         "category": "Slang and swearing",
         "subcategory": "Casual slang"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm the meaning: \"cool\" vs \"a trick/gag\". Is \"Ona je fora\" natural for a person?",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "jao",
@@ -37322,7 +37771,8 @@
         "category": "Quick phrases",
         "subcategory": "Reactions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "svakako",
@@ -37399,7 +37849,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "lepo-spavaj",
@@ -37480,7 +37931,8 @@
         "category": "Quick phrases",
         "subcategory": "Greetings and goodbyes"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "evo",
@@ -37590,7 +38042,10 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm the difference between \"evo\" and \"eto\", and the example \"Evo ti telefon\".",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "jako",
@@ -37673,7 +38128,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Flirting"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "puno",
@@ -37745,7 +38201,8 @@
         "category": "Quick phrases",
         "subcategory": "Thanks, sorry, please"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "molim",
@@ -37823,7 +38280,8 @@
         "category": "Quick phrases",
         "subcategory": "Thanks, sorry, please"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kul",
@@ -37902,7 +38360,10 @@
         "category": "Quick phrases",
         "subcategory": "Reactions"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Slang from English. Confirm the spelling \"kul\" and that it does not sound dated.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "odlicno",
@@ -37974,7 +38435,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "faca",
@@ -38048,7 +38510,10 @@
         "category": "Quick phrases",
         "subcategory": "Reactions"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Slang. Confirm \"Faca si\" is still current and works as a compliment to a woman.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "kako-ide",
@@ -38121,7 +38586,8 @@
         "category": "Quick phrases",
         "subcategory": "Conversation starters"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "cujemo-se",
@@ -38189,7 +38655,8 @@
         "category": "Conversation",
         "subcategory": "Confirming plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "hajde-da",
@@ -38293,7 +38760,10 @@
         "category": "Conversation",
         "subcategory": "Making plans"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm \"Hajdete da…\" is a real group/polite form.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "zaista",
@@ -38359,7 +38829,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ozbiljno",
@@ -38431,7 +38902,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "valjda",
@@ -38503,7 +38975,10 @@
         "category": "Quick phrases",
         "subcategory": "Filler and transition words"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm both senses (hopefully / I guess) and the example \"Valjda ću stići na vreme\".",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "nema-problema",
@@ -38569,7 +39044,8 @@
         "category": "Quick phrases",
         "subcategory": "Thanks, sorry, please"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "tako-je",
@@ -38635,7 +39111,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kunem-se",
@@ -38701,7 +39178,10 @@
         "category": "Culture and etiquette",
         "subcategory": "Common sayings"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm \"Kunem ti se\" is natural in casual texts and does not sound dramatic or old-fashioned.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "iskreno",
@@ -38773,7 +39253,8 @@
         "category": "Conversation",
         "subcategory": "Casual conversation"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "prelepa-si",
@@ -38876,7 +39357,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Flirting"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "preslatka-si",
@@ -38968,7 +39450,10 @@
         "category": "Flirting and relationships",
         "subcategory": "Playful teasing"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm the masculine \"Presladak si\" (and whether men are called this at all).",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "obozavam-te",
@@ -39070,7 +39555,8 @@
         "category": "Flirting and relationships",
         "subcategory": "I like you"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "mnogo-te-volim",
@@ -39174,7 +39660,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Relationship talk"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "duso",
@@ -39246,7 +39733,8 @@
         "category": "Flirting and relationships",
         "subcategory": "Affection and romance"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zafrkavas-me",
@@ -39345,7 +39833,10 @@
         "category": "Slang and swearing",
         "subcategory": "Casual slang"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Slang. Confirm it is common and fine to say to someone you are dating (vs. the gentler \"zezaš me\").",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "zaljubio-sam-se",
@@ -39450,7 +39941,10 @@
         "category": "Flirting and relationships",
         "subcategory": "Affection and romance"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm the alternative \"Imam krš na tebe\" (crush) is a real, current expression.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "sta-smo-mi",
@@ -39512,7 +40006,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "mozemo-li-da-razgovaramo",
@@ -39578,7 +40073,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "imas-li-vremena",
@@ -39666,7 +40162,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "tu-sam",
@@ -39769,7 +40266,8 @@
         "category": "Conversation",
         "subcategory": "Confirming plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "moram-da-otkazem",
@@ -39872,7 +40370,8 @@
         "category": "Conversation",
         "subcategory": "Making plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nazalost",
@@ -39938,7 +40437,8 @@
         "category": "Quick phrases",
         "subcategory": "Filler and transition words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kad-ti-odgovara",
@@ -40018,7 +40518,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "imas-li-planove",
@@ -40098,7 +40599,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nazovi-me",
@@ -40190,7 +40692,8 @@
         "category": "Conversation",
         "subcategory": "Making plans"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "zima-mi-je",
@@ -40300,7 +40803,8 @@
         "category": "Describing and feelings",
         "subcategory": "Describing things"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "boli-me-glava",
@@ -40402,7 +40906,8 @@
         "category": "Describing and feelings",
         "subcategory": "Emotions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ozdravi-brzo",
@@ -40489,7 +40994,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Common sayings"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "dosta-mi-je",
@@ -40592,7 +41098,8 @@
         "category": "Conversation",
         "subcategory": "Casual conversation"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "sit-sam",
@@ -40708,7 +41215,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Being a guest"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "podelimo-racun",
@@ -40775,7 +41283,8 @@
         "category": "Everyday situations",
         "subcategory": "Shopping and money"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "ima-li-popusta",
@@ -40841,7 +41350,10 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm \"Može li neki popust?\" and \"Ima li popusta ako uzmem dva?\" are natural at a market.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "samo-razgledam",
@@ -40903,7 +41415,8 @@
         "category": "Everyday situations",
         "subcategory": "Shopping and money"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "pazi-na-sebe",
@@ -40995,7 +41508,8 @@
         "category": "Culture and etiquette",
         "subcategory": "Common sayings"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "bravo",
@@ -41061,7 +41575,8 @@
         "category": "Quick phrases",
         "subcategory": "Common replies"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "nikako",
@@ -41127,7 +41642,8 @@
         "category": "Quick phrases",
         "subcategory": "Agree and disagree"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "milo-mi-je",
@@ -41193,7 +41709,8 @@
         "category": "Quick phrases",
         "subcategory": "Greetings and goodbyes"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "hvala-lepo",
@@ -41255,7 +41772,8 @@
         "category": "Quick phrases",
         "subcategory": "Thanks, sorry, please"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "u-stvari",
@@ -41321,7 +41839,8 @@
         "category": "Basics",
         "subcategory": "Flow words"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "okej",
@@ -41392,7 +41911,8 @@
         "category": "Quick phrases",
         "subcategory": "Agree and disagree"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "pare",
@@ -41465,7 +41985,8 @@
         "category": "Everyday situations",
         "subcategory": "Shopping and money"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kakav",
@@ -41569,7 +42090,8 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "kako-to",
@@ -41635,7 +42157,8 @@
         "category": "Quick phrases",
         "subcategory": "Reactions"
       }
-    ]
+    ],
+    "confidence": "sure"
   },
   {
     "id": "koliko-si-star",
@@ -41723,7 +42246,10 @@
         "category": "Conversation",
         "subcategory": "Questions"
       }
-    ]
+    ],
+    "confidence": "unsure",
+    "reviewNote": "Confirm this is acceptable to ask a woman, and that \"Koliko si stara?\" reads naturally.",
+    "reviewFlagged": "2026-10-01"
   },
   {
     "id": "sta-se-desava",
@@ -41789,6 +42315,7 @@
         "category": "Quick phrases",
         "subcategory": "Conversation starters"
       }
-    ]
+    ],
+    "confidence": "sure"
   }
 ]

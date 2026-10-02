@@ -23,13 +23,28 @@ export function ChangeBadges({ entry, max = 3 }) {
   ))
 }
 
-export function VerifiedBadge({ verified }) {
+// Blue = a native speaker verified it, or Claude is confident. Gray = needs checking (the reason is in reviewNote).
+export const confidenceOf = (e) => (e.verified ? 'verified' : e.confidence === 'unsure' ? 'unsure' : 'sure')
+const CONFIDENCE = {
+  verified: { icon: 'check', label: 'Verified by a native speaker', short: 'Verified' },
+  sure: { icon: 'check', label: 'Confident · not yet checked by a native speaker', short: 'Confident' },
+  unsure: { icon: 'shield', label: 'Needs checking', short: 'Needs checking' },
+}
+
+export function ConfidenceBadge({ entry }) {
+  const level = confidenceOf(entry), c = CONFIDENCE[level]
   return (
-    <span className={`badge ${verified ? 'verified' : 'unverified'}`}>
-      <Icon name={verified ? 'check' : 'shield'} size={14} />
-      {verified ? 'Verified by a native speaker' : 'Not yet verified'}
-    </span>
+    <>
+      <span className={`badge conf conf-${level}`}><Icon name={c.icon} size={14} strokeWidth={2.4} />{c.label}</span>
+      {level === 'unsure' && entry.reviewNote && <p className="review-note"><strong>To double-check:</strong> {entry.reviewNote}</p>}
+    </>
   )
+}
+
+// Tiny corner mark for list rows.
+export function ConfidenceMark({ entry }) {
+  const level = confidenceOf(entry), c = CONFIDENCE[level]
+  return <span className={`conf-mark conf-${level}`} role="img" aria-label={c.label} title={c.label}><Icon name={c.icon} size={13} strokeWidth={2.6} /></span>
 }
 
 // Small coloured tags: tone, tense, who it changes for. `max` trims for list rows; `long` uses the full labels.

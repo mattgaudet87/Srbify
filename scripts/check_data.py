@@ -27,6 +27,8 @@ for e in E:
     for c, k in (('speaker', 'speaker'), ('describes', 'describes'), ('noun gender', 'nounGender')):
         if c in e['changesBy'] and not any(f.get(k) for f in fs): err(i, f'changesBy "{c}" but no form row tags {k}')
         if any(f.get(k) for f in fs) and c not in e['changesBy']: err(i, f'a form row tags {k} but changesBy lacks "{c}"')
+    if e.get('confidence') not in ('sure', 'unsure'): err(i, 'missing confidence ("sure" or "unsure"); run scripts/review.py')
+    if e.get('confidence') == 'unsure' and not e.get('reviewNote'): err(i, 'unsure entry without reviewNote')
     if e['register'] in ('slang', 'vulgar') and 'watchOut' not in e: err(i, 'slang/vulgar entry without watchOut')
 for k, v in W.items():
     if v.get('entry') and v['entry'] not in S: err('word card', k, 'links to missing entry', v['entry'])

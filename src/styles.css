@@ -191,6 +191,15 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .btn { border: 0; border-radius: 14px; padding: 13px 22px; font: inherit; font-weight: 700; background: var(--navy); color: var(--on-navy); cursor: pointer; }
 .btn.ghost { background: var(--soft); color: var(--ink); }
 .alt-link { display: inline-flex; align-items: center; gap: 2px; margin-top: 4px; font-size: 13px; font-weight: 650; color: var(--accent); }
+.badge.conf-verified, .badge.conf-sure { background: color-mix(in srgb, var(--c-blue) 16%, transparent); color: var(--c-blue); }
+.badge.conf-unsure { background: var(--soft); color: var(--muted); opacity: 0.85; }
+.review-note { margin: 8px 0 0; padding: 10px 12px; border-radius: 12px; background: var(--soft); color: var(--muted); font-size: 13.5px; line-height: 1.45; flex-basis: 100%; }
+.review-note strong { color: var(--ink); }
+.conf-mark { position: absolute; top: 10px; right: 12px; width: 18px; height: 18px; border-radius: 50%; display: grid; place-items: center; }
+.conf-mark.conf-verified, .conf-mark.conf-sure { background: var(--c-blue); color: #fff; }
+.conf-mark.conf-unsure { background: var(--soft); color: var(--muted); border: 1px solid var(--line); }
+.checks-legend { display: grid; gap: 8px; margin: 12px 0; font-size: 14px; color: var(--muted); }
+.checks-legend .conf-mark { position: static; display: inline-grid; vertical-align: middle; margin-right: 8px; }
 .audience { margin: 10px 0 0; font-size: 14px; color: var(--muted); }
 .audience strong { color: var(--ink); }
 .all-forms > summary { cursor: pointer; font-weight: 650; font-size: 14px; color: var(--accent); padding: 10px 0; list-style: none; }

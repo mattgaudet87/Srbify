@@ -20,6 +20,7 @@ Personal mobile-first Serbian phrasebook for texting. React 19 + Vite, Fuse.js s
 - Default perspective is a man texting a woman: lead with the form for HER (e.g. "Jesi li gladna?") and give the other as an alternative.
 - `changesBy` must match the tags on `forms[]` rows (`speaker`, `describes`, `formal`, `nounGender`); `check_data.py` enforces it.
 - Slang and vulgar entries need a `watchOut`. New entries start `verified: false`.
+- Every entry has `confidence`: `"sure"` (blue badge) or `"unsure"` (gray badge, needs a `reviewNote` saying what to check). Be honest: anything slang, regional, idiomatic, a text abbreviation, or a tone judgment is `unsure`. `scripts/review.py` flags/resolves entries and regenerates `REVIEW_LOG.md`; `verified: true` (native speaker) also shows blue.
 - Pronunciation style: stressed syllable in CAPS, "ch" not "tch" (NOHCH, SREHCH-nah), hyphen between syllables.
 - Ekavian is the main form; put Ijekavian in `ijekavian`.
 - Existing `related` links must resolve; link new entries both ways.
