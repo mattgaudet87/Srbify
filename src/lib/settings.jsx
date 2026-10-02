@@ -24,6 +24,13 @@ export function SettingsProvider({ children }) {
     }
   }, [settings])
 
+  // Same as favorites: follow changes made in another tab.
+  useEffect(() => {
+    const onStorage = (ev) => { if (ev.key === KEY) setSettings(load()) }
+    window.addEventListener('storage', onStorage)
+    return () => window.removeEventListener('storage', onStorage)
+  }, [])
+
   // 'system' leaves the attribute off so the OS preference (prefers-color-scheme) decides.
   useEffect(() => {
     const root = document.documentElement

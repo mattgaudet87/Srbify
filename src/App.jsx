@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { lazy, Suspense, useEffect } from 'react'
 import { Routes, Route, useLocation } from 'react-router-dom'
 import TabBar from './components/TabBar.jsx'
 import Home from './pages/Home.jsx'
@@ -7,8 +7,11 @@ import Favorites from './pages/Favorites.jsx'
 import Category from './pages/Category.jsx'
 import Entry from './pages/Entry.jsx'
 import Settings from './pages/Settings.jsx'
-import Review from './pages/Review.jsx'
-import Checks from './pages/Checks.jsx'
+import NotFound from './pages/NotFound.jsx'
+
+// Rarely-opened pages load on demand.
+const Review = lazy(() => import('./pages/Review.jsx'))
+const Checks = lazy(() => import('./pages/Checks.jsx'))
 
 export default function App() {
   const { pathname } = useLocation()
@@ -19,6 +22,7 @@ export default function App() {
   return (
     <div className="app">
       <main className="page">
+        <Suspense fallback={null}>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/search" element={<Search />} />
@@ -28,8 +32,9 @@ export default function App() {
           <Route path="/review" element={<Review />} />
           <Route path="/checks" element={<Checks />} />
           <Route path="/settings" element={<Settings />} />
-          <Route path="*" element={<Home />} />
+          <Route path="*" element={<NotFound />} />
         </Routes>
+        </Suspense>
       </main>
       <TabBar />
     </div>

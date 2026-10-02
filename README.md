@@ -21,8 +21,10 @@ Add objects to `src/data/entries.json` following section 5 of the plan. New entr
 - [x] Phase 2: variation system (highlighting, Settings, vulgar toggle)
 - [x] Phase 3: phone polish (copy buttons, favorites, installable, offline)
 - [x] Phase 4: content for all categories (every subcategory filled)
-- [x] Phase 6: PM sweep (glossary search, richer word cards, practice mode, backup, accuracy fixes)
 - [x] Phase 5: intent-based categories ("what am I trying to say?"), tags, tap-any-word cards (`src/data/words.json`)
+- [x] Phase 6: PM sweep (glossary search, richer word cards, practice mode, backup, accuracy fixes)
+- [x] Phase 7: sweep 2 (search/tag filters kept in the URL, shared vulgar filter, image slimming)
+- [x] Phase 8: sweep 3 (word card tied to Back, history-aware entry back arrow, cross-tab sync, lazy word glossary, topic practice, Vitest)
   - [ ] Native-speaker verification: set `"verified": true` per entry as it is checked
 
 ### Verifying entries

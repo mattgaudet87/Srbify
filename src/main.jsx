@@ -5,7 +5,12 @@ import App from './App.jsx'
 import { SettingsProvider } from './lib/settings.jsx'
 import { LibraryProvider } from './lib/library.jsx'
 import { WordProvider } from './components/WordCard.jsx'
+import { loadWords } from './lib/words.js'
 import './styles.css'
+
+loadWords()
+// Fetch the lazy pages when the browser is idle so they also work offline.
+if (import.meta.env.PROD) window.addEventListener('load', () => (window.requestIdleCallback || setTimeout)(() => { import('./pages/Review.jsx'); import('./pages/Checks.jsx') }))
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>

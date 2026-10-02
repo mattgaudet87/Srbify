@@ -3,7 +3,7 @@
 Personal mobile-first Serbian phrasebook for texting. React 19 + Vite, Fuse.js search, static site on Vercel. Full spec: PLAN.md.
 
 ## Commands
-- `npm run dev` (port 5173, see `.claude/launch.json`), `npm run build`
+- `npm run dev` (port 5173, see `.claude/launch.json`), `npm run build`, `npm test` (Vitest, `src/lib/lib.test.js`)
 - After ANY content change: `python3 scripts/build_words.py && python3 scripts/check_words.py && python3 scripts/check_data.py`
 
 ## Where things live
@@ -11,7 +11,10 @@ Personal mobile-first Serbian phrasebook for texting. React 19 + Vite, Fuse.js s
 - `scripts/harvest_missing.py` lists words with no card plus a pronunciation lifted from your own sentence; write their meanings into `scripts/glossary/sweep.txt` (`word|meaning|note|tags`) and add the pronunciations to `pron_extra.json`.
 - `scripts/add_words.py`: `add_words([(word, meaning, note, 'tags', pron), ...])` adds cards for new words.
 - `src/lib/categories.js`: categories and subcategories. An entry's `placements[]` can list several; `category`/`subcategory` is the primary one.
-- `src/lib/tags.js`: tags and "Say it to" are derived from entry data, never stored.
+- `src/lib/tags.js`: tags and "Say it to" are derived from entry data, never stored. Also holds the tag label/order tables for entries and word cards.
+- `src/lib/visibility.js`: `isVisible(entry, settings)` is the only vulgar check. Use it for any new list or count; never inline `showVulgar`.
+- `src/lib/numbers.js` + `NumbersTable.jsx`: 1 to 100 table on Basics > Numbers. `/checks` page (from Settings) lists the gray "needs checking" entries.
+- `src/components/entry/`: the Forms / Alternatives / Examples blocks of the Entry page.
 - `src/lib/search.js`: phrase search (Fuse) + `searchWords` for the glossary. `src/lib/words.js`: tokenizer + word index.
 - `scripts/archive/`: finished one-shot scripts, history only. `archive/content_sweep.py` is a good template for a batch of new entries (E/F/X helpers).
 
@@ -26,6 +29,8 @@ Personal mobile-first Serbian phrasebook for texting. React 19 + Vite, Fuse.js s
 - Existing `related` links must resolve; link new entries both ways.
 
 ## Gotchas
+- `words.json` is a lazy chunk (`loadWords()` in `src/lib/words.js`); read it via `getWords()`/`lookupWord`, and call `useWordsReady()` in anything that renders from it. The open word card lives in router history state (`location.state.word`), so Back closes it.
+- Search query/filter (`?q=&f=`) and the category tag filter (`?tag=`) live in the URL, not component state.
 - `settings.showVulgar` (default off) hides vulgar entries in search, categories, favorites, Home counts, and word-card links.
 - Favorites, recents and settings are localStorage only (keys `srbify-library`, `srbify-settings`).
 - `public/sw.js` cache name is stamped at build time by `vite.config.js`; don't rename `srbify-v<number>` there.

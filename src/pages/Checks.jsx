@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom'
 import { allEntries } from '../lib/search.js'
 import { useSettings } from '../lib/settings.jsx'
+import { isVisible } from '../lib/visibility.js'
 import { ConfidenceMark } from '../components/Badges.jsx'
 import CopyButton from '../components/CopyButton.jsx'
 import Icon from '../components/Icons.jsx'
@@ -8,7 +9,7 @@ import Icon from '../components/Icons.jsx'
 // Everything Claude flagged as "not sure", with what to check. Resolved items leave this list when a native speaker confirms them.
 export default function Checks() {
   const { settings } = useSettings()
-  const open = allEntries.filter((e) => e.confidence === 'unsure' && !e.verified && (settings.showVulgar || e.register !== 'vulgar'))
+  const open = allEntries.filter((e) => e.confidence === 'unsure' && !e.verified && isVisible(e, settings))
   const text = open.map((e) => `${e.serbian} (${e.english}) [${e.id}]: ${e.reviewNote}`).join('\n')
   const sure = allEntries.length - allEntries.filter((e) => e.confidence === 'unsure' && !e.verified).length
   return (

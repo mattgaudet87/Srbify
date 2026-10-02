@@ -26,6 +26,13 @@ export function LibraryProvider({ children }) {
     }
   }, [lib])
 
+  // Another tab or the installed app changed favorites: pick up their version instead of overwriting it later.
+  useEffect(() => {
+    const onStorage = (ev) => { if (ev.key === KEY) setLib(load()) }
+    window.addEventListener('storage', onStorage)
+    return () => window.removeEventListener('storage', onStorage)
+  }, [])
+
   const toggleFavorite = useCallback((id) => {
     setLib((l) => ({ ...l, favorites: l.favorites.includes(id) ? l.favorites.filter((f) => f !== id) : [id, ...l.favorites] }))
   }, [])

@@ -1,5 +1,24 @@
-import words from '../data/words.json'
+import { useSyncExternalStore } from 'react'
 import entries from '../data/entries.json'
+
+// The word glossary is a separate chunk: the app renders first, then every Serbian line becomes tappable once it arrives.
+let words = {}
+let version = 0
+let loading
+const listeners = new Set()
+export function loadWords() {
+  loading ||= import('../data/words.json').then((m) => {
+    words = m.default
+    index = undefined
+    version++
+    listeners.forEach((f) => f())
+  })
+  return loading
+}
+export const getWords = () => words
+export const wordsVersion = () => version
+// Re-render when the glossary arrives (returns a number that changes on load).
+export const useWordsReady = () => useSyncExternalStore((f) => { listeners.add(f); return () => listeners.delete(f) }, () => version)
 
 // Split a Serbian line into plain text and tappable words. Multi-word chunks ("laku noć", "majke mi") win over
 // single words; anything in (parentheses) is an English note and stays plain.
@@ -8,7 +27,6 @@ const CHUNK_MAX = 3
 
 export const wordKey = (s) => s.toLowerCase().replace(/’/g, "'").trim()
 export const lookupWord = (key) => words[wordKey(key)]
-export const wordCount = Object.keys(words).length
 
 export function tokenize(text = '') {
   const out = []

@@ -46,5 +46,17 @@ export function audience(e) {
   return 'Anyone'
 }
 
+// Order of the tag filter chips on a category page.
+export const TAG_ORDER = ['casual', 'neutral', 'formal', 'flirty', 'slang', 'vulgar', 'texting', 'past', 'present', 'future', 'mf-speaker', 'mf-about', 'noun-gender', 'plural', 'never']
+
+// Word-card tags (from words.json) and the colour group each belongs to.
+export const WORD_TAG_LABELS = {
+  noun: 'Noun', verb: 'Verb', adj: 'Adjective', adv: 'Adverb', pron: 'Pronoun', prep: 'Preposition', conj: 'Connector', particle: 'Little word', interj: 'Phrase / reaction', num: 'Number', name: 'Name',
+  casual: 'Casual', formal: 'Formal / polite', flirty: 'Flirty', slang: 'Slang', vulgar: 'Vulgar', culture: 'Culture',
+  past: 'Past', present: 'Present', future: 'Future', command: 'Command',
+  masc: 'Masculine', fem: 'Feminine', neut: 'Neuter', plural: 'Plural',
+}
+export const wordTagKind = (t) => (['casual', 'formal', 'flirty', 'slang', 'vulgar'].includes(t) ? 'tone' : ['past', 'present', 'future', 'command'].includes(t) ? 'tense' : ['masc', 'fem', 'neut', 'plural'].includes(t) ? 'gender' : 'pos')
+
 export const tagFilterLabel = { formal: 'Formal', flirty: 'Flirty', casual: 'Casual', neutral: 'Neutral', slang: 'Slang', vulgar: 'Vulgar', texting: 'Texting',
   past: 'Past', present: 'Present', future: 'Future', 'mf-speaker': 'M/F: you', 'mf-about': 'M/F: them', 'noun-gender': 'Noun gender', plural: 'Plural', never: 'Never changes' }

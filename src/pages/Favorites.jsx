@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import { useLibrary } from '../lib/library.jsx'
 import { useSettings } from '../lib/settings.jsx'
 import { entryById } from '../lib/search.js'
+import { isVisible } from '../lib/visibility.js'
 import EntryRow from '../components/EntryRow.jsx'
 import CopyButton from '../components/CopyButton.jsx'
 
@@ -12,7 +13,7 @@ export default function Favorites() {
   const [sort, setSort] = useState('recent')
   const [code, setCode] = useState('')
   const [msg, setMsg] = useState('')
-  const all = favorites.map((id) => entryById[id]).filter((e) => e && (settings.showVulgar || e.register !== 'vulgar'))
+  const all = favorites.map((id) => entryById[id]).filter((e) => e && isVisible(e, settings))
   const entries = sort === 'az' ? [...all].sort((a, b) => a.english.localeCompare(b.english)) : all
   const backup = JSON.stringify(favorites)
 
@@ -21,15 +22,16 @@ export default function Favorites() {
       const ids = JSON.parse(code)
       if (!Array.isArray(ids)) throw new Error('not a list')
       const valid = ids.filter((id) => typeof id === 'string' && entryById[id])
+      const fresh = valid.filter((id) => !favorites.includes(id))
       setFavorites([...new Set([...valid, ...favorites])])
-      setMsg(`Added ${valid.length} favorites.`)
+      setMsg(fresh.length ? `Added ${fresh.length} ${fresh.length === 1 ? 'favorite' : 'favorites'}.` : 'Those are all in your favorites already.')
       setCode('')
     } catch {
       setMsg('That code doesn’t look right. Paste the whole thing you copied.')
     }
   }
   function clearAll() {
-    if (window.confirm(`Remove all ${favorites.length} favorites?`)) setFavorites([])
+    if (window.confirm(`Remove all ${all.length} favorites?`)) setFavorites(favorites.filter((id) => !all.some((e) => e.id === id)))
   }
 
   return (

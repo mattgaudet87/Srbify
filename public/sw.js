@@ -4,8 +4,18 @@
 const CACHE = 'srbify-v3'
 const SHELL = ['/', '/index.html', '/manifest.webmanifest', '/favicon.png', '/logo-192.png', '/logo-512.png', '/apple-touch-icon.png', '/wordmark.png']
 
+// Category and header photos, so every screen looks right offline. Cached best-effort: one miss never blocks install.
+const PHOTOS = [
+  'header-belgrade-river', 'cafe-street-sunset', 'friends-picnic-sunset', 'couple-sunset', 'backpack-map-bridge', 'sign-putovanja-map',
+  'train-platform-backpack', 'camera-map-fortress', 'victor-monument-sunset', 'cevapi-table',
+].map((n) => `/images/${n}.jpg`)
+
 self.addEventListener('install', (event) => {
-  event.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()))
+  event.waitUntil(
+    caches.open(CACHE)
+      .then((c) => c.addAll(SHELL).then(() => Promise.allSettled(PHOTOS.map((u) => c.add(u)))))
+      .then(() => self.skipWaiting())
+  )
 })
 
 self.addEventListener('activate', (event) => {

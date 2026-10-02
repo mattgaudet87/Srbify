@@ -21,6 +21,9 @@ for e in E:
         if 'example' not in f: err(i, 'form without example:', f['serbian'])
     for p in e['placements']:
         if p['subcategory'] not in cats: err(i, 'unknown subcategory', p['subcategory'])
+    for what, seen in (('example', [x['serbian'] for x in e['examples']]), ('alternative', [a['serbian'] for a in e.get('alternatives', [])]), ('form row', [f['serbian'] + '|' + f.get('useWhen', '') for f in e.get('forms', [])])):
+        for d, c in collections.Counter(seen).items():
+            if c > 1: err(i, 'duplicate', what + ':', d)
     if not e['pronunciation'].strip(): err(i, 'empty pronunciation')
     if re.search(r'tch|TCH|chh', e['pronunciation']): err(i, 'odd pronunciation spelling:', e['pronunciation'])
     fs = e.get('forms', [])

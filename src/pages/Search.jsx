@@ -1,10 +1,12 @@
 import { useMemo, useState } from 'react'
+import { useSearchParams } from 'react-router-dom'
 import { search, searchWords } from '../lib/search.js'
 import { useSettings } from '../lib/settings.jsx'
 import EntryRow from '../components/EntryRow.jsx'
 import FilterChips from '../components/FilterChips.jsx'
 import Icon from '../components/Icons.jsx'
 import { useWordCard } from '../components/WordCard.jsx'
+import { useWordsReady } from '../lib/words.js'
 
 const isWord = (e) => !/\s/.test(e.serbian.trim())
 const isSlang = (e) => e.register === 'slang' || e.register === 'vulgar'
@@ -16,11 +18,19 @@ const FILTERS = {
 }
 
 export default function Search() {
-  const [query, setQuery] = useState('')
-  const [filter, setFilter] = useState('all')
+  // Query and filter live in the URL, so coming back from an entry restores the same results.
+  const [params, setParams] = useSearchParams()
+  const query = params.get('q') || ''
+  const filter = FILTERS[params.get('f')] ? params.get('f') : 'all'
+  const setParam = (key, value, keep) => setParams((p) => { const n = new URLSearchParams(p); value && value !== keep ? n.set(key, value) : n.delete(key); return n }, { replace: true })
+  const setQuery = (v) => setParam('q', v)
+  const setFilter = (v) => setParam('f', v, 'all')
+  // Only pop the keyboard on a fresh search, not when returning to one.
+  const [autoFocus] = useState(() => !query)
   const { settings } = useSettings()
   const { results, suggestions } = useMemo(() => search(query, { showVulgar: settings.showVulgar, limit: 60 }), [query, settings.showVulgar])
-  const wordHits = useMemo(() => searchWords(query, { showVulgar: settings.showVulgar }), [query, settings.showVulgar])
+  const wordsReady = useWordsReady()
+  const wordHits = useMemo(() => searchWords(query, { showVulgar: settings.showVulgar }), [query, settings.showVulgar, wordsReady])
   const { open: openWord } = useWordCard()
   const open = query.trim().length > 0
   const count = (k) => results.filter((r) => FILTERS[k](r.entry)).length
@@ -37,7 +47,7 @@ export default function Search() {
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Search English or Serbian…"
           aria-label="Search"
-          autoFocus
+          autoFocus={autoFocus}
           autoComplete="off"
           autoCapitalize="off"
           spellCheck="false"
@@ -49,7 +59,7 @@ export default function Search() {
         <FilterChips
           value={filter}
           onChange={setFilter}
-          options={[['all', `All (${count('all')})`], ['phrases', `Phrases (${count('phrases')})`], ['words', `Words (${count('words')})`], ['slang', `Slang (${count('slang')})`]]}
+          options={[['all', `All (${count('all')})`], ['phrases', `Phrases (${count('phrases')})`], ['words', `Single words (${count('words')})`], ['slang', `Slang (${count('slang')})`]]}
         />
       )}
 
@@ -70,7 +80,7 @@ export default function Search() {
       )}
       {open && wordHits.length > 0 && (
         <>
-          <h2 className="section-label">Words</h2>
+          <h2 className="section-label">Word cards</h2>
           <div className="card-list">
             {wordHits.map(({ key, w }) => (
               <div key={key} className="row-wrap">

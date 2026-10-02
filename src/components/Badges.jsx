@@ -1,28 +1,6 @@
 import Icon from './Icons.jsx'
 import { entryTags } from '../lib/tags.js'
 
-const CHANGE_LABELS = {
-  speaker: 'Changes if you’re M / F',
-  describes: 'Changes by who it describes',
-  'noun gender': 'Matches the noun',
-  plural: 'Changes for groups',
-  formal: 'Casual / polite form',
-  tense: 'Past tense changes',
-  addressing: 'Form when calling her this',
-  region: 'Regional spelling',
-}
-
-export function RegisterBadge({ register }) {
-  return <span className={`badge reg-${register}`}>{register[0].toUpperCase() + register.slice(1)}</span>
-}
-
-export function ChangeBadges({ entry, max = 3 }) {
-  if (!entry.changesBy.length) return <span className="badge never">Never changes</span>
-  return entry.changesBy.slice(0, max).map((c) => (
-    <span key={c} className="badge changes">{CHANGE_LABELS[c] || c}</span>
-  ))
-}
-
 // Blue = a native speaker verified it, or Claude is confident. Gray = needs checking (the reason is in reviewNote).
 export const confidenceOf = (e) => (e.verified ? 'verified' : e.confidence === 'unsure' ? 'unsure' : 'sure')
 const CONFIDENCE = {

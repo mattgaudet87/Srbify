@@ -4,6 +4,7 @@ import { CATEGORIES } from '../lib/categories.js'
 import { allEntries, entryById } from '../lib/search.js'
 import { useLibrary } from '../lib/library.jsx'
 import { useSettings } from '../lib/settings.jsx'
+import { isVisible } from '../lib/visibility.js'
 import Icon from '../components/Icons.jsx'
 
 // The grammar tip shows for the first 3 visits (one visit = one browser session) unless closed sooner.
@@ -39,11 +40,11 @@ function phraseOfTheDay(pool) {
 export default function Home() {
   const [showTip, closeTip] = useGrammarTip()
   const { settings } = useSettings()
-  const visible = allEntries.filter((e) => settings.showVulgar || e.register !== 'vulgar')
+  const visible = allEntries.filter((e) => isVisible(e, settings))
   const hidden = allEntries.length - visible.length
   const { recent } = useLibrary()
   const today = phraseOfTheDay(visible.filter((e) => e.register === 'neutral' || e.register === 'casual').filter((e) => !['Basics', 'Verbs and actions'].includes(e.category)))
-  const recents = recent.map((id) => entryById[id]).filter((e) => e && (settings.showVulgar || e.register !== 'vulgar')).slice(0, 6)
+  const recents = recent.map((id) => entryById[id]).filter((e) => e && isVisible(e, settings)).slice(0, 6)
 
   return (
     <>

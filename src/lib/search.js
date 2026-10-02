@@ -1,7 +1,8 @@
 import Fuse from 'fuse.js'
 import entries from '../data/entries.json'
 import { byName, placementsOf } from './categories'
-import words from '../data/words.json'
+import { getWords, wordsVersion } from './words.js'
+import { isVisible } from './visibility.js'
 
 // Same normalization for the typed text and for the data:
 // lowercase, strip accents (š→s, č/ć→c, ž→z), đ→dj, trim extra spaces.
@@ -78,7 +79,7 @@ export function search(rawQuery, { limit = 20, showVulgar = false } = {}) {
   const matches = q.length < 2 ? (d) => d.text.split(' ').some((w) => w.startsWith(q)) : (d) => d.text.includes(q)
   const substring = docs.filter(matches).map((item) => ({ item, score: 0 }))
   const fuzzy = q.length >= 3 ? fuse.search(q) : []
-  const visible = (list) => list.filter((r) => showVulgar || r.entry.register !== 'vulgar')
+  const visible = (list) => list.filter((r) => isVisible(r.entry, { showVulgar }))
   const results = visible(collapse([...substring, ...fuzzy], q)).slice(0, limit)
   if (results.length) return { results, suggestions: [] }
   const suggestions = q.length >= 2 ? visible(collapse(looseFuse.search(q), q)).slice(0, 4) : []
@@ -88,11 +89,12 @@ export function search(rawQuery, { limit = 20, showVulgar = false } = {}) {
 export const categoryOf = (entry) => byName(entry.category)
 
 // Dictionary search over the word cards (every single word the app knows, in any form).
-let wordDocs
+let wordDocs, wordDocsVersion = -1
 export function searchWords(rawQuery, { limit = 8, showVulgar = false } = {}) {
   const q = normalize(rawQuery)
   if (q.length < 2) return []
-  wordDocs ||= Object.entries(words).map(([key, w]) => ({ key, w, nk: normalize(key), ne: normalize(w.en) }))
+  if (wordDocsVersion !== wordsVersion()) { wordDocsVersion = wordsVersion(); wordDocs = undefined }
+  wordDocs ||= Object.entries(getWords()).map(([key, w]) => ({ key, w, nk: normalize(key), ne: normalize(w.en) }))
   const out = []
   for (const d of wordDocs) {
     if (!showVulgar && d.w.tags.includes('vulgar')) continue
