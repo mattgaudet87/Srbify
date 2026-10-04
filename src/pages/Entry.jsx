@@ -3,6 +3,7 @@ import { Link, useLocation, useNavigate, useParams } from 'react-router-dom'
 import { useLibrary } from '../lib/library.jsx'
 import { audience } from '../lib/tags.js'
 import CopyButton from '../components/CopyButton.jsx'
+import SpeakButton from '../components/SpeakButton.jsx'
 import FormsSection from '../components/entry/FormsSection.jsx'
 import AlternativesSection from '../components/entry/AlternativesSection.jsx'
 import ExamplesSection from '../components/entry/ExamplesSection.jsx'
@@ -48,6 +49,7 @@ export default function Entry() {
       <h1 className="sr-big"><Sentence text={e.serbian} /></h1>
       <p className="pron">{e.pronunciation}</p>
       <div className="actions">
+        <SpeakButton text={e.serbian} />
         <CopyButton text={e.serbian} />
         <CopyButton text={e.serbian} plain />
       </div>

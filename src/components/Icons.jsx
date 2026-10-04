@@ -27,6 +27,8 @@ const P = {
   moon: <path d="M20 14.5A8 8 0 0 1 9.5 4 8 8 0 1 0 20 14.5z" />,
   monitor: <><rect x="3" y="4" width="18" height="12" rx="2" /><path d="M8 20h8M12 16v4" /></>,
   shield: <><path d="M12 3 5 6v5c0 4.5 3 8 7 10 4-2 7-5.5 7-10V6z" /></>,
+  play: <path d="M7 4.5v15l12-7.5z" />,
+  stop: <rect x="6" y="6" width="12" height="12" rx="2" />,
   check: <path d="m5 12.5 4.5 4.5L19 7.5" />,
 }
 

@@ -335,3 +335,5 @@ tr.yours td:first-child { color: var(--accent); }
 .num-table td.num { font-weight: 700; width: 28%; font-variant-numeric: tabular-nums; }
 .num-table .pron-sm { display: block; margin: 0; }
 .num-table tr.num-big td { background: var(--soft); }
+.actions .speak { grid-column: 1 / -1; background: var(--card); color: var(--navy); border-color: var(--navy); }
+.copy.speak.small { background: var(--card); color: var(--navy); border-color: var(--line); gap: 5px; }

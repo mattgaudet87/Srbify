@@ -7,6 +7,7 @@ import { useSettings } from '../lib/settings.jsx'
 import Sentence from './Sentence.jsx'
 import { entryById } from '../lib/search.js'
 import CopyButton from './CopyButton.jsx'
+import SpeakButton from './SpeakButton.jsx'
 import Icon from './Icons.jsx'
 
 const WordContext = createContext({ open: () => {} })
@@ -110,6 +111,7 @@ function WordSheet({ wordKey, onClose, onOpen }) {
         )}
 
         <div className="word-actions">
+          <SpeakButton text={wordKey} small />
           <CopyButton text={wordKey} small label="Copy" />
           {entryShown && <Link to={`/entry/${entry.id}`} className="word-entry" replace>Open full entry: {entry.english}<Icon name="chevronR" size={16} /></Link>}
         </div>

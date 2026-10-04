@@ -1,5 +1,6 @@
 import Icon from '../Icons.jsx'
 import CopyButton from '../CopyButton.jsx'
+import SpeakButton from '../SpeakButton.jsx'
 import Sentence from '../Sentence.jsx'
 import { useSettings, isYourForm } from '../../lib/settings.jsx'
 
@@ -25,7 +26,7 @@ export default function FormsSection({ e }) {
           {yours.map((f, i) => (
             <div key={`${i}-${f.serbian}`} className="yours-line"><strong><Sentence text={f.serbian} /></strong> <span className="pron-sm inline">{f.pronunciation}</span><span className="muted"> · {f.useWhen}</span>
               {f.example && <div className="form-ex"><strong><Sentence text={f.example.serbian} /></strong> <span className="pron-sm inline">{f.example.pronunciation}</span><div className="muted">{f.example.english}</div></div>}
-              <span className="yours-copy"><CopyButton text={f.serbian} small /><CopyButton text={f.serbian} plain small label="No accents" /></span></div>
+              <span className="yours-copy"><SpeakButton text={f.serbian} small /><CopyButton text={f.serbian} small /><CopyButton text={f.serbian} plain small label="No accents" /></span></div>
           ))}
         </div>
       )}
