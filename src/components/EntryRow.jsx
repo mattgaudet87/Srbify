@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import Icon from './Icons.jsx'
+import SpeakButton from './SpeakButton.jsx'
 import StarButton from './StarButton.jsx'
 import { TagPills, ConfidenceMark } from './Badges.jsx'
 
@@ -16,6 +17,7 @@ export default function EntryRow({ entry, note, star = false }) {
         <ConfidenceMark entry={entry} />
         {!star && <Icon name="chevronR" size={20} className="row-chev" />}
       </Link>
+      <span className={`row-speak ${star ? 'with-star' : ''}`}><SpeakButton text={entry.serbian} iconOnly /></span>
       {star && <StarButton id={entry.id} className="row-star" />}
     </div>
   )

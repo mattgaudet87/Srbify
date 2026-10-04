@@ -1,3 +1,4 @@
+import SpeakButton from '../components/SpeakButton.jsx'
 import { useMemo, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { search, searchWords } from '../lib/search.js'
@@ -89,6 +90,7 @@ export default function Search() {
                   <span className="row-sr">{key}</span>
                   <span className="row-pr">{w.pron}</span>
                 </button>
+                <span className="row-speak"><SpeakButton text={key} iconOnly /></span>
               </div>
             ))}
           </div>

@@ -337,3 +337,7 @@ tr.yours td:first-child { color: var(--accent); }
 .num-table tr.num-big td { background: var(--soft); }
 .actions .speak { grid-column: 1 / -1; background: var(--card); color: var(--navy); border-color: var(--navy); }
 .copy.speak.small { background: var(--card); color: var(--navy); border-color: var(--line); gap: 5px; }
+.row-speak { display: flex; flex: none; margin-right: 12px; }
+.row-speak.with-star { margin-right: 44px; }
+.speak-icon { width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--line); background: var(--card); color: var(--ink); display: flex; align-items: center; justify-content: center; }
+.speak-icon.on { background: var(--navy); color: #fff; border-color: var(--navy); }

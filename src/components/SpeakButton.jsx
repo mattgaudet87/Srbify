@@ -13,7 +13,7 @@ function pickVoice() {
   return null
 }
 
-export default function SpeakButton({ text, small = false }) {
+export default function SpeakButton({ text, small = false, iconOnly = false }) {
   const [playing, setPlaying] = useState(false)
 
   // Some browsers load their voice list late.
@@ -36,6 +36,14 @@ export default function SpeakButton({ text, small = false }) {
     u.onend = u.onerror = () => setPlaying(false)
     setPlaying(true)
     synth.speak(u)
+  }
+
+  if (iconOnly) {
+    return (
+      <button type="button" className={`speak-icon ${playing ? 'on' : ''}`} onClick={onClick} aria-label={playing ? 'Stop' : 'Play pronunciation'}>
+        <Icon name={playing ? 'stop' : 'play'} size={16} fill="currentColor" />
+      </button>
+    )
   }
 
   return (
